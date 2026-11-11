@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T22:11:08.504223Z",
+  "ts": "2026-11-11T22:12:16.406311Z",
   "mint": "632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG",
   "name": "Teenydroid",
   "symbol": "Teeny",
@@ -11,8 +11,8 @@
   "creator": "CmgPPkmftRfteWeH3RXaZhxcUEByfnm4kA17atWwg1XZ",
   "holders": null,
   "link": "https://fomo.family/coin?address=632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.249e-06,
-  "priceTs": "2026-11-11T22:11:08.344048Z",
+  "price": 3.247e-06,
+  "priceTs": "2026-11-11T22:12:16.223964Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -128,12 +128,20 @@
       "l": 3.249e-06,
       "c": 3.249e-06,
       "v": 84.4
+    },
+    {
+      "t": 1794435120,
+      "o": 3.247e-06,
+      "h": 3.247e-06,
+      "l": 3.247e-06,
+      "c": 3.247e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 3055.0,
-    "liquidity": 2924.07,
-    "volume24h": 134441.93,
+    "marketCap": 3052.0,
+    "liquidity": 2923.07,
+    "volume24h": 134442.21,
     "holders": null
   },
   "position": null,
