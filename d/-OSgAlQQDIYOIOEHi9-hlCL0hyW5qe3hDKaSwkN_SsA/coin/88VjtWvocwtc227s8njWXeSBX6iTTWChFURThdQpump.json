@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-11T23:22:32.846290Z",
+  "ts": "2026-11-11T23:29:07.581297Z",
   "mint": "88VjtWvocwtc227s8njWXeSBX6iTTWChFURThdQpump",
   "name": "DeepSeek",
   "symbol": "DeepSeek",
   "label": "DeepSeek",
   "chain": "Solana",
-  "age": "10m old",
+  "age": "17m old",
   "migratedAt": "2026-11-11T23:11:52.902128Z",
   "pool": "F6yNRoLb3JWHcN6sR9YWEACs9dQD3WgNKWRukvncjrYu",
   "creator": "FAnkQEUWmUKtpAhdshYq1uKc1Z4ynZ822CyVukrRpnM6",
   "holders": null,
   "link": "https://fomo.family/coin?address=88VjtWvocwtc227s8njWXeSBX6iTTWChFURThdQpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.947e-05,
-  "priceTs": "2026-11-11T23:22:32.451169Z",
+  "price": 0.0001481,
+  "priceTs": "2026-11-11T23:29:07.182948Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -64,12 +64,20 @@
       "l": 8.947e-05,
       "c": 8.947e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794439740,
+      "o": 0.0001481,
+      "h": 0.0001481,
+      "l": 0.0001481,
+      "c": 0.0001481,
+      "v": 2638.13
     }
   ],
   "stats": {
-    "marketCap": 89437.0,
-    "liquidity": 21393.46,
-    "volume24h": 11423.75,
+    "marketCap": 148075.0,
+    "liquidity": 27944.96,
+    "volume24h": 16677.18,
     "holders": null
   },
   "position": null,
