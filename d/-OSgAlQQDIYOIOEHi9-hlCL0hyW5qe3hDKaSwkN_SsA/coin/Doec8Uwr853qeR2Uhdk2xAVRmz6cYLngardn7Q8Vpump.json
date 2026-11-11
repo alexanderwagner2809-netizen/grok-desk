@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-11T22:12:16.418984Z",
+  "ts": "2026-11-11T22:13:24.069286Z",
   "mint": "Doec8Uwr853qeR2Uhdk2xAVRmz6cYLngardn7Q8Vpump",
-  "name": null,
-  "symbol": null,
-  "label": "Doec8Uwr",
+  "name": "BRING IT ON",
+  "symbol": "BRINGITON",
+  "label": "BRING IT ON",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-11T22:11:53.636370Z",
-  "pool": null,
+  "pool": "E68bPczFzjraxEmGAVmNG4qwKCmNFR2eq8yQd2o1cyoG",
   "creator": null,
   "holders": null,
   "link": "https://fomo.family/coin?address=Doec8Uwr853qeR2Uhdk2xAVRmz6cYLngardn7Q8Vpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 4.254e-05,
+  "priceTs": "2026-11-11T22:13:23.956158Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794435180,
+      "o": 4.254e-05,
+      "h": 4.254e-05,
+      "l": 4.254e-05,
+      "c": 4.254e-05,
+      "v": 0.0
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 42476.0,
+    "liquidity": 14451.34,
+    "volume24h": 10101.89,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-11T22:13:02.762418Z",
+      "liquidity_usd": 14451.34,
+      "top10_pct": null,
+      "h1_change_pct": 21.14,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $14.5K"
+    }
+  ]
 }

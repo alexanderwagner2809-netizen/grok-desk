@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T22:12:16.379363Z",
+  "ts": "2026-11-11T22:13:24.062827Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-11T22:12:02.378762Z",
+      "heartbeat": "2026-11-11T22:13:21.791333Z",
       "paused": false,
       "status": "running",
-      "card": "27 pools",
-      "count": 27,
+      "card": "29 pools",
+      "count": 29,
       "passed": 0,
       "feed": [
+        {
+          "mint": "Doec8Uwr853qeR2Uhdk2xAVRmz6cYLngardn7Q8Vpump",
+          "label": "BRING IT ON",
+          "verdict": "kill",
+          "reason": "liq $14.5K",
+          "subtitle": "liq $14.5K",
+          "link": "https://fomo.family/coin?address=Doec8Uwr853qeR2Uhdk2xAVRmz6cYLngardn7Q8Vpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "4vnYRTnU8qtAAxgR3jFRCRQYa8t6CqwfjoJFyg2xpump",
+          "label": "BRING IT ON",
+          "verdict": "kill",
+          "reason": "liq $4.2K",
+          "subtitle": "liq $4.2K",
+          "link": "https://fomo.family/coin?address=4vnYRTnU8qtAAxgR3jFRCRQYa8t6CqwfjoJFyg2xpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "9RyENt3gJ1MEsFPiJAMyNerYYngLDuyZfVP4GBqepump",
           "label": "TILLY",
@@ -66,22 +82,6 @@
           "reason": "liq $12.3K",
           "subtitle": "liq $12.3K",
           "link": "https://fomo.family/coin?address=9Bc6kg4sUDxJ3CVoiosoD65f8TN2KXggM7EUn5adpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "5AvSyj4jA2svj1yzFKZGCyYvyryyWNo3EtLUmUMCpump",
-          "label": "chair",
-          "verdict": "kill",
-          "reason": "liq $8",
-          "subtitle": "liq $8",
-          "link": "https://fomo.family/coin?address=5AvSyj4jA2svj1yzFKZGCyYvyryyWNo3EtLUmUMCpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "HEDVXvZu8BofRZK97G89KcgYGXhqr2KwL8yg9ffApump",
-          "label": "Saxon James Musk Coin",
-          "verdict": "kill",
-          "reason": "liq $18.6K",
-          "subtitle": "liq $18.6K",
-          "link": "https://fomo.family/coin?address=HEDVXvZu8BofRZK97G89KcgYGXhqr2KwL8yg9ffApump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-11T22:12:15.891993Z",
+      "heartbeat": "2026-11-11T22:13:24.006526Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-11T22:12:15.893110Z",
+      "heartbeat": "2026-11-11T22:13:24.007148Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-11T22:12:15.893317Z",
+      "heartbeat": "2026-11-11T22:13:24.007290Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-11T22:12:01.787990Z",
+      "heartbeat": "2026-11-11T22:13:21.791333Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
