@@ -1,11 +1,11 @@
 {
-  "ts": "2026-11-11T23:12:29.788451Z",
+  "ts": "2026-11-11T23:13:37.235780Z",
   "mint": "9k9RJLBTvHGfooTbgdvbEQ39XHa4AHe74EfV36xppump",
   "name": null,
   "symbol": null,
   "label": "9k9RJLBT",
   "chain": "Solana",
-  "age": "59m old",
+  "age": "1h old",
   "migratedAt": "2026-11-11T22:12:56.423851Z",
   "pool": null,
   "creator": null,
@@ -25,5 +25,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-11T23:13:12.118547Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 60,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }
