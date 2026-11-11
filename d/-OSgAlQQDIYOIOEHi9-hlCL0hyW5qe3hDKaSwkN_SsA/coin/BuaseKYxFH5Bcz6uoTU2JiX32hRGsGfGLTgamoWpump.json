@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-11T22:21:15.657159Z",
+  "ts": "2026-11-11T22:22:23.445558Z",
   "mint": "BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump",
   "name": "Google",
   "symbol": "Google",
   "label": "Google",
   "chain": "Solana",
-  "age": "1h old",
+  "age": "2h old",
   "migratedAt": "2026-11-11T20:21:35.898778Z",
   "pool": "7gd9jxqLMtN7hLm1uthhwM7ncnRJFGCN68XFExkAH1d6",
   "creator": "3oUu2UXZ6HDxuxVaUQiHX85rUGd9jKyLYWMLZ5cLnFf5",
   "holders": null,
   "link": "https://fomo.family/coin?address=BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0004032,
-  "priceTs": "2026-11-11T22:21:15.364041Z",
+  "price": 0.0004145,
+  "priceTs": "2026-11-11T22:22:23.183682Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -192,12 +192,20 @@
       "l": 0.0004032,
       "c": 0.0004032,
       "v": 0.0
+    },
+    {
+      "t": 1794435720,
+      "o": 0.0004145,
+      "h": 0.0004145,
+      "l": 0.0004145,
+      "c": 0.0004145,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 397939.0,
-    "liquidity": 47725.86,
-    "volume24h": 53460.99,
+    "marketCap": 409107.0,
+    "liquidity": 48411.46,
+    "volume24h": 53657.78,
     "holders": null
   },
   "position": null,
