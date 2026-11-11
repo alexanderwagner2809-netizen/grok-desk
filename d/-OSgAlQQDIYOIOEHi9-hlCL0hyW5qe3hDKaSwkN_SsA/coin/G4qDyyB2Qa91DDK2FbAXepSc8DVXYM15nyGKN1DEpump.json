@@ -1,11 +1,11 @@
 {
-  "ts": "2026-11-11T23:32:00.685966Z",
+  "ts": "2026-11-11T23:54:27.145206Z",
   "mint": "G4qDyyB2Qa91DDK2FbAXepSc8DVXYM15nyGKN1DEpump",
   "name": null,
   "symbol": null,
   "label": "G4qDyyB2",
   "chain": "Solana",
-  "age": "52m old",
+  "age": "1h old",
   "migratedAt": "2026-11-11T22:39:21.828004Z",
   "pool": null,
   "creator": "FkatEH7YmMyRFF45p4NhZq2uGjTgmkrbgmZEpQajWud7",
@@ -25,5 +25,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-11T23:42:25.967951Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 63,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }

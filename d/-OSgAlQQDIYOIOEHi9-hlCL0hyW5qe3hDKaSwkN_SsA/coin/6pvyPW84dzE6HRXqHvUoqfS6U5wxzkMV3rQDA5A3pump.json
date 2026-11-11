@@ -1,11 +1,11 @@
 {
-  "ts": "2026-11-11T23:32:00.682439Z",
+  "ts": "2026-11-11T23:54:27.145943Z",
   "mint": "6pvyPW84dzE6HRXqHvUoqfS6U5wxzkMV3rQDA5A3pump",
   "name": null,
   "symbol": null,
   "label": "6pvyPW84",
   "chain": "Solana",
-  "age": "56m old",
+  "age": "1h old",
   "migratedAt": "2026-11-11T22:35:47.187890Z",
   "pool": null,
   "creator": "FkatEH7YmMyRFF45p4NhZq2uGjTgmkrbgmZEpQajWud7",
@@ -25,5 +25,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-11T23:42:25.966202Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 66,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }

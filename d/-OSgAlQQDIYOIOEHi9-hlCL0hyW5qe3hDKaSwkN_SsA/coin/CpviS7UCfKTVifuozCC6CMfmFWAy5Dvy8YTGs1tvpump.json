@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T23:32:00.645945Z",
+  "ts": "2026-11-11T23:54:27.169380Z",
   "mint": "CpviS7UCfKTVifuozCC6CMfmFWAy5Dvy8YTGs1tvpump",
   "name": "Soljack",
   "symbol": "$SLJK",
@@ -11,8 +11,8 @@
   "creator": "HuezcWU9Gt2x7ZqcRbvwi5tjYEY1pKLtr8Hrx4Na2iZ3",
   "holders": null,
   "link": "https://fomo.family/coin?address=CpviS7UCfKTVifuozCC6CMfmFWAy5Dvy8YTGs1tvpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.139e-08,
-  "priceTs": "2026-11-11T23:32:00.356168Z",
+  "price": 1.273e-08,
+  "priceTs": "2026-11-11T23:54:26.831843Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -144,12 +144,20 @@
       "l": 1.139e-08,
       "c": 1.139e-08,
       "v": 1.77
+    },
+    {
+      "t": 1794441240,
+      "o": 1.273e-08,
+      "h": 1.273e-08,
+      "l": 1.273e-08,
+      "c": 1.273e-08,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 23.0,
-    "liquidity": 15.69,
-    "volume24h": 264.22,
+    "marketCap": 25.0,
+    "liquidity": 16.62,
+    "volume24h": 265.05,
     "holders": null
   },
   "position": null,
