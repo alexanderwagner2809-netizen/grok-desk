@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T22:16:45.844676Z",
+  "ts": "2026-11-11T22:17:53.359356Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-11T22:16:41.818387Z",
+      "heartbeat": "2026-11-11T22:17:41.827960Z",
       "paused": false,
       "status": "running",
-      "card": "29 pools",
-      "count": 29,
+      "card": "31 pools",
+      "count": 31,
       "passed": 0,
       "feed": [
+        {
+          "mint": "BhfCQhDkJkYferk5mFpKwMVBYjf8mNb5yb1N4Fk9pump",
+          "label": "Auda city",
+          "verdict": "kill",
+          "reason": "liq $14",
+          "subtitle": "liq $14",
+          "link": "https://fomo.family/coin?address=BhfCQhDkJkYferk5mFpKwMVBYjf8mNb5yb1N4Fk9pump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "8hmyKkTAKj2y7UW2o8wqJRkwbycCwMBbNCez4WNqpump",
+          "label": "OK",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=8hmyKkTAKj2y7UW2o8wqJRkwbycCwMBbNCez4WNqpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "Doec8Uwr853qeR2Uhdk2xAVRmz6cYLngardn7Q8Vpump",
           "label": "BRING IT ON",
@@ -66,22 +82,6 @@
           "reason": "liq $0",
           "subtitle": "liq $0",
           "link": "https://fomo.family/coin?address=NVDAVuiB7hwd3m5Wa1JuHNovPaPG6BH1QNztbKFxNjv&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "Ftr9TSofw1fz8JwxjmGAwv6gawiESU6m6HJHan5cpump",
-          "label": "KIMBERLY POWELL",
-          "verdict": "kill",
-          "reason": "liq $0",
-          "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=Ftr9TSofw1fz8JwxjmGAwv6gawiESU6m6HJHan5cpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "9Bc6kg4sUDxJ3CVoiosoD65f8TN2KXggM7EUn5adpump",
-          "label": "xam ni hao",
-          "verdict": "kill",
-          "reason": "liq $12.3K",
-          "subtitle": "liq $12.3K",
-          "link": "https://fomo.family/coin?address=9Bc6kg4sUDxJ3CVoiosoD65f8TN2KXggM7EUn5adpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-11T22:16:44.341151Z",
+      "heartbeat": "2026-11-11T22:17:52.457628Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-11T22:16:44.342398Z",
+      "heartbeat": "2026-11-11T22:17:52.460053Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-11T22:16:44.342584Z",
+      "heartbeat": "2026-11-11T22:17:52.460658Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-11T22:16:41.818387Z",
+      "heartbeat": "2026-11-11T22:17:46.852503Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

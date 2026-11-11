@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-11T22:16:45.881665Z",
+  "ts": "2026-11-11T22:17:53.366371Z",
   "mint": "8hmyKkTAKj2y7UW2o8wqJRkwbycCwMBbNCez4WNqpump",
-  "name": null,
-  "symbol": null,
-  "label": "8hmyKkTA",
+  "name": "OK",
+  "symbol": "KOK",
+  "label": "OK",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-11T22:15:37.075570Z",
-  "pool": null,
+  "pool": "BLBBASaDNgRmSZ1WnREmPNVWBq8opoTgGSb3pKjaCoWe",
   "creator": "FkatEH7YmMyRFF45p4NhZq2uGjTgmkrbgmZEpQajWud7",
   "holders": null,
   "link": "https://fomo.family/coin?address=8hmyKkTAKj2y7UW2o8wqJRkwbycCwMBbNCez4WNqpump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-11T22:17:03.540052Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 0.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
