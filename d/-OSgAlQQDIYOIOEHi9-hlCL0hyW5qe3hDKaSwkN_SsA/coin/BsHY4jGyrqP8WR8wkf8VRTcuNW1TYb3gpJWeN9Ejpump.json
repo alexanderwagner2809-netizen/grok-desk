@@ -1,11 +1,11 @@
 {
-  "ts": "2026-11-11T23:13:37.285478Z",
+  "ts": "2026-11-11T23:14:44.767265Z",
   "mint": "BsHY4jGyrqP8WR8wkf8VRTcuNW1TYb3gpJWeN9Ejpump",
   "name": null,
   "symbol": null,
   "label": "BsHY4jGy",
   "chain": "Solana",
-  "age": "59m old",
+  "age": "1h old",
   "migratedAt": "2026-11-11T22:14:03.821252Z",
   "pool": null,
   "creator": "6z8ruxQPJLu1kVbeQQ21FQaie1oGTWgkLuGYpoVkYGoS",
@@ -25,5 +25,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-11T23:14:12.320839Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 60,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }
