@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-11T22:22:23.422925Z",
+  "ts": "2026-11-11T22:35:09.391624Z",
   "mint": "BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump",
   "name": "explodecat",
   "symbol": "EXPLODECAT",
   "label": "explodecat",
   "chain": "Solana",
-  "age": "2m old",
+  "age": "15m old",
   "migratedAt": "2026-11-11T22:19:36.126227Z",
   "pool": "2jXi8GJiGBikPFJMXXmJZ95t6AmWY7nZWZxfziL46RZT",
   "creator": "BkYd5g1ryLWpMjXu9tS5LyJiGQywwgLpHB7qUqGLdN4U",
   "holders": null,
   "link": "https://fomo.family/coin?address=BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.178e-05,
-  "priceTs": "2026-11-11T22:22:23.183682Z",
+  "price": 0.0001129,
+  "priceTs": "2026-11-11T22:35:09.130190Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -40,12 +40,20 @@
       "l": 4.178e-05,
       "c": 4.178e-05,
       "v": 9493.59
+    },
+    {
+      "t": 1794436500,
+      "o": 0.0001129,
+      "h": 0.0001129,
+      "l": 0.0001129,
+      "c": 0.0001129,
+      "v": 31011.070000000003
     }
   ],
   "stats": {
-    "marketCap": 41739.0,
-    "liquidity": 14385.16,
-    "volume24h": 27781.59,
+    "marketCap": 112848.0,
+    "liquidity": 24892.76,
+    "volume24h": 177556.78,
     "holders": null
   },
   "position": null,

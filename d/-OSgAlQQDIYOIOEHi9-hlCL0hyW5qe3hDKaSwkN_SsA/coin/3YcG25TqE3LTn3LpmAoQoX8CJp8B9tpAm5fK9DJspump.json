@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T22:22:23.444114Z",
+  "ts": "2026-11-11T22:35:09.407470Z",
   "mint": "3YcG25TqE3LTn3LpmAoQoX8CJp8B9tpAm5fK9DJspump",
   "name": "Baby Ni Hao Cat",
   "symbol": "BABYMIHAO",
@@ -11,8 +11,8 @@
   "creator": "28MJrJr2Pu2GPicLj8631nApwzXUAh9vkx2J6VgLPz3y",
   "holders": null,
   "link": "https://fomo.family/coin?address=3YcG25TqE3LTn3LpmAoQoX8CJp8B9tpAm5fK9DJspump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.755e-06,
-  "priceTs": "2026-11-11T22:22:23.183682Z",
+  "price": 2.521e-06,
+  "priceTs": "2026-11-11T22:35:09.257090Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -200,12 +200,20 @@
       "l": 2.755e-06,
       "c": 2.755e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794436500,
+      "o": 2.521e-06,
+      "h": 2.521e-06,
+      "l": 2.521e-06,
+      "c": 2.521e-06,
+      "v": 22.61
     }
   ],
   "stats": {
-    "marketCap": 2656.0,
-    "liquidity": 2592.41,
-    "volume24h": 116452.93,
+    "marketCap": 2430.0,
+    "liquidity": 2415.14,
+    "volume24h": 116552.35,
     "holders": null
   },
   "position": null,
