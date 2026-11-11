@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T22:15:38.552012Z",
+  "ts": "2026-11-11T22:16:45.866849Z",
   "mint": "BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump",
   "name": "Google",
   "symbol": "Google",
@@ -11,8 +11,8 @@
   "creator": "3oUu2UXZ6HDxuxVaUQiHX85rUGd9jKyLYWMLZ5cLnFf5",
   "holders": null,
   "link": "https://fomo.family/coin?address=BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0003501,
-  "priceTs": "2026-11-11T22:15:38.399614Z",
+  "price": 0.000367,
+  "priceTs": "2026-11-11T22:16:45.708276Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -152,12 +152,20 @@
       "l": 0.0003501,
       "c": 0.0003501,
       "v": 0.0
+    },
+    {
+      "t": 1794435360,
+      "o": 0.000367,
+      "h": 0.000367,
+      "l": 0.000367,
+      "c": 0.000367,
+      "v": 370.0999999999999
     }
   ],
   "stats": {
-    "marketCap": 345593.0,
-    "liquidity": 44326.16,
-    "volume24h": 51517.77,
+    "marketCap": 362246.0,
+    "liquidity": 45420.95,
+    "volume24h": 52115.28,
     "holders": null
   },
   "position": null,
