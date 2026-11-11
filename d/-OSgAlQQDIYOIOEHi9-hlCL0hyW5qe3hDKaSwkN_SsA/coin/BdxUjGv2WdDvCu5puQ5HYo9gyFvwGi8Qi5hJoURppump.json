@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-11T22:19:01.014448Z",
+  "ts": "2026-11-11T22:20:08.245296Z",
   "mint": "BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump",
-  "name": null,
-  "symbol": null,
-  "label": "BdxUjGv2",
+  "name": "The Jensen Files",
+  "symbol": "JENSEN",
+  "label": "The Jensen Files",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-11T22:18:57.507808Z",
-  "pool": null,
+  "pool": "DuR6qcQyfca7WhbgrZgbrfxReNUPn3bXqZZGMvXPvPjZ",
   "creator": "3C9kRjWbrRE5NcdWfmRZe9kgvVRyfBQN7bdV23315Txa",
   "holders": null,
   "link": "https://fomo.family/coin?address=BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.748e-05,
-  "priceTs": "2026-11-11T22:19:00.947037Z",
+  "price": 2.952e-05,
+  "priceTs": "2026-11-11T22:20:07.972949Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 1.748e-05,
       "c": 1.748e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794435600,
+      "o": 2.952e-05,
+      "h": 2.952e-05,
+      "l": 2.952e-05,
+      "c": 2.952e-05,
+      "v": 24035.17
     }
   ],
   "stats": {
-    "marketCap": 17483.68,
-    "liquidity": null,
-    "volume24h": 10859.82,
+    "marketCap": 29469.0,
+    "liquidity": 11870.0,
+    "volume24h": 34894.99,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-11T22:20:04.082365Z",
+      "liquidity_usd": 11870.0,
+      "top10_pct": null,
+      "h1_change_pct": -15.94,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $11.9K"
+    }
+  ]
 }

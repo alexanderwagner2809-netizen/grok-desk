@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-11T22:19:01.018528Z",
+  "ts": "2026-11-11T22:20:08.286933Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-11T22:18:41.835132Z",
+  "heartbeat": "2026-11-11T22:20:03.881492Z",
   "paused": false,
   "status": "running",
-  "card": "31 pools",
-  "count": 31,
+  "card": "33 pools",
+  "count": 33,
   "passed": 0,
   "feed": [
+    {
+      "mint": "BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump",
+      "label": "explodecat",
+      "verdict": "kill",
+      "reason": "liq $13.7K",
+      "subtitle": "liq $13.7K",
+      "link": "https://fomo.family/coin?address=BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump",
+      "label": "The Jensen Files",
+      "verdict": "kill",
+      "reason": "liq $11.9K",
+      "subtitle": "liq $11.9K",
+      "link": "https://fomo.family/coin?address=BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "BhfCQhDkJkYferk5mFpKwMVBYjf8mNb5yb1N4Fk9pump",
       "label": "Auda city",
@@ -58,27 +74,27 @@
       "reason": "liq $12.0K",
       "subtitle": "liq $12.0K",
       "link": "https://fomo.family/coin?address=3e4KNV6aPTtGks2cd7HNN6UFxPC3u2PC93WyFFcSpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "FjFVmDDM3w7qVLS9uxLkXnDM4qCGsqXSow6d32phpump",
-      "label": "HAMSTER",
-      "verdict": "kill",
-      "reason": "liq $26.4K",
-      "subtitle": "liq $26.4K",
-      "link": "https://fomo.family/coin?address=FjFVmDDM3w7qVLS9uxLkXnDM4qCGsqXSow6d32phpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "NVDAVuiB7hwd3m5Wa1JuHNovPaPG6BH1QNztbKFxNjv",
-      "label": "KIMBERLY POWELL",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=NVDAVuiB7hwd3m5Wa1JuHNovPaPG6BH1QNztbKFxNjv&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-11T22:20:04.083675Z",
+      "mint": "BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump",
+      "label": "explodecat",
+      "verdict": "kill",
+      "reason": "liq $13.7K",
+      "link": "https://fomo.family/coin?address=BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T22:20:04.082365Z",
+      "mint": "BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump",
+      "label": "The Jensen Files",
+      "verdict": "kill",
+      "reason": "liq $11.9K",
+      "link": "https://fomo.family/coin?address=BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-11T22:17:03.541230Z",
       "mint": "BhfCQhDkJkYferk5mFpKwMVBYjf8mNb5yb1N4Fk9pump",
       "label": "Auda city",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $23.2K",
       "link": "https://fomo.family/coin?address=BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-11T20:22:13.302517Z",
-      "mint": "GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump",
-      "label": "MONEYY",
-      "verdict": "kill",
-      "reason": "liq $9.9K",
-      "link": "https://fomo.family/coin?address=GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-11T20:21:13.146793Z",
-      "mint": "632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG",
-      "label": "Teenydroid",
-      "verdict": "kill",
-      "reason": "liq $12.3K",
-      "link": "https://fomo.family/coin?address=632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-11T22:20:04.083675Z",
+      "mint": "BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump",
+      "label": "explodecat",
+      "verdict": "kill",
+      "reason": "liq $13.7K",
+      "link": "https://fomo.family/coin?address=BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T22:20:04.082365Z",
+      "mint": "BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump",
+      "label": "The Jensen Files",
+      "verdict": "kill",
+      "reason": "liq $11.9K",
+      "link": "https://fomo.family/coin?address=BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-11T22:17:03.541230Z",
       "mint": "BhfCQhDkJkYferk5mFpKwMVBYjf8mNb5yb1N4Fk9pump",
       "label": "Auda city",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $23.2K",
       "link": "https://fomo.family/coin?address=BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-11T20:22:13.302517Z",
-      "mint": "GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump",
-      "label": "MONEYY",
-      "verdict": "kill",
-      "reason": "liq $9.9K",
-      "link": "https://fomo.family/coin?address=GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-11T20:21:13.146793Z",
-      "mint": "632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG",
-      "label": "Teenydroid",
-      "verdict": "kill",
-      "reason": "liq $12.3K",
-      "link": "https://fomo.family/coin?address=632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

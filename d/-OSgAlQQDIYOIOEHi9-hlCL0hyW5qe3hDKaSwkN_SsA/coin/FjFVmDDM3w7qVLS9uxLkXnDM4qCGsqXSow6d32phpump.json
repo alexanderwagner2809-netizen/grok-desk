@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-11T22:19:00.980495Z",
+  "ts": "2026-11-11T22:20:08.251357Z",
   "mint": "FjFVmDDM3w7qVLS9uxLkXnDM4qCGsqXSow6d32phpump",
   "name": "HAMSTER",
   "symbol": "HAMSTER",
   "label": "HAMSTER",
   "chain": "Solana",
-  "age": "20m old",
+  "age": "21m old",
   "migratedAt": "2026-11-11T21:58:41.100814Z",
   "pool": "Ercw6UiS4oewaabi5Jm135d6GoL8poYgEBa8e1kgT8jA",
   "creator": "GnvL94jnQ85BwSPPpTaqGden5eSXpzuGZyStqsvwoqmw",
   "holders": null,
   "link": "https://fomo.family/coin?address=FjFVmDDM3w7qVLS9uxLkXnDM4qCGsqXSow6d32phpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001099,
-  "priceTs": "2026-11-11T22:19:00.821965Z",
+  "price": 0.0001021,
+  "priceTs": "2026-11-11T22:20:07.972949Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -88,12 +88,20 @@
       "l": 0.0001099,
       "c": 0.0001099,
       "v": 0.0
+    },
+    {
+      "t": 1794435600,
+      "o": 0.0001021,
+      "h": 0.0001021,
+      "l": 0.0001021,
+      "c": 0.0001021,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 109842.0,
-    "liquidity": 24650.54,
-    "volume24h": 284997.15,
+    "marketCap": 101992.0,
+    "liquidity": 23701.73,
+    "volume24h": 286134.33,
     "holders": null
   },
   "position": null,
