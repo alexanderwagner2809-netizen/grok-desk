@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T21:29:14.673404Z",
+  "ts": "2026-11-11T21:30:33.034367Z",
   "mint": "7LWnrPRFEufaL5Hg4SNe6wbzX7JJkeeCckQbv1EJpump",
   "name": "AICoin",
   "symbol": "AICoin",
@@ -11,8 +11,8 @@
   "creator": "H4mBozmKiGSQzdVw5NMhm4eq56KCSLeCz9RfLdQqqX21",
   "holders": null,
   "link": "https://fomo.family/coin?address=7LWnrPRFEufaL5Hg4SNe6wbzX7JJkeeCckQbv1EJpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.957e-09,
-  "priceTs": "2026-11-11T20:26:10.502481Z",
+  "price": 9.855e-10,
+  "priceTs": "2026-11-11T21:30:32.881283Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -48,12 +48,20 @@
       "l": 1.957e-09,
       "c": 1.957e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794432600,
+      "o": 9.855e-10,
+      "h": 9.855e-10,
+      "l": 9.855e-10,
+      "c": 9.855e-10,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": null,
-    "liquidity": 2.65,
-    "volume24h": null,
+    "marketCap": 2.0,
+    "liquidity": 1.87,
+    "volume24h": 19.76,
     "holders": null
   },
   "position": null,

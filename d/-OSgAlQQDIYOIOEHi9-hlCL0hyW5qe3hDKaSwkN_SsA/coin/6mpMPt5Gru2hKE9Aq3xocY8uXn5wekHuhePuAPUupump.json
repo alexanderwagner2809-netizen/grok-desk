@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T21:29:14.678222Z",
+  "ts": "2026-11-11T21:30:33.039321Z",
   "mint": "6mpMPt5Gru2hKE9Aq3xocY8uXn5wekHuhePuAPUupump",
   "name": "Elon Musk Metacoin",
   "symbol": "Rocketman",
@@ -11,8 +11,8 @@
   "creator": "4hEtN9wA1oGiTQydqZM6yXvDuD5gKXvPDiuHdAeKMprr",
   "holders": null,
   "link": "https://fomo.family/coin?address=6mpMPt5Gru2hKE9Aq3xocY8uXn5wekHuhePuAPUupump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.923e-06,
-  "priceTs": "2026-11-11T20:26:10.502481Z",
+  "price": 1.682e-06,
+  "priceTs": "2026-11-11T21:30:32.881283Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -88,12 +88,20 @@
       "l": 1.923e-06,
       "c": 1.923e-06,
       "v": 11632.939999999995
+    },
+    {
+      "t": 1794432600,
+      "o": 1.682e-06,
+      "h": 1.682e-06,
+      "l": 1.682e-06,
+      "c": 1.682e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": null,
-    "liquidity": 13465.41,
-    "volume24h": null,
+    "marketCap": 1619.0,
+    "liquidity": 1706.89,
+    "volume24h": 98451.72,
     "holders": null
   },
   "position": null,

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T21:29:14.671313Z",
+  "ts": "2026-11-11T21:30:33.032293Z",
   "mint": "AJqKjfP42KYksRP2p42GEfSkpnS5JdD9zxFJa1Pvpump",
   "name": "DeepSeek",
   "symbol": "DeepSeek",
@@ -11,8 +11,8 @@
   "creator": "AhXzw9Z8i4jEvtxN52eQ9dcfoqPhqP7WQBdEmLSFXAWR",
   "holders": null,
   "link": "https://fomo.family/coin?address=AJqKjfP42KYksRP2p42GEfSkpnS5JdD9zxFJa1Pvpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001081,
-  "priceTs": "2026-11-11T20:26:10.502481Z",
+  "price": 0.0003055,
+  "priceTs": "2026-11-11T21:30:32.881283Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -32,12 +32,20 @@
       "l": 0.0001081,
       "c": 0.0001081,
       "v": 94.89999999999964
+    },
+    {
+      "t": 1794432600,
+      "o": 0.0003055,
+      "h": 0.0003055,
+      "l": 0.0003055,
+      "c": 0.0003055,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": null,
-    "liquidity": 23376.74,
-    "volume24h": null,
+    "marketCap": 301523.0,
+    "liquidity": 41472.92,
+    "volume24h": 96242.75,
     "holders": null
   },
   "position": null,

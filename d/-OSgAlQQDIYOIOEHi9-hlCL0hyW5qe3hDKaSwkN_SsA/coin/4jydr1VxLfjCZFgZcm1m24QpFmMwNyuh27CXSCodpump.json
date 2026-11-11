@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T21:29:14.677543Z",
+  "ts": "2026-11-11T21:30:33.038643Z",
   "mint": "4jydr1VxLfjCZFgZcm1m24QpFmMwNyuh27CXSCodpump",
   "name": "MoonBud",
   "symbol": "BUD",
@@ -12,7 +12,7 @@
   "holders": null,
   "link": "https://fomo.family/coin?address=4jydr1VxLfjCZFgZcm1m24QpFmMwNyuh27CXSCodpump&chainId=1399811149&r=savipww&source=share_link",
   "price": 3.791e-10,
-  "priceTs": "2026-11-11T20:26:10.502481Z",
+  "priceTs": "2026-11-11T21:30:32.881283Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -80,12 +80,20 @@
       "l": 3.791e-10,
       "c": 3.791e-10,
       "v": 0.0
+    },
+    {
+      "t": 1794432600,
+      "o": 3.791e-10,
+      "h": 3.791e-10,
+      "l": 3.791e-10,
+      "c": 3.791e-10,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": null,
-    "liquidity": 1.32,
-    "volume24h": null,
+    "marketCap": 1.0,
+    "liquidity": 1.18,
+    "volume24h": 44.04,
     "holders": null
   },
   "position": null,

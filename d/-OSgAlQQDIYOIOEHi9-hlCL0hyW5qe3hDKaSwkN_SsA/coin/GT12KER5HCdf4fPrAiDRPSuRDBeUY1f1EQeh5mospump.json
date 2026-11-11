@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T21:29:14.675473Z",
+  "ts": "2026-11-11T21:30:33.036574Z",
   "mint": "GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump",
   "name": "MONEYY",
   "symbol": "MONY",
@@ -11,8 +11,8 @@
   "creator": "3SoYUq5eY8gn5p9Uz3fomA5ZbbHEpe6PhitttQ84GHBK",
   "holders": null,
   "link": "https://fomo.family/coin?address=GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.134e-06,
-  "priceTs": "2026-11-11T20:26:10.502481Z",
+  "price": 5.051e-06,
+  "priceTs": "2026-11-11T21:30:32.881283Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -64,12 +64,20 @@
       "l": 5.134e-06,
       "c": 5.134e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794432600,
+      "o": 5.051e-06,
+      "h": 5.051e-06,
+      "l": 5.051e-06,
+      "c": 5.051e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": null,
-    "liquidity": 9866.57,
-    "volume24h": null,
+    "marketCap": 10103.0,
+    "liquidity": 5210.62,
+    "volume24h": 43763.0,
     "holders": null
   },
   "position": null,
