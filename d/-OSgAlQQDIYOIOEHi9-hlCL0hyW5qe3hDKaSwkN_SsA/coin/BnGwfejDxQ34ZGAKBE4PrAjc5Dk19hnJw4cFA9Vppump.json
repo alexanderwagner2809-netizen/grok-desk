@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-11T22:36:17.631414Z",
+  "ts": "2026-11-11T22:39:19.344945Z",
   "mint": "BnGwfejDxQ34ZGAKBE4PrAjc5Dk19hnJw4cFA9Vppump",
-  "name": null,
-  "symbol": null,
-  "label": "BnGwfejD",
+  "name": "SP500",
+  "symbol": "SP500",
+  "label": "SP500",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "4m old",
   "migratedAt": "2026-11-11T22:35:16.763493Z",
-  "pool": null,
+  "pool": "6R3CVFGfgwL8ivGco1aL44jDwA5R7PvUXdF37yaAkqxA",
   "creator": "6z8ruxQPJLu1kVbeQQ21FQaie1oGTWgkLuGYpoVkYGoS",
   "holders": null,
   "link": "https://fomo.family/coin?address=BnGwfejDxQ34ZGAKBE4PrAjc5Dk19hnJw4cFA9Vppump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-11T22:39:19.052770Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -99.33,
+      "age_min": 4,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
