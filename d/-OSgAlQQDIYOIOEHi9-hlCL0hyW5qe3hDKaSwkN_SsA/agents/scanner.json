@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-11T21:31:39.948315Z",
+  "ts": "2026-11-11T21:32:47.499417Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-11T21:31:37.674203Z",
+  "heartbeat": "2026-11-11T21:32:37.780830Z",
   "paused": false,
   "status": "running",
-  "card": "19 pools",
-  "count": 19,
+  "card": "20 pools",
+  "count": 20,
   "passed": 0,
   "feed": [
+    {
+      "mint": "HEDVXvZu8BofRZK97G89KcgYGXhqr2KwL8yg9ffApump",
+      "label": "Saxon James Musk Coin",
+      "verdict": "kill",
+      "reason": "liq $18.6K",
+      "subtitle": "liq $18.6K",
+      "link": "https://fomo.family/coin?address=HEDVXvZu8BofRZK97G89KcgYGXhqr2KwL8yg9ffApump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "AJqKjfP42KYksRP2p42GEfSkpnS5JdD9zxFJa1Pvpump",
       "label": "DeepSeek",
@@ -66,18 +74,18 @@
       "reason": "liq $9.9K",
       "subtitle": "liq $9.9K",
       "link": "https://fomo.family/coin?address=GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG",
-      "label": "Teenydroid",
-      "verdict": "kill",
-      "reason": "liq $12.3K",
-      "subtitle": "liq $12.3K",
-      "link": "https://fomo.family/coin?address=632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
+    {
+      "ts": "2026-11-11T21:32:37.874568Z",
+      "mint": "HEDVXvZu8BofRZK97G89KcgYGXhqr2KwL8yg9ffApump",
+      "label": "Saxon James Musk Coin",
+      "verdict": "kill",
+      "reason": "liq $18.6K",
+      "link": "https://fomo.family/coin?address=HEDVXvZu8BofRZK97G89KcgYGXhqr2KwL8yg9ffApump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "ts": "2026-11-11T20:25:13.371920Z",
       "mint": "AJqKjfP42KYksRP2p42GEfSkpnS5JdD9zxFJa1Pvpump",
@@ -232,6 +240,14 @@
     }
   ],
   "decisions": [
+    {
+      "ts": "2026-11-11T21:32:37.874568Z",
+      "mint": "HEDVXvZu8BofRZK97G89KcgYGXhqr2KwL8yg9ffApump",
+      "label": "Saxon James Musk Coin",
+      "verdict": "kill",
+      "reason": "liq $18.6K",
+      "link": "https://fomo.family/coin?address=HEDVXvZu8BofRZK97G89KcgYGXhqr2KwL8yg9ffApump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "ts": "2026-11-11T20:25:13.371920Z",
       "mint": "AJqKjfP42KYksRP2p42GEfSkpnS5JdD9zxFJa1Pvpump",
