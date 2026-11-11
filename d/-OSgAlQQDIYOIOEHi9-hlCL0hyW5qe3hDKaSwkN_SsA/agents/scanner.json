@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-11T23:11:22.099140Z",
+  "ts": "2026-11-11T23:12:29.794511Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-11T23:11:11.520806Z",
+  "heartbeat": "2026-11-11T23:12:11.741616Z",
   "paused": false,
   "status": "running",
-  "card": "45 pools",
-  "count": 45,
+  "card": "46 pools",
+  "count": 46,
   "passed": 0,
   "feed": [
+    {
+      "mint": "Eqv5hk2AvExvf83mBVsU9ZrKYpuJi8WH889u36B1pump",
+      "label": "bull gooner private unity",
+      "verdict": "kill",
+      "reason": "liq $137",
+      "subtitle": "liq $137",
+      "link": "https://fomo.family/coin?address=Eqv5hk2AvExvf83mBVsU9ZrKYpuJi8WH889u36B1pump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "89Ef3xm89gRD5K8eDn1oPENhuPGG72djahcsAE72pump",
       "label": "NVIDIA",
@@ -66,19 +74,19 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=4Z81TbpRpkT2hCmhD8nQZsyafPmJ1M4FvLYwMGwvM9Yu&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GPzqVRNoPVvPj54rtDG9L7dQPDMjPgGzTd1DqVeopump",
-      "label": "GPzqVRNo",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "subtitle": "never qualified",
-      "link": "https://fomo.family/coin?address=GPzqVRNoPVvPj54rtDG9L7dQPDMjPgGzTd1DqVeopump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-11T23:12:11.914821Z",
+      "mint": "Eqv5hk2AvExvf83mBVsU9ZrKYpuJi8WH889u36B1pump",
+      "label": "bull gooner private unity",
+      "verdict": "kill",
+      "reason": "liq $137",
+      "link": "https://fomo.family/coin?address=Eqv5hk2AvExvf83mBVsU9ZrKYpuJi8WH889u36B1pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-11T23:10:11.516593Z",
       "mint": "89Ef3xm89gRD5K8eDn1oPENhuPGG72djahcsAE72pump",
       "label": "NVIDIA",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $15.3K",
       "link": "https://fomo.family/coin?address=9RyENt3gJ1MEsFPiJAMyNerYYngLDuyZfVP4GBqepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-11T22:12:02.585032Z",
-      "mint": "3e4KNV6aPTtGks2cd7HNN6UFxPC3u2PC93WyFFcSpump",
-      "label": "SlabScope",
-      "verdict": "kill",
-      "reason": "liq $12.0K",
-      "link": "https://fomo.family/coin?address=3e4KNV6aPTtGks2cd7HNN6UFxPC3u2PC93WyFFcSpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-11T23:12:11.914821Z",
+      "mint": "Eqv5hk2AvExvf83mBVsU9ZrKYpuJi8WH889u36B1pump",
+      "label": "bull gooner private unity",
+      "verdict": "kill",
+      "reason": "liq $137",
+      "link": "https://fomo.family/coin?address=Eqv5hk2AvExvf83mBVsU9ZrKYpuJi8WH889u36B1pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-11T23:10:11.516593Z",
       "mint": "89Ef3xm89gRD5K8eDn1oPENhuPGG72djahcsAE72pump",
       "label": "NVIDIA",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $15.3K",
       "link": "https://fomo.family/coin?address=9RyENt3gJ1MEsFPiJAMyNerYYngLDuyZfVP4GBqepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-11T22:12:02.585032Z",
-      "mint": "3e4KNV6aPTtGks2cd7HNN6UFxPC3u2PC93WyFFcSpump",
-      "label": "SlabScope",
-      "verdict": "kill",
-      "reason": "liq $12.0K",
-      "link": "https://fomo.family/coin?address=3e4KNV6aPTtGks2cd7HNN6UFxPC3u2PC93WyFFcSpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

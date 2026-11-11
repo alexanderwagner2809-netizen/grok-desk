@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-11T23:11:22.095331Z",
+  "ts": "2026-11-11T23:12:29.742764Z",
   "mint": "Eqv5hk2AvExvf83mBVsU9ZrKYpuJi8WH889u36B1pump",
-  "name": null,
-  "symbol": null,
-  "label": "Eqv5hk2A",
+  "name": "bull gooner private unity",
+  "symbol": "BullGPU",
+  "label": "bull gooner private unity",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-11T23:11:16.126011Z",
-  "pool": null,
+  "pool": "DpmCvsGBTW1c3qAoHVbnaDzqsrxtUyVQiz9tLCaVMsDq",
   "creator": "49tkjZDDtpJSwA3P9xrs73bhEN8LbBfuh4uuug9PF9Zc",
   "holders": null,
   "link": "https://fomo.family/coin?address=Eqv5hk2AvExvf83mBVsU9ZrKYpuJi8WH889u36B1pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.005e-06,
-  "priceTs": "2026-11-11T23:11:22.032821Z",
+  "price": 2.459e-08,
+  "priceTs": "2026-11-11T23:12:29.456420Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 1.005e-06,
       "c": 1.005e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794438720,
+      "o": 6.907e-08,
+      "h": 6.907e-08,
+      "l": 2.459e-08,
+      "c": 2.459e-08,
+      "v": 574.38
     }
   ],
   "stats": {
-    "marketCap": 1005.2,
-    "liquidity": null,
-    "volume24h": 5739.13,
+    "marketCap": 49.0,
+    "liquidity": 79.21,
+    "volume24h": 1280.47,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-11T23:12:11.914821Z",
+      "liquidity_usd": 136.97,
+      "top10_pct": null,
+      "h1_change_pct": -94.81,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $137"
+    }
+  ]
 }
