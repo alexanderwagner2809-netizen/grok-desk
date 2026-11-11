@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-11T23:10:14.502373Z",
+  "mint": "HhX3o68YjsDC81iUPdZcEiwM8LDTX5WxBctTEMhmpump",
+  "name": "mao zee dong",
+  "symbol": "MZD",
+  "label": "mao zee dong",
+  "chain": "Solana",
+  "age": "6m old",
+  "migratedAt": "2026-11-11T23:03:20.787188Z",
+  "pool": "BgED5hQAnPAL3joLsDFPSYri3ADZehqJ3FvQJg88BrBz",
+  "creator": "T2Mk1maxjiNoHg4KTaPdFpZNfehr96yxfMYRZ5x4eJk",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=HhX3o68YjsDC81iUPdZcEiwM8LDTX5WxBctTEMhmpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 5.742e-10,
+  "priceTs": "2026-11-11T23:10:14.207902Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794438480,
+      "o": 6.29e-10,
+      "h": 6.29e-10,
+      "l": 6.29e-10,
+      "c": 6.29e-10,
+      "v": 0.0
+    },
+    {
+      "t": 1794438600,
+      "o": 5.742e-10,
+      "h": 5.742e-10,
+      "l": 5.742e-10,
+      "c": 5.742e-10,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 1.0,
+    "liquidity": 2.07,
+    "volume24h": 106.07,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-11T23:08:11.129076Z",
+      "liquidity_usd": 2.21,
+      "top10_pct": null,
+      "h1_change_pct": -98.3,
+      "age_min": 4,
+      "verdict": "kill",
+      "reason": "liq $2"
+    }
+  ]
+}

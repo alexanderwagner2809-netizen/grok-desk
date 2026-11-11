@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-11T23:10:14.501671Z",
+  "mint": "GeK4M94zkqwEjp4Yv4MAVVBuRR3ubnM8TAivJXfbpump",
+  "name": "Pussy Coin",
+  "symbol": "PUSSY",
+  "label": "Pussy Coin",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-11T23:08:18.150600Z",
+  "pool": "DzAe6b3VTw81cAnuVhh1Bm6nTddyDPKWHHjhFHfZbtZD",
+  "creator": "37RatP3xCguv7S8PjYKhLywQDFudsvYDPjzzxQ4rhdgz",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=GeK4M94zkqwEjp4Yv4MAVVBuRR3ubnM8TAivJXfbpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 5.226e-05,
+  "priceTs": "2026-11-11T23:10:14.207902Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794438540,
+      "o": 4.646e-05,
+      "h": 4.646e-05,
+      "l": 4.646e-05,
+      "c": 4.646e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794438600,
+      "o": 5.226e-05,
+      "h": 5.226e-05,
+      "l": 5.226e-05,
+      "c": 5.226e-05,
+      "v": 7146.870000000001
+    }
+  ],
+  "stats": {
+    "marketCap": 52177.0,
+    "liquidity": 17654.26,
+    "volume24h": 10903.28,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-11T23:09:11.295873Z",
+      "liquidity_usd": 16476.08,
+      "top10_pct": null,
+      "h1_change_pct": 9.86,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $16.5K"
+    }
+  ]
+}

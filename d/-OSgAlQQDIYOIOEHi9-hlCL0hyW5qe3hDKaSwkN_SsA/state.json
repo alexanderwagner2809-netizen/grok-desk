@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T22:39:19.339152Z",
+  "ts": "2026-11-11T23:10:14.492317Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,76 +12,76 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-11T22:39:18.870503Z",
+      "heartbeat": "2026-11-11T23:10:11.298358Z",
       "paused": false,
       "status": "running",
-      "card": "37 pools",
-      "count": 37,
+      "card": "45 pools",
+      "count": 45,
       "passed": 0,
       "feed": [
         {
-          "mint": "BnGwfejDxQ34ZGAKBE4PrAjc5Dk19hnJw4cFA9Vppump",
-          "label": "SP500",
+          "mint": "89Ef3xm89gRD5K8eDn1oPENhuPGG72djahcsAE72pump",
+          "label": "NVIDIA",
+          "verdict": "kill",
+          "reason": "liq $22.8K",
+          "subtitle": "liq $22.8K",
+          "link": "https://fomo.family/coin?address=89Ef3xm89gRD5K8eDn1oPENhuPGG72djahcsAE72pump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "GeK4M94zkqwEjp4Yv4MAVVBuRR3ubnM8TAivJXfbpump",
+          "label": "Pussy Coin",
+          "verdict": "kill",
+          "reason": "liq $16.5K",
+          "subtitle": "liq $16.5K",
+          "link": "https://fomo.family/coin?address=GeK4M94zkqwEjp4Yv4MAVVBuRR3ubnM8TAivJXfbpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "HhX3o68YjsDC81iUPdZcEiwM8LDTX5WxBctTEMhmpump",
+          "label": "mao zee dong",
+          "verdict": "kill",
+          "reason": "liq $2",
+          "subtitle": "liq $2",
+          "link": "https://fomo.family/coin?address=HhX3o68YjsDC81iUPdZcEiwM8LDTX5WxBctTEMhmpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "6YVJmtWrAmA5UZHHTcPZirx7AF3YfqP3szDkVUgLpump",
+          "label": "OIL",
           "verdict": "kill",
           "reason": "liq $0",
           "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=BnGwfejDxQ34ZGAKBE4PrAjc5Dk19hnJw4cFA9Vppump&chainId=1399811149&r=savipww&source=share_link"
+          "link": "https://fomo.family/coin?address=6YVJmtWrAmA5UZHHTcPZirx7AF3YfqP3szDkVUgLpump&chainId=1399811149&r=savipww&source=share_link"
         },
         {
-          "mint": "EU8FRfypHiRKZvQZJMwvYTWM8HaXYWYCwhbbqcyBpump",
-          "label": "BRING IT ON",
+          "mint": "HvUhGNsV3muPWSKS3i2W6Ho8JxvvKUQGhJ9bHBMbpump",
+          "label": "HvUhGNsV",
           "verdict": "kill",
-          "reason": "liq $2.0K",
-          "subtitle": "liq $2.0K",
-          "link": "https://fomo.family/coin?address=EU8FRfypHiRKZvQZJMwvYTWM8HaXYWYCwhbbqcyBpump&chainId=1399811149&r=savipww&source=share_link"
+          "reason": "never qualified",
+          "subtitle": "never qualified",
+          "link": "https://fomo.family/coin?address=HvUhGNsV3muPWSKS3i2W6Ho8JxvvKUQGhJ9bHBMbpump&chainId=1399811149&r=savipww&source=share_link"
         },
         {
-          "mint": "CpviS7UCfKTVifuozCC6CMfmFWAy5Dvy8YTGs1tvpump",
-          "label": "Soljack",
+          "mint": "GvUsbQ3Vqi21QTi3BeGGA8zo17bKywmuDZdw5odCpump",
+          "label": "huang out",
           "verdict": "kill",
-          "reason": "liq $15",
-          "subtitle": "liq $15",
-          "link": "https://fomo.family/coin?address=CpviS7UCfKTVifuozCC6CMfmFWAy5Dvy8YTGs1tvpump&chainId=1399811149&r=savipww&source=share_link"
+          "reason": "liq $29",
+          "subtitle": "liq $29",
+          "link": "https://fomo.family/coin?address=GvUsbQ3Vqi21QTi3BeGGA8zo17bKywmuDZdw5odCpump&chainId=1399811149&r=savipww&source=share_link"
         },
         {
-          "mint": "6JtU6hRisYEBw3PHo7kh8GuA2d66rcPeLGrGHE6Epump",
-          "label": "Tilly",
-          "verdict": "kill",
-          "reason": "liq $3.7K",
-          "subtitle": "liq $3.7K",
-          "link": "https://fomo.family/coin?address=6JtU6hRisYEBw3PHo7kh8GuA2d66rcPeLGrGHE6Epump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump",
-          "label": "explodecat",
-          "verdict": "kill",
-          "reason": "liq $13.7K",
-          "subtitle": "liq $13.7K",
-          "link": "https://fomo.family/coin?address=BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump",
-          "label": "The Jensen Files",
-          "verdict": "kill",
-          "reason": "liq $11.9K",
-          "subtitle": "liq $11.9K",
-          "link": "https://fomo.family/coin?address=BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "BhfCQhDkJkYferk5mFpKwMVBYjf8mNb5yb1N4Fk9pump",
-          "label": "Auda city",
-          "verdict": "kill",
-          "reason": "liq $14",
-          "subtitle": "liq $14",
-          "link": "https://fomo.family/coin?address=BhfCQhDkJkYferk5mFpKwMVBYjf8mNb5yb1N4Fk9pump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "8hmyKkTAKj2y7UW2o8wqJRkwbycCwMBbNCez4WNqpump",
-          "label": "OK",
+          "mint": "4Z81TbpRpkT2hCmhD8nQZsyafPmJ1M4FvLYwMGwvM9Yu",
+          "label": "PussyCoin",
           "verdict": "kill",
           "reason": "liq $0",
           "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=8hmyKkTAKj2y7UW2o8wqJRkwbycCwMBbNCez4WNqpump&chainId=1399811149&r=savipww&source=share_link"
+          "link": "https://fomo.family/coin?address=4Z81TbpRpkT2hCmhD8nQZsyafPmJ1M4FvLYwMGwvM9Yu&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "GPzqVRNoPVvPj54rtDG9L7dQPDMjPgGzTd1DqVeopump",
+          "label": "GPzqVRNo",
+          "verdict": "kill",
+          "reason": "never qualified",
+          "subtitle": "never qualified",
+          "link": "https://fomo.family/coin?address=GPzqVRNoPVvPj54rtDG9L7dQPDMjPgGzTd1DqVeopump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-11T22:39:18.865627Z",
+      "heartbeat": "2026-11-11T23:10:12.702665Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-11T22:39:18.865627Z",
+      "heartbeat": "2026-11-11T23:10:12.704285Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-11T22:39:18.865627Z",
+      "heartbeat": "2026-11-11T23:10:12.704800Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-11T22:39:18.869478Z",
+      "heartbeat": "2026-11-11T23:10:10.714079Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

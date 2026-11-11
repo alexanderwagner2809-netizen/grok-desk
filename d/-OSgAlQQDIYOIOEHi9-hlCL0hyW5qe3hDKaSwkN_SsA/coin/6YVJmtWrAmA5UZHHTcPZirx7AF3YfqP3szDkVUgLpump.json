@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-11T22:39:19.378984Z",
+  "ts": "2026-11-11T23:10:14.503059Z",
   "mint": "6YVJmtWrAmA5UZHHTcPZirx7AF3YfqP3szDkVUgLpump",
-  "name": null,
-  "symbol": null,
-  "label": "6YVJmtWr",
+  "name": "OIL",
+  "symbol": "OIL",
+  "label": "OIL",
   "chain": "Solana",
-  "age": "19m old",
+  "age": "50m old",
   "migratedAt": "2026-11-11T22:19:25.008227Z",
-  "pool": null,
+  "pool": "BmCHjGCZLehRH1q4EFPbpeGcS6D8WUzFCmGxSWS99m7W",
   "creator": "6z8ruxQPJLu1kVbeQQ21FQaie1oGTWgkLuGYpoVkYGoS",
   "holders": null,
   "link": "https://fomo.family/coin?address=6YVJmtWrAmA5UZHHTcPZirx7AF3YfqP3szDkVUgLpump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-11T23:08:11.127637Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -99.64,
+      "age_min": 48,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }

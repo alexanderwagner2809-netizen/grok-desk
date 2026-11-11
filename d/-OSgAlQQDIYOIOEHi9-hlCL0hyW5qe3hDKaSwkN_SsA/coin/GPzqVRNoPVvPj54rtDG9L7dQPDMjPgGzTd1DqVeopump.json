@@ -1,11 +1,11 @@
 {
-  "ts": "2026-11-11T22:39:19.385372Z",
+  "ts": "2026-11-11T23:10:14.505996Z",
   "mint": "GPzqVRNoPVvPj54rtDG9L7dQPDMjPgGzTd1DqVeopump",
   "name": null,
   "symbol": null,
   "label": "GPzqVRNo",
   "chain": "Solana",
-  "age": "41m old",
+  "age": "1h old",
   "migratedAt": "2026-11-11T21:57:41.526669Z",
   "pool": null,
   "creator": null,
@@ -25,5 +25,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-11T23:00:56.791916Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 63,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }

@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-11T22:39:19.352988Z",
+  "ts": "2026-11-11T23:10:14.519611Z",
   "mint": "9RyENt3gJ1MEsFPiJAMyNerYYngLDuyZfVP4GBqepump",
   "name": "TILLY",
   "symbol": "TILLY",
   "label": "TILLY",
   "chain": "Solana",
-  "age": "27m old",
+  "age": "58m old",
   "migratedAt": "2026-11-11T22:11:20.349200Z",
   "pool": "FUNcSoydYYhusuJd99dG3apeqZVTZuX9VtxWVtgG6ADm",
   "creator": null,
   "holders": null,
   "link": "https://fomo.family/coin?address=9RyENt3gJ1MEsFPiJAMyNerYYngLDuyZfVP4GBqepump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0002129,
-  "priceTs": "2026-11-11T22:39:19.073279Z",
+  "price": 0.0001901,
+  "priceTs": "2026-11-11T23:10:14.207902Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -120,12 +120,20 @@
       "l": 0.0002129,
       "c": 0.0002129,
       "v": 0.0
+    },
+    {
+      "t": 1794438600,
+      "o": 0.0001901,
+      "h": 0.0001901,
+      "l": 0.0001901,
+      "c": 0.0001901,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 212626.0,
-    "liquidity": 34287.43,
-    "volume24h": 84071.02,
+    "marketCap": 186627.0,
+    "liquidity": 32325.02,
+    "volume24h": 158903.75,
     "holders": null
   },
   "position": null,
