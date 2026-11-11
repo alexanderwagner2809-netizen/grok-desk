@@ -1,16 +1,40 @@
 {
-  "ts": "2026-11-11T23:18:59.336445Z",
+  "ts": "2026-11-11T23:20:07.065722Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-11T23:18:44.072404Z",
+  "heartbeat": "2026-11-11T23:20:04.087031Z",
   "paused": false,
   "status": "running",
-  "card": "51 pools",
-  "count": 51,
+  "card": "54 pools",
+  "count": 54,
   "passed": 0,
   "feed": [
+    {
+      "mint": "24VGQv6DChSxH2ADvEiBQrZESHLN82VsVR1N9qq3pump",
+      "label": "LETS GO ",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=24VGQv6DChSxH2ADvEiBQrZESHLN82VsVR1N9qq3pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "AnVZpNnLSDR8fy3bmti3KpXrpa6AEJUEUvZo1Ddqpump",
+      "label": "AnVZpNnL",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=AnVZpNnLSDR8fy3bmti3KpXrpa6AEJUEUvZo1Ddqpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "7r3py7zdrVn2HGvZypZDkshdAPymS89HQL9RkVnZpump",
+      "label": "7r3py7zd",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=7r3py7zdrVn2HGvZypZDkshdAPymS89HQL9RkVnZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "84c7FRxeZmDBm3HTCoWuB3mPwSTN5LUdpz26oKZepump",
       "label": "bull gooner private unity ",
@@ -50,35 +74,35 @@
       "reason": "never qualified",
       "subtitle": "never qualified",
       "link": "https://fomo.family/coin?address=9k9RJLBTvHGfooTbgdvbEQ39XHa4AHe74EfV36xppump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "Eqv5hk2AvExvf83mBVsU9ZrKYpuJi8WH889u36B1pump",
-      "label": "bull gooner private unity",
-      "verdict": "kill",
-      "reason": "liq $137",
-      "subtitle": "liq $137",
-      "link": "https://fomo.family/coin?address=Eqv5hk2AvExvf83mBVsU9ZrKYpuJi8WH889u36B1pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "89Ef3xm89gRD5K8eDn1oPENhuPGG72djahcsAE72pump",
-      "label": "NVIDIA",
-      "verdict": "kill",
-      "reason": "liq $22.8K",
-      "subtitle": "liq $22.8K",
-      "link": "https://fomo.family/coin?address=89Ef3xm89gRD5K8eDn1oPENhuPGG72djahcsAE72pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GeK4M94zkqwEjp4Yv4MAVVBuRR3ubnM8TAivJXfbpump",
-      "label": "Pussy Coin",
-      "verdict": "kill",
-      "reason": "liq $16.5K",
-      "subtitle": "liq $16.5K",
-      "link": "https://fomo.family/coin?address=GeK4M94zkqwEjp4Yv4MAVVBuRR3ubnM8TAivJXfbpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-11T23:19:24.439666Z",
+      "mint": "24VGQv6DChSxH2ADvEiBQrZESHLN82VsVR1N9qq3pump",
+      "label": "LETS GO ",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=24VGQv6DChSxH2ADvEiBQrZESHLN82VsVR1N9qq3pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T23:19:24.438217Z",
+      "mint": "AnVZpNnLSDR8fy3bmti3KpXrpa6AEJUEUvZo1Ddqpump",
+      "label": "AnVZpNnL",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=AnVZpNnLSDR8fy3bmti3KpXrpa6AEJUEUvZo1Ddqpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T23:19:24.436850Z",
+      "mint": "7r3py7zdrVn2HGvZypZDkshdAPymS89HQL9RkVnZpump",
+      "label": "7r3py7zd",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=7r3py7zdrVn2HGvZypZDkshdAPymS89HQL9RkVnZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-11T23:15:17.253921Z",
       "mint": "84c7FRxeZmDBm3HTCoWuB3mPwSTN5LUdpz26oKZepump",
       "label": "bull gooner private unity ",
@@ -213,34 +237,34 @@
       "verdict": "kill",
       "reason": "liq $15",
       "link": "https://fomo.family/coin?address=CpviS7UCfKTVifuozCC6CMfmFWAy5Dvy8YTGs1tvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-11T22:34:43.300466Z",
-      "mint": "6JtU6hRisYEBw3PHo7kh8GuA2d66rcPeLGrGHE6Epump",
-      "label": "Tilly",
-      "verdict": "kill",
-      "reason": "liq $3.7K",
-      "link": "https://fomo.family/coin?address=6JtU6hRisYEBw3PHo7kh8GuA2d66rcPeLGrGHE6Epump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-11T22:20:04.083675Z",
-      "mint": "BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump",
-      "label": "explodecat",
-      "verdict": "kill",
-      "reason": "liq $13.7K",
-      "link": "https://fomo.family/coin?address=BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-11T22:20:04.082365Z",
-      "mint": "BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump",
-      "label": "The Jensen Files",
-      "verdict": "kill",
-      "reason": "liq $11.9K",
-      "link": "https://fomo.family/coin?address=BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-11T23:19:24.439666Z",
+      "mint": "24VGQv6DChSxH2ADvEiBQrZESHLN82VsVR1N9qq3pump",
+      "label": "LETS GO ",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=24VGQv6DChSxH2ADvEiBQrZESHLN82VsVR1N9qq3pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T23:19:24.438217Z",
+      "mint": "AnVZpNnLSDR8fy3bmti3KpXrpa6AEJUEUvZo1Ddqpump",
+      "label": "AnVZpNnL",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=AnVZpNnLSDR8fy3bmti3KpXrpa6AEJUEUvZo1Ddqpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T23:19:24.436850Z",
+      "mint": "7r3py7zdrVn2HGvZypZDkshdAPymS89HQL9RkVnZpump",
+      "label": "7r3py7zd",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=7r3py7zdrVn2HGvZypZDkshdAPymS89HQL9RkVnZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-11T23:15:17.253921Z",
       "mint": "84c7FRxeZmDBm3HTCoWuB3mPwSTN5LUdpz26oKZepump",
       "label": "bull gooner private unity ",
@@ -375,30 +399,6 @@
       "verdict": "kill",
       "reason": "liq $15",
       "link": "https://fomo.family/coin?address=CpviS7UCfKTVifuozCC6CMfmFWAy5Dvy8YTGs1tvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-11T22:34:43.300466Z",
-      "mint": "6JtU6hRisYEBw3PHo7kh8GuA2d66rcPeLGrGHE6Epump",
-      "label": "Tilly",
-      "verdict": "kill",
-      "reason": "liq $3.7K",
-      "link": "https://fomo.family/coin?address=6JtU6hRisYEBw3PHo7kh8GuA2d66rcPeLGrGHE6Epump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-11T22:20:04.083675Z",
-      "mint": "BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump",
-      "label": "explodecat",
-      "verdict": "kill",
-      "reason": "liq $13.7K",
-      "link": "https://fomo.family/coin?address=BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-11T22:20:04.082365Z",
-      "mint": "BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump",
-      "label": "The Jensen Files",
-      "verdict": "kill",
-      "reason": "liq $11.9K",
-      "link": "https://fomo.family/coin?address=BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

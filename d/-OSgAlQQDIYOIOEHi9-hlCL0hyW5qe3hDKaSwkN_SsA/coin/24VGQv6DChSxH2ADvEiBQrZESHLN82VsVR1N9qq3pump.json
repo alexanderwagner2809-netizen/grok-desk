@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-11T23:18:59.324518Z",
+  "ts": "2026-11-11T23:20:06.995231Z",
   "mint": "24VGQv6DChSxH2ADvEiBQrZESHLN82VsVR1N9qq3pump",
-  "name": null,
-  "symbol": null,
-  "label": "24VGQv6D",
+  "name": "LETS GO ",
+  "symbol": "LETS GO ",
+  "label": "LETS GO ",
   "chain": "Solana",
-  "age": "4m old",
+  "age": "5m old",
   "migratedAt": "2026-11-11T23:14:13.490827Z",
-  "pool": null,
+  "pool": "HWg4nUXQzmRAcHrdB1dzQj57mgxy5GFxEEeh9h1CSQHb",
   "creator": "FkatEH7YmMyRFF45p4NhZq2uGjTgmkrbgmZEpQajWud7",
   "holders": null,
   "link": "https://fomo.family/coin?address=24VGQv6DChSxH2ADvEiBQrZESHLN82VsVR1N9qq3pump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-11T23:19:24.439666Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -17.3,
+      "age_min": 5,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }

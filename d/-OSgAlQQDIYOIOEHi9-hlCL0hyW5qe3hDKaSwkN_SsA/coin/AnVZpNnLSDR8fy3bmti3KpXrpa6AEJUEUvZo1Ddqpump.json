@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T23:18:59.329611Z",
+  "ts": "2026-11-11T23:20:06.996070Z",
   "mint": "AnVZpNnLSDR8fy3bmti3KpXrpa6AEJUEUvZo1Ddqpump",
   "name": null,
   "symbol": null,
@@ -25,5 +25,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-11T23:19:24.438217Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 61,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }

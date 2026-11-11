@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T23:18:59.319606Z",
+  "ts": "2026-11-11T23:20:07.052299Z",
   "mint": "9fGTsrxW5D8wxpjXVzuK8U2c6S5KVgGyi3UVcb89pump",
   "name": "LIPPY",
   "symbol": "LIPPY",
@@ -11,8 +11,8 @@
   "creator": "61sZ9zry53pAnd7XGYWkeyLhdE5weDFjGRRYRsnvvftH",
   "holders": null,
   "link": "https://fomo.family/coin?address=9fGTsrxW5D8wxpjXVzuK8U2c6S5KVgGyi3UVcb89pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.172e-07,
-  "priceTs": "2026-11-11T23:18:59.230188Z",
+  "price": 6.087e-07,
+  "priceTs": "2026-11-11T23:20:06.830953Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -320,12 +320,20 @@
       "l": 6.172e-07,
       "c": 6.172e-07,
       "v": 0.0
+    },
+    {
+      "t": 1794439200,
+      "o": 6.087e-07,
+      "h": 6.087e-07,
+      "l": 6.087e-07,
+      "c": 6.087e-07,
+      "v": 1.17
     }
   ],
   "stats": {
-    "marketCap": 1234.0,
-    "liquidity": 141.1,
-    "volume24h": 610.74,
+    "marketCap": 1217.0,
+    "liquidity": 137.89,
+    "volume24h": 611.92,
     "holders": null
   },
   "position": null,
