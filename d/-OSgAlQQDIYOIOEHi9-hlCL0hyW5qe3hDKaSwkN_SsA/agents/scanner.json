@@ -1,0 +1,388 @@
+{
+  "ts": "2026-11-11T20:49:33.297311Z",
+  "agent": "scanner",
+  "name": "scanner",
+  "color": "#64d2ff",
+  "ok": false,
+  "heartbeat": "2026-11-11T20:26:48.025775Z",
+  "paused": false,
+  "status": "idle",
+  "card": "19 pools",
+  "count": 19,
+  "passed": 0,
+  "feed": [
+    {
+      "mint": "AJqKjfP42KYksRP2p42GEfSkpnS5JdD9zxFJa1Pvpump",
+      "label": "DeepSeek",
+      "verdict": "kill",
+      "reason": "liq $23.4K",
+      "subtitle": "liq $23.4K",
+      "link": "https://fomo.family/coin?address=AJqKjfP42KYksRP2p42GEfSkpnS5JdD9zxFJa1Pvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "9cJLZTdaofEHGCJRxDxkGJH91na76Kctc5HxyvMcpump",
+      "label": "Gold Chair",
+      "verdict": "kill",
+      "reason": "liq $7",
+      "subtitle": "liq $7",
+      "link": "https://fomo.family/coin?address=9cJLZTdaofEHGCJRxDxkGJH91na76Kctc5HxyvMcpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "81Dgt1KSSWUPNfKDqCbz14PBNRV5yQ2cyadZDdDepump",
+      "label": "HUSTLE TEAM",
+      "verdict": "kill",
+      "reason": "liq $8",
+      "subtitle": "liq $8",
+      "link": "https://fomo.family/coin?address=81Dgt1KSSWUPNfKDqCbz14PBNRV5yQ2cyadZDdDepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "7LWnrPRFEufaL5Hg4SNe6wbzX7JJkeeCckQbv1EJpump",
+      "label": "AICoin",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "subtitle": "liq $3",
+      "link": "https://fomo.family/coin?address=7LWnrPRFEufaL5Hg4SNe6wbzX7JJkeeCckQbv1EJpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "3YcG25TqE3LTn3LpmAoQoX8CJp8B9tpAm5fK9DJspump",
+      "label": "Baby Ni Hao Cat",
+      "verdict": "kill",
+      "reason": "liq $13.0K",
+      "subtitle": "liq $13.0K",
+      "link": "https://fomo.family/coin?address=3YcG25TqE3LTn3LpmAoQoX8CJp8B9tpAm5fK9DJspump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump",
+      "label": "Google",
+      "verdict": "kill",
+      "reason": "liq $23.2K",
+      "subtitle": "liq $23.2K",
+      "link": "https://fomo.family/coin?address=BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump",
+      "label": "MONEYY",
+      "verdict": "kill",
+      "reason": "liq $9.9K",
+      "subtitle": "liq $9.9K",
+      "link": "https://fomo.family/coin?address=GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG",
+      "label": "Teenydroid",
+      "verdict": "kill",
+      "reason": "liq $12.3K",
+      "subtitle": "liq $12.3K",
+      "link": "https://fomo.family/coin?address=632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG&chainId=1399811149&r=savipww&source=share_link"
+    }
+  ],
+  "empty": null,
+  "recent": [
+    {
+      "ts": "2026-11-11T20:25:13.371920Z",
+      "mint": "AJqKjfP42KYksRP2p42GEfSkpnS5JdD9zxFJa1Pvpump",
+      "label": "DeepSeek",
+      "verdict": "kill",
+      "reason": "liq $23.4K",
+      "link": "https://fomo.family/coin?address=AJqKjfP42KYksRP2p42GEfSkpnS5JdD9zxFJa1Pvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:24:13.351698Z",
+      "mint": "9cJLZTdaofEHGCJRxDxkGJH91na76Kctc5HxyvMcpump",
+      "label": "Gold Chair",
+      "verdict": "kill",
+      "reason": "liq $7",
+      "link": "https://fomo.family/coin?address=9cJLZTdaofEHGCJRxDxkGJH91na76Kctc5HxyvMcpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:24:13.350793Z",
+      "mint": "81Dgt1KSSWUPNfKDqCbz14PBNRV5yQ2cyadZDdDepump",
+      "label": "HUSTLE TEAM",
+      "verdict": "kill",
+      "reason": "liq $8",
+      "link": "https://fomo.family/coin?address=81Dgt1KSSWUPNfKDqCbz14PBNRV5yQ2cyadZDdDepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:24:13.349451Z",
+      "mint": "7LWnrPRFEufaL5Hg4SNe6wbzX7JJkeeCckQbv1EJpump",
+      "label": "AICoin",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "link": "https://fomo.family/coin?address=7LWnrPRFEufaL5Hg4SNe6wbzX7JJkeeCckQbv1EJpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:22:13.305213Z",
+      "mint": "3YcG25TqE3LTn3LpmAoQoX8CJp8B9tpAm5fK9DJspump",
+      "label": "Baby Ni Hao Cat",
+      "verdict": "kill",
+      "reason": "liq $13.0K",
+      "link": "https://fomo.family/coin?address=3YcG25TqE3LTn3LpmAoQoX8CJp8B9tpAm5fK9DJspump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:22:13.304031Z",
+      "mint": "BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump",
+      "label": "Google",
+      "verdict": "kill",
+      "reason": "liq $23.2K",
+      "link": "https://fomo.family/coin?address=BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:22:13.302517Z",
+      "mint": "GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump",
+      "label": "MONEYY",
+      "verdict": "kill",
+      "reason": "liq $9.9K",
+      "link": "https://fomo.family/coin?address=GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:21:13.146793Z",
+      "mint": "632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG",
+      "label": "Teenydroid",
+      "verdict": "kill",
+      "reason": "liq $12.3K",
+      "link": "https://fomo.family/coin?address=632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:21:13.143232Z",
+      "mint": "3DAEY8CK5ScoUT5UP1TUzAAz1xpGx4w3sikSBzF5pump",
+      "label": "JUSSYCOIN",
+      "verdict": "kill",
+      "reason": "liq $217",
+      "link": "https://fomo.family/coin?address=3DAEY8CK5ScoUT5UP1TUzAAz1xpGx4w3sikSBzF5pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:20:13.119289Z",
+      "mint": "4jydr1VxLfjCZFgZcm1m24QpFmMwNyuh27CXSCodpump",
+      "label": "MoonBud",
+      "verdict": "kill",
+      "reason": "liq $1",
+      "link": "https://fomo.family/coin?address=4jydr1VxLfjCZFgZcm1m24QpFmMwNyuh27CXSCodpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:18:13.076745Z",
+      "mint": "6mpMPt5Gru2hKE9Aq3xocY8uXn5wekHuhePuAPUupump",
+      "label": "Elon Musk Metacoin",
+      "verdict": "kill",
+      "reason": "liq $13.5K",
+      "link": "https://fomo.family/coin?address=6mpMPt5Gru2hKE9Aq3xocY8uXn5wekHuhePuAPUupump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:57:06.859795Z",
+      "mint": "2fKzdqBvvpZ72qPffD9cC3XqTxr9V67ABVgicJm6pump",
+      "label": "GTA6",
+      "verdict": "kill",
+      "reason": "liq $23.2K",
+      "link": "https://fomo.family/coin?address=2fKzdqBvvpZ72qPffD9cC3XqTxr9V67ABVgicJm6pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:56:06.763587Z",
+      "mint": "DPMw7dNKT9THB4GUrnauSAufzY4ETDqRj272ot6Vpump",
+      "label": "MEMEUM",
+      "verdict": "kill",
+      "reason": "liq $13.9K",
+      "link": "https://fomo.family/coin?address=DPMw7dNKT9THB4GUrnauSAufzY4ETDqRj272ot6Vpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:55:06.654847Z",
+      "mint": "1477qoXUyduX7EYcdaLcidg4nNsi147Dvv6iZTEZpump",
+      "label": "🀄️",
+      "verdict": "kill",
+      "reason": "liq $23.1K",
+      "link": "https://fomo.family/coin?address=1477qoXUyduX7EYcdaLcidg4nNsi147Dvv6iZTEZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:53:06.459615Z",
+      "mint": "B58dv97XWQJBVj6mquNqzpdPkVg7uuQZchB9XUfGpump",
+      "label": "GREEN MORNING MUSK",
+      "verdict": "kill",
+      "reason": "liq $12.8K",
+      "link": "https://fomo.family/coin?address=B58dv97XWQJBVj6mquNqzpdPkVg7uuQZchB9XUfGpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:53:06.457938Z",
+      "mint": "9fGTsrxW5D8wxpjXVzuK8U2c6S5KVgGyi3UVcb89pump",
+      "label": "LIPPY",
+      "verdict": "kill",
+      "reason": "liq $17",
+      "link": "https://fomo.family/coin?address=9fGTsrxW5D8wxpjXVzuK8U2c6S5KVgGyi3UVcb89pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:52:06.321355Z",
+      "mint": "EXNNjJ2XRBVrbKiumoc6qEwzofiUym8dqvLGgR7Gpump",
+      "label": "Rockstar Games",
+      "verdict": "kill",
+      "reason": "liq $22.0K",
+      "link": "https://fomo.family/coin?address=EXNNjJ2XRBVrbKiumoc6qEwzofiUym8dqvLGgR7Gpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:49:06.212677Z",
+      "mint": "2PCTs8uKQPfYB46QW6XFvdmEVKWFvZ9RuoixEk1xpump",
+      "label": "Claude",
+      "verdict": "kill",
+      "reason": "liq $21.8K",
+      "link": "https://fomo.family/coin?address=2PCTs8uKQPfYB46QW6XFvdmEVKWFvZ9RuoixEk1xpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:47:06.112517Z",
+      "mint": "D6xYznpY1zqDfGqdiX647d9U3M4Yk6qeH7x96fVzpump",
+      "label": "11N",
+      "verdict": "kill",
+      "reason": "liq $102",
+      "link": "https://fomo.family/coin?address=D6xYznpY1zqDfGqdiX647d9U3M4Yk6qeH7x96fVzpump&chainId=1399811149&r=savipww&source=share_link"
+    }
+  ],
+  "decisions": [
+    {
+      "ts": "2026-11-11T20:25:13.371920Z",
+      "mint": "AJqKjfP42KYksRP2p42GEfSkpnS5JdD9zxFJa1Pvpump",
+      "label": "DeepSeek",
+      "verdict": "kill",
+      "reason": "liq $23.4K",
+      "link": "https://fomo.family/coin?address=AJqKjfP42KYksRP2p42GEfSkpnS5JdD9zxFJa1Pvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:24:13.351698Z",
+      "mint": "9cJLZTdaofEHGCJRxDxkGJH91na76Kctc5HxyvMcpump",
+      "label": "Gold Chair",
+      "verdict": "kill",
+      "reason": "liq $7",
+      "link": "https://fomo.family/coin?address=9cJLZTdaofEHGCJRxDxkGJH91na76Kctc5HxyvMcpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:24:13.350793Z",
+      "mint": "81Dgt1KSSWUPNfKDqCbz14PBNRV5yQ2cyadZDdDepump",
+      "label": "HUSTLE TEAM",
+      "verdict": "kill",
+      "reason": "liq $8",
+      "link": "https://fomo.family/coin?address=81Dgt1KSSWUPNfKDqCbz14PBNRV5yQ2cyadZDdDepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:24:13.349451Z",
+      "mint": "7LWnrPRFEufaL5Hg4SNe6wbzX7JJkeeCckQbv1EJpump",
+      "label": "AICoin",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "link": "https://fomo.family/coin?address=7LWnrPRFEufaL5Hg4SNe6wbzX7JJkeeCckQbv1EJpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:22:13.305213Z",
+      "mint": "3YcG25TqE3LTn3LpmAoQoX8CJp8B9tpAm5fK9DJspump",
+      "label": "Baby Ni Hao Cat",
+      "verdict": "kill",
+      "reason": "liq $13.0K",
+      "link": "https://fomo.family/coin?address=3YcG25TqE3LTn3LpmAoQoX8CJp8B9tpAm5fK9DJspump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:22:13.304031Z",
+      "mint": "BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump",
+      "label": "Google",
+      "verdict": "kill",
+      "reason": "liq $23.2K",
+      "link": "https://fomo.family/coin?address=BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:22:13.302517Z",
+      "mint": "GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump",
+      "label": "MONEYY",
+      "verdict": "kill",
+      "reason": "liq $9.9K",
+      "link": "https://fomo.family/coin?address=GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:21:13.146793Z",
+      "mint": "632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG",
+      "label": "Teenydroid",
+      "verdict": "kill",
+      "reason": "liq $12.3K",
+      "link": "https://fomo.family/coin?address=632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:21:13.143232Z",
+      "mint": "3DAEY8CK5ScoUT5UP1TUzAAz1xpGx4w3sikSBzF5pump",
+      "label": "JUSSYCOIN",
+      "verdict": "kill",
+      "reason": "liq $217",
+      "link": "https://fomo.family/coin?address=3DAEY8CK5ScoUT5UP1TUzAAz1xpGx4w3sikSBzF5pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:20:13.119289Z",
+      "mint": "4jydr1VxLfjCZFgZcm1m24QpFmMwNyuh27CXSCodpump",
+      "label": "MoonBud",
+      "verdict": "kill",
+      "reason": "liq $1",
+      "link": "https://fomo.family/coin?address=4jydr1VxLfjCZFgZcm1m24QpFmMwNyuh27CXSCodpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T20:18:13.076745Z",
+      "mint": "6mpMPt5Gru2hKE9Aq3xocY8uXn5wekHuhePuAPUupump",
+      "label": "Elon Musk Metacoin",
+      "verdict": "kill",
+      "reason": "liq $13.5K",
+      "link": "https://fomo.family/coin?address=6mpMPt5Gru2hKE9Aq3xocY8uXn5wekHuhePuAPUupump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:57:06.859795Z",
+      "mint": "2fKzdqBvvpZ72qPffD9cC3XqTxr9V67ABVgicJm6pump",
+      "label": "GTA6",
+      "verdict": "kill",
+      "reason": "liq $23.2K",
+      "link": "https://fomo.family/coin?address=2fKzdqBvvpZ72qPffD9cC3XqTxr9V67ABVgicJm6pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:56:06.763587Z",
+      "mint": "DPMw7dNKT9THB4GUrnauSAufzY4ETDqRj272ot6Vpump",
+      "label": "MEMEUM",
+      "verdict": "kill",
+      "reason": "liq $13.9K",
+      "link": "https://fomo.family/coin?address=DPMw7dNKT9THB4GUrnauSAufzY4ETDqRj272ot6Vpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:55:06.654847Z",
+      "mint": "1477qoXUyduX7EYcdaLcidg4nNsi147Dvv6iZTEZpump",
+      "label": "🀄️",
+      "verdict": "kill",
+      "reason": "liq $23.1K",
+      "link": "https://fomo.family/coin?address=1477qoXUyduX7EYcdaLcidg4nNsi147Dvv6iZTEZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:53:06.459615Z",
+      "mint": "B58dv97XWQJBVj6mquNqzpdPkVg7uuQZchB9XUfGpump",
+      "label": "GREEN MORNING MUSK",
+      "verdict": "kill",
+      "reason": "liq $12.8K",
+      "link": "https://fomo.family/coin?address=B58dv97XWQJBVj6mquNqzpdPkVg7uuQZchB9XUfGpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:53:06.457938Z",
+      "mint": "9fGTsrxW5D8wxpjXVzuK8U2c6S5KVgGyi3UVcb89pump",
+      "label": "LIPPY",
+      "verdict": "kill",
+      "reason": "liq $17",
+      "link": "https://fomo.family/coin?address=9fGTsrxW5D8wxpjXVzuK8U2c6S5KVgGyi3UVcb89pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:52:06.321355Z",
+      "mint": "EXNNjJ2XRBVrbKiumoc6qEwzofiUym8dqvLGgR7Gpump",
+      "label": "Rockstar Games",
+      "verdict": "kill",
+      "reason": "liq $22.0K",
+      "link": "https://fomo.family/coin?address=EXNNjJ2XRBVrbKiumoc6qEwzofiUym8dqvLGgR7Gpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:49:06.212677Z",
+      "mint": "2PCTs8uKQPfYB46QW6XFvdmEVKWFvZ9RuoixEk1xpump",
+      "label": "Claude",
+      "verdict": "kill",
+      "reason": "liq $21.8K",
+      "link": "https://fomo.family/coin?address=2PCTs8uKQPfYB46QW6XFvdmEVKWFvZ9RuoixEk1xpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-11T19:47:06.112517Z",
+      "mint": "D6xYznpY1zqDfGqdiX647d9U3M4Yk6qeH7x96fVzpump",
+      "label": "11N",
+      "verdict": "kill",
+      "reason": "liq $102",
+      "link": "https://fomo.family/coin?address=D6xYznpY1zqDfGqdiX647d9U3M4Yk6qeH7x96fVzpump&chainId=1399811149&r=savipww&source=share_link"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "ts": "2026-11-11T20:49:33.282620Z",
+  "mint": "GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump",
+  "name": "MONEYY",
+  "symbol": "MONY",
+  "label": "MONEYY",
+  "chain": "Solana",
+  "age": "28m old",
+  "migratedAt": "2026-11-11T20:20:40.418931Z",
+  "pool": "Ahksw1ED5WaSvw2w2AavEANDRUGKXUQ33CsEvgPCTLDM",
+  "creator": "3SoYUq5eY8gn5p9Uz3fomA5ZbbHEpe6PhitttQ84GHBK",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 5.134e-06,
+  "priceTs": "2026-11-11T20:26:10.502481Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794428460,
+      "o": 4.474e-05,
+      "h": 4.474e-05,
+      "l": 4.474e-05,
+      "c": 4.474e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794428520,
+      "o": 1.713e-05,
+      "h": 1.713e-05,
+      "l": 1.139e-05,
+      "c": 1.139e-05,
+      "v": 22098.610000000004
+    },
+    {
+      "t": 1794428580,
+      "o": 5.355e-06,
+      "h": 5.355e-06,
+      "l": 5.355e-06,
+      "c": 5.355e-06,
+      "v": 4014.1199999999953
+    },
+    {
+      "t": 1794428640,
+      "o": 5.408e-06,
+      "h": 5.408e-06,
+      "l": 5.408e-06,
+      "c": 5.408e-06,
+      "v": 28.12000000000262
+    },
+    {
+      "t": 1794428700,
+      "o": 5.147e-06,
+      "h": 5.147e-06,
+      "l": 5.147e-06,
+      "c": 5.147e-06,
+      "v": 54.05999999999767
+    },
+    {
+      "t": 1794428760,
+      "o": 5.134e-06,
+      "h": 5.134e-06,
+      "l": 5.134e-06,
+      "c": 5.134e-06,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": null,
+    "liquidity": 9866.57,
+    "volume24h": null,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-11T20:22:13.302517Z",
+      "liquidity_usd": 9866.57,
+      "top10_pct": null,
+      "h1_change_pct": -64.11,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $9.9K"
+    }
+  ]
+}

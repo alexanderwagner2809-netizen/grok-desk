@@ -1,0 +1,80 @@
+{
+  "ts": "2026-11-11T20:49:33.281934Z",
+  "mint": "BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump",
+  "name": "Google",
+  "symbol": "Google",
+  "label": "Google",
+  "chain": "Solana",
+  "age": "27m old",
+  "migratedAt": "2026-11-11T20:21:35.898778Z",
+  "pool": "7gd9jxqLMtN7hLm1uthhwM7ncnRJFGCN68XFExkAH1d6",
+  "creator": "3oUu2UXZ6HDxuxVaUQiHX85rUGd9jKyLYWMLZ5cLnFf5",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 0.0001196,
+  "priceTs": "2026-11-11T20:26:10.502481Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794428520,
+      "o": 3.487e-05,
+      "h": 0.0001019,
+      "l": 3.487e-05,
+      "c": 0.0001019,
+      "v": 0.0
+    },
+    {
+      "t": 1794428580,
+      "o": 0.0001049,
+      "h": 0.0001049,
+      "l": 0.0001049,
+      "c": 0.0001049,
+      "v": 99.21000000000004
+    },
+    {
+      "t": 1794428640,
+      "o": 0.000108,
+      "h": 0.000108,
+      "l": 0.000108,
+      "c": 0.000108,
+      "v": 8.570000000000618
+    },
+    {
+      "t": 1794428700,
+      "o": 0.0001158,
+      "h": 0.0001158,
+      "l": 0.0001158,
+      "c": 0.0001158,
+      "v": 13.069999999999709
+    },
+    {
+      "t": 1794428760,
+      "o": 0.0001196,
+      "h": 0.0001196,
+      "l": 0.0001196,
+      "c": 0.0001196,
+      "v": 20.470000000000255
+    }
+  ],
+  "stats": {
+    "marketCap": null,
+    "liquidity": 23187.76,
+    "volume24h": null,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-11T20:22:13.304031Z",
+      "liquidity_usd": 23187.76,
+      "top10_pct": null,
+      "h1_change_pct": 189.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $23.2K"
+    }
+  ]
+}

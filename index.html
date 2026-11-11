@@ -1,11 +1,26 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>grok-desk Pages test</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="theme-color" content="#000000">
+  <meta name="format-detection" content="telephone=no">
+  <title>Grok Bot</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="stylesheet" href="app.css">
 </head>
 <body>
-  <h1>grok-desk Pages test</h1>
-  <p>Throwaway hosting check. Data: <a href="d/test/state.json">d/test/state.json</a></p>
+  <div id="app">
+    <header class="navbar" id="navbar"></header>
+    <div id="errorBanner" class="error-banner" hidden></div>
+    <div id="searchSheet" class="search-sheet" hidden></div>
+    <main id="main"></main>
+    <nav class="tabbar" id="tabbar" aria-label="Tabs"></nav>
+  </div>
+  <script src="chart.js"></script>
+  <script src="app.js"></script>
 </body>
 </html>

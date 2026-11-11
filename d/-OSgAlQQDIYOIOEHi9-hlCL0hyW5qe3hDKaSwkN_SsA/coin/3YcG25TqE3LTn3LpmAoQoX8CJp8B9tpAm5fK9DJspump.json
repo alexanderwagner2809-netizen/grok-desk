@@ -1,0 +1,80 @@
+{
+  "ts": "2026-11-11T20:49:33.281221Z",
+  "mint": "3YcG25TqE3LTn3LpmAoQoX8CJp8B9tpAm5fK9DJspump",
+  "name": "Baby Ni Hao Cat",
+  "symbol": "BABYMIHAO",
+  "label": "Baby Ni Hao Cat",
+  "chain": "Solana",
+  "age": "27m old",
+  "migratedAt": "2026-11-11T20:21:38.553889Z",
+  "pool": "8WoznsCisCS35v6noyGRMSYSMajmHJfMVyxQgkYmn9qT",
+  "creator": "28MJrJr2Pu2GPicLj8631nApwzXUAh9vkx2J6VgLPz3y",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=3YcG25TqE3LTn3LpmAoQoX8CJp8B9tpAm5fK9DJspump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 4.107e-05,
+  "priceTs": "2026-11-11T20:26:10.502481Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794428520,
+      "o": 3.487e-05,
+      "h": 3.518e-05,
+      "l": 3.487e-05,
+      "c": 3.518e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794428580,
+      "o": 4.167e-05,
+      "h": 4.167e-05,
+      "l": 4.167e-05,
+      "c": 4.167e-05,
+      "v": 3634.04
+    },
+    {
+      "t": 1794428640,
+      "o": 4.318e-05,
+      "h": 4.318e-05,
+      "l": 4.318e-05,
+      "c": 4.318e-05,
+      "v": 4519.51
+    },
+    {
+      "t": 1794428700,
+      "o": 4.303e-05,
+      "h": 4.303e-05,
+      "l": 4.303e-05,
+      "c": 4.303e-05,
+      "v": 2016.8099999999995
+    },
+    {
+      "t": 1794428760,
+      "o": 4.107e-05,
+      "h": 4.107e-05,
+      "l": 4.107e-05,
+      "c": 4.107e-05,
+      "v": 2711.3099999999995
+    }
+  ],
+  "stats": {
+    "marketCap": null,
+    "liquidity": 13005.79,
+    "volume24h": null,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-11T20:22:13.305213Z",
+      "liquidity_usd": 13005.79,
+      "top10_pct": null,
+      "h1_change_pct": -0.64,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $13.0K"
+    }
+  ]
+}

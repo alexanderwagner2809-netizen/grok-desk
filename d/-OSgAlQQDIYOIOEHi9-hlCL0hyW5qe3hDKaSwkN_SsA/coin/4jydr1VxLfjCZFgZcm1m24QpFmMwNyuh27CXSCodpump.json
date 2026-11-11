@@ -1,0 +1,104 @@
+{
+  "ts": "2026-11-11T20:49:33.284952Z",
+  "mint": "4jydr1VxLfjCZFgZcm1m24QpFmMwNyuh27CXSCodpump",
+  "name": "MoonBud",
+  "symbol": "BUD",
+  "label": "MoonBud",
+  "chain": "Solana",
+  "age": "31m old",
+  "migratedAt": "2026-11-11T20:18:28.476553Z",
+  "pool": "81iTnwwX8EgqMv43RNY96zkSb9hLehEU8rhzgieFZQPd",
+  "creator": "Er15bSCBaPLq8sHvmudUsQ5N3XVc6VKNSpppJmVjYrZo",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=4jydr1VxLfjCZFgZcm1m24QpFmMwNyuh27CXSCodpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.791e-10,
+  "priceTs": "2026-11-11T20:26:10.502481Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794428340,
+      "o": 2.044e-09,
+      "h": 2.044e-09,
+      "l": 2.044e-09,
+      "c": 2.044e-09,
+      "v": 0.0
+    },
+    {
+      "t": 1794428400,
+      "o": 4.835e-10,
+      "h": 4.835e-10,
+      "l": 4.835e-10,
+      "c": 4.835e-10,
+      "v": 0.9100000000000037
+    },
+    {
+      "t": 1794428460,
+      "o": 3.791e-10,
+      "h": 3.791e-10,
+      "l": 3.791e-10,
+      "c": 3.791e-10,
+      "v": 0.11999999999999744
+    },
+    {
+      "t": 1794428520,
+      "o": 3.791e-10,
+      "h": 3.791e-10,
+      "l": 3.791e-10,
+      "c": 3.791e-10,
+      "v": 0.0
+    },
+    {
+      "t": 1794428580,
+      "o": 3.791e-10,
+      "h": 3.791e-10,
+      "l": 3.791e-10,
+      "c": 3.791e-10,
+      "v": 0.0
+    },
+    {
+      "t": 1794428640,
+      "o": 3.791e-10,
+      "h": 3.791e-10,
+      "l": 3.791e-10,
+      "c": 3.791e-10,
+      "v": 0.0
+    },
+    {
+      "t": 1794428700,
+      "o": 3.791e-10,
+      "h": 3.791e-10,
+      "l": 3.791e-10,
+      "c": 3.791e-10,
+      "v": 0.0
+    },
+    {
+      "t": 1794428760,
+      "o": 3.791e-10,
+      "h": 3.791e-10,
+      "l": 3.791e-10,
+      "c": 3.791e-10,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": null,
+    "liquidity": 1.32,
+    "volume24h": null,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-11T20:20:13.119289Z",
+      "liquidity_usd": 1.32,
+      "top10_pct": null,
+      "h1_change_pct": -97.71,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $1"
+    }
+  ]
+}

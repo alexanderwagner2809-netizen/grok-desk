@@ -1,0 +1,88 @@
+{
+  "ts": "2026-11-11T20:49:33.284208Z",
+  "mint": "3DAEY8CK5ScoUT5UP1TUzAAz1xpGx4w3sikSBzF5pump",
+  "name": "JUSSYCOIN",
+  "symbol": "JUSS",
+  "label": "JUSSYCOIN",
+  "chain": "Solana",
+  "age": "29m old",
+  "migratedAt": "2026-11-11T20:20:14.990417Z",
+  "pool": "4T9buWowaevAchjAmM8xpcuqKawH2YGyFERsVwVb6uzf",
+  "creator": "DcTQjBVaCaApAXrf6PBwvMTBkWVzi2MCiR2WKUedQLNk",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=3DAEY8CK5ScoUT5UP1TUzAAz1xpGx4w3sikSBzF5pump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 9.863e-08,
+  "priceTs": "2026-11-11T20:26:10.502481Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794428460,
+      "o": 2.197e-07,
+      "h": 2.197e-07,
+      "l": 2.197e-07,
+      "c": 2.197e-07,
+      "v": 0.0
+    },
+    {
+      "t": 1794428520,
+      "o": 1.047e-07,
+      "h": 1.047e-07,
+      "l": 1.047e-07,
+      "c": 1.047e-07,
+      "v": 1057.99
+    },
+    {
+      "t": 1794428580,
+      "o": 9.242e-08,
+      "h": 9.242e-08,
+      "l": 9.242e-08,
+      "c": 9.242e-08,
+      "v": 8.460000000000036
+    },
+    {
+      "t": 1794428640,
+      "o": 9.769e-08,
+      "h": 9.769e-08,
+      "l": 9.769e-08,
+      "c": 9.769e-08,
+      "v": 3.650000000000091
+    },
+    {
+      "t": 1794428700,
+      "o": 9.414e-08,
+      "h": 9.414e-08,
+      "l": 9.414e-08,
+      "c": 9.414e-08,
+      "v": 1.199999999999818
+    },
+    {
+      "t": 1794428760,
+      "o": 9.863e-08,
+      "h": 9.863e-08,
+      "l": 9.863e-08,
+      "c": 9.863e-08,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": null,
+    "liquidity": 216.84,
+    "volume24h": null,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-11T20:21:13.143232Z",
+      "liquidity_usd": 216.84,
+      "top10_pct": null,
+      "h1_change_pct": -80.58,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $217"
+    }
+  ]
+}

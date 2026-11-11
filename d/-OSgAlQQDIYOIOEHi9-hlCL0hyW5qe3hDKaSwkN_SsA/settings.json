@@ -1,0 +1,425 @@
+{
+  "ts": "2026-11-11T20:49:33.275173Z",
+  "readOnly": true,
+  "groups": {
+    "scanner": [
+      {
+        "key": "scanner.min_liquidity_usd",
+        "value": 40000.0,
+        "type": "float",
+        "min": 0,
+        "max": 10000000,
+        "choices": null
+      },
+      {
+        "key": "scanner.max_top10_pct",
+        "value": 25.0,
+        "type": "float",
+        "min": 1,
+        "max": 100,
+        "choices": null
+      },
+      {
+        "key": "scanner.max_h1_change_pct",
+        "value": 80.0,
+        "type": "float",
+        "min": 1,
+        "max": 10000,
+        "choices": null
+      },
+      {
+        "key": "scanner.poll_s",
+        "value": 60,
+        "type": "int",
+        "min": 5,
+        "max": 3600,
+        "choices": null
+      },
+      {
+        "key": "scanner.min_pool_age_min",
+        "value": 10,
+        "type": "int",
+        "min": 0,
+        "max": 1440,
+        "choices": null
+      },
+      {
+        "key": "scanner.max_wait_min",
+        "value": 60,
+        "type": "int",
+        "min": 1,
+        "max": 10080,
+        "choices": null
+      },
+      {
+        "key": "scanner.runner_h24_pct",
+        "value": 300.0,
+        "type": "float",
+        "min": 50,
+        "max": 100000,
+        "choices": null
+      }
+    ],
+    "auditor": [
+      {
+        "key": "auditor.enabled",
+        "value": true,
+        "type": "bool",
+        "min": null,
+        "max": null,
+        "choices": null
+      },
+      {
+        "key": "auditor.max_dev_pct",
+        "value": 5.0,
+        "type": "float",
+        "min": 0,
+        "max": 100,
+        "choices": null
+      },
+      {
+        "key": "auditor.max_top10_pct",
+        "value": 25.0,
+        "type": "float",
+        "min": 1,
+        "max": 100,
+        "choices": null
+      },
+      {
+        "key": "auditor.min_lp_locked_pct",
+        "value": 99.0,
+        "type": "float",
+        "min": 0,
+        "max": 100,
+        "choices": null
+      },
+      {
+        "key": "auditor.min_pool_age_min",
+        "value": 10,
+        "type": "int",
+        "min": 0,
+        "max": 1440,
+        "choices": null
+      },
+      {
+        "key": "auditor.max_bundled",
+        "value": 5,
+        "type": "int",
+        "min": 1,
+        "max": 10000,
+        "choices": null
+      },
+      {
+        "key": "auditor.max_delegated_accounts",
+        "value": 10,
+        "type": "int",
+        "min": 1,
+        "max": 1000000,
+        "choices": null
+      },
+      {
+        "key": "auditor.retries",
+        "value": 3,
+        "type": "int",
+        "min": 0,
+        "max": 20,
+        "choices": null
+      }
+    ],
+    "analyst": [
+      {
+        "key": "analyst.mode",
+        "value": "jev",
+        "type": "choice",
+        "min": null,
+        "max": null,
+        "choices": [
+          "jev",
+          "rules"
+        ]
+      },
+      {
+        "key": "analyst.min_alive_6h",
+        "value": 0.7,
+        "type": "float",
+        "min": 0,
+        "max": 1,
+        "choices": null
+      },
+      {
+        "key": "analyst.min_organic",
+        "value": 0.65,
+        "type": "float",
+        "min": 0,
+        "max": 1,
+        "choices": null
+      },
+      {
+        "key": "analyst.max_chase",
+        "value": 0.3,
+        "type": "float",
+        "min": 0,
+        "max": 1,
+        "choices": null
+      },
+      {
+        "key": "analyst.min_score",
+        "value": 70,
+        "type": "int",
+        "min": 0,
+        "max": 100,
+        "choices": null
+      },
+      {
+        "key": "analyst.timeout_s",
+        "value": 10,
+        "type": "int",
+        "min": 1,
+        "max": 300,
+        "choices": null
+      },
+      {
+        "key": "analyst.alive_volume_h1",
+        "value": 25000.0,
+        "type": "float",
+        "min": 0,
+        "max": 1000000000,
+        "choices": null
+      },
+      {
+        "key": "analyst.organic_buys_h1",
+        "value": 150.0,
+        "type": "float",
+        "min": 0,
+        "max": 1000000,
+        "choices": null
+      },
+      {
+        "key": "analyst.bundled_penalty",
+        "value": 0.5,
+        "type": "float",
+        "min": 0,
+        "max": 1,
+        "choices": null
+      },
+      {
+        "key": "analyst.flush_drop_m5_pct",
+        "value": 5.0,
+        "type": "float",
+        "min": 0,
+        "max": 100,
+        "choices": null
+      },
+      {
+        "key": "analyst.chase_h1_pct",
+        "value": 80.0,
+        "type": "float",
+        "min": 1,
+        "max": 10000,
+        "choices": null
+      }
+    ],
+    "executor": [
+      {
+        "key": "executor.stack_pct",
+        "value": 8.0,
+        "type": "float",
+        "min": 0.1,
+        "max": 100,
+        "choices": null
+      },
+      {
+        "key": "executor.max_pool_pct",
+        "value": 2.0,
+        "type": "float",
+        "min": 0.1,
+        "max": 100,
+        "choices": null
+      },
+      {
+        "key": "executor.min_ticket_usd",
+        "value": 47.5,
+        "type": "float",
+        "min": 0.01,
+        "max": 1000000,
+        "choices": null
+      },
+      {
+        "key": "executor.below_min",
+        "value": "bump",
+        "type": "choice",
+        "min": null,
+        "max": null,
+        "choices": [
+          "bump",
+          "skip"
+        ]
+      },
+      {
+        "key": "executor.recheck_liq_drop_pct",
+        "value": 20.0,
+        "type": "float",
+        "min": 0,
+        "max": 100,
+        "choices": null
+      },
+      {
+        "key": "executor.recheck_price_up_pct",
+        "value": 15.0,
+        "type": "float",
+        "min": 0,
+        "max": 10000,
+        "choices": null
+      },
+      {
+        "key": "executor.confirm_window_min",
+        "value": 5,
+        "type": "int",
+        "min": 0,
+        "max": 180,
+        "choices": null
+      }
+    ],
+    "risk": [
+      {
+        "key": "risk.poll_s",
+        "value": 15,
+        "type": "int",
+        "min": 1,
+        "max": 3600,
+        "choices": null
+      },
+      {
+        "key": "risk.stop_pct",
+        "value": 6.0,
+        "type": "float",
+        "min": 0.1,
+        "max": 100,
+        "choices": null
+      },
+      {
+        "key": "risk.trail_start_pct",
+        "value": 20.0,
+        "type": "float",
+        "min": 0.1,
+        "max": 10000,
+        "choices": null
+      },
+      {
+        "key": "risk.trail_pct",
+        "value": 12.0,
+        "type": "float",
+        "min": 0.1,
+        "max": 100,
+        "choices": null
+      },
+      {
+        "key": "risk.timeout_h",
+        "value": 3.0,
+        "type": "float",
+        "min": 0.1,
+        "max": 168,
+        "choices": null
+      },
+      {
+        "key": "risk.timeout_min_gain_pct",
+        "value": 5.0,
+        "type": "float",
+        "min": 0,
+        "max": 10000,
+        "choices": null
+      },
+      {
+        "key": "risk.confirm_window_min",
+        "value": 2,
+        "type": "int",
+        "min": 0,
+        "max": 180,
+        "choices": null
+      }
+    ],
+    "desk": [
+      {
+        "key": "desk.mode",
+        "value": "PAPER",
+        "type": "choice",
+        "min": null,
+        "max": null,
+        "choices": [
+          "PAPER",
+          "LIVE"
+        ]
+      },
+      {
+        "key": "desk.paper_start_stack",
+        "value": 200.0,
+        "type": "float",
+        "min": 1,
+        "max": 1000000000,
+        "choices": null
+      },
+      {
+        "key": "desk.report_time",
+        "value": "08:00",
+        "type": "time",
+        "min": null,
+        "max": null,
+        "choices": null
+      },
+      {
+        "key": "desk.notifier",
+        "value": "telegram",
+        "type": "choice",
+        "min": null,
+        "max": null,
+        "choices": [
+          "telegram",
+          "webpush"
+        ]
+      },
+      {
+        "key": "desk.push_rejects",
+        "value": false,
+        "type": "bool",
+        "min": null,
+        "max": null,
+        "choices": null
+      },
+      {
+        "key": "desk.fees_ref_discount",
+        "value": 0.1,
+        "type": "float",
+        "min": 0,
+        "max": 1,
+        "choices": null
+      },
+      {
+        "key": "desk.fomo_handle",
+        "value": "alex020809",
+        "type": "str",
+        "min": null,
+        "max": null,
+        "choices": null
+      },
+      {
+        "key": "desk.hosting",
+        "value": "B",
+        "type": "choice",
+        "min": null,
+        "max": null,
+        "choices": [
+          "A",
+          "B"
+        ]
+      },
+      {
+        "key": "desk.publish_interval_s",
+        "value": 60,
+        "type": "int",
+        "min": 30,
+        "max": 3600,
+        "choices": null
+      }
+    ]
+  }
+}

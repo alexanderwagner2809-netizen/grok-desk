@@ -1,0 +1,151 @@
+{
+  "ts": "2026-11-11T20:49:33.272095Z",
+  "mode": "PAPER",
+  "balance": 200.0,
+  "startStack": 200.0,
+  "todayPct": 0.0,
+  "multiplier": 1.0,
+  "openCount": 0,
+  "running": 0,
+  "agents": [
+    {
+      "name": "scanner",
+      "color": "#64d2ff",
+      "ok": false,
+      "heartbeat": "2026-11-11T20:26:48.025775Z",
+      "paused": false,
+      "status": "idle",
+      "card": "19 pools",
+      "count": 19,
+      "passed": 0,
+      "feed": [
+        {
+          "mint": "AJqKjfP42KYksRP2p42GEfSkpnS5JdD9zxFJa1Pvpump",
+          "label": "DeepSeek",
+          "verdict": "kill",
+          "reason": "liq $23.4K",
+          "subtitle": "liq $23.4K",
+          "link": "https://fomo.family/coin?address=AJqKjfP42KYksRP2p42GEfSkpnS5JdD9zxFJa1Pvpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "9cJLZTdaofEHGCJRxDxkGJH91na76Kctc5HxyvMcpump",
+          "label": "Gold Chair",
+          "verdict": "kill",
+          "reason": "liq $7",
+          "subtitle": "liq $7",
+          "link": "https://fomo.family/coin?address=9cJLZTdaofEHGCJRxDxkGJH91na76Kctc5HxyvMcpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "81Dgt1KSSWUPNfKDqCbz14PBNRV5yQ2cyadZDdDepump",
+          "label": "HUSTLE TEAM",
+          "verdict": "kill",
+          "reason": "liq $8",
+          "subtitle": "liq $8",
+          "link": "https://fomo.family/coin?address=81Dgt1KSSWUPNfKDqCbz14PBNRV5yQ2cyadZDdDepump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "7LWnrPRFEufaL5Hg4SNe6wbzX7JJkeeCckQbv1EJpump",
+          "label": "AICoin",
+          "verdict": "kill",
+          "reason": "liq $3",
+          "subtitle": "liq $3",
+          "link": "https://fomo.family/coin?address=7LWnrPRFEufaL5Hg4SNe6wbzX7JJkeeCckQbv1EJpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "3YcG25TqE3LTn3LpmAoQoX8CJp8B9tpAm5fK9DJspump",
+          "label": "Baby Ni Hao Cat",
+          "verdict": "kill",
+          "reason": "liq $13.0K",
+          "subtitle": "liq $13.0K",
+          "link": "https://fomo.family/coin?address=3YcG25TqE3LTn3LpmAoQoX8CJp8B9tpAm5fK9DJspump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump",
+          "label": "Google",
+          "verdict": "kill",
+          "reason": "liq $23.2K",
+          "subtitle": "liq $23.2K",
+          "link": "https://fomo.family/coin?address=BuaseKYxFH5Bcz6uoTU2JiX32hRGsGfGLTgamoWpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump",
+          "label": "MONEYY",
+          "verdict": "kill",
+          "reason": "liq $9.9K",
+          "subtitle": "liq $9.9K",
+          "link": "https://fomo.family/coin?address=GT12KER5HCdf4fPrAiDRPSuRDBeUY1f1EQeh5mospump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG",
+          "label": "Teenydroid",
+          "verdict": "kill",
+          "reason": "liq $12.3K",
+          "subtitle": "liq $12.3K",
+          "link": "https://fomo.family/coin?address=632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG&chainId=1399811149&r=savipww&source=share_link"
+        }
+      ],
+      "empty": null
+    },
+    {
+      "name": "auditor",
+      "color": "#ffffff",
+      "ok": false,
+      "heartbeat": "2026-11-11T20:27:06.817298Z",
+      "paused": false,
+      "status": "idle",
+      "card": "0 taken apart",
+      "count": 0,
+      "rejected": 0,
+      "headline": null,
+      "layers": [],
+      "empty": "No coin taken apart yet"
+    },
+    {
+      "name": "analyst",
+      "color": "#ffd60a",
+      "ok": false,
+      "heartbeat": "2026-11-11T20:27:06.818163Z",
+      "paused": false,
+      "status": "idle",
+      "card": "Scoring",
+      "count": 0,
+      "score": null,
+      "passed": null,
+      "minScore": 70
+    },
+    {
+      "name": "executor",
+      "color": "#00d35a",
+      "ok": false,
+      "heartbeat": "2026-11-11T20:27:06.818283Z",
+      "paused": false,
+      "status": "idle",
+      "card": "0 trades",
+      "count": 0,
+      "detail": null,
+      "bar": null
+    },
+    {
+      "name": "risk",
+      "color": "#ff6b9a",
+      "ok": false,
+      "heartbeat": "2026-11-11T20:26:53.018569Z",
+      "paused": false,
+      "status": "idle",
+      "card": "Guarding",
+      "count": 0,
+      "openCount": 0,
+      "lastExit": null,
+      "pills": {
+        "stop": "stop -6%",
+        "trail": "trail 12%"
+      }
+    }
+  ],
+  "activity": [],
+  "hosting": "B",
+  "pills": {
+    "stop": "stop -6%",
+    "trail": "trail 12%"
+  }
+}

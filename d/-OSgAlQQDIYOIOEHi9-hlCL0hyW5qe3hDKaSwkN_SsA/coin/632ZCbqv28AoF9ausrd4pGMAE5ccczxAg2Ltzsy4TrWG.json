@@ -1,0 +1,88 @@
+{
+  "ts": "2026-11-11T20:49:33.283407Z",
+  "mint": "632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG",
+  "name": "Teenydroid",
+  "symbol": "Teeny",
+  "label": "Teenydroid",
+  "chain": "Solana",
+  "age": "28m old",
+  "migratedAt": "2026-11-11T20:20:35.795061Z",
+  "pool": "BEUbx7K1fMCE7SJrLHZFmYqRTDfTZW4HDbocndrQjX5k",
+  "creator": "CmgPPkmftRfteWeH3RXaZhxcUEByfnm4kA17atWwg1XZ",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG&chainId=1399811149&r=savipww&source=share_link",
+  "price": 1.671e-05,
+  "priceTs": "2026-11-11T20:26:10.502481Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794428460,
+      "o": 3.168e-05,
+      "h": 3.168e-05,
+      "l": 3.168e-05,
+      "c": 3.168e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794428520,
+      "o": 2.808e-05,
+      "h": 2.808e-05,
+      "l": 2.808e-05,
+      "c": 2.808e-05,
+      "v": 18507.890000000003
+    },
+    {
+      "t": 1794428580,
+      "o": 2.773e-05,
+      "h": 2.773e-05,
+      "l": 2.773e-05,
+      "c": 2.773e-05,
+      "v": 11513.119999999999
+    },
+    {
+      "t": 1794428640,
+      "o": 3.724e-05,
+      "h": 3.724e-05,
+      "l": 3.724e-05,
+      "c": 3.724e-05,
+      "v": 7485.630000000001
+    },
+    {
+      "t": 1794428700,
+      "o": 2.175e-05,
+      "h": 2.175e-05,
+      "l": 2.175e-05,
+      "c": 2.175e-05,
+      "v": 22887.049999999996
+    },
+    {
+      "t": 1794428760,
+      "o": 1.671e-05,
+      "h": 1.671e-05,
+      "l": 1.671e-05,
+      "c": 1.671e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": null,
+    "liquidity": 12334.47,
+    "volume24h": null,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-11T20:21:13.146793Z",
+      "liquidity_usd": 12334.47,
+      "top10_pct": null,
+      "h1_change_pct": -6.83,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $12.3K"
+    }
+  ]
+}
