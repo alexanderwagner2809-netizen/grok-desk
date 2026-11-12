@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T17:05:48.615318Z",
+  "ts": "2026-11-12T17:07:00.583959Z",
   "mint": "5ZA32FxzsxcSXZuYDbrxa9QVVvzkiLbisDb5VKmNpump",
   "name": "Ballscoin",
   "symbol": "BALLS",
   "label": "Ballscoin",
   "chain": "Solana",
-  "age": "42m old",
+  "age": "44m old",
   "migratedAt": "2026-11-12T16:22:50.576630Z",
   "pool": "BKuWVT66paCpS5YXowV8mcmgWbvBc53AtF3jBspCrCZa",
   "creator": "F2HhCpdTY2NtpLDXPJSHgBHzfVYHQRVgVnzFLzRXaa3s",
   "holders": null,
   "link": "https://fomo.family/coin?address=5ZA32FxzsxcSXZuYDbrxa9QVVvzkiLbisDb5VKmNpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.000545,
-  "priceTs": "2026-11-12T17:05:46.640124Z",
+  "price": 0.0003686,
+  "priceTs": "2026-11-12T17:06:58.477963Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -200,12 +200,20 @@
       "l": 0.000545,
       "c": 0.000545,
       "v": 0.0
+    },
+    {
+      "t": 1794503160,
+      "o": 0.0003686,
+      "h": 0.0003686,
+      "l": 0.0003686,
+      "c": 0.0003686,
+      "v": 6638.84
     }
   ],
   "stats": {
-    "marketCap": 538735.0,
-    "liquidity": 55250.6,
-    "volume24h": 227526.91,
+    "marketCap": 364357.0,
+    "liquidity": 45157.96,
+    "volume24h": 235207.17,
     "holders": null
   },
   "position": null,
