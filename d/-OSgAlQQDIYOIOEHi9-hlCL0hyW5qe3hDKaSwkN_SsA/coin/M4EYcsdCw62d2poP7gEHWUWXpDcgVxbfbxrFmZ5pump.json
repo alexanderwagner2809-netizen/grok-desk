@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T14:46:54.339185Z",
+  "ts": "2026-11-12T14:48:04.524690Z",
   "mint": "M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump",
   "name": "NATF",
   "symbol": "NATF",
@@ -11,8 +11,8 @@
   "creator": "3TuquBKoEC4FCeRVCJerb39FmBPrREGn9ngph8VyBpNx",
   "holders": null,
   "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.007829,
-  "priceTs": "2026-11-12T14:46:52.818787Z",
+  "price": 0.007811,
+  "priceTs": "2026-11-12T14:48:03.011294Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -280,12 +280,20 @@
       "l": 0.007829,
       "c": 0.007829,
       "v": 132.6199999999999
+    },
+    {
+      "t": 1794494880,
+      "o": 0.007811,
+      "h": 0.007811,
+      "l": 0.007811,
+      "c": 0.007811,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 7827102.0,
-    "liquidity": 210062.67,
-    "volume24h": 167563.44,
+    "marketCap": 7809800.0,
+    "liquidity": 209829.46,
+    "volume24h": 167882.81,
     "holders": null
   },
   "position": null,

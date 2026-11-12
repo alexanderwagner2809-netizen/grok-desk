@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T14:46:54.328770Z",
+  "ts": "2026-11-12T14:48:04.514611Z",
   "mint": "45wTiGpwQWRGdZ3pe5jPsEd8EYcaWLD7xyxm5XEJpump",
   "name": "Tech",
   "symbol": "Tech",
@@ -11,8 +11,8 @@
   "creator": "AzYE9g4hfcicz7S7QSP1kWE93GPyC3jjEspGoYH9gSUj",
   "holders": null,
   "link": "https://fomo.family/coin?address=45wTiGpwQWRGdZ3pe5jPsEd8EYcaWLD7xyxm5XEJpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.518e-06,
-  "priceTs": "2026-11-12T14:46:52.818787Z",
+  "price": 5.467e-06,
+  "priceTs": "2026-11-12T14:48:03.011294Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -112,12 +112,20 @@
       "l": 5.518e-06,
       "c": 5.518e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794494880,
+      "o": 5.467e-06,
+      "h": 5.467e-06,
+      "l": 5.467e-06,
+      "c": 5.467e-06,
+      "v": 1.7300000000000182
     }
   ],
   "stats": {
-    "marketCap": 5225.0,
-    "liquidity": 4215.81,
-    "volume24h": 108172.97,
+    "marketCap": 5177.0,
+    "liquidity": 4179.69,
+    "volume24h": 108174.7,
     "holders": null
   },
   "position": null,
