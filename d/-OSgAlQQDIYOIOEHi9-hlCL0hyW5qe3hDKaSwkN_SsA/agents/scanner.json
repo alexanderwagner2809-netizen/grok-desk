@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T05:09:29.024832Z",
+  "ts": "2026-11-12T05:10:37.588991Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T05:09:13.904224Z",
+  "heartbeat": "2026-11-12T05:10:33.921904Z",
   "paused": false,
   "status": "running",
-  "card": "105 pools",
-  "count": 105,
+  "card": "106 pools",
+  "count": 106,
   "passed": 0,
   "feed": [
+    {
+      "mint": "3WrHjtBhJBQWjEXHVsVaADD8eCzV45kVGfGa8hcbpump",
+      "label": "Mayhem is my Bitch",
+      "verdict": "kill",
+      "reason": "liq $38",
+      "subtitle": "liq $38",
+      "link": "https://fomo.family/coin?address=3WrHjtBhJBQWjEXHVsVaADD8eCzV45kVGfGa8hcbpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "3mk8HFzaSvM8Ep317NPEtQb5ui47csEvzY7GQ7hwpump",
       "label": "Dashity Coin",
@@ -66,19 +74,19 @@
       "reason": "liq $3",
       "subtitle": "liq $3",
       "link": "https://fomo.family/coin?address=4EgTmufF8Jqn9vXT4bKv9UXy57EEMHxxrWkDjSAKpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "8QRe56BCJPdWqBFS5hq6fcA9bghb6mRMCKMLrHacpump",
-      "label": "Grok",
-      "verdict": "kill",
-      "reason": "liq $21.7K",
-      "subtitle": "liq $21.7K",
-      "link": "https://fomo.family/coin?address=8QRe56BCJPdWqBFS5hq6fcA9bghb6mRMCKMLrHacpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T05:10:09.009107Z",
+      "mint": "3WrHjtBhJBQWjEXHVsVaADD8eCzV45kVGfGa8hcbpump",
+      "label": "Mayhem is my Bitch",
+      "verdict": "kill",
+      "reason": "liq $38",
+      "link": "https://fomo.family/coin?address=3WrHjtBhJBQWjEXHVsVaADD8eCzV45kVGfGa8hcbpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T05:05:08.891987Z",
       "mint": "3mk8HFzaSvM8Ep317NPEtQb5ui47csEvzY7GQ7hwpump",
       "label": "Dashity Coin",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $3",
       "link": "https://fomo.family/coin?address=AtSRxRWXmPfNhTQLQkN3QTUM6vzxJcgLkBqENavvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:05:49.282066Z",
-      "mint": "Goebmkx6ewHcBvBAydCutZC5RU3KiydnpZqX6Tgpump",
-      "label": "Max Coin",
-      "verdict": "kill",
-      "reason": "liq $2",
-      "link": "https://fomo.family/coin?address=Goebmkx6ewHcBvBAydCutZC5RU3KiydnpZqX6Tgpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T05:10:09.009107Z",
+      "mint": "3WrHjtBhJBQWjEXHVsVaADD8eCzV45kVGfGa8hcbpump",
+      "label": "Mayhem is my Bitch",
+      "verdict": "kill",
+      "reason": "liq $38",
+      "link": "https://fomo.family/coin?address=3WrHjtBhJBQWjEXHVsVaADD8eCzV45kVGfGa8hcbpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T05:05:08.891987Z",
       "mint": "3mk8HFzaSvM8Ep317NPEtQb5ui47csEvzY7GQ7hwpump",
       "label": "Dashity Coin",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $3",
       "link": "https://fomo.family/coin?address=AtSRxRWXmPfNhTQLQkN3QTUM6vzxJcgLkBqENavvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:05:49.282066Z",
-      "mint": "Goebmkx6ewHcBvBAydCutZC5RU3KiydnpZqX6Tgpump",
-      "label": "Max Coin",
-      "verdict": "kill",
-      "reason": "liq $2",
-      "link": "https://fomo.family/coin?address=Goebmkx6ewHcBvBAydCutZC5RU3KiydnpZqX6Tgpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T05:09:28.987809Z",
+  "ts": "2026-11-12T05:10:37.453825Z",
   "mint": "3WrHjtBhJBQWjEXHVsVaADD8eCzV45kVGfGa8hcbpump",
-  "name": null,
-  "symbol": null,
-  "label": "3WrHjtBh",
+  "name": "Mayhem is my Bitch",
+  "symbol": "Slutty",
+  "label": "Mayhem is my Bitch",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T05:09:09.271754Z",
-  "pool": null,
+  "pool": "4oYu1M5MvoqY8zRm76BcmLk25a2EJjfT4Mv6saCisx4S",
   "creator": "6YRGd1txN23Gp1jMYn4MkNtJvt5a3TYrW8VduW6y6ajU",
   "holders": null,
   "link": "https://fomo.family/coin?address=3WrHjtBhJBQWjEXHVsVaADD8eCzV45kVGfGa8hcbpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.607e-08,
-  "priceTs": "2026-11-12T05:09:28.779483Z",
+  "price": 2.622e-08,
+  "priceTs": "2026-11-12T05:10:36.787932Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 3.607e-08,
       "c": 3.607e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794460200,
+      "o": 1.138e-07,
+      "h": 1.138e-07,
+      "l": 2.622e-08,
+      "c": 2.622e-08,
+      "v": 55.46
     }
   ],
   "stats": {
-    "marketCap": 36.08,
-    "liquidity": null,
-    "volume24h": 547.52,
+    "marketCap": 52.0,
+    "liquidity": 18.45,
+    "volume24h": 60.25,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T05:10:09.009107Z",
+      "liquidity_usd": 38.08,
+      "top10_pct": null,
+      "h1_change_pct": 51.08,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $38"
+    }
+  ]
 }
