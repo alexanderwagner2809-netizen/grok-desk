@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T06:43:13.975852Z",
+  "ts": "2026-11-12T06:44:22.300519Z",
   "mint": "Eh5zz6vrPK66MHzhBLrzEFHvATE7Z1SqoALzcNu4pump",
   "name": "Bitcoin Inu",
   "symbol": "BITCOINU",
@@ -11,8 +11,8 @@
   "creator": "7tCY9V1j2kS5oBezQ5DEe2aPkEnsHYyS9PAQ9xaTicbz",
   "holders": null,
   "link": "https://fomo.family/coin?address=Eh5zz6vrPK66MHzhBLrzEFHvATE7Z1SqoALzcNu4pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001628,
-  "priceTs": "2026-11-12T06:43:13.183436Z",
+  "price": 0.0001801,
+  "priceTs": "2026-11-12T06:44:21.523536Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -432,12 +432,20 @@
       "l": 0.0001628,
       "c": 0.0001628,
       "v": 0.0
+    },
+    {
+      "t": 1794465840,
+      "o": 0.0001801,
+      "h": 0.0001801,
+      "l": 0.0001801,
+      "c": 0.0001801,
+      "v": 393.4899999999998
     }
   ],
   "stats": {
-    "marketCap": 161673.0,
-    "liquidity": 30151.84,
-    "volume24h": 568260.46,
+    "marketCap": 178817.0,
+    "liquidity": 31781.86,
+    "volume24h": 569137.27,
     "holders": null
   },
   "position": null,
