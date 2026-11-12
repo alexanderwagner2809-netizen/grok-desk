@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-12T05:37:56.276120Z",
+  "ts": "2026-11-12T05:49:15.639641Z",
   "mint": "3gtM9ncqZcqFGVStcczyEJGsSDk3CLAUzo4Mnxqipump",
-  "name": null,
-  "symbol": null,
-  "label": "3gtM9ncq",
+  "name": "The APE Pill",
+  "symbol": "APE",
+  "label": "The APE Pill",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "12m old",
   "migratedAt": "2026-11-12T05:36:27.442726Z",
-  "pool": null,
+  "pool": "9Jfe3e8zKb4FtyjDZ9Enq9zHL5CeaKKUrDDnDKgecjnC",
   "creator": "D5DsL8HZ5oQs3r43T5HF2ZZNGCrKuQSEddkHMzqSmhFy",
   "holders": null,
   "link": "https://fomo.family/coin?address=3gtM9ncqZcqFGVStcczyEJGsSDk3CLAUzo4Mnxqipump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T05:48:46.374830Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 33.3,
+      "age_min": 12,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }

@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T05:37:56.318526Z",
+  "ts": "2026-11-12T05:49:15.815533Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T05:37:54.925213Z",
+  "heartbeat": "2026-11-12T05:49:05.868901Z",
   "paused": false,
   "status": "running",
-  "card": "110 pools",
-  "count": 110,
+  "card": "112 pools",
+  "count": 112,
   "passed": 0,
   "feed": [
+    {
+      "mint": "7iN1CooUtSY8433LuCTPU6DDeS8wvCurYuzCNMJWpump",
+      "label": "profilepad",
+      "verdict": "kill",
+      "reason": "liq $3.6K",
+      "subtitle": "liq $3.6K",
+      "link": "https://fomo.family/coin?address=7iN1CooUtSY8433LuCTPU6DDeS8wvCurYuzCNMJWpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "3gtM9ncqZcqFGVStcczyEJGsSDk3CLAUzo4Mnxqipump",
+      "label": "The APE Pill",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=3gtM9ncqZcqFGVStcczyEJGsSDk3CLAUzo4Mnxqipump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "2Swykqs3yQFaznrmdyxwpVrwJjtrBfY51V97yMuzpump",
       "label": "maritains",
@@ -58,27 +74,27 @@
       "reason": "liq $3",
       "subtitle": "liq $3",
       "link": "https://fomo.family/coin?address=3mk8HFzaSvM8Ep317NPEtQb5ui47csEvzY7GQ7hwpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "WpDP1XabvTqdrRgxNzLbJMa66bhHKeyEgYMgBxYpump",
-      "label": "Burn token",
-      "verdict": "kill",
-      "reason": "liq $12",
-      "subtitle": "liq $12",
-      "link": "https://fomo.family/coin?address=WpDP1XabvTqdrRgxNzLbJMa66bhHKeyEgYMgBxYpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EYgyePkh93xfNwJNPc5WswVwYnZinDY8j8qyz6A8pump",
-      "label": "attention",
-      "verdict": "kill",
-      "reason": "liq $20",
-      "subtitle": "liq $20",
-      "link": "https://fomo.family/coin?address=EYgyePkh93xfNwJNPc5WswVwYnZinDY8j8qyz6A8pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T05:48:46.376580Z",
+      "mint": "7iN1CooUtSY8433LuCTPU6DDeS8wvCurYuzCNMJWpump",
+      "label": "profilepad",
+      "verdict": "kill",
+      "reason": "liq $3.6K",
+      "link": "https://fomo.family/coin?address=7iN1CooUtSY8433LuCTPU6DDeS8wvCurYuzCNMJWpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T05:48:46.374830Z",
+      "mint": "3gtM9ncqZcqFGVStcczyEJGsSDk3CLAUzo4Mnxqipump",
+      "label": "The APE Pill",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=3gtM9ncqZcqFGVStcczyEJGsSDk3CLAUzo4Mnxqipump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T05:36:35.152912Z",
       "mint": "2Swykqs3yQFaznrmdyxwpVrwJjtrBfY51V97yMuzpump",
       "label": "maritains",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $48",
       "link": "https://fomo.family/coin?address=6ujwMRf28Xd5xUJBHyAN1hTTTLCCyDEDFbQTcHNRpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:32:51.504267Z",
-      "mint": "7Wa24Rs39Ktf2vfo6Nt4kv4RTfjaQbXDY9y8E3vFpump",
-      "label": "GTA6",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=7Wa24Rs39Ktf2vfo6Nt4kv4RTfjaQbXDY9y8E3vFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:30:51.396029Z",
-      "mint": "HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump",
-      "label": "Scamson Musk",
-      "verdict": "kill",
-      "reason": "liq $25.7K",
-      "link": "https://fomo.family/coin?address=HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T05:48:46.376580Z",
+      "mint": "7iN1CooUtSY8433LuCTPU6DDeS8wvCurYuzCNMJWpump",
+      "label": "profilepad",
+      "verdict": "kill",
+      "reason": "liq $3.6K",
+      "link": "https://fomo.family/coin?address=7iN1CooUtSY8433LuCTPU6DDeS8wvCurYuzCNMJWpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T05:48:46.374830Z",
+      "mint": "3gtM9ncqZcqFGVStcczyEJGsSDk3CLAUzo4Mnxqipump",
+      "label": "The APE Pill",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=3gtM9ncqZcqFGVStcczyEJGsSDk3CLAUzo4Mnxqipump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T05:36:35.152912Z",
       "mint": "2Swykqs3yQFaznrmdyxwpVrwJjtrBfY51V97yMuzpump",
       "label": "maritains",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $48",
       "link": "https://fomo.family/coin?address=6ujwMRf28Xd5xUJBHyAN1hTTTLCCyDEDFbQTcHNRpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:32:51.504267Z",
-      "mint": "7Wa24Rs39Ktf2vfo6Nt4kv4RTfjaQbXDY9y8E3vFpump",
-      "label": "GTA6",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=7Wa24Rs39Ktf2vfo6Nt4kv4RTfjaQbXDY9y8E3vFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:30:51.396029Z",
-      "mint": "HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump",
-      "label": "Scamson Musk",
-      "verdict": "kill",
-      "reason": "liq $25.7K",
-      "link": "https://fomo.family/coin?address=HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
