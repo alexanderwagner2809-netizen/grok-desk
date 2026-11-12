@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T08:26:30.992960Z",
+  "ts": "2026-11-12T08:27:39.914182Z",
   "mint": "2LxzNxVNkUMBvUXQthwxEGY8AnwRJcUQN7UkP2YGpump",
-  "name": null,
-  "symbol": null,
-  "label": "2LxzNxVN",
+  "name": "VRL",
+  "symbol": "vrl",
+  "label": "VRL",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T08:26:16.508415Z",
-  "pool": null,
+  "pool": "veAkwPezNWLAsLiXr81SBnnyCed2GrzUMrWzm5J7ahk",
   "creator": "4Wp9PgyrsXKmW3Pzmy7vsFWvdkPo18mUneFvVV5wToiR",
   "holders": null,
   "link": "https://fomo.family/coin?address=2LxzNxVNkUMBvUXQthwxEGY8AnwRJcUQN7UkP2YGpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 7.185e-08,
-  "priceTs": "2026-11-12T08:26:30.415738Z",
+  "price": 1.107e-08,
+  "priceTs": "2026-11-12T08:27:38.933200Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -21,18 +21,36 @@
       "t": 1794471960,
       "o": 7.185e-08,
       "h": 7.185e-08,
-      "l": 7.185e-08,
-      "c": 7.185e-08,
+      "l": 3.139e-08,
+      "c": 3.139e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794472020,
+      "o": 1.107e-08,
+      "h": 1.107e-08,
+      "l": 1.107e-08,
+      "c": 1.107e-08,
+      "v": 18.24000000000001
     }
   ],
   "stats": {
-    "marketCap": 71.85,
-    "liquidity": null,
-    "volume24h": 4069.55,
+    "marketCap": 22.0,
+    "liquidity": 41.32,
+    "volume24h": 393.83,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T08:26:49.191861Z",
+      "liquidity_usd": 68.85,
+      "top10_pct": null,
+      "h1_change_pct": -96.43,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $69"
+    }
+  ]
 }
