@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:06:19.446024Z",
+  "ts": "2026-11-12T06:07:27.694540Z",
   "mint": "GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump",
-  "name": null,
-  "symbol": null,
-  "label": "GCBzWGdK",
+  "name": "Max coin",
+  "symbol": "Max",
+  "label": "Max coin",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T06:05:14.753439Z",
-  "pool": null,
+  "pool": "8bPJ9dLKcPwbzwcEg8MjfunHJy8XhYXRkFBmjB5gLbNj",
   "creator": "Cc7qAqRPGoG9U1YMnutzSd9Udfs74ibiHpzLkSDmkDEe",
   "holders": null,
   "link": "https://fomo.family/coin?address=GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.01998,
-  "priceTs": "2026-11-12T06:06:19.294901Z",
+  "price": 0.02007,
+  "priceTs": "2026-11-12T06:07:27.538353Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -20,16 +20,24 @@
     {
       "t": 1794463560,
       "o": 0.01998,
-      "h": 0.01998,
+      "h": 0.02002,
       "l": 0.01998,
-      "c": 0.01998,
-      "v": 0.0
+      "c": 0.02002,
+      "v": 42.5800000000163
+    },
+    {
+      "t": 1794463620,
+      "o": 0.02007,
+      "h": 0.02007,
+      "l": 0.02007,
+      "c": 0.02007,
+      "v": 134.94999999998254
     }
   ],
   "stats": {
-    "marketCap": 19981208.0,
-    "liquidity": 340309.03,
-    "volume24h": 163089.05,
+    "marketCap": 20078818.0,
+    "liquidity": 341142.95,
+    "volume24h": 163266.58,
     "holders": null
   },
   "position": null,
