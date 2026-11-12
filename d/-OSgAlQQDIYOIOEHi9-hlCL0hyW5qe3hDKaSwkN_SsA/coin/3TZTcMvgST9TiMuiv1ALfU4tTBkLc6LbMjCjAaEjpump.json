@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T17:40:24.629221Z",
+  "mint": "3TZTcMvgST9TiMuiv1ALfU4tTBkLc6LbMjCjAaEjpump",
+  "name": "SIDOGE",
+  "symbol": "SIDOGE",
+  "label": "SIDOGE",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T17:39:49.427118Z",
+  "pool": "5yKq7QiUkKhwBNStTyqBRBM4wphXRGSXoDPJ8upJtsB2",
+  "creator": "2hs3LcTges1yDxmRWX1DgT2EnUGeSvUsWucXKaQ7QUdq",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=3TZTcMvgST9TiMuiv1ALfU4tTBkLc6LbMjCjAaEjpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.065e-05,
+  "priceTs": "2026-11-12T17:40:22.687595Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794505200,
+      "o": 3.065e-05,
+      "h": 3.065e-05,
+      "l": 3.065e-05,
+      "c": 3.065e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 30655.0,
+    "liquidity": 11832.48,
+    "volume24h": 4662.08,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T17:40:19.909488Z",
+      "liquidity_usd": 11832.48,
+      "top10_pct": null,
+      "h1_change_pct": -9.62,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $11.8K"
+    }
+  ]
+}

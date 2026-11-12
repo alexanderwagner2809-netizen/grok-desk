@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T17:39:13.190128Z",
+  "ts": "2026-11-12T17:40:24.650576Z",
   "mint": "5ZA32FxzsxcSXZuYDbrxa9QVVvzkiLbisDb5VKmNpump",
   "name": "Ballscoin",
   "symbol": "BALLS",
@@ -11,8 +11,8 @@
   "creator": "F2HhCpdTY2NtpLDXPJSHgBHzfVYHQRVgVnzFLzRXaa3s",
   "holders": null,
   "link": "https://fomo.family/coin?address=5ZA32FxzsxcSXZuYDbrxa9QVVvzkiLbisDb5VKmNpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0003563,
-  "priceTs": "2026-11-12T17:39:09.767230Z",
+  "price": 0.0003779,
+  "priceTs": "2026-11-12T17:40:22.827399Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -256,12 +256,20 @@
       "l": 0.0003563,
       "c": 0.0003563,
       "v": 715.75
+    },
+    {
+      "t": 1794505200,
+      "o": 0.0003779,
+      "h": 0.0003779,
+      "l": 0.0003779,
+      "c": 0.0003779,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 352192.0,
-    "liquidity": 44627.82,
-    "volume24h": 348017.44,
+    "marketCap": 373585.0,
+    "liquidity": 46006.93,
+    "volume24h": 348781.96,
     "holders": null
   },
   "position": null,

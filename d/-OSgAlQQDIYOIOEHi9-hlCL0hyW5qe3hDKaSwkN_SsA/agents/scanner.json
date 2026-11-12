@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T17:39:14.228086Z",
+  "ts": "2026-11-12T17:40:25.904532Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T17:39:10.163012Z",
+  "heartbeat": "2026-11-12T17:40:19.806329Z",
   "paused": false,
   "status": "running",
-  "card": "285 pools",
-  "count": 285,
+  "card": "286 pools",
+  "count": 286,
   "passed": 0,
   "feed": [
+    {
+      "mint": "3TZTcMvgST9TiMuiv1ALfU4tTBkLc6LbMjCjAaEjpump",
+      "label": "SIDOGE",
+      "verdict": "kill",
+      "reason": "liq $11.8K",
+      "subtitle": "liq $11.8K",
+      "link": "https://fomo.family/coin?address=3TZTcMvgST9TiMuiv1ALfU4tTBkLc6LbMjCjAaEjpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "42u2hK7MAATde7emizLnoQ7P5JLuuwPHbkS1DC8npump",
       "label": "AURACOIN",
@@ -66,19 +74,19 @@
       "reason": "never qualified",
       "subtitle": "never qualified",
       "link": "https://fomo.family/coin?address=Eto8ZAfU1VnGwnugSAoxKre2U23vsM27z1wfMQsepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EYJdXh4zdcTPbHVUd1hCY9ViRPTYEVTeST2hp6YBpump",
-      "label": "EYJdXh4z",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "subtitle": "never qualified",
-      "link": "https://fomo.family/coin?address=EYJdXh4zdcTPbHVUd1hCY9ViRPTYEVTeST2hp6YBpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T17:40:19.909488Z",
+      "mint": "3TZTcMvgST9TiMuiv1ALfU4tTBkLc6LbMjCjAaEjpump",
+      "label": "SIDOGE",
+      "verdict": "kill",
+      "reason": "liq $11.8K",
+      "link": "https://fomo.family/coin?address=3TZTcMvgST9TiMuiv1ALfU4tTBkLc6LbMjCjAaEjpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T17:37:50.414961Z",
       "mint": "42u2hK7MAATde7emizLnoQ7P5JLuuwPHbkS1DC8npump",
       "label": "AURACOIN",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "+151% in 1h",
       "link": "https://fomo.family/coin?address=AnWS6MN2i9kax3LKDT2KjgYZtauh6RCyGprpvqkhpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:23:23.190928Z",
-      "mint": "5ZA32FxzsxcSXZuYDbrxa9QVVvzkiLbisDb5VKmNpump",
-      "label": "Ballscoin",
-      "verdict": "kill",
-      "reason": "+322% in 1h",
-      "link": "https://fomo.family/coin?address=5ZA32FxzsxcSXZuYDbrxa9QVVvzkiLbisDb5VKmNpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T17:40:19.909488Z",
+      "mint": "3TZTcMvgST9TiMuiv1ALfU4tTBkLc6LbMjCjAaEjpump",
+      "label": "SIDOGE",
+      "verdict": "kill",
+      "reason": "liq $11.8K",
+      "link": "https://fomo.family/coin?address=3TZTcMvgST9TiMuiv1ALfU4tTBkLc6LbMjCjAaEjpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T17:37:50.414961Z",
       "mint": "42u2hK7MAATde7emizLnoQ7P5JLuuwPHbkS1DC8npump",
       "label": "AURACOIN",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "+151% in 1h",
       "link": "https://fomo.family/coin?address=AnWS6MN2i9kax3LKDT2KjgYZtauh6RCyGprpvqkhpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:23:23.190928Z",
-      "mint": "5ZA32FxzsxcSXZuYDbrxa9QVVvzkiLbisDb5VKmNpump",
-      "label": "Ballscoin",
-      "verdict": "kill",
-      "reason": "+322% in 1h",
-      "link": "https://fomo.family/coin?address=5ZA32FxzsxcSXZuYDbrxa9QVVvzkiLbisDb5VKmNpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
