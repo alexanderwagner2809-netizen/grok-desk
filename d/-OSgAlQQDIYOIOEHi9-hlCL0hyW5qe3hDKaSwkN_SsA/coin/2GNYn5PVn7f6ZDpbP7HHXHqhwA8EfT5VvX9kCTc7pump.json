@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-12T20:47:43.889732Z",
+  "ts": "2026-11-12T20:48:53.993749Z",
   "mint": "2GNYn5PVn7f6ZDpbP7HHXHqhwA8EfT5VvX9kCTc7pump",
-  "name": null,
-  "symbol": null,
-  "label": "2GNYn5PV",
+  "name": "Bob Marley ",
+  "symbol": "bomy ",
+  "label": "Bob Marley ",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T20:46:57.250786Z",
-  "pool": null,
+  "pool": "GQLwTrCJM9s6zzV4CzfmxmpFTximnaX7dvdsrmrGwZdb",
   "creator": "39TJ4nsu4AccTb5fsuobm9kuaVCRKyN7uwcrEWt9Rg2G",
   "holders": null,
   "link": "https://fomo.family/coin?address=2GNYn5PVn7f6ZDpbP7HHXHqhwA8EfT5VvX9kCTc7pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.698e-07,
+  "priceTs": "2026-11-12T20:48:53.700588Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794516420,
+      "o": 1.224e-07,
+      "h": 1.224e-07,
+      "l": 1.224e-07,
+      "c": 1.224e-07,
+      "v": 0.0
+    },
+    {
+      "t": 1794516480,
+      "o": 1.698e-07,
+      "h": 1.698e-07,
+      "l": 1.698e-07,
+      "c": 1.698e-07,
+      "v": 4.07
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 202.0,
+    "liquidity": 36.31,
+    "volume24h": 12.8,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:47:59.636358Z",
+      "liquidity_usd": 29.97,
+      "top10_pct": null,
+      "h1_change_pct": 185.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $30"
+    }
+  ]
 }
