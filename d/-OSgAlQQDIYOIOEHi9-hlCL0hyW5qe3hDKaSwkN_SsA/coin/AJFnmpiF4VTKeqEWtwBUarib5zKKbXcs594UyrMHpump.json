@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T08:31:06.978821Z",
+  "ts": "2026-11-12T08:32:15.800153Z",
   "mint": "AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump",
   "name": "Ansem is Back",
   "symbol": "AIB",
@@ -11,8 +11,8 @@
   "creator": "FkLwrNJYkmG3d6ZxFUSX7wgu77xoYbFBewYniRRHTMTD",
   "holders": null,
   "link": "https://fomo.family/coin?address=AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0005115,
-  "priceTs": "2026-11-12T08:31:06.515208Z",
+  "price": 0.000531,
+  "priceTs": "2026-11-12T08:32:15.311936Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1304,12 +1304,20 @@
       "l": 0.0005115,
       "c": 0.0005115,
       "v": 912.0200000000004
+    },
+    {
+      "t": 1794472320,
+      "o": 0.000531,
+      "h": 0.000531,
+      "l": 0.000531,
+      "c": 0.000531,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 508995.0,
-    "liquidity": 56794.97,
-    "volume24h": 1593210.57,
+    "marketCap": 528376.0,
+    "liquidity": 57871.7,
+    "volume24h": 1593831.21,
     "holders": null
   },
   "position": null,
