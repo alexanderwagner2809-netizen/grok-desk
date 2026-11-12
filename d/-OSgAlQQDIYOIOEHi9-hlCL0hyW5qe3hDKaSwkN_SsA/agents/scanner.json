@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T20:23:47.447671Z",
+  "ts": "2026-11-12T20:24:57.524488Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T20:23:39.838867Z",
+  "heartbeat": "2026-11-12T20:24:56.236522Z",
   "paused": false,
   "status": "running",
-  "card": "334 pools",
-  "count": 334,
+  "card": "336 pools",
+  "count": 336,
   "passed": 0,
   "feed": [
+    {
+      "mint": "AQDUsVwgb5htjF4V7uwaAq5NLh16veRR1d6WjBE8pump",
+      "label": "LINUX",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=AQDUsVwgb5htjF4V7uwaAq5NLh16veRR1d6WjBE8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "9rSaajQRUzmo1wZBeRKzof1CiBiw2FSDcQE8aiUSpump",
+      "label": "DID",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=9rSaajQRUzmo1wZBeRKzof1CiBiw2FSDcQE8aiUSpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "3JsXBmfP7X1e6yVothRNHRztGuMz1nN6VpN6P48epump",
       "label": "Marscoin",
@@ -58,27 +74,27 @@
       "reason": "liq $1",
       "subtitle": "liq $1",
       "link": "https://fomo.family/coin?address=x5MfvhAzBDjBH6DTa3NJx531B8s6jNvpQnSS11spump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "ECs6n795WEpSf5yDrw9ejsPKArxbouBiVYw5nxtRpump",
-      "label": "marsoperator",
-      "verdict": "kill",
-      "reason": "liq $18.1K",
-      "subtitle": "liq $18.1K",
-      "link": "https://fomo.family/coin?address=ECs6n795WEpSf5yDrw9ejsPKArxbouBiVYw5nxtRpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "56yuMwTAjQcdFXqo3FybeA5XYC3rVutykN6KAMBRpump",
-      "label": "You guys are getting paid?",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=56yuMwTAjQcdFXqo3FybeA5XYC3rVutykN6KAMBRpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T20:24:56.235696Z",
+      "mint": "AQDUsVwgb5htjF4V7uwaAq5NLh16veRR1d6WjBE8pump",
+      "label": "LINUX",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=AQDUsVwgb5htjF4V7uwaAq5NLh16veRR1d6WjBE8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T20:24:56.231760Z",
+      "mint": "9rSaajQRUzmo1wZBeRKzof1CiBiw2FSDcQE8aiUSpump",
+      "label": "DID",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=9rSaajQRUzmo1wZBeRKzof1CiBiw2FSDcQE8aiUSpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:21:02.944004Z",
       "mint": "3JsXBmfP7X1e6yVothRNHRztGuMz1nN6VpN6P48epump",
       "label": "Marscoin",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=3cEXSrHj7J6XTPq3iCnHRDXFEBMaHZTvYq2sf88spump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:04:05.736051Z",
-      "mint": "9Q7HLMNfCqyaGmGXJbpBGBEkNiihsyACw3aEZTwMpump",
-      "label": "ELON SOLAR",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=9Q7HLMNfCqyaGmGXJbpBGBEkNiihsyACw3aEZTwMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:02:15.964586Z",
-      "mint": "4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs",
-      "label": "longcat",
-      "verdict": "kill",
-      "reason": "liq $2.3K",
-      "link": "https://fomo.family/coin?address=4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T20:24:56.235696Z",
+      "mint": "AQDUsVwgb5htjF4V7uwaAq5NLh16veRR1d6WjBE8pump",
+      "label": "LINUX",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=AQDUsVwgb5htjF4V7uwaAq5NLh16veRR1d6WjBE8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T20:24:56.231760Z",
+      "mint": "9rSaajQRUzmo1wZBeRKzof1CiBiw2FSDcQE8aiUSpump",
+      "label": "DID",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=9rSaajQRUzmo1wZBeRKzof1CiBiw2FSDcQE8aiUSpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:21:02.944004Z",
       "mint": "3JsXBmfP7X1e6yVothRNHRztGuMz1nN6VpN6P48epump",
       "label": "Marscoin",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=3cEXSrHj7J6XTPq3iCnHRDXFEBMaHZTvYq2sf88spump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:04:05.736051Z",
-      "mint": "9Q7HLMNfCqyaGmGXJbpBGBEkNiihsyACw3aEZTwMpump",
-      "label": "ELON SOLAR",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=9Q7HLMNfCqyaGmGXJbpBGBEkNiihsyACw3aEZTwMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:02:15.964586Z",
-      "mint": "4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs",
-      "label": "longcat",
-      "verdict": "kill",
-      "reason": "liq $2.3K",
-      "link": "https://fomo.family/coin?address=4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

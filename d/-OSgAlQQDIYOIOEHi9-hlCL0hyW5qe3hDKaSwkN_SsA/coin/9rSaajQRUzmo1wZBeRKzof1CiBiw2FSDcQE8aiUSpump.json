@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T20:24:56.401685Z",
+  "mint": "9rSaajQRUzmo1wZBeRKzof1CiBiw2FSDcQE8aiUSpump",
+  "name": "DID",
+  "symbol": "DID",
+  "label": "DID",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T20:24:22.433171Z",
+  "pool": "C9T2UiNzG1LXFYXfUwCpQT4sEGKAYY61ygA4cVC4pToe",
+  "creator": "AjdWWp6WzeNFCReTg6452H3DFbd8fkLZcReUT6BTGsaG",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=9rSaajQRUzmo1wZBeRKzof1CiBiw2FSDcQE8aiUSpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 9.949e-05,
+  "priceTs": "2026-11-12T20:24:56.231015Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794515040,
+      "o": 9.949e-05,
+      "h": 9.949e-05,
+      "l": 9.949e-05,
+      "c": 9.949e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": null,
+    "liquidity": 0.0,
+    "volume24h": null,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T20:24:56.231760Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 143.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
