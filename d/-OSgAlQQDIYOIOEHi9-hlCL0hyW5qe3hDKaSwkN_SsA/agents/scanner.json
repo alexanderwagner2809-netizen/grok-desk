@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T16:07:39.814005Z",
+  "ts": "2026-11-12T16:08:51.421550Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T16:07:35.207126Z",
+  "heartbeat": "2026-11-12T16:08:46.769496Z",
   "paused": false,
   "status": "running",
-  "card": "256 pools",
-  "count": 256,
+  "card": "258 pools",
+  "count": 258,
   "passed": 0,
   "feed": [
+    {
+      "mint": "EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump",
+      "label": "Tim Cook Gay",
+      "verdict": "kill",
+      "reason": "liq $10.7K",
+      "subtitle": "liq $10.7K",
+      "link": "https://fomo.family/coin?address=EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "H6Z16MWrRQsaVLJGxWbsnUjk7FBt1JdHHjYaUhXypump",
+      "label": "Rockstar Games",
+      "verdict": "kill",
+      "reason": "+185% in 1h",
+      "subtitle": "+185% in 1h",
+      "link": "https://fomo.family/coin?address=H6Z16MWrRQsaVLJGxWbsnUjk7FBt1JdHHjYaUhXypump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "2AWpsSAUc1nsf8ZKLhhnf2uRNX2ifV4RRYLPR5n8pump",
       "label": "2AWpsSAU",
@@ -58,27 +74,27 @@
       "reason": "liq $3",
       "subtitle": "liq $3",
       "link": "https://fomo.family/coin?address=9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump",
-      "label": "Jensen Huang Memes",
-      "verdict": "kill",
-      "reason": "liq $9.0K",
-      "subtitle": "liq $9.0K",
-      "link": "https://fomo.family/coin?address=FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump",
-      "label": "Tim Chip",
-      "verdict": "kill",
-      "reason": "liq $12.7K",
-      "subtitle": "liq $12.7K",
-      "link": "https://fomo.family/coin?address=3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T16:08:14.898999Z",
+      "mint": "EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump",
+      "label": "Tim Cook Gay",
+      "verdict": "kill",
+      "reason": "liq $10.7K",
+      "link": "https://fomo.family/coin?address=EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T16:08:14.896881Z",
+      "mint": "H6Z16MWrRQsaVLJGxWbsnUjk7FBt1JdHHjYaUhXypump",
+      "label": "Rockstar Games",
+      "verdict": "kill",
+      "reason": "+185% in 1h",
+      "link": "https://fomo.family/coin?address=H6Z16MWrRQsaVLJGxWbsnUjk7FBt1JdHHjYaUhXypump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:01:53.115854Z",
       "mint": "2AWpsSAUc1nsf8ZKLhhnf2uRNX2ifV4RRYLPR5n8pump",
       "label": "2AWpsSAU",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $19.9K",
       "link": "https://fomo.family/coin?address=GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:16:17.172679Z",
-      "mint": "twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump",
-      "label": "Seducing Intelligence",
-      "verdict": "kill",
-      "reason": "+188% in 1h",
-      "link": "https://fomo.family/coin?address=twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:11:27.045632Z",
-      "mint": "ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump",
-      "label": "Dickcoin",
-      "verdict": "kill",
-      "reason": "liq $18.9K",
-      "link": "https://fomo.family/coin?address=ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T16:08:14.898999Z",
+      "mint": "EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump",
+      "label": "Tim Cook Gay",
+      "verdict": "kill",
+      "reason": "liq $10.7K",
+      "link": "https://fomo.family/coin?address=EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T16:08:14.896881Z",
+      "mint": "H6Z16MWrRQsaVLJGxWbsnUjk7FBt1JdHHjYaUhXypump",
+      "label": "Rockstar Games",
+      "verdict": "kill",
+      "reason": "+185% in 1h",
+      "link": "https://fomo.family/coin?address=H6Z16MWrRQsaVLJGxWbsnUjk7FBt1JdHHjYaUhXypump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:01:53.115854Z",
       "mint": "2AWpsSAUc1nsf8ZKLhhnf2uRNX2ifV4RRYLPR5n8pump",
       "label": "2AWpsSAU",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $19.9K",
       "link": "https://fomo.family/coin?address=GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:16:17.172679Z",
-      "mint": "twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump",
-      "label": "Seducing Intelligence",
-      "verdict": "kill",
-      "reason": "+188% in 1h",
-      "link": "https://fomo.family/coin?address=twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:11:27.045632Z",
-      "mint": "ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump",
-      "label": "Dickcoin",
-      "verdict": "kill",
-      "reason": "liq $18.9K",
-      "link": "https://fomo.family/coin?address=ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

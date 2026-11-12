@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T16:07:38.351001Z",
+  "ts": "2026-11-12T16:08:50.488251Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T16:07:35.207126Z",
+      "heartbeat": "2026-11-12T16:08:46.769496Z",
       "paused": false,
       "status": "running",
-      "card": "256 pools",
-      "count": 256,
+      "card": "258 pools",
+      "count": 258,
       "passed": 0,
       "feed": [
+        {
+          "mint": "EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump",
+          "label": "Tim Cook Gay",
+          "verdict": "kill",
+          "reason": "liq $10.7K",
+          "subtitle": "liq $10.7K",
+          "link": "https://fomo.family/coin?address=EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "H6Z16MWrRQsaVLJGxWbsnUjk7FBt1JdHHjYaUhXypump",
+          "label": "Rockstar Games",
+          "verdict": "kill",
+          "reason": "+185% in 1h",
+          "subtitle": "+185% in 1h",
+          "link": "https://fomo.family/coin?address=H6Z16MWrRQsaVLJGxWbsnUjk7FBt1JdHHjYaUhXypump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "2AWpsSAUc1nsf8ZKLhhnf2uRNX2ifV4RRYLPR5n8pump",
           "label": "2AWpsSAU",
@@ -66,22 +82,6 @@
           "reason": "liq $3",
           "subtitle": "liq $3",
           "link": "https://fomo.family/coin?address=9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump",
-          "label": "Jensen Huang Memes",
-          "verdict": "kill",
-          "reason": "liq $9.0K",
-          "subtitle": "liq $9.0K",
-          "link": "https://fomo.family/coin?address=FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump",
-          "label": "Tim Chip",
-          "verdict": "kill",
-          "reason": "liq $12.7K",
-          "subtitle": "liq $12.7K",
-          "link": "https://fomo.family/coin?address=3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T16:07:37.518477Z",
+      "heartbeat": "2026-11-12T16:08:49.964168Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T16:07:37.536946Z",
+      "heartbeat": "2026-11-12T16:08:49.964347Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T16:07:37.539679Z",
+      "heartbeat": "2026-11-12T16:08:49.964450Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T16:07:30.233243Z",
+      "heartbeat": "2026-11-12T16:08:45.365180Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
