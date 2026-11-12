@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T05:59:28.644571Z",
+  "ts": "2026-11-12T06:00:36.725817Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T05:59:18.354410Z",
+  "heartbeat": "2026-11-12T06:00:18.366880Z",
   "paused": false,
   "status": "running",
-  "card": "116 pools",
-  "count": 116,
+  "card": "117 pools",
+  "count": 117,
   "passed": 0,
   "feed": [
+    {
+      "mint": "Gqm6WTmdFCdvvxreZanx6hLTJwmQxMwJ3vw35XmWpump",
+      "label": "maritains",
+      "verdict": "kill",
+      "reason": "liq $249",
+      "subtitle": "liq $249",
+      "link": "https://fomo.family/coin?address=Gqm6WTmdFCdvvxreZanx6hLTJwmQxMwJ3vw35XmWpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "2AxXaH7yux57p6ekC87uRaZ1mw3HEUG2aL6Cukgcpump",
       "label": "CATECOIN",
@@ -66,19 +74,19 @@
       "reason": "liq $10",
       "subtitle": "liq $10",
       "link": "https://fomo.family/coin?address=2Swykqs3yQFaznrmdyxwpVrwJjtrBfY51V97yMuzpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "Eh5zz6vrPK66MHzhBLrzEFHvATE7Z1SqoALzcNu4pump",
-      "label": "Bitcoin Inu",
-      "verdict": "kill",
-      "reason": "liq $31.9K",
-      "subtitle": "liq $31.9K",
-      "link": "https://fomo.family/coin?address=Eh5zz6vrPK66MHzhBLrzEFHvATE7Z1SqoALzcNu4pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T05:59:43.659755Z",
+      "mint": "Gqm6WTmdFCdvvxreZanx6hLTJwmQxMwJ3vw35XmWpump",
+      "label": "maritains",
+      "verdict": "kill",
+      "reason": "liq $249",
+      "link": "https://fomo.family/coin?address=Gqm6WTmdFCdvvxreZanx6hLTJwmQxMwJ3vw35XmWpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T05:58:43.562484Z",
       "mint": "2AxXaH7yux57p6ekC87uRaZ1mw3HEUG2aL6Cukgcpump",
       "label": "CATECOIN",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $21.7K",
       "link": "https://fomo.family/coin?address=8QRe56BCJPdWqBFS5hq6fcA9bghb6mRMCKMLrHacpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T03:43:55.735175Z",
-      "mint": "2LTpMuucRmNE9B56Q69USDYjSm2KJynLr7zmDrgJpump",
-      "label": "speedrun",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=2LTpMuucRmNE9B56Q69USDYjSm2KJynLr7zmDrgJpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T05:59:43.659755Z",
+      "mint": "Gqm6WTmdFCdvvxreZanx6hLTJwmQxMwJ3vw35XmWpump",
+      "label": "maritains",
+      "verdict": "kill",
+      "reason": "liq $249",
+      "link": "https://fomo.family/coin?address=Gqm6WTmdFCdvvxreZanx6hLTJwmQxMwJ3vw35XmWpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T05:58:43.562484Z",
       "mint": "2AxXaH7yux57p6ekC87uRaZ1mw3HEUG2aL6Cukgcpump",
       "label": "CATECOIN",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $21.7K",
       "link": "https://fomo.family/coin?address=8QRe56BCJPdWqBFS5hq6fcA9bghb6mRMCKMLrHacpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T03:43:55.735175Z",
-      "mint": "2LTpMuucRmNE9B56Q69USDYjSm2KJynLr7zmDrgJpump",
-      "label": "speedrun",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=2LTpMuucRmNE9B56Q69USDYjSm2KJynLr7zmDrgJpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

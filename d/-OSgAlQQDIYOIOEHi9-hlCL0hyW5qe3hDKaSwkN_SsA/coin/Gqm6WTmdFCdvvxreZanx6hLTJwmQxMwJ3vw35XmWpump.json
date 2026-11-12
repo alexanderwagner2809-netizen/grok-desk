@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T05:59:28.640578Z",
+  "ts": "2026-11-12T06:00:36.564279Z",
   "mint": "Gqm6WTmdFCdvvxreZanx6hLTJwmQxMwJ3vw35XmWpump",
-  "name": null,
-  "symbol": null,
-  "label": "Gqm6WTmd",
+  "name": "maritains",
+  "symbol": "LOM",
+  "label": "maritains",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T05:58:36.773256Z",
-  "pool": null,
+  "pool": "EzBrmH8BSGv17Py259KXxrYBsmrFSU41RtPnbFGYVhtF",
   "creator": "9xyWmDbRYAtxTukVM9J7JrsBB56BCeu4AAp8CvkZSYw2",
   "holders": null,
   "link": "https://fomo.family/coin?address=Gqm6WTmdFCdvvxreZanx6hLTJwmQxMwJ3vw35XmWpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.355e-07,
-  "priceTs": "2026-11-12T05:59:28.487076Z",
+  "price": 8.86e-09,
+  "priceTs": "2026-11-12T06:00:35.748885Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 6.355e-07,
       "c": 6.355e-07,
       "v": 0.0
+    },
+    {
+      "t": 1794463200,
+      "o": 8.86e-09,
+      "h": 8.86e-09,
+      "l": 8.86e-09,
+      "c": 8.86e-09,
+      "v": 674.7
     }
   ],
   "stats": {
-    "marketCap": 1271.0,
-    "liquidity": 248.69,
-    "volume24h": 19.74,
+    "marketCap": 18.0,
+    "liquidity": 33.07,
+    "volume24h": 694.44,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T05:59:43.659755Z",
+      "liquidity_usd": 248.69,
+      "top10_pct": null,
+      "h1_change_pct": 10.65,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $249"
+    }
+  ]
 }
