@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T09:13:39.768025Z",
+  "ts": "2026-11-12T09:14:48.220633Z",
   "mint": "k7FcrVhQ4CbYPkATSuxVGZKjX2Ny545B1Pdn8uUpump",
-  "name": null,
-  "symbol": null,
-  "label": "k7FcrVhQ",
+  "name": "Joe the bourbon connoisseur",
+  "symbol": " JOE",
+  "label": "Joe the bourbon connoisseur",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T09:13:24.924322Z",
-  "pool": null,
+  "pool": "54kne72UPGiAZa5n33FALna3Sc7EDWy4wPA21LgjvPnP",
   "creator": "3LkeVxvgkbQeNgYEEojvswSBPahjHMVvkwaqcxeu69R7",
   "holders": null,
   "link": "https://fomo.family/coin?address=k7FcrVhQ4CbYPkATSuxVGZKjX2Ny545B1Pdn8uUpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 7.351e-08,
-  "priceTs": "2026-11-12T09:13:39.378161Z",
+  "price": 7.912e-09,
+  "priceTs": "2026-11-12T09:14:47.112631Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -20,19 +20,37 @@
     {
       "t": 1794474780,
       "o": 7.351e-08,
-      "h": 7.351e-08,
+      "h": 2.589e-07,
       "l": 7.351e-08,
-      "c": 7.351e-08,
+      "c": 2.589e-07,
       "v": 0.0
+    },
+    {
+      "t": 1794474840,
+      "o": 7.912e-09,
+      "h": 7.912e-09,
+      "l": 7.912e-09,
+      "c": 7.912e-09,
+      "v": 305.71
     }
   ],
   "stats": {
-    "marketCap": 73.51,
-    "liquidity": null,
-    "volume24h": 1794.78,
+    "marketCap": 16.0,
+    "liquidity": 14.94,
+    "volume24h": 439.96,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T09:13:47.312055Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 84.12,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
