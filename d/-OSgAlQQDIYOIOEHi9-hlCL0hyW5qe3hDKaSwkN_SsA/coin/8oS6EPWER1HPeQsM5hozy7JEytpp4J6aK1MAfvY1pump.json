@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T17:09:25.139312Z",
+  "ts": "2026-11-12T17:10:36.482075Z",
   "mint": "8oS6EPWER1HPeQsM5hozy7JEytpp4J6aK1MAfvY1pump",
   "name": "apeonx",
   "symbol": "X",
@@ -11,8 +11,8 @@
   "creator": "BNiyxyjHHDRz5tMr4pJUpgJFcwVE4oavzrdrwjjQ7HT8",
   "holders": null,
   "link": "https://fomo.family/coin?address=8oS6EPWER1HPeQsM5hozy7JEytpp4J6aK1MAfvY1pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001936,
-  "priceTs": "2026-11-12T17:09:23.723427Z",
+  "price": 0.000191,
+  "priceTs": "2026-11-12T17:10:34.642941Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2264,12 +2264,20 @@
       "l": 0.0001936,
       "c": 0.0001936,
       "v": 1.6000000000000014
+    },
+    {
+      "t": 1794503400,
+      "o": 0.000191,
+      "h": 0.000191,
+      "l": 0.000191,
+      "c": 0.000191,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 192915.0,
-    "liquidity": 31984.72,
-    "volume24h": 95678.15,
+    "marketCap": 190334.0,
+    "liquidity": 31760.94,
+    "volume24h": 95684.57,
     "holders": null
   },
   "position": null,
