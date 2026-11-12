@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T15:25:14.183250Z",
+  "ts": "2026-11-12T15:26:25.238255Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T15:25:12.808639Z",
+      "heartbeat": "2026-11-12T15:26:23.305874Z",
       "paused": false,
       "status": "running",
-      "card": "242 pools",
-      "count": 242,
+      "card": "244 pools",
+      "count": 244,
       "passed": 0,
       "feed": [
+        {
+          "mint": "9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump",
+          "label": "Pokemon In 9-5",
+          "verdict": "kill",
+          "reason": "liq $10.9K",
+          "subtitle": "liq $10.9K",
+          "link": "https://fomo.family/coin?address=9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "C6N5RdMkKMBZ28dKx5cVkfcntEjajwjPXt1Y1ihHpump",
+          "label": "JUSSY COIN",
+          "verdict": "kill",
+          "reason": "liq $6",
+          "subtitle": "liq $6",
+          "link": "https://fomo.family/coin?address=C6N5RdMkKMBZ28dKx5cVkfcntEjajwjPXt1Y1ihHpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "BDkKHKzDqBH7GXF9DBwmcwzGidaTXQeR6pDnnVzMpump",
           "label": "Rockstar Games",
@@ -66,22 +82,6 @@
           "reason": "liq $18.9K",
           "subtitle": "liq $18.9K",
           "link": "https://fomo.family/coin?address=ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "DpFBdhBiBWH4s3HXi5YsEqoaRA44MPeNRMkTvNwzpump",
-          "label": "NVIDIA",
-          "verdict": "kill",
-          "reason": "liq $0",
-          "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=DpFBdhBiBWH4s3HXi5YsEqoaRA44MPeNRMkTvNwzpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "4q1Khra69Q3wUHw7NdXMBhCwYj9WxNYsvhGX8D2Mpump",
-          "label": "Jensen Huang",
-          "verdict": "kill",
-          "reason": "liq $34",
-          "subtitle": "liq $34",
-          "link": "https://fomo.family/coin?address=4q1Khra69Q3wUHw7NdXMBhCwYj9WxNYsvhGX8D2Mpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T15:25:12.704194Z",
+      "heartbeat": "2026-11-12T15:26:25.185740Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T15:25:12.704814Z",
+      "heartbeat": "2026-11-12T15:26:25.186319Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T15:25:12.704961Z",
+      "heartbeat": "2026-11-12T15:26:25.186416Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T15:25:07.378024Z",
+      "heartbeat": "2026-11-12T15:26:22.395197Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

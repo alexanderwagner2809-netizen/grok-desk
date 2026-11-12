@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T15:26:25.245158Z",
+  "mint": "9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump",
+  "name": "Pokemon In 9-5",
+  "symbol": "POKEWORK",
+  "label": "Pokemon In 9-5",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-12T15:25:15.046110Z",
+  "pool": "TszpgK1QpXkuS6ZPeCCNV6V5t8q5z7y9fH5qwGwizsh",
+  "creator": "AtjkJbWHX8cQ9YUmctJYFxFXNei21bgX2ZYhFCn4DSit",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.648e-05,
+  "priceTs": "2026-11-12T15:26:23.679543Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794497160,
+      "o": 2.648e-05,
+      "h": 2.648e-05,
+      "l": 2.648e-05,
+      "c": 2.648e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 26440.0,
+    "liquidity": 10893.71,
+    "volume24h": 11609.7,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T15:26:08.303118Z",
+      "liquidity_usd": 10893.71,
+      "top10_pct": null,
+      "h1_change_pct": -21.04,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $10.9K"
+    }
+  ]
+}

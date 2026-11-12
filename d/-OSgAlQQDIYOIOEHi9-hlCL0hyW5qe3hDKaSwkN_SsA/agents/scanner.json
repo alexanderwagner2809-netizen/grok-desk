@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T15:25:15.025211Z",
+  "ts": "2026-11-12T15:26:26.044842Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T15:25:12.808639Z",
+  "heartbeat": "2026-11-12T15:26:23.305874Z",
   "paused": false,
   "status": "running",
-  "card": "242 pools",
-  "count": 242,
+  "card": "244 pools",
+  "count": 244,
   "passed": 0,
   "feed": [
+    {
+      "mint": "9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump",
+      "label": "Pokemon In 9-5",
+      "verdict": "kill",
+      "reason": "liq $10.9K",
+      "subtitle": "liq $10.9K",
+      "link": "https://fomo.family/coin?address=9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "C6N5RdMkKMBZ28dKx5cVkfcntEjajwjPXt1Y1ihHpump",
+      "label": "JUSSY COIN",
+      "verdict": "kill",
+      "reason": "liq $6",
+      "subtitle": "liq $6",
+      "link": "https://fomo.family/coin?address=C6N5RdMkKMBZ28dKx5cVkfcntEjajwjPXt1Y1ihHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "BDkKHKzDqBH7GXF9DBwmcwzGidaTXQeR6pDnnVzMpump",
       "label": "Rockstar Games",
@@ -58,27 +74,27 @@
       "reason": "liq $18.9K",
       "subtitle": "liq $18.9K",
       "link": "https://fomo.family/coin?address=ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "DpFBdhBiBWH4s3HXi5YsEqoaRA44MPeNRMkTvNwzpump",
-      "label": "NVIDIA",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=DpFBdhBiBWH4s3HXi5YsEqoaRA44MPeNRMkTvNwzpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "4q1Khra69Q3wUHw7NdXMBhCwYj9WxNYsvhGX8D2Mpump",
-      "label": "Jensen Huang",
-      "verdict": "kill",
-      "reason": "liq $34",
-      "subtitle": "liq $34",
-      "link": "https://fomo.family/coin?address=4q1Khra69Q3wUHw7NdXMBhCwYj9WxNYsvhGX8D2Mpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T15:26:08.303118Z",
+      "mint": "9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump",
+      "label": "Pokemon In 9-5",
+      "verdict": "kill",
+      "reason": "liq $10.9K",
+      "link": "https://fomo.family/coin?address=9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T15:25:47.877872Z",
+      "mint": "C6N5RdMkKMBZ28dKx5cVkfcntEjajwjPXt1Y1ihHpump",
+      "label": "JUSSY COIN",
+      "verdict": "kill",
+      "reason": "liq $6",
+      "link": "https://fomo.family/coin?address=C6N5RdMkKMBZ28dKx5cVkfcntEjajwjPXt1Y1ihHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:24:03.127456Z",
       "mint": "BDkKHKzDqBH7GXF9DBwmcwzGidaTXQeR6pDnnVzMpump",
       "label": "Rockstar Games",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $13.5K",
       "link": "https://fomo.family/coin?address=EVWBXYnaNZQEZmZYwrkNhzomM6jmd6HH1Ly8cVaRpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:02:25.923485Z",
-      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "label": "EPjFWdd5",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T13:32:04.603698Z",
-      "mint": "4HeaFCvsD76751R79Edk9y8odRxDkqEsaunAqryzpump",
-      "label": "4HeaFCvs",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=4HeaFCvsD76751R79Edk9y8odRxDkqEsaunAqryzpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T15:26:08.303118Z",
+      "mint": "9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump",
+      "label": "Pokemon In 9-5",
+      "verdict": "kill",
+      "reason": "liq $10.9K",
+      "link": "https://fomo.family/coin?address=9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T15:25:47.877872Z",
+      "mint": "C6N5RdMkKMBZ28dKx5cVkfcntEjajwjPXt1Y1ihHpump",
+      "label": "JUSSY COIN",
+      "verdict": "kill",
+      "reason": "liq $6",
+      "link": "https://fomo.family/coin?address=C6N5RdMkKMBZ28dKx5cVkfcntEjajwjPXt1Y1ihHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:24:03.127456Z",
       "mint": "BDkKHKzDqBH7GXF9DBwmcwzGidaTXQeR6pDnnVzMpump",
       "label": "Rockstar Games",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $13.5K",
       "link": "https://fomo.family/coin?address=EVWBXYnaNZQEZmZYwrkNhzomM6jmd6HH1Ly8cVaRpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:02:25.923485Z",
-      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "label": "EPjFWdd5",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T13:32:04.603698Z",
-      "mint": "4HeaFCvsD76751R79Edk9y8odRxDkqEsaunAqryzpump",
-      "label": "4HeaFCvs",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=4HeaFCvsD76751R79Edk9y8odRxDkqEsaunAqryzpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
