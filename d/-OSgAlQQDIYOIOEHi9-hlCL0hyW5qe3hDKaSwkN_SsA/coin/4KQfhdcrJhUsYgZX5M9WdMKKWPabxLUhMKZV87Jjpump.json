@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-12T20:37:34.128817Z",
+  "ts": "2026-11-12T20:38:43.837215Z",
   "mint": "4KQfhdcrJhUsYgZX5M9WdMKKWPabxLUhMKZV87Jjpump",
-  "name": null,
-  "symbol": null,
-  "label": "4KQfhdcr",
+  "name": "CHAOSPANDA",
+  "symbol": "sol",
+  "label": "CHAOSPANDA",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T20:37:18.201461Z",
-  "pool": null,
+  "pool": "GFko9hvvWd9CP8SVaWwxPnnR5vAWgDxnrzQFkngd5ByF",
   "creator": "8u8bWnd3HMzhfAb7Zg7RtXHn4pfQqmBdZ5K4tkR8GymX",
   "holders": null,
   "link": "https://fomo.family/coin?address=4KQfhdcrJhUsYgZX5M9WdMKKWPabxLUhMKZV87Jjpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.406e-09,
+  "priceTs": "2026-11-12T20:38:43.375029Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794515880,
+      "o": 5.686e-08,
+      "h": 5.686e-08,
+      "l": 1.406e-09,
+      "c": 1.406e-09,
+      "v": 68.51
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 3.0,
+    "liquidity": 4.0,
+    "volume24h": 118.9,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:38:01.020218Z",
+      "liquidity_usd": 29.12,
+      "top10_pct": null,
+      "h1_change_pct": -1.69,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $29"
+    }
+  ]
 }
