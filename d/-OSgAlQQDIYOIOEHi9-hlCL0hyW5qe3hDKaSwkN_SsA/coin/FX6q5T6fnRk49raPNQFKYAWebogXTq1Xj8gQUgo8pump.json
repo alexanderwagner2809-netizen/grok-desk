@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T06:20:01.465733Z",
+  "mint": "FX6q5T6fnRk49raPNQFKYAWebogXTq1Xj8gQUgo8pump",
+  "name": "maritains",
+  "symbol": "LOM",
+  "label": "maritains",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-12T06:18:55.716754Z",
+  "pool": "6ffzCJ7KQBqT7LmmHVFMQVZBdS1f36TVv6i8EqFJTtmK",
+  "creator": "9xyWmDbRYAtxTukVM9J7JrsBB56BCeu4AAp8CvkZSYw2",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=FX6q5T6fnRk49raPNQFKYAWebogXTq1Xj8gQUgo8pump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.746e-08,
+  "priceTs": "2026-11-12T06:20:00.673653Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794464400,
+      "o": 1.939e-08,
+      "h": 2.746e-08,
+      "l": 1.939e-08,
+      "c": 2.746e-08,
+      "v": 138.62
+    }
+  ],
+  "stats": {
+    "marketCap": 55.0,
+    "liquidity": 61.88,
+    "volume24h": 463.94,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T06:20:00.320874Z",
+      "liquidity_usd": 68.44,
+      "top10_pct": null,
+      "h1_change_pct": -97.54,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $68"
+    }
+  ]
+}

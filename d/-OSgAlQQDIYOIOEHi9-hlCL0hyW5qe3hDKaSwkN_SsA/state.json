@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T06:18:52.753759Z",
+  "ts": "2026-11-12T06:20:01.459562Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T06:18:38.606049Z",
+      "heartbeat": "2026-11-12T06:20:00.149254Z",
       "paused": false,
       "status": "running",
-      "card": "130 pools",
-      "count": 130,
+      "card": "132 pools",
+      "count": 132,
       "passed": 0,
       "feed": [
+        {
+          "mint": "4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump",
+          "label": "XomoPay",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "FX6q5T6fnRk49raPNQFKYAWebogXTq1Xj8gQUgo8pump",
+          "label": "maritains",
+          "verdict": "kill",
+          "reason": "liq $68",
+          "subtitle": "liq $68",
+          "link": "https://fomo.family/coin?address=FX6q5T6fnRk49raPNQFKYAWebogXTq1Xj8gQUgo8pump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "6prQWyTcBFyD4m9ekZdsCzfLL74Tj4dGoFBGXTH1pump",
           "label": "TWIT",
@@ -66,22 +82,6 @@
           "reason": "liq $10.2K",
           "subtitle": "liq $10.2K",
           "link": "https://fomo.family/coin?address=GSQGdUXpuAaAmkkZu7Mfnv1Yxeq2rFSGnyoBXzT8pump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "DfeGETUvcSwR7h4S46EVKsEEi329uZXuXb9wWZjjpump",
-          "label": "AudaCity",
-          "verdict": "kill",
-          "reason": "liq $13.4K",
-          "subtitle": "liq $13.4K",
-          "link": "https://fomo.family/coin?address=DfeGETUvcSwR7h4S46EVKsEEi329uZXuXb9wWZjjpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump",
-          "label": "Max coin",
-          "verdict": "kill",
-          "reason": "+58099% in 1h",
-          "subtitle": "+58099% in 1h",
-          "link": "https://fomo.family/coin?address=GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T06:18:51.273529Z",
+      "heartbeat": "2026-11-12T06:20:01.403904Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T06:18:51.275238Z",
+      "heartbeat": "2026-11-12T06:20:01.405166Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T06:18:51.275541Z",
+      "heartbeat": "2026-11-12T06:20:01.405624Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T06:18:38.606049Z",
+      "heartbeat": "2026-11-12T06:19:58.623357Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
