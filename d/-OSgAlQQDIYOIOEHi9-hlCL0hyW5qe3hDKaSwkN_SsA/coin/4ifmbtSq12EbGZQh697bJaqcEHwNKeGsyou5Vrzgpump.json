@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T03:08:40.733034Z",
+  "ts": "2026-11-12T03:09:48.526928Z",
   "mint": "4ifmbtSq12EbGZQh697bJaqcEHwNKeGsyou5Vrzgpump",
   "name": "Hornycoin",
   "symbol": "Hornycoin",
@@ -11,8 +11,8 @@
   "creator": "ERY61Fh4UsKNNR28neLbKLUbsZ6aJNGh4Y1sfepaavrc",
   "holders": null,
   "link": "https://fomo.family/coin?address=4ifmbtSq12EbGZQh697bJaqcEHwNKeGsyou5Vrzgpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.176e-06,
-  "priceTs": "2026-11-12T03:08:40.237564Z",
+  "price": 2.123e-06,
+  "priceTs": "2026-11-12T03:09:48.008907Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -104,12 +104,20 @@
       "l": 2.176e-06,
       "c": 2.176e-06,
       "v": 28.759999999999998
+    },
+    {
+      "t": 1794452940,
+      "o": 2.123e-06,
+      "h": 2.123e-06,
+      "l": 2.123e-06,
+      "c": 2.123e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 2037.0,
-    "liquidity": 2116.38,
-    "volume24h": 120680.11,
+    "marketCap": 1987.0,
+    "liquidity": 2072.55,
+    "volume24h": 120689.34,
     "holders": null
   },
   "position": null,
