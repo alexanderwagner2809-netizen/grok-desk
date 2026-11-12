@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T08:00:14.870072Z",
+  "ts": "2026-11-12T08:01:52.431327Z",
   "mint": "GeK4M94zkqwEjp4Yv4MAVVBuRR3ubnM8TAivJXfbpump",
   "name": "Pussy Coin",
   "symbol": "PUSSY",
@@ -11,8 +11,8 @@
   "creator": "37RatP3xCguv7S8PjYKhLywQDFudsvYDPjzzxQ4rhdgz",
   "holders": null,
   "link": "https://fomo.family/coin?address=GeK4M94zkqwEjp4Yv4MAVVBuRR3ubnM8TAivJXfbpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.694e-05,
-  "priceTs": "2026-11-12T08:00:14.500909Z",
+  "price": 5.597e-05,
+  "priceTs": "2026-11-12T08:01:52.033948Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1352,12 +1352,20 @@
       "l": 5.694e-05,
       "c": 5.694e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794470460,
+      "o": 5.597e-05,
+      "h": 5.597e-05,
+      "l": 5.597e-05,
+      "c": 5.597e-05,
+      "v": 50.0
     }
   ],
   "stats": {
-    "marketCap": 55289.0,
-    "liquidity": 18885.68,
-    "volume24h": 210609.82,
+    "marketCap": 54346.0,
+    "liquidity": 18731.38,
+    "volume24h": 210659.83,
     "holders": null
   },
   "position": null,
