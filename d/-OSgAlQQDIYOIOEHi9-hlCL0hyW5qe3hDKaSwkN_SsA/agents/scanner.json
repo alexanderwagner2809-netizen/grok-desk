@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T16:12:25.341069Z",
+  "ts": "2026-11-12T16:16:13.161280Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T16:12:20.616697Z",
+  "heartbeat": "2026-11-12T16:16:09.005547Z",
   "paused": false,
   "status": "running",
-  "card": "260 pools",
-  "count": 260,
+  "card": "261 pools",
+  "count": 261,
   "passed": 0,
   "feed": [
+    {
+      "mint": "84Bg1yMkycjKXyMJCxQwrvcbaQ1683m8w1ctSziJpump",
+      "label": "Big Tim Cock",
+      "verdict": "kill",
+      "reason": "liq $13",
+      "subtitle": "liq $13",
+      "link": "https://fomo.family/coin?address=84Bg1yMkycjKXyMJCxQwrvcbaQ1683m8w1ctSziJpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "HP1nWGfiQB8dv2EHSirBtRDzqkGh2NzEFhEy9WZupump",
       "label": "LokiAI",
@@ -66,19 +74,19 @@
       "reason": "liq $6",
       "subtitle": "liq $6",
       "link": "https://fomo.family/coin?address=9PBHFENP2nyY4LGetF8bfgBot1waByfXuag72i28pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "7z3QB6D8xge7GzKZCsajvnLt8zqT1SvFonY9vZZmpump",
-      "label": "Jensen Huang",
-      "verdict": "kill",
-      "reason": "liq $18.4K",
-      "subtitle": "liq $18.4K",
-      "link": "https://fomo.family/coin?address=7z3QB6D8xge7GzKZCsajvnLt8zqT1SvFonY9vZZmpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T16:16:09.121630Z",
+      "mint": "84Bg1yMkycjKXyMJCxQwrvcbaQ1683m8w1ctSziJpump",
+      "label": "Big Tim Cock",
+      "verdict": "kill",
+      "reason": "liq $13",
+      "link": "https://fomo.family/coin?address=84Bg1yMkycjKXyMJCxQwrvcbaQ1683m8w1ctSziJpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:09:42.782843Z",
       "mint": "HP1nWGfiQB8dv2EHSirBtRDzqkGh2NzEFhEy9WZupump",
       "label": "LokiAI",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "+191% in 1h",
       "link": "https://fomo.family/coin?address=BDkKHKzDqBH7GXF9DBwmcwzGidaTXQeR6pDnnVzMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:23:03.687722Z",
-      "mint": "5vyAnkTKNY4CrgBagXXgWfKRYE9pqcFYykGqGeU9pump",
-      "label": "TeraFaps",
-      "verdict": "kill",
-      "reason": "liq $12.7K",
-      "link": "https://fomo.family/coin?address=5vyAnkTKNY4CrgBagXXgWfKRYE9pqcFYykGqGeU9pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T16:16:09.121630Z",
+      "mint": "84Bg1yMkycjKXyMJCxQwrvcbaQ1683m8w1ctSziJpump",
+      "label": "Big Tim Cock",
+      "verdict": "kill",
+      "reason": "liq $13",
+      "link": "https://fomo.family/coin?address=84Bg1yMkycjKXyMJCxQwrvcbaQ1683m8w1ctSziJpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:09:42.782843Z",
       "mint": "HP1nWGfiQB8dv2EHSirBtRDzqkGh2NzEFhEy9WZupump",
       "label": "LokiAI",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "+191% in 1h",
       "link": "https://fomo.family/coin?address=BDkKHKzDqBH7GXF9DBwmcwzGidaTXQeR6pDnnVzMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:23:03.687722Z",
-      "mint": "5vyAnkTKNY4CrgBagXXgWfKRYE9pqcFYykGqGeU9pump",
-      "label": "TeraFaps",
-      "verdict": "kill",
-      "reason": "liq $12.7K",
-      "link": "https://fomo.family/coin?address=5vyAnkTKNY4CrgBagXXgWfKRYE9pqcFYykGqGeU9pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

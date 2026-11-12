@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T16:12:24.800631Z",
+  "ts": "2026-11-12T16:16:12.230031Z",
   "mint": "84Bg1yMkycjKXyMJCxQwrvcbaQ1683m8w1ctSziJpump",
-  "name": null,
-  "symbol": null,
-  "label": "84Bg1yMk",
+  "name": "Big Tim Cock",
+  "symbol": "BTC",
+  "label": "Big Tim Cock",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "3m old",
   "migratedAt": "2026-11-12T16:12:18.611676Z",
-  "pool": null,
+  "pool": "6cXQAUpNtAnSUr5NpN5g4UBcE12NDcb1EpzZr41kjELQ",
   "creator": "BtEjGUhtGPDFzeQAxUjXE6aY3hvSjAM7vxwMybyAnck5",
   "holders": null,
   "link": "https://fomo.family/coin?address=84Bg1yMkycjKXyMJCxQwrvcbaQ1683m8w1ctSziJpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.39e-08,
-  "priceTs": "2026-11-12T16:12:23.450620Z",
+  "price": 6.646e-09,
+  "priceTs": "2026-11-12T16:16:10.740354Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 1.39e-08,
       "c": 1.39e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794500160,
+      "o": 6.646e-09,
+      "h": 6.646e-09,
+      "l": 6.646e-09,
+      "c": 6.646e-09,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 13.9,
-    "liquidity": null,
-    "volume24h": 1134.15,
+    "marketCap": 13.0,
+    "liquidity": 13.13,
+    "volume24h": 418.61,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T16:16:09.121630Z",
+      "liquidity_usd": 13.13,
+      "top10_pct": null,
+      "h1_change_pct": -94.2,
+      "age_min": 3,
+      "verdict": "kill",
+      "reason": "liq $13"
+    }
+  ]
 }
