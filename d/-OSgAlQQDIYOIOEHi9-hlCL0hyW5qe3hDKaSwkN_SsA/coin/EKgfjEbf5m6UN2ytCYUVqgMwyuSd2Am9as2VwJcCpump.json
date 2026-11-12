@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T06:34:05.921445Z",
+  "ts": "2026-11-12T06:35:14.385426Z",
   "mint": "EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump",
   "name": "Anthropic official",
   "symbol": "Anthropic",
@@ -11,8 +11,8 @@
   "creator": "An8ntqqNAbuGinrtTY8PQnFgDM8b2aLYQoJSyvMwr21s",
   "holders": null,
   "link": "https://fomo.family/coin?address=EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001514,
-  "priceTs": "2026-11-12T06:34:05.254671Z",
+  "price": 0.000155,
+  "priceTs": "2026-11-12T06:35:13.718790Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -384,12 +384,20 @@
       "l": 0.0001514,
       "c": 0.0001514,
       "v": 183.51
+    },
+    {
+      "t": 1794465300,
+      "o": 0.000155,
+      "h": 0.000155,
+      "l": 0.000155,
+      "c": 0.000155,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 148903.0,
-    "liquidity": 28411.76,
-    "volume24h": 58965.86,
+    "marketCap": 152408.0,
+    "liquidity": 28761.8,
+    "volume24h": 59272.1,
     "holders": null
   },
   "position": null,
