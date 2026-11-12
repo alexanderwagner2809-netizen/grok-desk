@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T13:30:17.484143Z",
+  "ts": "2026-11-12T13:31:26.897809Z",
   "mint": "45wTiGpwQWRGdZ3pe5jPsEd8EYcaWLD7xyxm5XEJpump",
-  "name": null,
-  "symbol": null,
-  "label": "45wTiGpw",
+  "name": "Tech",
+  "symbol": "Tech",
+  "label": "Tech",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T13:30:05.179597Z",
-  "pool": null,
+  "pool": "U61wwte9vK96ZhukEZVuwMtREN4HVVogaXC9GDFPCgL",
   "creator": "AzYE9g4hfcicz7S7QSP1kWE93GPyC3jjEspGoYH9gSUj",
   "holders": null,
   "link": "https://fomo.family/coin?address=45wTiGpwQWRGdZ3pe5jPsEd8EYcaWLD7xyxm5XEJpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.887e-05,
-  "priceTs": "2026-11-12T13:30:16.347442Z",
+  "price": 3.218e-05,
+  "priceTs": "2026-11-12T13:31:25.519731Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -20,19 +20,37 @@
     {
       "t": 1794490200,
       "o": 2.887e-05,
-      "h": 2.887e-05,
+      "h": 3.338e-05,
       "l": 2.887e-05,
-      "c": 2.887e-05,
+      "c": 3.338e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794490260,
+      "o": 3.218e-05,
+      "h": 3.218e-05,
+      "l": 3.218e-05,
+      "c": 3.218e-05,
+      "v": 3558.8200000000015
     }
   ],
   "stats": {
-    "marketCap": 28871.65,
-    "liquidity": null,
-    "volume24h": 77604.15,
+    "marketCap": 32185.0,
+    "liquidity": 12230.68,
+    "volume24h": 13845.45,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T13:30:58.153689Z",
+      "liquidity_usd": 12459.09,
+      "top10_pct": null,
+      "h1_change_pct": -0.35,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $12.5K"
+    }
+  ]
 }
