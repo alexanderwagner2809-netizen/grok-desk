@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T20:24:56.400880Z",
+  "ts": "2026-11-12T20:26:06.002564Z",
   "mint": "AQDUsVwgb5htjF4V7uwaAq5NLh16veRR1d6WjBE8pump",
   "name": "LINUX",
   "symbol": "TUX",
   "label": "LINUX",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T20:24:23.369846Z",
   "pool": "D1yA946BbU95gYcuS8L8q4HoYeEBXvDEQ21PqJgc9nCL",
   "creator": "EEgjKTPZHNgPA8KNtKkjh2LvfRM3yjXM13w6C8bba6Q9",
   "holders": null,
   "link": "https://fomo.family/coin?address=AQDUsVwgb5htjF4V7uwaAq5NLh16veRR1d6WjBE8pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.375e-08,
-  "priceTs": "2026-11-12T20:24:56.234358Z",
+  "price": 3.089e-10,
+  "priceTs": "2026-11-12T20:26:05.568559Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,12 +24,20 @@
       "l": 2.375e-08,
       "c": 2.375e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794515160,
+      "o": 3.089e-10,
+      "h": 3.089e-10,
+      "l": 3.089e-10,
+      "c": 3.089e-10,
+      "v": 4.43
     }
   ],
   "stats": {
-    "marketCap": null,
-    "liquidity": 0.0,
-    "volume24h": null,
+    "marketCap": 1.0,
+    "liquidity": 1.06,
+    "volume24h": 4.85,
     "holders": null
   },
   "position": null,
