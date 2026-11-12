@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T15:20:32.711606Z",
+  "ts": "2026-11-12T15:21:42.859221Z",
   "mint": "GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump",
   "name": "AI Bubble Popper",
   "symbol": "POPPER",
   "label": "AI Bubble Popper",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T15:19:05.667688Z",
   "pool": "G2DkHJeovhocL9WNsbwXkkebqnGXr7PaeEDSDYkJmjA8",
   "creator": "9Us35ZqZThJgndB16YzXRynjEAdWxhU9qiwLpJzVM4Rg",
   "holders": null,
   "link": "https://fomo.family/coin?address=GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 7.384e-05,
-  "priceTs": "2026-11-12T15:20:31.768134Z",
+  "price": 8.319e-05,
+  "priceTs": "2026-11-12T15:21:41.221640Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -31,16 +31,34 @@
       "h": 8.957e-05,
       "l": 7.384e-05,
       "c": 7.384e-05,
-      "v": 68643.64
+      "v": 115272.57
+    },
+    {
+      "t": 1794496860,
+      "o": 8.319e-05,
+      "h": 8.319e-05,
+      "l": 8.319e-05,
+      "c": 8.319e-05,
+      "v": 37149.47
     }
   ],
   "stats": {
-    "marketCap": 73794.0,
-    "liquidity": 19851.12,
-    "volume24h": 72935.0,
+    "marketCap": 83135.0,
+    "liquidity": 21548.96,
+    "volume24h": 110084.47,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T15:20:42.892993Z",
+      "liquidity_usd": 19851.12,
+      "top10_pct": null,
+      "h1_change_pct": 39.97,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $19.9K"
+    }
+  ]
 }

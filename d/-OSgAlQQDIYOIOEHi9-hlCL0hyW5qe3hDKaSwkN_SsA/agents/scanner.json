@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T15:20:32.786083Z",
+  "ts": "2026-11-12T15:21:43.689157Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T15:20:24.795543Z",
+  "heartbeat": "2026-11-12T15:21:42.345238Z",
   "paused": false,
   "status": "running",
-  "card": "238 pools",
-  "count": 238,
+  "card": "239 pools",
+  "count": 239,
   "passed": 0,
   "feed": [
+    {
+      "mint": "GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump",
+      "label": "AI Bubble Popper",
+      "verdict": "kill",
+      "reason": "liq $19.9K",
+      "subtitle": "liq $19.9K",
+      "link": "https://fomo.family/coin?address=GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump",
       "label": "Seducing Intelligence",
@@ -66,19 +74,19 @@
       "reason": "liq $16",
       "subtitle": "liq $16",
       "link": "https://fomo.family/coin?address=DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump",
-      "label": "The Affair Rally",
-      "verdict": "kill",
-      "reason": "liq $14.5K",
-      "subtitle": "liq $14.5K",
-      "link": "https://fomo.family/coin?address=EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T15:20:42.892993Z",
+      "mint": "GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump",
+      "label": "AI Bubble Popper",
+      "verdict": "kill",
+      "reason": "liq $19.9K",
+      "link": "https://fomo.family/coin?address=GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:16:17.172679Z",
       "mint": "twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump",
       "label": "Seducing Intelligence",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $31",
       "link": "https://fomo.family/coin?address=Fcrtn1hSxfNnAD87yahjJJhdcc2XwKFvZA5Shc4Ppump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T13:24:53.379866Z",
-      "mint": "Gw479MQ33aYK6nRJvKq2JFTR7CQibJ4QYK4yHstnVATs",
-      "label": "ChatGPT",
-      "verdict": "kill",
-      "reason": "+248% in 1h",
-      "link": "https://fomo.family/coin?address=Gw479MQ33aYK6nRJvKq2JFTR7CQibJ4QYK4yHstnVATs&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T15:20:42.892993Z",
+      "mint": "GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump",
+      "label": "AI Bubble Popper",
+      "verdict": "kill",
+      "reason": "liq $19.9K",
+      "link": "https://fomo.family/coin?address=GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:16:17.172679Z",
       "mint": "twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump",
       "label": "Seducing Intelligence",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $31",
       "link": "https://fomo.family/coin?address=Fcrtn1hSxfNnAD87yahjJJhdcc2XwKFvZA5Shc4Ppump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T13:24:53.379866Z",
-      "mint": "Gw479MQ33aYK6nRJvKq2JFTR7CQibJ4QYK4yHstnVATs",
-      "label": "ChatGPT",
-      "verdict": "kill",
-      "reason": "+248% in 1h",
-      "link": "https://fomo.family/coin?address=Gw479MQ33aYK6nRJvKq2JFTR7CQibJ4QYK4yHstnVATs&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
