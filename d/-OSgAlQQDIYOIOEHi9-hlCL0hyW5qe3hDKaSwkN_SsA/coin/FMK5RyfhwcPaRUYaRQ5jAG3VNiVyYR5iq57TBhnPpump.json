@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T21:11:05.194697Z",
+  "ts": "2026-11-12T21:12:14.979207Z",
   "mint": "FMK5RyfhwcPaRUYaRQ5jAG3VNiVyYR5iq57TBhnPpump",
   "name": "Ma Win The Motosai Cat",
   "symbol": "MaWin",
@@ -11,8 +11,8 @@
   "creator": "6dVtv5EJ497dyQV1kwdChZouwmruDDnv1skYfsVBnbz8",
   "holders": null,
   "link": "https://fomo.family/coin?address=FMK5RyfhwcPaRUYaRQ5jAG3VNiVyYR5iq57TBhnPpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.61e-05,
-  "priceTs": "2026-11-12T21:11:04.986021Z",
+  "price": 1.539e-05,
+  "priceTs": "2026-11-12T21:12:14.776971Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -512,12 +512,20 @@
       "l": 1.61e-05,
       "c": 1.61e-05,
       "v": 321.79999999999995
+    },
+    {
+      "t": 1794517920,
+      "o": 1.539e-05,
+      "h": 1.539e-05,
+      "l": 1.539e-05,
+      "c": 1.539e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 15252.0,
-    "liquidity": 8195.03,
-    "volume24h": 136043.14,
+    "marketCap": 14586.0,
+    "liquidity": 7979.61,
+    "volume24h": 136139.97,
     "holders": null
   },
   "position": null,
