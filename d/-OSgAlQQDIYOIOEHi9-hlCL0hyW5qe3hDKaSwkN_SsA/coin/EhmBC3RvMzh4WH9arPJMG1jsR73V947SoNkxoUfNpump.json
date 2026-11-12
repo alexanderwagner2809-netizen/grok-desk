@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:14:19.031920Z",
+  "ts": "2026-11-12T06:15:27.199284Z",
   "mint": "EhmBC3RvMzh4WH9arPJMG1jsR73V947SoNkxoUfNpump",
-  "name": null,
-  "symbol": null,
-  "label": "EhmBC3Rv",
+  "name": "moon cat",
+  "symbol": "mocat",
+  "label": "moon cat",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T06:14:03.883860Z",
-  "pool": null,
+  "pool": "GxYyM8qtisqDCMqEvYSgJaAa52nKKupKYwpym1vdkeE2",
   "creator": "8WZwQJna2Kc9212usM2GhQSknk8sec5qScsq9FU29iLV",
   "holders": null,
   "link": "https://fomo.family/coin?address=EhmBC3RvMzh4WH9arPJMG1jsR73V947SoNkxoUfNpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.046e-07,
-  "priceTs": "2026-11-12T06:14:18.847987Z",
+  "price": 1.405e-07,
+  "priceTs": "2026-11-12T06:15:26.397089Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -20,19 +20,37 @@
     {
       "t": 1794464040,
       "o": 1.046e-07,
-      "h": 1.046e-07,
+      "h": 1.088e-07,
       "l": 1.046e-07,
-      "c": 1.046e-07,
+      "c": 1.088e-07,
       "v": 0.0
+    },
+    {
+      "t": 1794464100,
+      "o": 1.405e-07,
+      "h": 1.405e-07,
+      "l": 1.405e-07,
+      "c": 1.405e-07,
+      "v": 5.210000000000001
     }
   ],
   "stats": {
-    "marketCap": 104.6,
-    "liquidity": null,
-    "volume24h": 23.48,
+    "marketCap": 187.0,
+    "liquidity": 51.02,
+    "volume24h": 5.23,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T06:14:59.591610Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 0.14,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
