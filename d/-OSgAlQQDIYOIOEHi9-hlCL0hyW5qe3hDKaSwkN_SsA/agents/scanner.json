@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T19:15:56.824404Z",
+  "ts": "2026-11-12T20:02:20.251121Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T19:15:53.110019Z",
+  "heartbeat": "2026-11-12T20:02:15.707016Z",
   "paused": false,
   "status": "running",
-  "card": "314 pools",
-  "count": 314,
+  "card": "315 pools",
+  "count": 315,
   "passed": 0,
   "feed": [
+    {
+      "mint": "4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs",
+      "label": "longcat",
+      "verdict": "kill",
+      "reason": "liq $2.3K",
+      "subtitle": "liq $2.3K",
+      "link": "https://fomo.family/coin?address=4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "AQKsrfYvQQEAQ47fP89tSm5hd6YdgUUCB1iCGchfpump",
       "label": "Megan Fox",
@@ -66,19 +74,19 @@
       "reason": "never qualified",
       "subtitle": "never qualified",
       "link": "https://fomo.family/coin?address=2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "A7TmqRupSgt62Z2XbbXeZwxu7SrE7DSq5JkwLWZnpump",
-      "label": "Gigabyte",
-      "verdict": "kill",
-      "reason": "liq $18",
-      "subtitle": "liq $18",
-      "link": "https://fomo.family/coin?address=A7TmqRupSgt62Z2XbbXeZwxu7SrE7DSq5JkwLWZnpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T20:02:15.964586Z",
+      "mint": "4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs",
+      "label": "longcat",
+      "verdict": "kill",
+      "reason": "liq $2.3K",
+      "link": "https://fomo.family/coin?address=4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T19:09:31.605521Z",
       "mint": "AQKsrfYvQQEAQ47fP89tSm5hd6YdgUUCB1iCGchfpump",
       "label": "Megan Fox",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $14.5K",
       "link": "https://fomo.family/coin?address=GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:11:35.718041Z",
-      "mint": "BcTQ8pDmEZhiPXaDHZ4Chtvt7HEZzDf3LNFSacJHcXjP",
-      "label": "Cyberinu",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=BcTQ8pDmEZhiPXaDHZ4Chtvt7HEZzDf3LNFSacJHcXjP&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T20:02:15.964586Z",
+      "mint": "4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs",
+      "label": "longcat",
+      "verdict": "kill",
+      "reason": "liq $2.3K",
+      "link": "https://fomo.family/coin?address=4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T19:09:31.605521Z",
       "mint": "AQKsrfYvQQEAQ47fP89tSm5hd6YdgUUCB1iCGchfpump",
       "label": "Megan Fox",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $14.5K",
       "link": "https://fomo.family/coin?address=GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:11:35.718041Z",
-      "mint": "BcTQ8pDmEZhiPXaDHZ4Chtvt7HEZzDf3LNFSacJHcXjP",
-      "label": "Cyberinu",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=BcTQ8pDmEZhiPXaDHZ4Chtvt7HEZzDf3LNFSacJHcXjP&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
