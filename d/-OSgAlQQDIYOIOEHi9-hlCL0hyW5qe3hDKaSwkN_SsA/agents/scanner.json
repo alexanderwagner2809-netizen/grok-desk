@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T20:29:37.730344Z",
+  "ts": "2026-11-12T20:30:47.459802Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T20:29:34.141361Z",
+  "heartbeat": "2026-11-12T20:30:44.534813Z",
   "paused": false,
   "status": "running",
-  "card": "339 pools",
-  "count": 339,
+  "card": "340 pools",
+  "count": 340,
   "passed": 0,
   "feed": [
+    {
+      "mint": "GasYxdh4RP971cY9odYBDPxa7Dwid8qVxDqKXnk7pump",
+      "label": "ni hao cat",
+      "verdict": "kill",
+      "reason": "+192% in 1h",
+      "subtitle": "+192% in 1h",
+      "link": "https://fomo.family/coin?address=GasYxdh4RP971cY9odYBDPxa7Dwid8qVxDqKXnk7pump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump",
       "label": "Boop Cash",
@@ -66,19 +74,19 @@
       "reason": "liq $6",
       "subtitle": "liq $6",
       "link": "https://fomo.family/coin?address=CKkMzZTwdsJVTMymiYbJxCBAexKMpAGvw77Jci3Cpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "CzqqJBWvL8iAZGWMJHrwsgtd3C2oYU8uBG6KaitHpump",
-      "label": "Eloncoin",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=CzqqJBWvL8iAZGWMJHrwsgtd3C2oYU8uBG6KaitHpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T20:30:44.532226Z",
+      "mint": "GasYxdh4RP971cY9odYBDPxa7Dwid8qVxDqKXnk7pump",
+      "label": "ni hao cat",
+      "verdict": "kill",
+      "reason": "+192% in 1h",
+      "link": "https://fomo.family/coin?address=GasYxdh4RP971cY9odYBDPxa7Dwid8qVxDqKXnk7pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:28:12.727253Z",
       "mint": "3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump",
       "label": "Boop Cash",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $19.6K",
       "link": "https://fomo.family/coin?address=4o3JKYKwHad7xEJ5sww7ck7WpA7ocXF8s36PvxLvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:10:37.049635Z",
-      "mint": "HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump",
-      "label": "Jensen Sins",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T20:30:44.532226Z",
+      "mint": "GasYxdh4RP971cY9odYBDPxa7Dwid8qVxDqKXnk7pump",
+      "label": "ni hao cat",
+      "verdict": "kill",
+      "reason": "+192% in 1h",
+      "link": "https://fomo.family/coin?address=GasYxdh4RP971cY9odYBDPxa7Dwid8qVxDqKXnk7pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:28:12.727253Z",
       "mint": "3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump",
       "label": "Boop Cash",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $19.6K",
       "link": "https://fomo.family/coin?address=4o3JKYKwHad7xEJ5sww7ck7WpA7ocXF8s36PvxLvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:10:37.049635Z",
-      "mint": "HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump",
-      "label": "Jensen Sins",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
