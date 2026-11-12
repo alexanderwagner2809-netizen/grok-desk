@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T20:27:15.847852Z",
+  "ts": "2026-11-12T20:28:26.136251Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T20:27:11.434125Z",
+      "heartbeat": "2026-11-12T20:28:22.914232Z",
       "paused": false,
       "status": "running",
-      "card": "337 pools",
-      "count": 337,
+      "card": "339 pools",
+      "count": 339,
       "passed": 0,
       "feed": [
+        {
+          "mint": "3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump",
+          "label": "Boop Cash",
+          "verdict": "kill",
+          "reason": "liq $12.1K",
+          "subtitle": "liq $12.1K",
+          "link": "https://fomo.family/coin?address=3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "EL7KS5gnbaBMq2KenUtiZE2YwxXyxpvpgKogqZRDpump",
+          "label": "Rockstar Games",
+          "verdict": "kill",
+          "reason": "+199% in 1h",
+          "subtitle": "+199% in 1h",
+          "link": "https://fomo.family/coin?address=EL7KS5gnbaBMq2KenUtiZE2YwxXyxpvpgKogqZRDpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "3AAfiraogxEYXQsm5R6sss8sgGF1FAid2q6armqgSVtf",
           "label": "Inevitable Acceleration",
@@ -66,22 +82,6 @@
           "reason": "liq $0",
           "subtitle": "liq $0",
           "link": "https://fomo.family/coin?address=CzqqJBWvL8iAZGWMJHrwsgtd3C2oYU8uBG6KaitHpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "58GiogU1oeKGLDHfupywXtecV3ZsmJg4mzMY7cyNpump",
-          "label": "Rockstar Games",
-          "verdict": "kill",
-          "reason": "+177% in 1h",
-          "subtitle": "+177% in 1h",
-          "link": "https://fomo.family/coin?address=58GiogU1oeKGLDHfupywXtecV3ZsmJg4mzMY7cyNpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "C1pQ6KN72GaBKtUDbZJsEHD2ErkerLewfLBDBFphtmir",
-          "label": "Marscoin",
-          "verdict": "kill",
-          "reason": "liq $12.6K",
-          "subtitle": "liq $12.6K",
-          "link": "https://fomo.family/coin?address=C1pQ6KN72GaBKtUDbZJsEHD2ErkerLewfLBDBFphtmir&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T20:27:15.303181Z",
+      "heartbeat": "2026-11-12T20:28:25.411675Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T20:27:15.304679Z",
+      "heartbeat": "2026-11-12T20:28:25.413513Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T20:27:15.306424Z",
+      "heartbeat": "2026-11-12T20:28:25.414304Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T20:27:04.885139Z",
+      "heartbeat": "2026-11-12T20:28:19.898996Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T20:27:17.125516Z",
+  "ts": "2026-11-12T20:28:27.389539Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T20:27:16.478100Z",
+  "heartbeat": "2026-11-12T20:28:22.914232Z",
   "paused": false,
   "status": "running",
-  "card": "337 pools",
-  "count": 337,
+  "card": "339 pools",
+  "count": 339,
   "passed": 0,
   "feed": [
+    {
+      "mint": "3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump",
+      "label": "Boop Cash",
+      "verdict": "kill",
+      "reason": "liq $12.1K",
+      "subtitle": "liq $12.1K",
+      "link": "https://fomo.family/coin?address=3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "EL7KS5gnbaBMq2KenUtiZE2YwxXyxpvpgKogqZRDpump",
+      "label": "Rockstar Games",
+      "verdict": "kill",
+      "reason": "+199% in 1h",
+      "subtitle": "+199% in 1h",
+      "link": "https://fomo.family/coin?address=EL7KS5gnbaBMq2KenUtiZE2YwxXyxpvpgKogqZRDpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "3AAfiraogxEYXQsm5R6sss8sgGF1FAid2q6armqgSVtf",
       "label": "Inevitable Acceleration",
@@ -58,27 +74,27 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=CzqqJBWvL8iAZGWMJHrwsgtd3C2oYU8uBG6KaitHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "58GiogU1oeKGLDHfupywXtecV3ZsmJg4mzMY7cyNpump",
-      "label": "Rockstar Games",
-      "verdict": "kill",
-      "reason": "+177% in 1h",
-      "subtitle": "+177% in 1h",
-      "link": "https://fomo.family/coin?address=58GiogU1oeKGLDHfupywXtecV3ZsmJg4mzMY7cyNpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "C1pQ6KN72GaBKtUDbZJsEHD2ErkerLewfLBDBFphtmir",
-      "label": "Marscoin",
-      "verdict": "kill",
-      "reason": "liq $12.6K",
-      "subtitle": "liq $12.6K",
-      "link": "https://fomo.family/coin?address=C1pQ6KN72GaBKtUDbZJsEHD2ErkerLewfLBDBFphtmir&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T20:28:12.727253Z",
+      "mint": "3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump",
+      "label": "Boop Cash",
+      "verdict": "kill",
+      "reason": "liq $12.1K",
+      "link": "https://fomo.family/coin?address=3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T20:28:12.725152Z",
+      "mint": "EL7KS5gnbaBMq2KenUtiZE2YwxXyxpvpgKogqZRDpump",
+      "label": "Rockstar Games",
+      "verdict": "kill",
+      "reason": "+199% in 1h",
+      "link": "https://fomo.family/coin?address=EL7KS5gnbaBMq2KenUtiZE2YwxXyxpvpgKogqZRDpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:26:39.109750Z",
       "mint": "3AAfiraogxEYXQsm5R6sss8sgGF1FAid2q6armqgSVtf",
       "label": "Inevitable Acceleration",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:10:26.697031Z",
-      "mint": "3u2Enou6XnEYBGAkMQcx1rCukVc9BwGUp73xjNYepump",
-      "label": "DeepSeek",
-      "verdict": "kill",
-      "reason": "+190% in 1h",
-      "link": "https://fomo.family/coin?address=3u2Enou6XnEYBGAkMQcx1rCukVc9BwGUp73xjNYepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:08:46.418398Z",
-      "mint": "GHB5wJfknCtudnrCak2QcjXXrExs8ZpNy1XMRTddzEKr",
-      "label": "Hachiko",
-      "verdict": "kill",
-      "reason": "liq $16.0K",
-      "link": "https://fomo.family/coin?address=GHB5wJfknCtudnrCak2QcjXXrExs8ZpNy1XMRTddzEKr&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T20:28:12.727253Z",
+      "mint": "3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump",
+      "label": "Boop Cash",
+      "verdict": "kill",
+      "reason": "liq $12.1K",
+      "link": "https://fomo.family/coin?address=3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T20:28:12.725152Z",
+      "mint": "EL7KS5gnbaBMq2KenUtiZE2YwxXyxpvpgKogqZRDpump",
+      "label": "Rockstar Games",
+      "verdict": "kill",
+      "reason": "+199% in 1h",
+      "link": "https://fomo.family/coin?address=EL7KS5gnbaBMq2KenUtiZE2YwxXyxpvpgKogqZRDpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:26:39.109750Z",
       "mint": "3AAfiraogxEYXQsm5R6sss8sgGF1FAid2q6armqgSVtf",
       "label": "Inevitable Acceleration",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:10:26.697031Z",
-      "mint": "3u2Enou6XnEYBGAkMQcx1rCukVc9BwGUp73xjNYepump",
-      "label": "DeepSeek",
-      "verdict": "kill",
-      "reason": "+190% in 1h",
-      "link": "https://fomo.family/coin?address=3u2Enou6XnEYBGAkMQcx1rCukVc9BwGUp73xjNYepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:08:46.418398Z",
-      "mint": "GHB5wJfknCtudnrCak2QcjXXrExs8ZpNy1XMRTddzEKr",
-      "label": "Hachiko",
-      "verdict": "kill",
-      "reason": "liq $16.0K",
-      "link": "https://fomo.family/coin?address=GHB5wJfknCtudnrCak2QcjXXrExs8ZpNy1XMRTddzEKr&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
