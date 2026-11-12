@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T15:15:38.179993Z",
+  "ts": "2026-11-12T15:16:48.605589Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T15:15:36.923533Z",
+  "heartbeat": "2026-11-12T15:16:47.177547Z",
   "paused": false,
   "status": "running",
-  "card": "237 pools",
-  "count": 237,
+  "card": "238 pools",
+  "count": 238,
   "passed": 0,
   "feed": [
+    {
+      "mint": "twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump",
+      "label": "Seducing Intelligence",
+      "verdict": "kill",
+      "reason": "+188% in 1h",
+      "subtitle": "+188% in 1h",
+      "link": "https://fomo.family/coin?address=twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump",
       "label": "Dickcoin",
@@ -66,19 +74,19 @@
       "reason": "liq $14.5K",
       "subtitle": "liq $14.5K",
       "link": "https://fomo.family/coin?address=EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump",
-      "label": "Buy if you're horny",
-      "verdict": "kill",
-      "reason": "liq $1.7K",
-      "subtitle": "liq $1.7K",
-      "link": "https://fomo.family/coin?address=4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T15:16:17.172679Z",
+      "mint": "twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump",
+      "label": "Seducing Intelligence",
+      "verdict": "kill",
+      "reason": "+188% in 1h",
+      "link": "https://fomo.family/coin?address=twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:11:27.045632Z",
       "mint": "ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump",
       "label": "Dickcoin",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "+248% in 1h",
       "link": "https://fomo.family/coin?address=Gw479MQ33aYK6nRJvKq2JFTR7CQibJ4QYK4yHstnVATs&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T13:07:53.527235Z",
-      "mint": "Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump",
-      "label": "Paul Atreides",
-      "verdict": "kill",
-      "reason": "liq $16.1K",
-      "link": "https://fomo.family/coin?address=Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T15:16:17.172679Z",
+      "mint": "twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump",
+      "label": "Seducing Intelligence",
+      "verdict": "kill",
+      "reason": "+188% in 1h",
+      "link": "https://fomo.family/coin?address=twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:11:27.045632Z",
       "mint": "ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump",
       "label": "Dickcoin",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "+248% in 1h",
       "link": "https://fomo.family/coin?address=Gw479MQ33aYK6nRJvKq2JFTR7CQibJ4QYK4yHstnVATs&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T13:07:53.527235Z",
-      "mint": "Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump",
-      "label": "Paul Atreides",
-      "verdict": "kill",
-      "reason": "liq $16.1K",
-      "link": "https://fomo.family/coin?address=Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
