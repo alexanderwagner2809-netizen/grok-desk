@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T13:31:27.579529Z",
+  "ts": "2026-11-12T13:35:12.897621Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T13:31:24.810035Z",
+  "heartbeat": "2026-11-12T13:35:10.535550Z",
   "paused": false,
   "status": "running",
-  "card": "223 pools",
-  "count": 223,
+  "card": "224 pools",
+  "count": 224,
   "passed": 0,
   "feed": [
+    {
+      "mint": "4HeaFCvsD76751R79Edk9y8odRxDkqEsaunAqryzpump",
+      "label": "4HeaFCvs",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=4HeaFCvsD76751R79Edk9y8odRxDkqEsaunAqryzpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "8amAx1Y1s3bgBQB2guLWH6G5PU4yi5foXXB7C4nFpump",
       "label": "ELON",
@@ -66,19 +74,19 @@
       "reason": "never qualified",
       "subtitle": "never qualified",
       "link": "https://fomo.family/coin?address=jbL44HhSdvbpL1mK5z6jTVn7QjcnhyRghE7BH3Jpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "3Vmrfa2npEBFmLp4q3omnrFWKSsgWoev6ZMhymZfpump",
-      "label": "3Vmrfa2n",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "subtitle": "never qualified",
-      "link": "https://fomo.family/coin?address=3Vmrfa2npEBFmLp4q3omnrFWKSsgWoev6ZMhymZfpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T13:32:04.603698Z",
+      "mint": "4HeaFCvsD76751R79Edk9y8odRxDkqEsaunAqryzpump",
+      "label": "4HeaFCvs",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=4HeaFCvsD76751R79Edk9y8odRxDkqEsaunAqryzpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T13:30:58.155365Z",
       "mint": "8amAx1Y1s3bgBQB2guLWH6G5PU4yi5foXXB7C4nFpump",
       "label": "ELON",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $6.0K",
       "link": "https://fomo.family/coin?address=7avhD1xZgH6m49AkpJwbnVZGa72LmJGasSma6kRKpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T11:34:13.304509Z",
-      "mint": "5WX32yn4wsN2dppKhvGyz5nKLL8rTLpPfn8Xf1kopump",
-      "label": "Salute",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=5WX32yn4wsN2dppKhvGyz5nKLL8rTLpPfn8Xf1kopump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T13:32:04.603698Z",
+      "mint": "4HeaFCvsD76751R79Edk9y8odRxDkqEsaunAqryzpump",
+      "label": "4HeaFCvs",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=4HeaFCvsD76751R79Edk9y8odRxDkqEsaunAqryzpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T13:30:58.155365Z",
       "mint": "8amAx1Y1s3bgBQB2guLWH6G5PU4yi5foXXB7C4nFpump",
       "label": "ELON",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $6.0K",
       "link": "https://fomo.family/coin?address=7avhD1xZgH6m49AkpJwbnVZGa72LmJGasSma6kRKpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T11:34:13.304509Z",
-      "mint": "5WX32yn4wsN2dppKhvGyz5nKLL8rTLpPfn8Xf1kopump",
-      "label": "Salute",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=5WX32yn4wsN2dppKhvGyz5nKLL8rTLpPfn8Xf1kopump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
