@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T11:34:51.344437Z",
+  "mint": "7avhD1xZgH6m49AkpJwbnVZGa72LmJGasSma6kRKpump",
+  "name": "zai jian cat",
+  "symbol": "zaimian",
+  "label": "zai jian cat",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-12T11:33:44.256847Z",
+  "pool": "8hyY4QQZdBZV1XCMnowJ1okyNZ1unrwbs2xUNVsqGKCj",
+  "creator": "E3E3jA5KMSspoeS45whMWQrewpNr2jEroBqKn16b9RD6",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=7avhD1xZgH6m49AkpJwbnVZGa72LmJGasSma6kRKpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 9.933e-06,
+  "priceTs": "2026-11-12T11:34:50.066563Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794483240,
+      "o": 9.572e-06,
+      "h": 9.933e-06,
+      "l": 9.572e-06,
+      "c": 9.933e-06,
+      "v": 597.4200000000001
+    }
+  ],
+  "stats": {
+    "marketCap": 9933.0,
+    "liquidity": 6165.68,
+    "volume24h": 6913.52,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T11:34:43.935939Z",
+      "liquidity_usd": 6026.13,
+      "top10_pct": null,
+      "h1_change_pct": -71.93,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $6.0K"
+    }
+  ]
+}
