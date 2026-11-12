@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T13:29:07.535971Z",
+  "ts": "2026-11-12T13:30:17.887063Z",
   "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
   "name": null,
   "symbol": null,
@@ -11,8 +11,8 @@
   "creator": "2wmVCSfPxGPjrnMMn7rchp4uaeoTqN39mXFC2zhPdri9",
   "holders": null,
   "link": "https://fomo.family/coin?address=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.00067,
-  "priceTs": "2026-11-12T13:29:06.688533Z",
+  "price": 0.9997,
+  "priceTs": "2026-11-12T13:30:16.996893Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2632,12 +2632,20 @@
       "l": 1.00067,
       "c": 1.00067,
       "v": 0.0
+    },
+    {
+      "t": 1794490200,
+      "o": 0.9997,
+      "h": 0.9997,
+      "l": 0.9997,
+      "c": 0.9997,
+      "v": 6016.569999999992
     }
   ],
   "stats": {
-    "marketCap": 69712307295.0,
-    "liquidity": 2130173.87,
-    "volume24h": 21319162.8,
+    "marketCap": 69647236669.0,
+    "liquidity": 2126979.36,
+    "volume24h": 21343103.19,
     "holders": null
   },
   "position": null,

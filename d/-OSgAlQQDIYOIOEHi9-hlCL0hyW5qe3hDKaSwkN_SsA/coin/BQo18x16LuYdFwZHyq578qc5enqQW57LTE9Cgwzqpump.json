@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T13:29:07.405214Z",
+  "ts": "2026-11-12T13:30:17.716730Z",
   "mint": "BQo18x16LuYdFwZHyq578qc5enqQW57LTE9Cgwzqpump",
   "name": "CallScout",
   "symbol": "CALLSCOUT",
@@ -11,8 +11,8 @@
   "creator": "4Zt7ei3yVNbC51aio9gXKraPVLiZ3A4vkmqnd7iaq4MJ",
   "holders": null,
   "link": "https://fomo.family/coin?address=BQo18x16LuYdFwZHyq578qc5enqQW57LTE9Cgwzqpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.506e-05,
-  "priceTs": "2026-11-12T13:29:06.435765Z",
+  "price": 1.505e-05,
+  "priceTs": "2026-11-12T13:30:16.743409Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2624,12 +2624,20 @@
       "l": 1.506e-05,
       "c": 1.506e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794490200,
+      "o": 1.505e-05,
+      "h": 1.505e-05,
+      "l": 1.505e-05,
+      "c": 1.505e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 14006.0,
-    "liquidity": 7879.69,
-    "volume24h": 47712.84,
+    "marketCap": 13995.0,
+    "liquidity": 7876.31,
+    "volume24h": 47716.09,
     "holders": null
   },
   "position": null,
