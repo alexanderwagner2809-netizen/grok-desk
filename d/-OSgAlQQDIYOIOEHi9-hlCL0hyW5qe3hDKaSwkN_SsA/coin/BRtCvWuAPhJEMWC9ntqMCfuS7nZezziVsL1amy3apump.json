@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-12T20:30:46.949298Z",
+  "ts": "2026-11-12T20:31:56.677193Z",
   "mint": "BRtCvWuAPhJEMWC9ntqMCfuS7nZezziVsL1amy3apump",
-  "name": null,
-  "symbol": null,
-  "label": "BRtCvWuA",
+  "name": "NVIDIUSSY",
+  "symbol": "NVIDIUSSY",
+  "label": "NVIDIUSSY",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T20:30:11.776799Z",
-  "pool": null,
+  "pool": "3vjeCcmPk8ebMdm1ZBEvpG3GutMqKqB5bo5tVizPMN4r",
   "creator": "wAzJjRMTLu5NqciT2jgsHmYTG4paV5xnQknEQi8Bcav",
   "holders": null,
   "link": "https://fomo.family/coin?address=BRtCvWuAPhJEMWC9ntqMCfuS7nZezziVsL1amy3apump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.089e-05,
+  "priceTs": "2026-11-12T20:31:56.319667Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794515400,
+      "o": 2.526e-05,
+      "h": 2.526e-05,
+      "l": 2.526e-05,
+      "c": 2.526e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794515460,
+      "o": 3.089e-05,
+      "h": 3.089e-05,
+      "l": 3.089e-05,
+      "c": 3.089e-05,
+      "v": 11595.599999999999
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 30896.0,
+    "liquidity": 11923.16,
+    "volume24h": 17507.26,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:30:49.687909Z",
+      "liquidity_usd": 10632.34,
+      "top10_pct": null,
+      "h1_change_pct": -25.22,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $10.6K"
+    }
+  ]
 }

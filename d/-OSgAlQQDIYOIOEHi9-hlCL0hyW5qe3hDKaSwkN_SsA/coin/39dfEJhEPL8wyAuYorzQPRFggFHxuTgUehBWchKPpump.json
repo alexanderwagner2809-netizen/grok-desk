@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T20:31:56.676337Z",
+  "mint": "39dfEJhEPL8wyAuYorzQPRFggFHxuTgUehBWchKPpump",
+  "name": "salam aleikum",
+  "symbol": "salam",
+  "label": "salam aleikum",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T20:31:09.676675Z",
+  "pool": "45E1TQavd8B2r27XwQnU3mYyRPSi9R4hiQyNXJuqcPFh",
+  "creator": "9Egw5WxPTGLL6S9tGjXpFwX2V12CPmsnxfLjpAJkyjPk",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=39dfEJhEPL8wyAuYorzQPRFggFHxuTgUehBWchKPpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.639e-08,
+  "priceTs": "2026-11-12T20:31:56.319667Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794515460,
+      "o": 3.639e-08,
+      "h": 3.639e-08,
+      "l": 3.639e-08,
+      "c": 3.639e-08,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 73.0,
+    "liquidity": 51.08,
+    "volume24h": 90.2,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T20:31:42.468401Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -58.45,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
