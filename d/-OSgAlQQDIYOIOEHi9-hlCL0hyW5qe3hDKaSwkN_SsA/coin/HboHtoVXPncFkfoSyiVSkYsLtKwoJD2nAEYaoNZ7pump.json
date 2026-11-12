@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T13:35:12.138466Z",
+  "ts": "2026-11-12T14:03:17.111034Z",
   "mint": "HboHtoVXPncFkfoSyiVSkYsLtKwoJD2nAEYaoNZ7pump",
   "name": "bunwifhat",
   "symbol": "MING",
   "label": "bunwifhat",
   "chain": "Solana",
-  "age": "1h old",
+  "age": "2h old",
   "migratedAt": "2026-11-12T11:36:29.591628Z",
   "pool": "3GtLQQuRmz4ixQSCc47RebB59MEa2ENZMKBj1Wy8uf1i",
   "creator": "HKrPy9nPfcknKC6vF1LYbqA593mcxBwiwRCPiFkZc1T9",
   "holders": null,
   "link": "https://fomo.family/coin?address=HboHtoVXPncFkfoSyiVSkYsLtKwoJD2nAEYaoNZ7pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.954e-06,
-  "priceTs": "2026-11-12T13:35:10.719972Z",
+  "price": 0.001626,
+  "priceTs": "2026-11-12T14:03:15.613062Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -344,12 +344,20 @@
       "l": 6.954e-06,
       "c": 6.954e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794492180,
+      "o": 0.001626,
+      "h": 0.001626,
+      "l": 0.001626,
+      "c": 0.001626,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 6620.0,
-    "liquidity": 5013.09,
-    "volume24h": 309831.08,
+    "marketCap": 1547891.0,
+    "liquidity": 883386.57,
+    "volume24h": 310637.39,
     "holders": null
   },
   "position": null,

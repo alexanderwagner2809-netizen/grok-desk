@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T13:35:12.278713Z",
+  "ts": "2026-11-12T14:03:17.252785Z",
   "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
   "name": null,
   "symbol": null,
   "label": "pumpCmXq",
   "chain": "Solana",
-  "age": "6h old",
+  "age": "7h old",
   "migratedAt": "2026-11-12T06:50:20.373453Z",
   "pool": null,
   "creator": "Doa8F9eugaAHpCBmfmShKV1BhKN9xyaEDg1mTsonW5p8",
   "holders": null,
   "link": "https://fomo.family/coin?address=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.003368,
-  "priceTs": "2026-11-12T13:35:11.081020Z",
+  "price": 2.856e-06,
+  "priceTs": "2026-11-12T14:03:15.982595Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1688,12 +1688,20 @@
       "l": 0.003368,
       "c": 0.003368,
       "v": 0.0
+    },
+    {
+      "t": 1794492180,
+      "o": 2.856e-06,
+      "h": 2.856e-06,
+      "l": 2.856e-06,
+      "c": 2.856e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1544358730.0,
-    "liquidity": 2174391.07,
-    "volume24h": 3514570.16,
+    "marketCap": 2762.0,
+    "liquidity": 2816.26,
+    "volume24h": 2324.86,
     "holders": null
   },
   "position": null,

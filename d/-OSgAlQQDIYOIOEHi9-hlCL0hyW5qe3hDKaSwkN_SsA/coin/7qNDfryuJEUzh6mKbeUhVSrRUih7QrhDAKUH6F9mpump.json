@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T13:35:12.147780Z",
+  "ts": "2026-11-12T14:03:17.121033Z",
   "mint": "7qNDfryuJEUzh6mKbeUhVSrRUih7QrhDAKUH6F9mpump",
   "name": "Robinhood",
   "symbol": "Robinhood",
@@ -11,8 +11,8 @@
   "creator": "EVCmX1pz6zoEZqVTwWdyygpbVBTxUuVLFXmLPmQxeuAk",
   "holders": null,
   "link": "https://fomo.family/coin?address=7qNDfryuJEUzh6mKbeUhVSrRUih7QrhDAKUH6F9mpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.488e-06,
-  "priceTs": "2026-11-12T13:35:10.833092Z",
+  "price": 1.476e-06,
+  "priceTs": "2026-11-12T14:03:15.751240Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -384,12 +384,20 @@
       "l": 1.488e-06,
       "c": 1.488e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794492180,
+      "o": 1.476e-06,
+      "h": 1.476e-06,
+      "l": 1.476e-06,
+      "c": 1.476e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1469.0,
-    "liquidity": 1503.02,
-    "volume24h": 41174.91,
+    "marketCap": 1457.0,
+    "liquidity": 1491.05,
+    "volume24h": 41175.25,
     "holders": null
   },
   "position": null,

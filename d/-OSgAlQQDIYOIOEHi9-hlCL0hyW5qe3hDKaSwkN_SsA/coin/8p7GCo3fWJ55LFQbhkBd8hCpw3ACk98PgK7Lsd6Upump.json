@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T13:35:12.215119Z",
+  "ts": "2026-11-12T14:03:17.190810Z",
   "mint": "8p7GCo3fWJ55LFQbhkBd8hCpw3ACk98PgK7Lsd6Upump",
   "name": "Shitcoin",
   "symbol": "Shitcoin",
@@ -11,8 +11,8 @@
   "creator": "7e6Rah96A6Vr3ZBBLAM371DdidSLJpRSKrdrTRDRm4Af",
   "holders": null,
   "link": "https://fomo.family/coin?address=8p7GCo3fWJ55LFQbhkBd8hCpw3ACk98PgK7Lsd6Upump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 9.254e-05,
-  "priceTs": "2026-11-12T13:35:10.983687Z",
+  "price": 7.758e-05,
+  "priceTs": "2026-11-12T14:03:15.884610Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1040,12 +1040,20 @@
       "l": 9.254e-05,
       "c": 9.254e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794492180,
+      "o": 7.758e-05,
+      "h": 7.758e-05,
+      "l": 7.758e-05,
+      "c": 7.758e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 86216.0,
-    "liquidity": 21944.2,
-    "volume24h": 260469.92,
+    "marketCap": 72275.0,
+    "liquidity": 20017.88,
+    "volume24h": 286432.57,
     "holders": null
   },
   "position": null,

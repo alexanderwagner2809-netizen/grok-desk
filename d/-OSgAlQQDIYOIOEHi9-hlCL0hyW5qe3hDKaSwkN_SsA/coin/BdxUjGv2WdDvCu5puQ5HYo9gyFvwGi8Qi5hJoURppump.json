@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T13:35:12.643121Z",
+  "ts": "2026-11-12T14:03:17.661758Z",
   "mint": "BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump",
   "name": "The Jensen Files",
   "symbol": "JENSEN",
@@ -11,8 +11,8 @@
   "creator": "3C9kRjWbrRE5NcdWfmRZe9kgvVRyfBQN7bdV23315Txa",
   "holders": null,
   "link": "https://fomo.family/coin?address=BdxUjGv2WdDvCu5puQ5HYo9gyFvwGi8Qi5hJoURppump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.238e-06,
-  "priceTs": "2026-11-12T13:35:11.607264Z",
+  "price": 2.493e-06,
+  "priceTs": "2026-11-12T14:03:16.667229Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2864,12 +2864,20 @@
       "l": 2.238e-06,
       "c": 2.238e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794492180,
+      "o": 2.493e-06,
+      "h": 2.493e-06,
+      "l": 2.493e-06,
+      "c": 2.493e-06,
+      "v": 108.97
     }
   ],
   "stats": {
-    "marketCap": 1886.0,
-    "liquidity": 2166.63,
-    "volume24h": 66295.28,
+    "marketCap": 2101.0,
+    "liquidity": 2360.13,
+    "volume24h": 66684.0,
     "holders": null
   },
   "position": null,
