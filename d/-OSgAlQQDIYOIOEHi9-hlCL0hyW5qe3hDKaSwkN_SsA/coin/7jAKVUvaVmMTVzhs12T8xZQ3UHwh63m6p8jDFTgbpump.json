@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-12T00:11:42.137626Z",
+  "mint": "7jAKVUvaVmMTVzhs12T8xZQ3UHwh63m6p8jDFTgbpump",
+  "name": "@Risk100x",
+  "symbol": "@Risk100x",
+  "label": "@Risk100x",
+  "chain": "Solana",
+  "age": "6m old",
+  "migratedAt": "2026-11-12T00:05:39.614454Z",
+  "pool": "5KfyH7RZKW5tVkRjyi7i9dp4fmJ1MLGdtJXAhkQSoept",
+  "creator": "C734yfHt9T8GmJw2gTuna4ia3GWtk7oyFw2teEMMQdqZ",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=7jAKVUvaVmMTVzhs12T8xZQ3UHwh63m6p8jDFTgbpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 6.311e-10,
+  "priceTs": "2026-11-12T00:11:41.759825Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794442140,
+      "o": 6.311e-10,
+      "h": 6.311e-10,
+      "l": 6.311e-10,
+      "c": 6.311e-10,
+      "v": 0.0
+    },
+    {
+      "t": 1794442260,
+      "o": 6.311e-10,
+      "h": 6.311e-10,
+      "l": 6.311e-10,
+      "c": 6.311e-10,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 1.0,
+    "liquidity": 0.71,
+    "volume24h": 5.5,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T00:09:35.102664Z",
+      "liquidity_usd": 0.71,
+      "top10_pct": null,
+      "h1_change_pct": -78.49,
+      "age_min": 3,
+      "verdict": "kill",
+      "reason": "liq $1"
+    }
+  ]
+}

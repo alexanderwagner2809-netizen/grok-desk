@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-12T00:11:42.138645Z",
+  "mint": "DSrut5mGtugBh8fbLAke7vjxpy5ig7NyRuuF2t1qpump",
+  "name": "pizza",
+  "symbol": "pizza",
+  "label": "pizza",
+  "chain": "Solana",
+  "age": "17m old",
+  "migratedAt": "2026-11-11T23:54:30.368701Z",
+  "pool": "5kJsmfC5HBdzY8Fn3BbeUpvNo5ayvhM4SRiouJgv8YBW",
+  "creator": "C3zc8nUJA5Wgj7duEEyrvVopXniTNuFTjT3SRojf4xbr",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=DSrut5mGtugBh8fbLAke7vjxpy5ig7NyRuuF2t1qpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 1.201e-09,
+  "priceTs": "2026-11-12T00:11:41.759825Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794441660,
+      "o": 2.043e-09,
+      "h": 2.043e-09,
+      "l": 2.043e-09,
+      "c": 2.043e-09,
+      "v": 0.0
+    },
+    {
+      "t": 1794442260,
+      "o": 1.201e-09,
+      "h": 1.201e-09,
+      "l": 1.201e-09,
+      "c": 1.201e-09,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 2.0,
+    "liquidity": 3.87,
+    "volume24h": 149.51,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T00:01:43.341664Z",
+      "liquidity_usd": 5.23,
+      "top10_pct": null,
+      "h1_change_pct": -97.11,
+      "age_min": 7,
+      "verdict": "kill",
+      "reason": "liq $5"
+    }
+  ]
+}
