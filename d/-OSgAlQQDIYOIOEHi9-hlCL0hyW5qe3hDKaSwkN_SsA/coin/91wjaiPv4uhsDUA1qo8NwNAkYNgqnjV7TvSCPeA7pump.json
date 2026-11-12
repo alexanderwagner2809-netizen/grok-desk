@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T20:52:24.214466Z",
+  "ts": "2026-11-12T20:53:33.733922Z",
   "mint": "91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump",
   "name": "Father",
   "symbol": "Hero",
   "label": "Father",
   "chain": "Solana",
-  "age": "40m old",
+  "age": "41m old",
   "migratedAt": "2026-11-12T20:12:14.284409Z",
   "pool": "CZ3EYvM6yyEVRtA4KimDHDJsfLtcyDHqG5BTUBsQJ74x",
   "creator": "9dTijLRe5KZvTyetfWmZnvE7SoGUUHVpXt27CaaMJX78",
   "holders": null,
   "link": "https://fomo.family/coin?address=91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.000131,
-  "priceTs": "2026-11-12T20:52:24.033709Z",
+  "price": 0.0001116,
+  "priceTs": "2026-11-12T20:53:33.534758Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -296,12 +296,20 @@
       "l": 0.000131,
       "c": 0.000131,
       "v": 3783.810000000005
+    },
+    {
+      "t": 1794516780,
+      "o": 0.0001116,
+      "h": 0.0001116,
+      "l": 0.0001116,
+      "c": 0.0001116,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 128938.0,
-    "liquidity": 31435.24,
-    "volume24h": 825711.25,
+    "marketCap": 109906.0,
+    "liquidity": 28904.85,
+    "volume24h": 833282.33,
     "holders": null
   },
   "position": null,
