@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T14:09:09.504992Z",
+  "ts": "2026-11-12T14:14:39.272380Z",
   "mint": "CZgr3UM7vnuDgMkLjyA62XwYcYL3qb3qRuupG2dopump",
-  "name": null,
-  "symbol": null,
-  "label": "CZgr3UM7",
+  "name": "ANSEM ",
+  "symbol": "ASM",
+  "label": "ANSEM ",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "5m old",
   "migratedAt": "2026-11-12T14:09:01.531826Z",
-  "pool": null,
+  "pool": "73Her5cEM43zQRwudidLjzVFs5gyJkPrn833nwpNobLn",
   "creator": "3AvBvrgpsVEY3Y5baNzDzjZXJnD9Zmbdh7UBjc7KQmya",
   "holders": null,
   "link": "https://fomo.family/coin?address=CZgr3UM7vnuDgMkLjyA62XwYcYL3qb3qRuupG2dopump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.804e-08,
-  "priceTs": "2026-11-12T14:09:08.609602Z",
+  "price": 4.687e-09,
+  "priceTs": "2026-11-12T14:14:38.879959Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 1.804e-08,
       "c": 1.804e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794492840,
+      "o": 4.687e-09,
+      "h": 4.687e-09,
+      "l": 4.687e-09,
+      "c": 4.687e-09,
+      "v": 58.67
     }
   ],
   "stats": {
-    "marketCap": 18.04,
-    "liquidity": null,
-    "volume24h": 2830.62,
+    "marketCap": 9.0,
+    "liquidity": 3.42,
+    "volume24h": 80.65,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T14:14:37.837440Z",
+      "liquidity_usd": 3.42,
+      "top10_pct": null,
+      "h1_change_pct": -64.1,
+      "age_min": 5,
+      "verdict": "kill",
+      "reason": "liq $3"
+    }
+  ]
 }

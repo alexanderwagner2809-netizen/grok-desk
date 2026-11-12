@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T14:09:09.412706Z",
+  "ts": "2026-11-12T14:14:39.656996Z",
   "mint": "AEuiaUyNzcMFyGQtqYY8D9taWCaH46m86QQfPsuypump",
   "name": "HumpDayCamel",
   "symbol": "HDC",
@@ -11,8 +11,8 @@
   "creator": "9q6dbLyjdSMjWkh8W4i1RaDJgXGD6BzWfNSWkW5dTjyF",
   "holders": null,
   "link": "https://fomo.family/coin?address=AEuiaUyNzcMFyGQtqYY8D9taWCaH46m86QQfPsuypump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.994e-10,
-  "priceTs": "2026-11-12T14:09:08.465500Z",
+  "price": 3.622e-10,
+  "priceTs": "2026-11-12T14:14:38.742559Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2600,12 +2600,20 @@
       "l": 4.994e-10,
       "c": 4.994e-10,
       "v": 0.0
+    },
+    {
+      "t": 1794492840,
+      "o": 3.622e-10,
+      "h": 3.622e-10,
+      "l": 3.622e-10,
+      "c": 3.622e-10,
+      "v": 0.12
     }
   ],
   "stats": {
     "marketCap": 1.0,
-    "liquidity": 1.1,
-    "volume24h": 138.64,
+    "liquidity": 0.93,
+    "volume24h": 138.76,
     "holders": null
   },
   "position": null,

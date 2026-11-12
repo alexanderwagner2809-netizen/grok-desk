@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T14:14:39.271374Z",
+  "mint": "GZ2pDdip9spqiZuqV2tGhR1EcvbZzU1XTWk4ZVTGpump",
+  "name": "Indo meme",
+  "symbol": "indomeme",
+  "label": "Indo meme",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T14:14:37.597152Z",
+  "pool": "FYsUu1d7uD59DT5fACw2UjDC4nwzEyDDchAxFLFSrxWx",
+  "creator": null,
+  "holders": null,
+  "link": "https://fomo.family/coin?address=GZ2pDdip9spqiZuqV2tGhR1EcvbZzU1XTWk4ZVTGpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.833e-05,
+  "priceTs": "2026-11-12T14:14:39.155677Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794492840,
+      "o": 3.833e-05,
+      "h": 3.833e-05,
+      "l": 3.833e-05,
+      "c": 3.833e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 38333.0,
+    "liquidity": 13392.9,
+    "volume24h": 3925.49,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T14:14:37.839730Z",
+      "liquidity_usd": 13392.9,
+      "top10_pct": null,
+      "h1_change_pct": 12.61,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $13.4K"
+    }
+  ]
+}
