@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T16:35:12.803649Z",
+  "ts": "2026-11-12T16:36:23.738140Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T16:35:09.498051Z",
+  "heartbeat": "2026-11-12T16:36:19.856736Z",
   "paused": false,
   "status": "running",
-  "card": "271 pools",
-  "count": 271,
+  "card": "272 pools",
+  "count": 272,
   "passed": 0,
   "feed": [
+    {
+      "mint": "7P6NTos913CsZDJeCZYmZjcicevKR3vpQM7Rmrvrpump",
+      "label": "SLING",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=7P6NTos913CsZDJeCZYmZjcicevKR3vpQM7Rmrvrpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "8bLJCHrY1ahyQ8mERgnWkkpscAEWkgbjMqyzVSdvpump",
       "label": "Dugecoin",
@@ -66,19 +74,19 @@
       "reason": "liq $13.1K",
       "subtitle": "liq $13.1K",
       "link": "https://fomo.family/coin?address=3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump",
-      "label": "Bugles Cat",
-      "verdict": "kill",
-      "reason": "liq $12.6K",
-      "subtitle": "liq $12.6K",
-      "link": "https://fomo.family/coin?address=65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T16:35:59.468502Z",
+      "mint": "7P6NTos913CsZDJeCZYmZjcicevKR3vpQM7Rmrvrpump",
+      "label": "SLING",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=7P6NTos913CsZDJeCZYmZjcicevKR3vpQM7Rmrvrpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:33:04.258473Z",
       "mint": "8bLJCHrY1ahyQ8mERgnWkkpscAEWkgbjMqyzVSdvpump",
       "label": "Dugecoin",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $18.4K",
       "link": "https://fomo.family/coin?address=7z3QB6D8xge7GzKZCsajvnLt8zqT1SvFonY9vZZmpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:40:44.236351Z",
-      "mint": "CoTSzzrBwEYchLzuio5mpAa4pSuviM8ngaVGVSEfpump",
-      "label": "goat coin",
-      "verdict": "kill",
-      "reason": "liq $88",
-      "link": "https://fomo.family/coin?address=CoTSzzrBwEYchLzuio5mpAa4pSuviM8ngaVGVSEfpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T16:35:59.468502Z",
+      "mint": "7P6NTos913CsZDJeCZYmZjcicevKR3vpQM7Rmrvrpump",
+      "label": "SLING",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=7P6NTos913CsZDJeCZYmZjcicevKR3vpQM7Rmrvrpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:33:04.258473Z",
       "mint": "8bLJCHrY1ahyQ8mERgnWkkpscAEWkgbjMqyzVSdvpump",
       "label": "Dugecoin",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $18.4K",
       "link": "https://fomo.family/coin?address=7z3QB6D8xge7GzKZCsajvnLt8zqT1SvFonY9vZZmpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:40:44.236351Z",
-      "mint": "CoTSzzrBwEYchLzuio5mpAa4pSuviM8ngaVGVSEfpump",
-      "label": "goat coin",
-      "verdict": "kill",
-      "reason": "liq $88",
-      "link": "https://fomo.family/coin?address=CoTSzzrBwEYchLzuio5mpAa4pSuviM8ngaVGVSEfpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
