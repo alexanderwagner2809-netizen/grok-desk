@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T16:28:06.136444Z",
+  "ts": "2026-11-12T16:29:16.981219Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T16:28:03.365598Z",
+  "heartbeat": "2026-11-12T16:29:12.363143Z",
   "paused": false,
   "status": "running",
-  "card": "268 pools",
-  "count": 268,
+  "card": "269 pools",
+  "count": 269,
   "passed": 0,
   "feed": [
+    {
+      "mint": "7TtS9ExPM1sejKbqhynkFC6zizdALHTuRzytJ2tApump",
+      "label": "BiiiiIrrd",
+      "verdict": "kill",
+      "reason": "liq $14",
+      "subtitle": "liq $14",
+      "link": "https://fomo.family/coin?address=7TtS9ExPM1sejKbqhynkFC6zizdALHTuRzytJ2tApump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "CaqeKGCRcNaxcccNMAnf6nxJ5211JX1Kb95LGEEVpump",
       "label": "TECNO QUENN",
@@ -66,19 +74,19 @@
       "reason": "liq $12.1K",
       "subtitle": "liq $12.1K",
       "link": "https://fomo.family/coin?address=tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "84Bg1yMkycjKXyMJCxQwrvcbaQ1683m8w1ctSziJpump",
-      "label": "Big Tim Cock",
-      "verdict": "kill",
-      "reason": "liq $13",
-      "subtitle": "liq $13",
-      "link": "https://fomo.family/coin?address=84Bg1yMkycjKXyMJCxQwrvcbaQ1683m8w1ctSziJpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T16:28:08.483546Z",
+      "mint": "7TtS9ExPM1sejKbqhynkFC6zizdALHTuRzytJ2tApump",
+      "label": "BiiiiIrrd",
+      "verdict": "kill",
+      "reason": "liq $14",
+      "link": "https://fomo.family/coin?address=7TtS9ExPM1sejKbqhynkFC6zizdALHTuRzytJ2tApump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:25:23.029424Z",
       "mint": "CaqeKGCRcNaxcccNMAnf6nxJ5211JX1Kb95LGEEVpump",
       "label": "TECNO QUENN",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $9.0K",
       "link": "https://fomo.family/coin?address=FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:36:22.430208Z",
-      "mint": "3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump",
-      "label": "Tim Chip",
-      "verdict": "kill",
-      "reason": "liq $12.7K",
-      "link": "https://fomo.family/coin?address=3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T16:28:08.483546Z",
+      "mint": "7TtS9ExPM1sejKbqhynkFC6zizdALHTuRzytJ2tApump",
+      "label": "BiiiiIrrd",
+      "verdict": "kill",
+      "reason": "liq $14",
+      "link": "https://fomo.family/coin?address=7TtS9ExPM1sejKbqhynkFC6zizdALHTuRzytJ2tApump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:25:23.029424Z",
       "mint": "CaqeKGCRcNaxcccNMAnf6nxJ5211JX1Kb95LGEEVpump",
       "label": "TECNO QUENN",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $9.0K",
       "link": "https://fomo.family/coin?address=FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:36:22.430208Z",
-      "mint": "3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump",
-      "label": "Tim Chip",
-      "verdict": "kill",
-      "reason": "liq $12.7K",
-      "link": "https://fomo.family/coin?address=3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
