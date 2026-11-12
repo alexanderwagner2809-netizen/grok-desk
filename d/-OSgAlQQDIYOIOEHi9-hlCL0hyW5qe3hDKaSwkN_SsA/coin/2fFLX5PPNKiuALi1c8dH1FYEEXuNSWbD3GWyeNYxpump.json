@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T07:04:57.279921Z",
+  "ts": "2026-11-12T07:06:06.231094Z",
   "mint": "2fFLX5PPNKiuALi1c8dH1FYEEXuNSWbD3GWyeNYxpump",
   "name": "AudaCity",
   "symbol": "DacityCoin",
@@ -11,8 +11,8 @@
   "creator": "7Hb1aeLjMvw75NsGhyEYA1KzczbYe2hMBXxK31Tr8KT2",
   "holders": null,
   "link": "https://fomo.family/coin?address=2fFLX5PPNKiuALi1c8dH1FYEEXuNSWbD3GWyeNYxpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.00032,
-  "priceTs": "2026-11-12T07:04:56.496767Z",
+  "price": 0.0003297,
+  "priceTs": "2026-11-12T07:06:05.436265Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -448,12 +448,20 @@
       "l": 0.00032,
       "c": 0.00032,
       "v": 88.61999999999989
+    },
+    {
+      "t": 1794467160,
+      "o": 0.0003297,
+      "h": 0.0003297,
+      "l": 0.0003297,
+      "c": 0.0003297,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 316409.0,
-    "liquidity": 41782.93,
-    "volume24h": 40208.76,
+    "marketCap": 326006.0,
+    "liquidity": 42435.11,
+    "volume24h": 40674.3,
     "holders": null
   },
   "position": null,
