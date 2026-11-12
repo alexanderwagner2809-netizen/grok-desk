@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T13:15:22.315451Z",
+  "ts": "2026-11-12T13:25:36.617903Z",
   "mint": "6BgK6H8RxafFHhGCtmMK5NW5y8oiqx9YyreXaFpVpump",
   "name": "fomo",
   "symbol": "fomo",
@@ -11,8 +11,8 @@
   "creator": "4VNbbodWmduG2nAEJYVqrhVjiXmGKiBeyGFDb2ekzjWK",
   "holders": null,
   "link": "https://fomo.family/coin?address=6BgK6H8RxafFHhGCtmMK5NW5y8oiqx9YyreXaFpVpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.496e-06,
-  "priceTs": "2026-11-12T13:15:20.933502Z",
+  "price": 1.482e-06,
+  "priceTs": "2026-11-12T13:25:35.234083Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -224,12 +224,20 @@
       "l": 1.496e-06,
       "c": 1.496e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794489900,
+      "o": 1.482e-06,
+      "h": 1.482e-06,
+      "l": 1.482e-06,
+      "c": 1.482e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1478.0,
-    "liquidity": 1518.78,
-    "volume24h": 83269.88,
+    "marketCap": 1464.0,
+    "liquidity": 1504.65,
+    "volume24h": 83270.47,
     "holders": null
   },
   "position": null,

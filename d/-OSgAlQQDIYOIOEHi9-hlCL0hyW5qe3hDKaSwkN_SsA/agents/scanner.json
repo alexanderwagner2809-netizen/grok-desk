@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T13:15:22.939419Z",
+  "ts": "2026-11-12T13:25:37.401809Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T13:15:20.766660Z",
+  "heartbeat": "2026-11-12T13:25:34.254025Z",
   "paused": false,
   "status": "running",
-  "card": "219 pools",
-  "count": 219,
+  "card": "220 pools",
+  "count": 220,
   "passed": 0,
   "feed": [
+    {
+      "mint": "Gw479MQ33aYK6nRJvKq2JFTR7CQibJ4QYK4yHstnVATs",
+      "label": "ChatGPT",
+      "verdict": "kill",
+      "reason": "+248% in 1h",
+      "subtitle": "+248% in 1h",
+      "link": "https://fomo.family/coin?address=Gw479MQ33aYK6nRJvKq2JFTR7CQibJ4QYK4yHstnVATs&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump",
       "label": "Paul Atreides",
@@ -66,19 +74,19 @@
       "reason": "+344451% in 1h",
       "subtitle": "+344451% in 1h",
       "link": "https://fomo.family/coin?address=9bVzrsofzesaoEXbWLPSTHTWUcmcqfwkXK7Ha2bMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump",
-      "label": "NATF",
-      "verdict": "kill",
-      "reason": "+15118% in 1h",
-      "subtitle": "+15118% in 1h",
-      "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T13:24:53.379866Z",
+      "mint": "Gw479MQ33aYK6nRJvKq2JFTR7CQibJ4QYK4yHstnVATs",
+      "label": "ChatGPT",
+      "verdict": "kill",
+      "reason": "+248% in 1h",
+      "link": "https://fomo.family/coin?address=Gw479MQ33aYK6nRJvKq2JFTR7CQibJ4QYK4yHstnVATs&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T13:07:53.527235Z",
       "mint": "Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump",
       "label": "Paul Atreides",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $12.2K",
       "link": "https://fomo.family/coin?address=3Yoj6vQYTHfFVVBwHGNDbxBhh6R7iw41BSrNSGJ4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T11:16:07.224738Z",
-      "mint": "6RwrrJMapN5YzMJbLyN2LHxdHrnYisAWzxinQs3rpump",
-      "label": "HEIRLOOM",
-      "verdict": "kill",
-      "reason": "liq $12.1K",
-      "link": "https://fomo.family/coin?address=6RwrrJMapN5YzMJbLyN2LHxdHrnYisAWzxinQs3rpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T13:24:53.379866Z",
+      "mint": "Gw479MQ33aYK6nRJvKq2JFTR7CQibJ4QYK4yHstnVATs",
+      "label": "ChatGPT",
+      "verdict": "kill",
+      "reason": "+248% in 1h",
+      "link": "https://fomo.family/coin?address=Gw479MQ33aYK6nRJvKq2JFTR7CQibJ4QYK4yHstnVATs&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T13:07:53.527235Z",
       "mint": "Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump",
       "label": "Paul Atreides",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $12.2K",
       "link": "https://fomo.family/coin?address=3Yoj6vQYTHfFVVBwHGNDbxBhh6R7iw41BSrNSGJ4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T11:16:07.224738Z",
-      "mint": "6RwrrJMapN5YzMJbLyN2LHxdHrnYisAWzxinQs3rpump",
-      "label": "HEIRLOOM",
-      "verdict": "kill",
-      "reason": "liq $12.1K",
-      "link": "https://fomo.family/coin?address=6RwrrJMapN5YzMJbLyN2LHxdHrnYisAWzxinQs3rpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

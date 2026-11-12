@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T13:15:22.582657Z",
+  "ts": "2026-11-12T13:25:36.938762Z",
   "mint": "6prQWyTcBFyD4m9ekZdsCzfLL74Tj4dGoFBGXTH1pump",
   "name": "TWIT",
   "symbol": "Twitter",
   "label": "TWIT",
   "chain": "Solana",
-  "age": "6h old",
+  "age": "7h old",
   "migratedAt": "2026-11-12T06:16:26.894468Z",
   "pool": "8iBv3qeXmaSDe5BhDRi9NvcCt7j9Rty9v9ojdpDTvPA",
   "creator": "FS8NXqLRoTcx2cfixRnyL3GNn7QbzjKnJTjnoYYjqWqt",
   "holders": null,
   "link": "https://fomo.family/coin?address=6prQWyTcBFyD4m9ekZdsCzfLL74Tj4dGoFBGXTH1pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.561e-09,
-  "priceTs": "2026-11-12T13:15:21.543874Z",
+  "price": 1.489e-09,
+  "priceTs": "2026-11-12T13:25:35.858826Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1872,12 +1872,20 @@
       "l": 1.561e-09,
       "c": 1.561e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794489900,
+      "o": 1.489e-09,
+      "h": 1.489e-09,
+      "l": 1.489e-09,
+      "c": 1.489e-09,
+      "v": 0.0
     }
   ],
   "stats": {
     "marketCap": 3.0,
-    "liquidity": 4.53,
-    "volume24h": 461.62,
+    "liquidity": 4.37,
+    "volume24h": 461.66,
     "holders": null
   },
   "position": null,
