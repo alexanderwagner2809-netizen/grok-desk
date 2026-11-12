@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T18:37:07.163728Z",
+  "ts": "2026-11-12T18:38:18.599374Z",
   "mint": "AWxAApqJVdrAvrweX9di5jz1cYx9wcUPSn3VmL1vpump",
-  "name": null,
-  "symbol": null,
-  "label": "AWxAApqJ",
+  "name": "Doge Memecards",
+  "symbol": "MEMECARDS",
+  "label": "Doge Memecards",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T18:36:34.391441Z",
-  "pool": null,
+  "pool": "FQRgn3hemH5c2GuhKKoNNRo3RbVv6cG9gtbaAUmpgbEv",
   "creator": "5bRySFAgvPFTgBVEZwBNaqtXhUz7sq5ukYtizMQ5o62j",
   "holders": null,
   "link": "https://fomo.family/coin?address=AWxAApqJVdrAvrweX9di5jz1cYx9wcUPSn3VmL1vpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.615e-05,
-  "priceTs": "2026-11-12T18:37:05.594594Z",
+  "price": 3.353e-05,
+  "priceTs": "2026-11-12T18:38:16.668050Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 3.615e-05,
       "c": 3.615e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794508680,
+      "o": 3.353e-05,
+      "h": 3.353e-05,
+      "l": 3.353e-05,
+      "c": 3.353e-05,
+      "v": 18516.26
     }
   ],
   "stats": {
-    "marketCap": 36159.0,
-    "liquidity": null,
-    "volume24h": 1401.63,
+    "marketCap": 33539.0,
+    "liquidity": 12571.29,
+    "volume24h": 19917.89,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T18:37:07.751424Z",
+      "liquidity_usd": 13011.27,
+      "top10_pct": null,
+      "h1_change_pct": 6.56,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $13.0K"
+    }
+  ]
 }

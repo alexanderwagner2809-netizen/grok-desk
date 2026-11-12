@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T18:37:07.663473Z",
+  "ts": "2026-11-12T18:38:19.797919Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T18:37:02.000581Z",
+  "heartbeat": "2026-11-12T18:38:14.065720Z",
   "paused": false,
   "status": "running",
-  "card": "303 pools",
-  "count": 303,
+  "card": "304 pools",
+  "count": 304,
   "passed": 0,
   "feed": [
+    {
+      "mint": "AWxAApqJVdrAvrweX9di5jz1cYx9wcUPSn3VmL1vpump",
+      "label": "Doge Memecards",
+      "verdict": "kill",
+      "reason": "liq $13.0K",
+      "subtitle": "liq $13.0K",
+      "link": "https://fomo.family/coin?address=AWxAApqJVdrAvrweX9di5jz1cYx9wcUPSn3VmL1vpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "bD4xhYHJEXvcE3UAVgBc1fqagjDPCv9F7ZvPjkUpump",
       "label": "R1 R2 L1 × ← ↓ → ↑",
@@ -66,19 +74,19 @@
       "reason": "+186% in 1h",
       "subtitle": "+186% in 1h",
       "link": "https://fomo.family/coin?address=Dk9DQ1GMYuk4Zng5btkAE67zUHGWRhnfwaUD86CSpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump",
-      "label": "Maply",
-      "verdict": "kill",
-      "reason": "liq $14.5K",
-      "subtitle": "liq $14.5K",
-      "link": "https://fomo.family/coin?address=GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T18:37:07.751424Z",
+      "mint": "AWxAApqJVdrAvrweX9di5jz1cYx9wcUPSn3VmL1vpump",
+      "label": "Doge Memecards",
+      "verdict": "kill",
+      "reason": "liq $13.0K",
+      "link": "https://fomo.family/coin?address=AWxAApqJVdrAvrweX9di5jz1cYx9wcUPSn3VmL1vpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T18:36:08.474426Z",
       "mint": "bD4xhYHJEXvcE3UAVgBc1fqagjDPCv9F7ZvPjkUpump",
       "label": "R1 R2 L1 × ← ↓ → ↑",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $2",
       "link": "https://fomo.family/coin?address=42u2hK7MAATde7emizLnoQ7P5JLuuwPHbkS1DC8npump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:37:50.408538Z",
-      "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
-      "label": "TTWofwAg",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T18:37:07.751424Z",
+      "mint": "AWxAApqJVdrAvrweX9di5jz1cYx9wcUPSn3VmL1vpump",
+      "label": "Doge Memecards",
+      "verdict": "kill",
+      "reason": "liq $13.0K",
+      "link": "https://fomo.family/coin?address=AWxAApqJVdrAvrweX9di5jz1cYx9wcUPSn3VmL1vpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T18:36:08.474426Z",
       "mint": "bD4xhYHJEXvcE3UAVgBc1fqagjDPCv9F7ZvPjkUpump",
       "label": "R1 R2 L1 × ← ↓ → ↑",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $2",
       "link": "https://fomo.family/coin?address=42u2hK7MAATde7emizLnoQ7P5JLuuwPHbkS1DC8npump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:37:50.408538Z",
-      "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
-      "label": "TTWofwAg",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
