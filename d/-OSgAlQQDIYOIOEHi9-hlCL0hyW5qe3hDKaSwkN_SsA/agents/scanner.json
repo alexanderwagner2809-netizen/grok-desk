@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T15:40:38.224712Z",
+  "ts": "2026-11-12T15:41:49.230820Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T15:40:33.944727Z",
+  "heartbeat": "2026-11-12T15:41:45.355304Z",
   "paused": false,
   "status": "running",
-  "card": "251 pools",
-  "count": 251,
+  "card": "252 pools",
+  "count": 252,
   "passed": 0,
   "feed": [
+    {
+      "mint": "CoTSzzrBwEYchLzuio5mpAa4pSuviM8ngaVGVSEfpump",
+      "label": "goat coin",
+      "verdict": "kill",
+      "reason": "liq $88",
+      "subtitle": "liq $88",
+      "link": "https://fomo.family/coin?address=CoTSzzrBwEYchLzuio5mpAa4pSuviM8ngaVGVSEfpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump",
       "label": "Trump the Pig",
@@ -66,19 +74,19 @@
       "reason": "liq $13.3K",
       "subtitle": "liq $13.3K",
       "link": "https://fomo.family/coin?address=A1D74fA9RqeQcxdJNC67pzanVaiySyJPwcTUoyPBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump",
-      "label": "Pokemon In 9-5",
-      "verdict": "kill",
-      "reason": "liq $10.9K",
-      "subtitle": "liq $10.9K",
-      "link": "https://fomo.family/coin?address=9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T15:40:44.236351Z",
+      "mint": "CoTSzzrBwEYchLzuio5mpAa4pSuviM8ngaVGVSEfpump",
+      "label": "goat coin",
+      "verdict": "kill",
+      "reason": "liq $88",
+      "link": "https://fomo.family/coin?address=CoTSzzrBwEYchLzuio5mpAa4pSuviM8ngaVGVSEfpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:39:20.505050Z",
       "mint": "9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump",
       "label": "Trump the Pig",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $13.5K",
       "link": "https://fomo.family/coin?address=Fwx6scdrpqJNq5otjyztCaCNymNG5RiR4PBkN1D8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:50:01.885608Z",
-      "mint": "DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump",
-      "label": "🐸 Moon Frog",
-      "verdict": "kill",
-      "reason": "liq $16",
-      "link": "https://fomo.family/coin?address=DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T15:40:44.236351Z",
+      "mint": "CoTSzzrBwEYchLzuio5mpAa4pSuviM8ngaVGVSEfpump",
+      "label": "goat coin",
+      "verdict": "kill",
+      "reason": "liq $88",
+      "link": "https://fomo.family/coin?address=CoTSzzrBwEYchLzuio5mpAa4pSuviM8ngaVGVSEfpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:39:20.505050Z",
       "mint": "9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump",
       "label": "Trump the Pig",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $13.5K",
       "link": "https://fomo.family/coin?address=Fwx6scdrpqJNq5otjyztCaCNymNG5RiR4PBkN1D8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:50:01.885608Z",
-      "mint": "DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump",
-      "label": "🐸 Moon Frog",
-      "verdict": "kill",
-      "reason": "liq $16",
-      "link": "https://fomo.family/coin?address=DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
