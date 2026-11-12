@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T00:15:05.210692Z",
+  "ts": "2026-11-12T00:17:42.174489Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T00:14:54.771842Z",
+  "heartbeat": "2026-11-12T00:17:41.504387Z",
   "paused": false,
   "status": "running",
-  "card": "66 pools",
-  "count": 66,
+  "card": "67 pools",
+  "count": 67,
   "passed": 0,
   "feed": [
+    {
+      "mint": "238S5tCgJi8AG2LUskVXNCcNpYR3w9FMyTHfqgozpump",
+      "label": "Big tits Coin",
+      "verdict": "kill",
+      "reason": "liq $10",
+      "subtitle": "liq $10",
+      "link": "https://fomo.family/coin?address=238S5tCgJi8AG2LUskVXNCcNpYR3w9FMyTHfqgozpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "83QBsPDGe1PMH6562UiS27NezeiDXaYaBf8ANHyXpump",
       "label": "Meme Maker General",
@@ -66,19 +74,19 @@
       "reason": "liq $22.8K",
       "subtitle": "liq $22.8K",
       "link": "https://fomo.family/coin?address=65guphHEmT48N4F1D1sT6uNopaG94nNR1i9jLmxYpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "G4qDyyB2Qa91DDK2FbAXepSc8DVXYM15nyGKN1DEpump",
-      "label": "G4qDyyB2",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "subtitle": "never qualified",
-      "link": "https://fomo.family/coin?address=G4qDyyB2Qa91DDK2FbAXepSc8DVXYM15nyGKN1DEpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T00:15:36.324284Z",
+      "mint": "238S5tCgJi8AG2LUskVXNCcNpYR3w9FMyTHfqgozpump",
+      "label": "Big tits Coin",
+      "verdict": "kill",
+      "reason": "liq $10",
+      "link": "https://fomo.family/coin?address=238S5tCgJi8AG2LUskVXNCcNpYR3w9FMyTHfqgozpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T00:14:36.126128Z",
       "mint": "83QBsPDGe1PMH6562UiS27NezeiDXaYaBf8ANHyXpump",
       "label": "Meme Maker General",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=ASHZGPeDSwkiKJk66WD7LM3SKbdd7tYBUc7xn9fApump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-11T23:13:12.118547Z",
-      "mint": "9k9RJLBTvHGfooTbgdvbEQ39XHa4AHe74EfV36xppump",
-      "label": "9k9RJLBT",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=9k9RJLBTvHGfooTbgdvbEQ39XHa4AHe74EfV36xppump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T00:15:36.324284Z",
+      "mint": "238S5tCgJi8AG2LUskVXNCcNpYR3w9FMyTHfqgozpump",
+      "label": "Big tits Coin",
+      "verdict": "kill",
+      "reason": "liq $10",
+      "link": "https://fomo.family/coin?address=238S5tCgJi8AG2LUskVXNCcNpYR3w9FMyTHfqgozpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T00:14:36.126128Z",
       "mint": "83QBsPDGe1PMH6562UiS27NezeiDXaYaBf8ANHyXpump",
       "label": "Meme Maker General",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=ASHZGPeDSwkiKJk66WD7LM3SKbdd7tYBUc7xn9fApump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-11T23:13:12.118547Z",
-      "mint": "9k9RJLBTvHGfooTbgdvbEQ39XHa4AHe74EfV36xppump",
-      "label": "9k9RJLBT",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=9k9RJLBTvHGfooTbgdvbEQ39XHa4AHe74EfV36xppump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

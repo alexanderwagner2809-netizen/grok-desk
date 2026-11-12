@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T00:15:05.205183Z",
+  "ts": "2026-11-12T00:17:42.102534Z",
   "mint": "238S5tCgJi8AG2LUskVXNCcNpYR3w9FMyTHfqgozpump",
-  "name": null,
-  "symbol": null,
-  "label": "238S5tCg",
+  "name": "Big tits Coin",
+  "symbol": "BTC",
+  "label": "Big tits Coin",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "3m old",
   "migratedAt": "2026-11-12T00:14:14.094274Z",
-  "pool": null,
+  "pool": "96YrxUHWsLAUijXuZBdSoPAvLz8WwkossnKcX6gyYQs5",
   "creator": "3U48oP1fCmkTr4oJoBXg4j4Pr7tbzWvCv3xx2xRcH75P",
   "holders": null,
   "link": "https://fomo.family/coin?address=238S5tCgJi8AG2LUskVXNCcNpYR3w9FMyTHfqgozpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.567e-08,
-  "priceTs": "2026-11-12T00:15:05.126376Z",
+  "price": 4.46e-09,
+  "priceTs": "2026-11-12T00:17:41.707974Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -21,18 +21,36 @@
       "t": 1794442500,
       "o": 2.567e-08,
       "h": 2.567e-08,
-      "l": 2.567e-08,
-      "c": 2.567e-08,
-      "v": 0.0
+      "l": 2.382e-08,
+      "c": 2.382e-08,
+      "v": 20.26
+    },
+    {
+      "t": 1794442620,
+      "o": 4.46e-09,
+      "h": 4.46e-09,
+      "l": 4.46e-09,
+      "c": 4.46e-09,
+      "v": 15.249999999999996
     }
   ],
   "stats": {
-    "marketCap": 51.0,
-    "liquidity": 9.93,
-    "volume24h": 3.86,
+    "marketCap": 9.0,
+    "liquidity": 4.2,
+    "volume24h": 39.37,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T00:15:36.324284Z",
+      "liquidity_usd": 9.56,
+      "top10_pct": null,
+      "h1_change_pct": -1.2,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $10"
+    }
+  ]
 }
