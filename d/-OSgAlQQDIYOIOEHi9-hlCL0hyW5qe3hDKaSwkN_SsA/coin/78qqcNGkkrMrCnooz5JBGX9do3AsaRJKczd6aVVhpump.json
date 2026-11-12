@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:29:47.785429Z",
+  "ts": "2026-11-12T09:30:57.011932Z",
   "mint": "78qqcNGkkrMrCnooz5JBGX9do3AsaRJKczd6aVVhpump",
   "name": "Diggo",
   "symbol": "DIG",
@@ -11,8 +11,8 @@
   "creator": "BxfpakBUFuqDwNe82uPkv2jGJzvNaZXrwpp4JLJ2PtA9",
   "holders": null,
   "link": "https://fomo.family/coin?address=78qqcNGkkrMrCnooz5JBGX9do3AsaRJKczd6aVVhpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.549e-09,
-  "priceTs": "2026-11-12T09:29:46.685579Z",
+  "price": 1.314e-09,
+  "priceTs": "2026-11-12T09:30:55.940017Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -504,12 +504,20 @@
       "l": 1.549e-09,
       "c": 1.549e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794475800,
+      "o": 1.314e-09,
+      "h": 1.314e-09,
+      "l": 1.314e-09,
+      "c": 1.314e-09,
+      "v": 0.11
     }
   ],
   "stats": {
     "marketCap": 3.0,
-    "liquidity": 2.31,
-    "volume24h": 4.78,
+    "liquidity": 2.1,
+    "volume24h": 4.89,
     "holders": null
   },
   "position": null,
