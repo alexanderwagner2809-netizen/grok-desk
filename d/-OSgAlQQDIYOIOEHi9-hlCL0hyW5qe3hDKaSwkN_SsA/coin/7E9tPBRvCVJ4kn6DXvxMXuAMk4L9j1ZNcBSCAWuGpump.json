@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T08:56:22.483161Z",
+  "ts": "2026-11-12T08:57:31.134585Z",
   "mint": "7E9tPBRvCVJ4kn6DXvxMXuAMk4L9j1ZNcBSCAWuGpump",
   "name": "Claudecoin",
   "symbol": "CLAUDE",
   "label": "Claudecoin",
   "chain": "Solana",
-  "age": "15m old",
+  "age": "17m old",
   "migratedAt": "2026-11-12T08:40:24.908743Z",
   "pool": "AyVp8Hu6Xbkx3kM6QGyfkFVz8T5uMeSJWhWDsoDAwrGt",
   "creator": "AU2miXZ4V31syuzgtEtNhT1PKSS6Jaftfmp7DomKt84z",
   "holders": null,
   "link": "https://fomo.family/coin?address=7E9tPBRvCVJ4kn6DXvxMXuAMk4L9j1ZNcBSCAWuGpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 9.093e-05,
-  "priceTs": "2026-11-12T08:56:21.395936Z",
+  "price": 0.000105,
+  "priceTs": "2026-11-12T08:57:30.054890Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -128,12 +128,20 @@
       "l": 9.093e-05,
       "c": 9.093e-05,
       "v": 6589.159999999989
+    },
+    {
+      "t": 1794473820,
+      "o": 0.000105,
+      "h": 0.000105,
+      "l": 0.000105,
+      "c": 0.000105,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 90877.0,
-    "liquidity": 23175.54,
-    "volume24h": 259397.39,
+    "marketCap": 105021.0,
+    "liquidity": 24981.14,
+    "volume24h": 263046.7,
     "holders": null
   },
   "position": null,
