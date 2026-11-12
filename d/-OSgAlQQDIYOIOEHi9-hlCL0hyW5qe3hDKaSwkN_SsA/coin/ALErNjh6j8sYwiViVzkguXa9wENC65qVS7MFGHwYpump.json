@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T10:14:29.877466Z",
+  "ts": "2026-11-12T10:49:32.203205Z",
   "mint": "ALErNjh6j8sYwiViVzkguXa9wENC65qVS7MFGHwYpump",
   "name": "maritains",
   "symbol": "LOM",
@@ -11,8 +11,8 @@
   "creator": "9xyWmDbRYAtxTukVM9J7JrsBB56BCeu4AAp8CvkZSYw2",
   "holders": null,
   "link": "https://fomo.family/coin?address=ALErNjh6j8sYwiViVzkguXa9wENC65qVS7MFGHwYpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.449e-08,
-  "priceTs": "2026-11-12T10:14:28.860692Z",
+  "price": 1.342e-08,
+  "priceTs": "2026-11-12T10:49:31.133821Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1048,12 +1048,20 @@
       "l": 1.449e-08,
       "c": 1.449e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794480540,
+      "o": 1.342e-08,
+      "h": 1.342e-08,
+      "l": 1.342e-08,
+      "c": 1.342e-08,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 29.0,
-    "liquidity": 33.17,
-    "volume24h": 8903.89,
+    "marketCap": 27.0,
+    "liquidity": 32.02,
+    "volume24h": 8904.6,
     "holders": null
   },
   "position": null,
