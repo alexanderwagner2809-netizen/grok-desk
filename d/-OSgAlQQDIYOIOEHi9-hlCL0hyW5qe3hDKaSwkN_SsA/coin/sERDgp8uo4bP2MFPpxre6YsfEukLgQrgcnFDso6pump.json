@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T23:09:51.864777Z",
+  "ts": "2026-11-12T23:11:02.422557Z",
   "mint": "sERDgp8uo4bP2MFPpxre6YsfEukLgQrgcnFDso6pump",
   "name": "Nullmask",
   "symbol": "MASK",
@@ -11,8 +11,8 @@
   "creator": "5P8Q5tHKZje3cf23FbpEsLeqdAGwXiQyKd31b2sbcgSA",
   "holders": null,
   "link": "https://fomo.family/coin?address=sERDgp8uo4bP2MFPpxre6YsfEukLgQrgcnFDso6pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001002,
-  "priceTs": "2026-11-12T23:09:51.536785Z",
+  "price": 9.901e-05,
+  "priceTs": "2026-11-12T23:11:02.007340Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -296,12 +296,20 @@
       "l": 0.0001002,
       "c": 0.0001002,
       "v": 0.0
+    },
+    {
+      "t": 1794525060,
+      "o": 9.901e-05,
+      "h": 9.901e-05,
+      "l": 9.901e-05,
+      "c": 9.901e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 99003.0,
-    "liquidity": 22621.81,
-    "volume24h": 45912.98,
+    "marketCap": 97741.0,
+    "liquidity": 22468.41,
+    "volume24h": 45929.74,
     "holders": null
   },
   "position": null,

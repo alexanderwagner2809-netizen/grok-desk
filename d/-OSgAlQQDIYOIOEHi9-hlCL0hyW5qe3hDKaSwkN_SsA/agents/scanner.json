@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T23:09:53.079603Z",
+  "ts": "2026-11-12T23:11:03.611619Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T23:09:51.586968Z",
+  "heartbeat": "2026-11-12T23:11:01.391536Z",
   "paused": false,
   "status": "running",
-  "card": "384 pools",
-  "count": 384,
+  "card": "385 pools",
+  "count": 385,
   "passed": 0,
   "feed": [
+    {
+      "mint": "5AsGJm59grcLSKg2mkNoxiwxEtaA6ijbvSo7STppump",
+      "label": "FOTF",
+      "verdict": "kill",
+      "reason": "+43770% in 1h",
+      "subtitle": "+43770% in 1h",
+      "link": "https://fomo.family/coin?address=5AsGJm59grcLSKg2mkNoxiwxEtaA6ijbvSo7STppump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "GdPu5KPUeka8RJje6wjZ3o45wNDpHaSivoe6ydYhpump",
       "label": "Yetzer Hara Trap ",
@@ -66,19 +74,19 @@
       "reason": "liq $41",
       "subtitle": "liq $41",
       "link": "https://fomo.family/coin?address=67UzW47nNYKWw5bW6oUfVY4gTQfaEigv2UHUrp5epump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GNXiYZABz8dHCuBQSNbnEuXBFnuvru8LrxmHtQsGpump",
-      "label": "La Misery",
-      "verdict": "kill",
-      "reason": "liq $5",
-      "subtitle": "liq $5",
-      "link": "https://fomo.family/coin?address=GNXiYZABz8dHCuBQSNbnEuXBFnuvru8LrxmHtQsGpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T23:10:30.306594Z",
+      "mint": "5AsGJm59grcLSKg2mkNoxiwxEtaA6ijbvSo7STppump",
+      "label": "FOTF",
+      "verdict": "kill",
+      "reason": "+43770% in 1h",
+      "link": "https://fomo.family/coin?address=5AsGJm59grcLSKg2mkNoxiwxEtaA6ijbvSo7STppump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T23:09:30.935833Z",
       "mint": "GdPu5KPUeka8RJje6wjZ3o45wNDpHaSivoe6ydYhpump",
       "label": "Yetzer Hara Trap ",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "+295% in 1h",
       "link": "https://fomo.family/coin?address=a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T21:16:18.174973Z",
-      "mint": "7xf4P3B2qXaXWN1QnCfKA34VXp2nNVYUKinH5wGxpump",
-      "label": "fomo",
-      "verdict": "kill",
-      "reason": "+159% in 1h",
-      "link": "https://fomo.family/coin?address=7xf4P3B2qXaXWN1QnCfKA34VXp2nNVYUKinH5wGxpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T23:10:30.306594Z",
+      "mint": "5AsGJm59grcLSKg2mkNoxiwxEtaA6ijbvSo7STppump",
+      "label": "FOTF",
+      "verdict": "kill",
+      "reason": "+43770% in 1h",
+      "link": "https://fomo.family/coin?address=5AsGJm59grcLSKg2mkNoxiwxEtaA6ijbvSo7STppump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T23:09:30.935833Z",
       "mint": "GdPu5KPUeka8RJje6wjZ3o45wNDpHaSivoe6ydYhpump",
       "label": "Yetzer Hara Trap ",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "+295% in 1h",
       "link": "https://fomo.family/coin?address=a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T21:16:18.174973Z",
-      "mint": "7xf4P3B2qXaXWN1QnCfKA34VXp2nNVYUKinH5wGxpump",
-      "label": "fomo",
-      "verdict": "kill",
-      "reason": "+159% in 1h",
-      "link": "https://fomo.family/coin?address=7xf4P3B2qXaXWN1QnCfKA34VXp2nNVYUKinH5wGxpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

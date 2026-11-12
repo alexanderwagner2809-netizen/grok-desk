@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T23:09:51.824622Z",
+  "ts": "2026-11-12T23:11:02.385902Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,21 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T23:09:51.586968Z",
+      "heartbeat": "2026-11-12T23:11:01.391536Z",
       "paused": false,
       "status": "running",
-      "card": "384 pools",
-      "count": 384,
+      "card": "385 pools",
+      "count": 385,
       "passed": 0,
       "feed": [
+        {
+          "mint": "5AsGJm59grcLSKg2mkNoxiwxEtaA6ijbvSo7STppump",
+          "label": "FOTF",
+          "verdict": "kill",
+          "reason": "+43770% in 1h",
+          "subtitle": "+43770% in 1h",
+          "link": "https://fomo.family/coin?address=5AsGJm59grcLSKg2mkNoxiwxEtaA6ijbvSo7STppump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "GdPu5KPUeka8RJje6wjZ3o45wNDpHaSivoe6ydYhpump",
           "label": "Yetzer Hara Trap ",
@@ -74,14 +82,6 @@
           "reason": "liq $41",
           "subtitle": "liq $41",
           "link": "https://fomo.family/coin?address=67UzW47nNYKWw5bW6oUfVY4gTQfaEigv2UHUrp5epump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "GNXiYZABz8dHCuBQSNbnEuXBFnuvru8LrxmHtQsGpump",
-          "label": "La Misery",
-          "verdict": "kill",
-          "reason": "liq $5",
-          "subtitle": "liq $5",
-          "link": "https://fomo.family/coin?address=GNXiYZABz8dHCuBQSNbnEuXBFnuvru8LrxmHtQsGpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T23:09:50.467833Z",
+      "heartbeat": "2026-11-12T23:11:01.185726Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T23:09:50.492800Z",
+      "heartbeat": "2026-11-12T23:11:01.201136Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T23:09:50.493535Z",
+      "heartbeat": "2026-11-12T23:11:01.202412Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T23:09:42.901691Z",
+      "heartbeat": "2026-11-12T23:10:57.952701Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
