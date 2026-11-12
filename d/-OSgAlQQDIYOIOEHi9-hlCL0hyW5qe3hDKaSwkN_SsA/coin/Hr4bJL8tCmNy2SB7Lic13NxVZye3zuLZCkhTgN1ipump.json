@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-12T16:08:51.388765Z",
+  "ts": "2026-11-12T16:10:01.483348Z",
   "mint": "Hr4bJL8tCmNy2SB7Lic13NxVZye3zuLZCkhTgN1ipump",
-  "name": null,
-  "symbol": null,
-  "label": "Hr4bJL8t",
+  "name": "Idlex",
+  "symbol": "Idlex",
+  "label": "Idlex",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T16:08:44.764596Z",
-  "pool": null,
+  "pool": "3RPQjAzsKtSLpCucGjFj9ccs9HjQMnrmLJ34FSHEa5D8",
   "creator": "5XMUW2FVw6EUMbnwz7x1NCfbG4GXdk4XoT5kMFiknd1D",
   "holders": null,
   "link": "https://fomo.family/coin?address=Hr4bJL8tCmNy2SB7Lic13NxVZye3zuLZCkhTgN1ipump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T16:09:42.781739Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 0.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }

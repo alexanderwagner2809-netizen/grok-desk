@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T16:08:50.488251Z",
+  "ts": "2026-11-12T16:10:01.472048Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T16:08:46.769496Z",
+      "heartbeat": "2026-11-12T16:09:57.785994Z",
       "paused": false,
       "status": "running",
-      "card": "258 pools",
-      "count": 258,
+      "card": "260 pools",
+      "count": 260,
       "passed": 0,
       "feed": [
+        {
+          "mint": "HP1nWGfiQB8dv2EHSirBtRDzqkGh2NzEFhEy9WZupump",
+          "label": "LokiAI",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=HP1nWGfiQB8dv2EHSirBtRDzqkGh2NzEFhEy9WZupump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "Hr4bJL8tCmNy2SB7Lic13NxVZye3zuLZCkhTgN1ipump",
+          "label": "Idlex",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=Hr4bJL8tCmNy2SB7Lic13NxVZye3zuLZCkhTgN1ipump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump",
           "label": "Tim Cook Gay",
@@ -66,22 +82,6 @@
           "reason": "liq $18.4K",
           "subtitle": "liq $18.4K",
           "link": "https://fomo.family/coin?address=7z3QB6D8xge7GzKZCsajvnLt8zqT1SvFonY9vZZmpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "CoTSzzrBwEYchLzuio5mpAa4pSuviM8ngaVGVSEfpump",
-          "label": "goat coin",
-          "verdict": "kill",
-          "reason": "liq $88",
-          "subtitle": "liq $88",
-          "link": "https://fomo.family/coin?address=CoTSzzrBwEYchLzuio5mpAa4pSuviM8ngaVGVSEfpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump",
-          "label": "Trump the Pig",
-          "verdict": "kill",
-          "reason": "liq $3",
-          "subtitle": "liq $3",
-          "link": "https://fomo.family/coin?address=9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T16:08:49.964168Z",
+      "heartbeat": "2026-11-12T16:10:00.083993Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T16:08:49.964347Z",
+      "heartbeat": "2026-11-12T16:10:00.084749Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T16:08:49.964450Z",
+      "heartbeat": "2026-11-12T16:10:00.084926Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T16:08:45.365180Z",
+      "heartbeat": "2026-11-12T16:10:00.276577Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
