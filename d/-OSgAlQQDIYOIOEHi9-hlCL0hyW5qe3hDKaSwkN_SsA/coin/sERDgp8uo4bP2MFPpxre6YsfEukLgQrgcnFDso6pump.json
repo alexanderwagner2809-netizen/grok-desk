@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T21:18:06.688632Z",
+  "ts": "2026-11-12T21:19:16.841076Z",
   "mint": "sERDgp8uo4bP2MFPpxre6YsfEukLgQrgcnFDso6pump",
   "name": "Nullmask",
   "symbol": "MASK",
   "label": "Nullmask",
   "chain": "Solana",
-  "age": "11m old",
+  "age": "12m old",
   "migratedAt": "2026-11-12T21:06:37.194769Z",
   "pool": "xwZkyR7doUFc7z17TbedJhJuaxGjxGP49nKALkbCtAf",
   "creator": "5P8Q5tHKZje3cf23FbpEsLeqdAGwXiQyKd31b2sbcgSA",
   "holders": null,
   "link": "https://fomo.family/coin?address=sERDgp8uo4bP2MFPpxre6YsfEukLgQrgcnFDso6pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001231,
-  "priceTs": "2026-11-12T21:18:06.425942Z",
+  "price": 0.00013,
+  "priceTs": "2026-11-12T21:19:16.573025Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -96,12 +96,20 @@
       "l": 0.0001231,
       "c": 0.0001231,
       "v": 25.710000000000008
+    },
+    {
+      "t": 1794518340,
+      "o": 0.00013,
+      "h": 0.00013,
+      "l": 0.00013,
+      "c": 0.00013,
+      "v": 398.37
     }
   ],
   "stats": {
-    "marketCap": 123049.0,
-    "liquidity": 25126.39,
-    "volume24h": 5484.49,
+    "marketCap": 129955.0,
+    "liquidity": 25862.57,
+    "volume24h": 5902.09,
     "holders": null
   },
   "position": null,
