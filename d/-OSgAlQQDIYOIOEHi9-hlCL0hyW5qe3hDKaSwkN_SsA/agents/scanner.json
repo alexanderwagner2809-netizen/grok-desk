@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T17:44:01.536924Z",
+  "ts": "2026-11-12T17:45:14.754917Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T17:43:57.471221Z",
+  "heartbeat": "2026-11-12T17:45:10.708998Z",
   "paused": false,
   "status": "running",
-  "card": "288 pools",
-  "count": 288,
+  "card": "289 pools",
+  "count": 289,
   "passed": 0,
   "feed": [
+    {
+      "mint": "EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump",
+      "label": "DaCity Coin",
+      "verdict": "kill",
+      "reason": "liq $549",
+      "subtitle": "liq $549",
+      "link": "https://fomo.family/coin?address=EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "4rVHPGrXHkEv97Tf1S6Gg8KmSAvLKUHxzt7ppzfwpump",
       "label": "Robinhood",
@@ -66,19 +74,19 @@
       "reason": "+10325% in 1h",
       "subtitle": "+10325% in 1h",
       "link": "https://fomo.family/coin?address=HiTeQifUrayWtJXkvcRqbdRWRULKuo5KT9Qc4H5Zpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "6H45TpyeGhzvEVmbqHDykdmusBPfbMSfUurFQ7jopump",
-      "label": "MrBeast",
-      "verdict": "kill",
-      "reason": "+161% in 1h",
-      "subtitle": "+161% in 1h",
-      "link": "https://fomo.family/coin?address=6H45TpyeGhzvEVmbqHDykdmusBPfbMSfUurFQ7jopump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T17:45:10.915245Z",
+      "mint": "EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump",
+      "label": "DaCity Coin",
+      "verdict": "kill",
+      "reason": "liq $549",
+      "link": "https://fomo.family/coin?address=EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T17:43:12.462074Z",
       "mint": "4rVHPGrXHkEv97Tf1S6Gg8KmSAvLKUHxzt7ppzfwpump",
       "label": "Robinhood",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:28:08.483546Z",
-      "mint": "7TtS9ExPM1sejKbqhynkFC6zizdALHTuRzytJ2tApump",
-      "label": "BiiiiIrrd",
-      "verdict": "kill",
-      "reason": "liq $14",
-      "link": "https://fomo.family/coin?address=7TtS9ExPM1sejKbqhynkFC6zizdALHTuRzytJ2tApump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T17:45:10.915245Z",
+      "mint": "EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump",
+      "label": "DaCity Coin",
+      "verdict": "kill",
+      "reason": "liq $549",
+      "link": "https://fomo.family/coin?address=EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T17:43:12.462074Z",
       "mint": "4rVHPGrXHkEv97Tf1S6Gg8KmSAvLKUHxzt7ppzfwpump",
       "label": "Robinhood",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:28:08.483546Z",
-      "mint": "7TtS9ExPM1sejKbqhynkFC6zizdALHTuRzytJ2tApump",
-      "label": "BiiiiIrrd",
-      "verdict": "kill",
-      "reason": "liq $14",
-      "link": "https://fomo.family/coin?address=7TtS9ExPM1sejKbqhynkFC6zizdALHTuRzytJ2tApump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

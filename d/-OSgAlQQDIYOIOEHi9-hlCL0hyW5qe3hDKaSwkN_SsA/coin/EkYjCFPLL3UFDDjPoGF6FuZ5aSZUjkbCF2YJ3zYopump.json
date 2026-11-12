@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T17:45:13.604694Z",
+  "mint": "EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump",
+  "name": "DaCity Coin",
+  "symbol": "dacity",
+  "label": "DaCity Coin",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T17:44:33.225580Z",
+  "pool": "Gq1BWQZVym3sAEJud8RcR3NMgiMFP2pBKbASB5tHTBRP",
+  "creator": "2tLbVAf9ZVNDm8SYCX34QDgwJ4EtsBYsuKYJMmjzNJwt",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 1.742e-06,
+  "priceTs": "2026-11-12T17:45:13.262060Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794505500,
+      "o": 1.742e-06,
+      "h": 1.742e-06,
+      "l": 1.742e-06,
+      "c": 1.742e-06,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 3485.0,
+    "liquidity": 549.17,
+    "volume24h": 1016.46,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T17:45:10.915245Z",
+      "liquidity_usd": 549.17,
+      "top10_pct": null,
+      "h1_change_pct": 74.38,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $549"
+    }
+  ]
+}
