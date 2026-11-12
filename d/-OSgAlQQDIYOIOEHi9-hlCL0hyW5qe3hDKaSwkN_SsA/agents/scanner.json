@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T21:15:47.083211Z",
+  "ts": "2026-11-12T21:16:57.403346Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T21:15:45.584719Z",
+  "heartbeat": "2026-11-12T21:16:55.438823Z",
   "paused": false,
   "status": "running",
-  "card": "364 pools",
-  "count": 364,
+  "card": "366 pools",
+  "count": 366,
   "passed": 0,
   "feed": [
+    {
+      "mint": "a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump",
+      "label": "Fandemonium",
+      "verdict": "kill",
+      "reason": "+295% in 1h",
+      "subtitle": "+295% in 1h",
+      "link": "https://fomo.family/coin?address=a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "7xf4P3B2qXaXWN1QnCfKA34VXp2nNVYUKinH5wGxpump",
+      "label": "fomo",
+      "verdict": "kill",
+      "reason": "+159% in 1h",
+      "subtitle": "+159% in 1h",
+      "link": "https://fomo.family/coin?address=7xf4P3B2qXaXWN1QnCfKA34VXp2nNVYUKinH5wGxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "5Wj2xTFw96tGjGrVm7khLPhqJnf93zQhof37ebLLpump",
       "label": "CR7 COIN",
@@ -58,27 +74,27 @@
       "reason": "never qualified",
       "subtitle": "never qualified",
       "link": "https://fomo.family/coin?address=3japHvr6xozFrp97EGGT791LwA59nd9W73EWcCFopump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "9sP7cQYpxJpDGgQwxTzYArW3xxoi2uwEwSF18hQFpump",
-      "label": "Rockstar Games",
-      "verdict": "kill",
-      "reason": "+164% in 1h",
-      "subtitle": "+164% in 1h",
-      "link": "https://fomo.family/coin?address=9sP7cQYpxJpDGgQwxTzYArW3xxoi2uwEwSF18hQFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "8GYHgd5vTYthyfjSeLTcgyj2hM4Gv6UTaV2zdK4hpump",
-      "label": "8GYHgd5v",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "subtitle": "never qualified",
-      "link": "https://fomo.family/coin?address=8GYHgd5vTYthyfjSeLTcgyj2hM4Gv6UTaV2zdK4hpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T21:16:18.176302Z",
+      "mint": "a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump",
+      "label": "Fandemonium",
+      "verdict": "kill",
+      "reason": "+295% in 1h",
+      "link": "https://fomo.family/coin?address=a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T21:16:18.174973Z",
+      "mint": "7xf4P3B2qXaXWN1QnCfKA34VXp2nNVYUKinH5wGxpump",
+      "label": "fomo",
+      "verdict": "kill",
+      "reason": "+159% in 1h",
+      "link": "https://fomo.family/coin?address=7xf4P3B2qXaXWN1QnCfKA34VXp2nNVYUKinH5wGxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T21:14:29.118358Z",
       "mint": "5Wj2xTFw96tGjGrVm7khLPhqJnf93zQhof37ebLLpump",
       "label": "CR7 COIN",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $14",
       "link": "https://fomo.family/coin?address=KZZvp9BJuFV9iPodABdKKwcewxhN3Uq4WEwY42Rpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:47:59.636358Z",
-      "mint": "2GNYn5PVn7f6ZDpbP7HHXHqhwA8EfT5VvX9kCTc7pump",
-      "label": "Bob Marley ",
-      "verdict": "kill",
-      "reason": "liq $30",
-      "link": "https://fomo.family/coin?address=2GNYn5PVn7f6ZDpbP7HHXHqhwA8EfT5VvX9kCTc7pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:44:47.159227Z",
-      "mint": "478PuXdVMyM8K23kPnprBguEHYER8G4LBjcXWbPTpump",
-      "label": "Helmiz",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=478PuXdVMyM8K23kPnprBguEHYER8G4LBjcXWbPTpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T21:16:18.176302Z",
+      "mint": "a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump",
+      "label": "Fandemonium",
+      "verdict": "kill",
+      "reason": "+295% in 1h",
+      "link": "https://fomo.family/coin?address=a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T21:16:18.174973Z",
+      "mint": "7xf4P3B2qXaXWN1QnCfKA34VXp2nNVYUKinH5wGxpump",
+      "label": "fomo",
+      "verdict": "kill",
+      "reason": "+159% in 1h",
+      "link": "https://fomo.family/coin?address=7xf4P3B2qXaXWN1QnCfKA34VXp2nNVYUKinH5wGxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T21:14:29.118358Z",
       "mint": "5Wj2xTFw96tGjGrVm7khLPhqJnf93zQhof37ebLLpump",
       "label": "CR7 COIN",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $14",
       "link": "https://fomo.family/coin?address=KZZvp9BJuFV9iPodABdKKwcewxhN3Uq4WEwY42Rpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:47:59.636358Z",
-      "mint": "2GNYn5PVn7f6ZDpbP7HHXHqhwA8EfT5VvX9kCTc7pump",
-      "label": "Bob Marley ",
-      "verdict": "kill",
-      "reason": "liq $30",
-      "link": "https://fomo.family/coin?address=2GNYn5PVn7f6ZDpbP7HHXHqhwA8EfT5VvX9kCTc7pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:44:47.159227Z",
-      "mint": "478PuXdVMyM8K23kPnprBguEHYER8G4LBjcXWbPTpump",
-      "label": "Helmiz",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=478PuXdVMyM8K23kPnprBguEHYER8G4LBjcXWbPTpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
