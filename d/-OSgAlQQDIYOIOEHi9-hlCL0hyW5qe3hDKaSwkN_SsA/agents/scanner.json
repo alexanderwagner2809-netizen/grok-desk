@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T21:13:26.613523Z",
+  "ts": "2026-11-12T21:14:36.887707Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T21:13:24.307981Z",
+  "heartbeat": "2026-11-12T21:14:35.401760Z",
   "paused": false,
   "status": "running",
-  "card": "363 pools",
-  "count": 363,
+  "card": "364 pools",
+  "count": 364,
   "passed": 0,
   "feed": [
+    {
+      "mint": "5Wj2xTFw96tGjGrVm7khLPhqJnf93zQhof37ebLLpump",
+      "label": "CR7 COIN",
+      "verdict": "kill",
+      "reason": "liq $9",
+      "subtitle": "liq $9",
+      "link": "https://fomo.family/coin?address=5Wj2xTFw96tGjGrVm7khLPhqJnf93zQhof37ebLLpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "9nQ1kmKPcWLWibRmJVk13HLGSVqtdiTHHtiCgsiYzeus",
       "label": "Pepes Dog",
@@ -66,19 +74,19 @@
       "reason": "never qualified",
       "subtitle": "never qualified",
       "link": "https://fomo.family/coin?address=8GYHgd5vTYthyfjSeLTcgyj2hM4Gv6UTaV2zdK4hpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "B5dZojsqYDdeiaYzuYfjcJQzyrfQF3jyXy5WeMs6pump",
-      "label": "ThirdAffair",
-      "verdict": "kill",
-      "reason": "liq $11",
-      "subtitle": "liq $11",
-      "link": "https://fomo.family/coin?address=B5dZojsqYDdeiaYzuYfjcJQzyrfQF3jyXy5WeMs6pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T21:14:29.118358Z",
+      "mint": "5Wj2xTFw96tGjGrVm7khLPhqJnf93zQhof37ebLLpump",
+      "label": "CR7 COIN",
+      "verdict": "kill",
+      "reason": "liq $9",
+      "link": "https://fomo.family/coin?address=5Wj2xTFw96tGjGrVm7khLPhqJnf93zQhof37ebLLpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T21:12:50.052799Z",
       "mint": "9nQ1kmKPcWLWibRmJVk13HLGSVqtdiTHHtiCgsiYzeus",
       "label": "Pepes Dog",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=478PuXdVMyM8K23kPnprBguEHYER8G4LBjcXWbPTpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:41:46.497485Z",
-      "mint": "AnVZpNnLSDR8fy3bmti3KpXrpa6AEJUEUvZo1Ddqpump",
-      "label": "Lots of Oil ",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=AnVZpNnLSDR8fy3bmti3KpXrpa6AEJUEUvZo1Ddqpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T21:14:29.118358Z",
+      "mint": "5Wj2xTFw96tGjGrVm7khLPhqJnf93zQhof37ebLLpump",
+      "label": "CR7 COIN",
+      "verdict": "kill",
+      "reason": "liq $9",
+      "link": "https://fomo.family/coin?address=5Wj2xTFw96tGjGrVm7khLPhqJnf93zQhof37ebLLpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T21:12:50.052799Z",
       "mint": "9nQ1kmKPcWLWibRmJVk13HLGSVqtdiTHHtiCgsiYzeus",
       "label": "Pepes Dog",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=478PuXdVMyM8K23kPnprBguEHYER8G4LBjcXWbPTpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:41:46.497485Z",
-      "mint": "AnVZpNnLSDR8fy3bmti3KpXrpa6AEJUEUvZo1Ddqpump",
-      "label": "Lots of Oil ",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=AnVZpNnLSDR8fy3bmti3KpXrpa6AEJUEUvZo1Ddqpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

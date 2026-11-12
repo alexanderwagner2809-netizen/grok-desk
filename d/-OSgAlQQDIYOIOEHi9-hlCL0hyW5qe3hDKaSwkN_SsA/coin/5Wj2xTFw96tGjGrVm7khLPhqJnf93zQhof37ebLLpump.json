@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T21:14:35.706996Z",
+  "mint": "5Wj2xTFw96tGjGrVm7khLPhqJnf93zQhof37ebLLpump",
+  "name": "CR7 COIN",
+  "symbol": "CR7",
+  "label": "CR7 COIN",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T21:13:58.104290Z",
+  "pool": "7yoypzopXrkT7R4VxCVnyW4Jwe9HQy6N7z1qisQJ3QBC",
+  "creator": "oztoR5Q9cgWQo57uaZ8Dx5yssQmjtUCXJAXS2MGVZSm",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=5Wj2xTFw96tGjGrVm7khLPhqJnf93zQhof37ebLLpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 1.992e-08,
+  "priceTs": "2026-11-12T21:14:35.446593Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794518040,
+      "o": 1.992e-08,
+      "h": 1.992e-08,
+      "l": 1.992e-08,
+      "c": 1.992e-08,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 40.0,
+    "liquidity": 8.57,
+    "volume24h": 13.82,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T21:14:29.118358Z",
+      "liquidity_usd": 8.57,
+      "top10_pct": null,
+      "h1_change_pct": 73.44,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $9"
+    }
+  ]
+}
