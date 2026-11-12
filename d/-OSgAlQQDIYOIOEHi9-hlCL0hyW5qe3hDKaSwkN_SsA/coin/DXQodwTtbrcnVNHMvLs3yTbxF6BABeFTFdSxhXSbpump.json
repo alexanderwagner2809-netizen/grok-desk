@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T18:42:17.329438Z",
+  "ts": "2026-11-12T19:04:04.871611Z",
   "mint": "DXQodwTtbrcnVNHMvLs3yTbxF6BABeFTFdSxhXSbpump",
   "name": "pump.fun",
   "symbol": "pump it",
   "label": "pump.fun",
   "chain": "Solana",
-  "age": "11h old",
+  "age": "12h old",
   "migratedAt": "2026-11-12T07:02:20.884574Z",
   "pool": "FgXja9khHX4hJZssxDduZbScvfNQvc3C1d2wR7TFqLer",
   "creator": "BTUTSZiiGRUHrLEkNxNt917P7MHSA2eZWgTpErinDjbH",
   "holders": null,
   "link": "https://fomo.family/coin?address=DXQodwTtbrcnVNHMvLs3yTbxF6BABeFTFdSxhXSbpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.47e-08,
-  "priceTs": "2026-11-12T18:42:16.044232Z",
+  "price": 3.445e-08,
+  "priceTs": "2026-11-12T19:04:03.383369Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2480,12 +2480,20 @@
       "l": 3.47e-08,
       "c": 3.47e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794510240,
+      "o": 3.445e-08,
+      "h": 3.445e-08,
+      "l": 3.445e-08,
+      "c": 3.445e-08,
+      "v": 1.05
     }
   ],
   "stats": {
     "marketCap": 69.0,
-    "liquidity": 135.23,
-    "volume24h": 1620.89,
+    "liquidity": 134.74,
+    "volume24h": 1621.94,
     "holders": null
   },
   "position": null,

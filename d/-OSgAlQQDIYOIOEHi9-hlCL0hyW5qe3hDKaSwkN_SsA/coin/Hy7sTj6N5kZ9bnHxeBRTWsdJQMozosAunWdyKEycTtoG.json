@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T18:42:17.597780Z",
+  "ts": "2026-11-12T19:04:05.190955Z",
   "mint": "Hy7sTj6N5kZ9bnHxeBRTWsdJQMozosAunWdyKEycTtoG",
   "name": "Generational Bottom",
   "symbol": "Bottom",
@@ -11,8 +11,8 @@
   "creator": "wNgbrwnZ56dt5kWGfbRh5CqcXQK4HGifbXqqVb3gUBA",
   "holders": null,
   "link": "https://fomo.family/coin?address=Hy7sTj6N5kZ9bnHxeBRTWsdJQMozosAunWdyKEycTtoG&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.018e-06,
-  "priceTs": "2026-11-12T18:42:16.570559Z",
+  "price": 2.935e-06,
+  "priceTs": "2026-11-12T19:04:03.917040Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1400,12 +1400,20 @@
       "l": 3.018e-06,
       "c": 3.018e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794510240,
+      "o": 2.935e-06,
+      "h": 2.935e-06,
+      "l": 2.935e-06,
+      "c": 2.935e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 2850.0,
-    "liquidity": 2735.65,
-    "volume24h": 66814.42,
+    "marketCap": 2771.0,
+    "liquidity": 2676.82,
+    "volume24h": 66845.12,
     "holders": null
   },
   "position": null,

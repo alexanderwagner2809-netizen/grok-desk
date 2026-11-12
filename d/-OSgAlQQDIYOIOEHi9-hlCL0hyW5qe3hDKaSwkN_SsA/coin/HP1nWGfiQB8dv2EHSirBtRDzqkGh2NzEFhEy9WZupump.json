@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T18:42:16.623649Z",
+  "ts": "2026-11-12T19:04:03.992995Z",
   "mint": "HP1nWGfiQB8dv2EHSirBtRDzqkGh2NzEFhEy9WZupump",
   "name": "LokiAI",
   "symbol": "Loki",
@@ -11,8 +11,8 @@
   "creator": "5uc8yLG3XephRzBwTGnwErJWNMTVNMPPNkESA9pZKng7",
   "holders": null,
   "link": "https://fomo.family/coin?address=HP1nWGfiQB8dv2EHSirBtRDzqkGh2NzEFhEy9WZupump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.715e-08,
-  "priceTs": "2026-11-12T18:42:14.762508Z",
+  "price": 4.502e-08,
+  "priceTs": "2026-11-12T19:04:02.226028Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -480,12 +480,20 @@
       "l": 4.715e-08,
       "c": 4.715e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794510240,
+      "o": 4.502e-08,
+      "h": 4.502e-08,
+      "l": 4.502e-08,
+      "c": 4.502e-08,
+      "v": 1.43
     }
   ],
   "stats": {
-    "marketCap": 94.0,
-    "liquidity": 61.63,
-    "volume24h": 163.76,
+    "marketCap": 90.0,
+    "liquidity": 60.27,
+    "volume24h": 165.2,
     "holders": null
   },
   "position": null,

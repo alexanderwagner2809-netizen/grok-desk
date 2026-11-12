@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T18:42:17.637930Z",
+  "ts": "2026-11-12T19:04:05.240370Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T18:42:14.285635Z",
+  "heartbeat": "2026-11-12T19:03:59.412604Z",
   "paused": false,
   "status": "running",
-  "card": "307 pools",
-  "count": 307,
+  "card": "308 pools",
+  "count": 308,
   "passed": 0,
   "feed": [
+    {
+      "mint": "2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump",
+      "label": "2BZBfmsz",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "A7TmqRupSgt62Z2XbbXeZwxu7SrE7DSq5JkwLWZnpump",
       "label": "Gigabyte",
@@ -66,19 +74,19 @@
       "reason": "liq $31",
       "subtitle": "liq $31",
       "link": "https://fomo.family/coin?address=3JRvjghEHNu6nyhTDiimQovqSKPvNN49S2YgUkh1pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GkrF14AQzTXjBJZrfmewFARA5YPP8s6fAoeNNmYqpump",
-      "label": "小峰",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=GkrF14AQzTXjBJZrfmewFARA5YPP8s6fAoeNNmYqpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T19:03:15.565293Z",
+      "mint": "2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump",
+      "label": "2BZBfmsz",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T18:42:14.392475Z",
       "mint": "A7TmqRupSgt62Z2XbbXeZwxu7SrE7DSq5JkwLWZnpump",
       "label": "Gigabyte",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $549",
       "link": "https://fomo.family/coin?address=EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:43:12.462074Z",
-      "mint": "4rVHPGrXHkEv97Tf1S6Gg8KmSAvLKUHxzt7ppzfwpump",
-      "label": "Robinhood",
-      "verdict": "kill",
-      "reason": "+192% in 1h",
-      "link": "https://fomo.family/coin?address=4rVHPGrXHkEv97Tf1S6Gg8KmSAvLKUHxzt7ppzfwpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T19:03:15.565293Z",
+      "mint": "2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump",
+      "label": "2BZBfmsz",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T18:42:14.392475Z",
       "mint": "A7TmqRupSgt62Z2XbbXeZwxu7SrE7DSq5JkwLWZnpump",
       "label": "Gigabyte",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $549",
       "link": "https://fomo.family/coin?address=EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:43:12.462074Z",
-      "mint": "4rVHPGrXHkEv97Tf1S6Gg8KmSAvLKUHxzt7ppzfwpump",
-      "label": "Robinhood",
-      "verdict": "kill",
-      "reason": "+192% in 1h",
-      "link": "https://fomo.family/coin?address=4rVHPGrXHkEv97Tf1S6Gg8KmSAvLKUHxzt7ppzfwpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
