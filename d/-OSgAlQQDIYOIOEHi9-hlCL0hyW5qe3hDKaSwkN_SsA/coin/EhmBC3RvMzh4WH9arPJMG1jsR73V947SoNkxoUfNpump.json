@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T16:48:21.070578Z",
+  "ts": "2026-11-12T17:05:49.512027Z",
   "mint": "EhmBC3RvMzh4WH9arPJMG1jsR73V947SoNkxoUfNpump",
   "name": "moon cat",
   "symbol": "mocat",
@@ -11,8 +11,8 @@
   "creator": "8WZwQJna2Kc9212usM2GhQSknk8sec5qScsq9FU29iLV",
   "holders": null,
   "link": "https://fomo.family/coin?address=EhmBC3RvMzh4WH9arPJMG1jsR73V947SoNkxoUfNpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.55e-09,
-  "priceTs": "2026-11-12T16:48:19.500862Z",
+  "price": 3.427e-09,
+  "priceTs": "2026-11-12T17:05:48.177330Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2600,12 +2600,20 @@
       "l": 3.55e-09,
       "c": 3.55e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794503100,
+      "o": 3.427e-09,
+      "h": 3.427e-09,
+      "l": 3.427e-09,
+      "c": 3.427e-09,
+      "v": 0.0
     }
   ],
   "stats": {
     "marketCap": 5.0,
-    "liquidity": 8.01,
-    "volume24h": 229.46,
+    "liquidity": 7.89,
+    "volume24h": 229.47,
     "holders": null
   },
   "position": null,

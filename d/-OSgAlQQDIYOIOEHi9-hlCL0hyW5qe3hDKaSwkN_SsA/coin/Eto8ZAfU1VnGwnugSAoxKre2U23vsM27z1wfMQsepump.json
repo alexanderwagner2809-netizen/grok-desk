@@ -1,11 +1,11 @@
 {
-  "ts": "2026-11-12T16:48:21.085284Z",
+  "ts": "2026-11-12T17:05:48.599381Z",
   "mint": "Eto8ZAfU1VnGwnugSAoxKre2U23vsM27z1wfMQsepump",
   "name": null,
   "symbol": null,
   "label": "Eto8ZAfU",
   "chain": "Solana",
-  "age": "14m old",
+  "age": "32m old",
   "migratedAt": "2026-11-12T16:33:28.333443Z",
   "pool": null,
   "creator": "6z8ruxQPJLu1kVbeQQ21FQaie1oGTWgkLuGYpoVkYGoS",
@@ -25,5 +25,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T17:05:07.001490Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 31,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }

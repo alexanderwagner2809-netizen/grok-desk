@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T16:48:21.268695Z",
+  "ts": "2026-11-12T17:05:49.710729Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T16:48:17.254976Z",
+  "heartbeat": "2026-11-12T17:05:46.728845Z",
   "paused": false,
   "status": "running",
-  "card": "277 pools",
-  "count": 277,
+  "card": "279 pools",
+  "count": 279,
   "passed": 0,
   "feed": [
+    {
+      "mint": "Eto8ZAfU1VnGwnugSAoxKre2U23vsM27z1wfMQsepump",
+      "label": "Eto8ZAfU",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=Eto8ZAfU1VnGwnugSAoxKre2U23vsM27z1wfMQsepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "EYJdXh4zdcTPbHVUd1hCY9ViRPTYEVTeST2hp6YBpump",
+      "label": "EYJdXh4z",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=EYJdXh4zdcTPbHVUd1hCY9ViRPTYEVTeST2hp6YBpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "Dx3TdN7CR4knZBdfZ1X8oz4NaUQaWH92NAWNvNtqpump",
       "label": "SPY",
@@ -58,27 +74,27 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=7P6NTos913CsZDJeCZYmZjcicevKR3vpQM7Rmrvrpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "8bLJCHrY1ahyQ8mERgnWkkpscAEWkgbjMqyzVSdvpump",
-      "label": "Dugecoin",
-      "verdict": "kill",
-      "reason": "liq $13.2K",
-      "subtitle": "liq $13.2K",
-      "link": "https://fomo.family/coin?address=8bLJCHrY1ahyQ8mERgnWkkpscAEWkgbjMqyzVSdvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump",
-      "label": "NEYMAN",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T17:05:07.001490Z",
+      "mint": "Eto8ZAfU1VnGwnugSAoxKre2U23vsM27z1wfMQsepump",
+      "label": "Eto8ZAfU",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=Eto8ZAfU1VnGwnugSAoxKre2U23vsM27z1wfMQsepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T17:05:06.997413Z",
+      "mint": "EYJdXh4zdcTPbHVUd1hCY9ViRPTYEVTeST2hp6YBpump",
+      "label": "EYJdXh4z",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=EYJdXh4zdcTPbHVUd1hCY9ViRPTYEVTeST2hp6YBpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:48:07.034468Z",
       "mint": "Dx3TdN7CR4knZBdfZ1X8oz4NaUQaWH92NAWNvNtqpump",
       "label": "SPY",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=HP1nWGfiQB8dv2EHSirBtRDzqkGh2NzEFhEy9WZupump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:09:42.781739Z",
-      "mint": "Hr4bJL8tCmNy2SB7Lic13NxVZye3zuLZCkhTgN1ipump",
-      "label": "Idlex",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=Hr4bJL8tCmNy2SB7Lic13NxVZye3zuLZCkhTgN1ipump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:08:14.898999Z",
-      "mint": "EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump",
-      "label": "Tim Cook Gay",
-      "verdict": "kill",
-      "reason": "liq $10.7K",
-      "link": "https://fomo.family/coin?address=EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T17:05:07.001490Z",
+      "mint": "Eto8ZAfU1VnGwnugSAoxKre2U23vsM27z1wfMQsepump",
+      "label": "Eto8ZAfU",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=Eto8ZAfU1VnGwnugSAoxKre2U23vsM27z1wfMQsepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T17:05:06.997413Z",
+      "mint": "EYJdXh4zdcTPbHVUd1hCY9ViRPTYEVTeST2hp6YBpump",
+      "label": "EYJdXh4z",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=EYJdXh4zdcTPbHVUd1hCY9ViRPTYEVTeST2hp6YBpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:48:07.034468Z",
       "mint": "Dx3TdN7CR4knZBdfZ1X8oz4NaUQaWH92NAWNvNtqpump",
       "label": "SPY",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=HP1nWGfiQB8dv2EHSirBtRDzqkGh2NzEFhEy9WZupump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:09:42.781739Z",
-      "mint": "Hr4bJL8tCmNy2SB7Lic13NxVZye3zuLZCkhTgN1ipump",
-      "label": "Idlex",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=Hr4bJL8tCmNy2SB7Lic13NxVZye3zuLZCkhTgN1ipump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:08:14.898999Z",
-      "mint": "EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump",
-      "label": "Tim Cook Gay",
-      "verdict": "kill",
-      "reason": "liq $10.7K",
-      "link": "https://fomo.family/coin?address=EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
