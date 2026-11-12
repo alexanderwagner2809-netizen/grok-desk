@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T11:32:32.249557Z",
+  "ts": "2026-11-12T11:33:42.019190Z",
   "mint": "3ea5Z1UKMT1pd36KFBv4CNkGi7TjLDYGoh6BZMvBpump",
   "name": "ZEPHYRON",
   "symbol": "ZEPHYRON",
@@ -11,8 +11,8 @@
   "creator": "279wv4A6kjW9SZdhdkmVPCiiw23By9P6WBqJ5oJ5SB3d",
   "holders": null,
   "link": "https://fomo.family/coin?address=3ea5Z1UKMT1pd36KFBv4CNkGi7TjLDYGoh6BZMvBpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.631e-06,
-  "priceTs": "2026-11-12T11:32:31.196396Z",
+  "price": 1.59e-06,
+  "priceTs": "2026-11-12T11:33:40.942492Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1080,12 +1080,20 @@
       "l": 1.631e-06,
       "c": 1.631e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794483180,
+      "o": 1.59e-06,
+      "h": 1.59e-06,
+      "l": 1.59e-06,
+      "c": 1.59e-06,
+      "v": 0.07
     }
   ],
   "stats": {
-    "marketCap": 1563.0,
-    "liquidity": 1646.22,
-    "volume24h": 47593.4,
+    "marketCap": 1524.0,
+    "liquidity": 1606.36,
+    "volume24h": 47593.48,
     "holders": null
   },
   "position": null,
