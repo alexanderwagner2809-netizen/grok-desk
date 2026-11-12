@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-12T20:51:15.448591Z",
+  "ts": "2026-11-12T20:52:24.182265Z",
   "mint": "ddykierV4crJzCDXsAwRVWWj3QGx21JE8rkoW8dpump",
-  "name": null,
-  "symbol": null,
-  "label": "ddykierV",
+  "name": "Nullmask",
+  "symbol": "MASK",
+  "label": "Nullmask",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T20:50:43.261115Z",
-  "pool": null,
+  "pool": "9uWfvh1hidCKUy1UXCmZDc2VMG8w4cH3hQvj11NdPVyj",
   "creator": "Dh7joYqiZFRasHY3Ygbk4aFLi3VzvrE6wrACCq7GpPUo",
   "holders": null,
   "link": "https://fomo.family/coin?address=ddykierV4crJzCDXsAwRVWWj3QGx21JE8rkoW8dpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.414e-05,
+  "priceTs": "2026-11-12T20:52:23.892059Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794516660,
+      "o": 0.0001007,
+      "h": 0.0001007,
+      "l": 0.0001007,
+      "c": 0.0001007,
+      "v": 0.0
+    },
+    {
+      "t": 1794516720,
+      "o": 1.414e-05,
+      "h": 1.414e-05,
+      "l": 1.414e-05,
+      "c": 1.414e-05,
+      "v": 8381.240000000002
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 14137.0,
+    "liquidity": 8618.42,
+    "volume24h": 13413.2,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:51:15.583296Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 198.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
