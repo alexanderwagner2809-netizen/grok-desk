@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:18:15.844706Z",
+  "ts": "2026-11-12T09:19:25.315770Z",
   "mint": "GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump",
   "name": "Max coin",
   "symbol": "Max",
@@ -11,8 +11,8 @@
   "creator": "Cc7qAqRPGoG9U1YMnutzSd9Udfs74ibiHpzLkSDmkDEe",
   "holders": null,
   "link": "https://fomo.family/coin?address=GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.02238,
-  "priceTs": "2026-11-12T09:18:14.850574Z",
+  "price": 0.02239,
+  "priceTs": "2026-11-12T09:19:24.385943Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1072,12 +1072,20 @@
       "l": 0.02238,
       "c": 0.02238,
       "v": 0.0
+    },
+    {
+      "t": 1794475140,
+      "o": 0.02239,
+      "h": 0.02239,
+      "l": 0.02239,
+      "c": 0.02239,
+      "v": 3.7999999999999545
     }
   ],
   "stats": {
-    "marketCap": 22380287.0,
-    "liquidity": 359599.74,
-    "volume24h": 201069.2,
+    "marketCap": 22394726.0,
+    "liquidity": 359716.71,
+    "volume24h": 201329.75,
     "holders": null
   },
   "position": null,

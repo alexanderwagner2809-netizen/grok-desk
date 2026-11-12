@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T09:18:15.749347Z",
+  "ts": "2026-11-12T09:19:25.232534Z",
   "mint": "8p7GCo3fWJ55LFQbhkBd8hCpw3ACk98PgK7Lsd6Upump",
   "name": "Shitcoin",
   "symbol": "Shitcoin",
   "label": "Shitcoin",
   "chain": "Solana",
-  "age": "13m old",
+  "age": "14m old",
   "migratedAt": "2026-11-12T09:04:46.526965Z",
   "pool": "9ovaDmtnzr164fJVBpypehiQ9a5FZMLaCaTTAprM8xxJ",
   "creator": "7e6Rah96A6Vr3ZBBLAM371DdidSLJpRSKrdrTRDRm4Af",
   "holders": null,
   "link": "https://fomo.family/coin?address=8p7GCo3fWJ55LFQbhkBd8hCpw3ACk98PgK7Lsd6Upump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.885e-05,
-  "priceTs": "2026-11-12T09:18:14.587324Z",
+  "price": 1.123e-05,
+  "priceTs": "2026-11-12T09:19:24.130168Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -112,12 +112,20 @@
       "l": 1.885e-05,
       "c": 1.885e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794475140,
+      "o": 1.123e-05,
+      "h": 1.123e-05,
+      "l": 1.123e-05,
+      "c": 1.123e-05,
+      "v": 2316.67
     }
   ],
   "stats": {
-    "marketCap": 18856.0,
-    "liquidity": 9029.01,
-    "volume24h": 41418.17,
+    "marketCap": 11237.0,
+    "liquidity": 6675.32,
+    "volume24h": 45050.53,
     "holders": null
   },
   "position": null,
