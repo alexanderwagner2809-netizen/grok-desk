@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:02:53.613512Z",
+  "ts": "2026-11-12T06:04:02.304861Z",
   "mint": "Eh5zz6vrPK66MHzhBLrzEFHvATE7Z1SqoALzcNu4pump",
   "name": "Bitcoin Inu",
   "symbol": "BITCOINU",
   "label": "Bitcoin Inu",
   "chain": "Solana",
-  "age": "41m old",
+  "age": "42m old",
   "migratedAt": "2026-11-12T05:21:49.261999Z",
   "pool": "Frx1wvBMjqzB7vEjMG1fZ4ZEFMLe9wFC4b6CpXS8fzZv",
   "creator": "7tCY9V1j2kS5oBezQ5DEe2aPkEnsHYyS9PAQ9xaTicbz",
   "holders": null,
   "link": "https://fomo.family/coin?address=Eh5zz6vrPK66MHzhBLrzEFHvATE7Z1SqoALzcNu4pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.001092,
-  "priceTs": "2026-11-12T06:02:52.666229Z",
+  "price": 0.001051,
+  "priceTs": "2026-11-12T06:04:01.544961Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -152,12 +152,20 @@
       "l": 0.001092,
       "c": 0.001092,
       "v": 4682.699999999997
+    },
+    {
+      "t": 1794463440,
+      "o": 0.001051,
+      "h": 0.001051,
+      "l": 0.001051,
+      "c": 0.001051,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1084613.0,
-    "liquidity": 79956.18,
-    "volume24h": 409049.85,
+    "marketCap": 1044255.0,
+    "liquidity": 78326.55,
+    "volume24h": 413198.75,
     "holders": null
   },
   "position": null,
