@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T21:14:35.798819Z",
+  "ts": "2026-11-12T21:15:45.921239Z",
   "mint": "GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump",
   "name": "Maply",
   "symbol": "MAPLY",
@@ -11,8 +11,8 @@
   "creator": "9gQURtSGQGYcCbfndm11TYU1uPQ8Ka3eGhZSbe7z7aRP",
   "holders": null,
   "link": "https://fomo.family/coin?address=GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.257e-06,
-  "priceTs": "2026-11-12T21:14:35.693611Z",
+  "price": 2.162e-06,
+  "priceTs": "2026-11-12T21:15:45.812828Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -640,12 +640,20 @@
       "l": 2.257e-06,
       "c": 2.257e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794518100,
+      "o": 2.162e-06,
+      "h": 2.162e-06,
+      "l": 2.162e-06,
+      "c": 2.162e-06,
+      "v": 37.18
     }
   ],
   "stats": {
-    "marketCap": 2191.0,
-    "liquidity": 2221.06,
-    "volume24h": 155016.17,
+    "marketCap": 2099.0,
+    "liquidity": 2141.98,
+    "volume24h": 155053.36,
     "holders": null
   },
   "position": null,
