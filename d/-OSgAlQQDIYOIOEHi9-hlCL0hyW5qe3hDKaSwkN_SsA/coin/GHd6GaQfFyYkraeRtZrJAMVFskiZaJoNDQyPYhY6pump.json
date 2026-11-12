@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-12T06:42:05.803642Z",
+  "ts": "2026-11-12T06:43:13.948567Z",
   "mint": "GHd6GaQfFyYkraeRtZrJAMVFskiZaJoNDQyPYhY6pump",
-  "name": null,
-  "symbol": null,
-  "label": "GHd6GaQf",
+  "name": "Microsoft",
+  "symbol": "Microsoft",
+  "label": "Microsoft",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T06:42:01.616421Z",
-  "pool": null,
+  "pool": "Cf9wdiZqt1d9QqHwNTVJ4LdiLoLzL2ZP6Kt6YuDJiapD",
   "creator": "21ikZPSCzqvZPQfGXAvktaprVaMFBgt4DzdbkFgQZTw8",
   "holders": null,
   "link": "https://fomo.family/coin?address=GHd6GaQfFyYkraeRtZrJAMVFskiZaJoNDQyPYhY6pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 0.0001278,
+  "priceTs": "2026-11-12T06:43:13.054247Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794465780,
+      "o": 0.0001278,
+      "h": 0.0001278,
+      "l": 0.0001278,
+      "c": 0.0001278,
+      "v": 0.0
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 127791.0,
+    "liquidity": 25910.45,
+    "volume24h": 6520.99,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T06:43:04.832484Z",
+      "liquidity_usd": 25911.39,
+      "top10_pct": null,
+      "h1_change_pct": 269.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "+269% in 1h"
+    }
+  ]
 }
