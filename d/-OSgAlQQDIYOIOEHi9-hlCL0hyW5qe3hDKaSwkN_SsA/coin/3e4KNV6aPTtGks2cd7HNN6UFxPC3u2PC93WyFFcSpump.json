@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T01:10:44.639058Z",
+  "ts": "2026-11-12T01:11:52.427482Z",
   "mint": "3e4KNV6aPTtGks2cd7HNN6UFxPC3u2PC93WyFFcSpump",
   "name": "SlabScope",
   "symbol": "SLAB",
   "label": "SlabScope",
   "chain": "Solana",
-  "age": "2h old",
+  "age": "3h old",
   "migratedAt": "2026-11-11T22:10:50.966711Z",
   "pool": "GLqzzXGYZ1WwtDiqWzTG56pWSV9MA532HUvdEA7xtMkZ",
   "creator": "FGGK8ykvp9vmw8aQzfRKu2MK3CNUeXMVPMaCW2GYX2Ge",
   "holders": null,
   "link": "https://fomo.family/coin?address=3e4KNV6aPTtGks2cd7HNN6UFxPC3u2PC93WyFFcSpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.199e-05,
-  "priceTs": "2026-11-12T01:10:44.464951Z",
+  "price": 5.201e-05,
+  "priceTs": "2026-11-12T01:11:52.267677Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -352,12 +352,20 @@
       "l": 5.199e-05,
       "c": 5.199e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794445860,
+      "o": 5.201e-05,
+      "h": 5.201e-05,
+      "l": 5.201e-05,
+      "c": 5.201e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 50068.0,
-    "liquidity": 16087.45,
-    "volume24h": 69270.75,
+    "marketCap": 50080.0,
+    "liquidity": 16091.0,
+    "volume24h": 69277.86,
     "holders": null
   },
   "position": null,

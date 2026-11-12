@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T01:10:44.678705Z",
+  "ts": "2026-11-12T01:11:52.382643Z",
   "mint": "FtBmsuEgZHAo972PaEQrDdpEeMXSrUmnPavNpfBepump",
-  "name": null,
-  "symbol": null,
-  "label": "FtBmsuEg",
+  "name": "Ansem is Back",
+  "symbol": "AIB",
+  "label": "Ansem is Back",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T01:10:15.156572Z",
-  "pool": null,
+  "pool": "3NnEWJLKaftmmw9SPH9JeKUDH182g8zcQkbbDia6yT1E",
   "creator": "7meVGm6rXPMNsgjWcHhXdQzTEgEfpUUhYxepjR4CpiAd",
   "holders": null,
   "link": "https://fomo.family/coin?address=FtBmsuEgZHAo972PaEQrDdpEeMXSrUmnPavNpfBepump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.897e-05,
-  "priceTs": "2026-11-12T01:10:44.585878Z",
+  "price": 6.307e-05,
+  "priceTs": "2026-11-12T01:11:51.991173Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 4.897e-05,
       "c": 4.897e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794445860,
+      "o": 4.897e-05,
+      "h": 6.307e-05,
+      "l": 4.897e-05,
+      "c": 6.307e-05,
+      "v": 6758.200000000001
     }
   ],
   "stats": {
-    "marketCap": 48961.0,
-    "liquidity": 22589.24,
-    "volume24h": 25309.61,
+    "marketCap": 63062.0,
+    "liquidity": 17952.54,
+    "volume24h": 32067.81,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T01:11:16.668386Z",
+      "liquidity_usd": 22589.24,
+      "top10_pct": null,
+      "h1_change_pct": -11.57,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $22.6K"
+    }
+  ]
 }
