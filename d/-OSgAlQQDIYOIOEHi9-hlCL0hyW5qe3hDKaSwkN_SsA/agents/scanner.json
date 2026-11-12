@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T20:09:32.354313Z",
+  "ts": "2026-11-12T20:10:44.019438Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T20:09:30.021115Z",
+  "heartbeat": "2026-11-12T20:10:40.900062Z",
   "paused": false,
   "status": "running",
-  "card": "318 pools",
-  "count": 318,
+  "card": "320 pools",
+  "count": 320,
   "passed": 0,
   "feed": [
+    {
+      "mint": "HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump",
+      "label": "Jensen Sins",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "3u2Enou6XnEYBGAkMQcx1rCukVc9BwGUp73xjNYepump",
+      "label": "DeepSeek",
+      "verdict": "kill",
+      "reason": "+190% in 1h",
+      "subtitle": "+190% in 1h",
+      "link": "https://fomo.family/coin?address=3u2Enou6XnEYBGAkMQcx1rCukVc9BwGUp73xjNYepump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "GHB5wJfknCtudnrCak2QcjXXrExs8ZpNy1XMRTddzEKr",
       "label": "Hachiko",
@@ -58,27 +74,27 @@
       "reason": "liq $13.1K",
       "subtitle": "liq $13.1K",
       "link": "https://fomo.family/coin?address=EsTtz2ihzgTHNraechVRFVbyD9XrX61QEpb3ACBtpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "FMK5RyfhwcPaRUYaRQ5jAG3VNiVyYR5iq57TBhnPpump",
-      "label": "Ma Win The Motosai Cat",
-      "verdict": "kill",
-      "reason": "liq $12.4K",
-      "subtitle": "liq $12.4K",
-      "link": "https://fomo.family/coin?address=FMK5RyfhwcPaRUYaRQ5jAG3VNiVyYR5iq57TBhnPpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "Btf2Lr2LyZZSgv8wqNSggUFE39x1Eha82qWKGHj4pump",
-      "label": "HORMUZ",
-      "verdict": "kill",
-      "reason": "liq $27",
-      "subtitle": "liq $27",
-      "link": "https://fomo.family/coin?address=Btf2Lr2LyZZSgv8wqNSggUFE39x1Eha82qWKGHj4pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T20:10:37.049635Z",
+      "mint": "HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump",
+      "label": "Jensen Sins",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T20:10:26.697031Z",
+      "mint": "3u2Enou6XnEYBGAkMQcx1rCukVc9BwGUp73xjNYepump",
+      "label": "DeepSeek",
+      "verdict": "kill",
+      "reason": "+190% in 1h",
+      "link": "https://fomo.family/coin?address=3u2Enou6XnEYBGAkMQcx1rCukVc9BwGUp73xjNYepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:08:46.418398Z",
       "mint": "GHB5wJfknCtudnrCak2QcjXXrExs8ZpNy1XMRTddzEKr",
       "label": "Hachiko",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $31",
       "link": "https://fomo.family/coin?address=3JRvjghEHNu6nyhTDiimQovqSKPvNN49S2YgUkh1pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:34:26.915828Z",
-      "mint": "GkrF14AQzTXjBJZrfmewFARA5YPP8s6fAoeNNmYqpump",
-      "label": "小峰",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=GkrF14AQzTXjBJZrfmewFARA5YPP8s6fAoeNNmYqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:33:11.098845Z",
-      "mint": "7cPKubouxwsSy4aAKHtDKUETZ6uxVZDntRuy7Cappump",
-      "label": "2027 Year of the Goat",
-      "verdict": "kill",
-      "reason": "liq $17.0K",
-      "link": "https://fomo.family/coin?address=7cPKubouxwsSy4aAKHtDKUETZ6uxVZDntRuy7Cappump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T20:10:37.049635Z",
+      "mint": "HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump",
+      "label": "Jensen Sins",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T20:10:26.697031Z",
+      "mint": "3u2Enou6XnEYBGAkMQcx1rCukVc9BwGUp73xjNYepump",
+      "label": "DeepSeek",
+      "verdict": "kill",
+      "reason": "+190% in 1h",
+      "link": "https://fomo.family/coin?address=3u2Enou6XnEYBGAkMQcx1rCukVc9BwGUp73xjNYepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:08:46.418398Z",
       "mint": "GHB5wJfknCtudnrCak2QcjXXrExs8ZpNy1XMRTddzEKr",
       "label": "Hachiko",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $31",
       "link": "https://fomo.family/coin?address=3JRvjghEHNu6nyhTDiimQovqSKPvNN49S2YgUkh1pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:34:26.915828Z",
-      "mint": "GkrF14AQzTXjBJZrfmewFARA5YPP8s6fAoeNNmYqpump",
-      "label": "小峰",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=GkrF14AQzTXjBJZrfmewFARA5YPP8s6fAoeNNmYqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:33:11.098845Z",
-      "mint": "7cPKubouxwsSy4aAKHtDKUETZ6uxVZDntRuy7Cappump",
-      "label": "2027 Year of the Goat",
-      "verdict": "kill",
-      "reason": "liq $17.0K",
-      "link": "https://fomo.family/coin?address=7cPKubouxwsSy4aAKHtDKUETZ6uxVZDntRuy7Cappump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
