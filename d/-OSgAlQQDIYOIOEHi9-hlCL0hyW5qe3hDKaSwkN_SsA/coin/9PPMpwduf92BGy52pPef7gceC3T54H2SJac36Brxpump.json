@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-12T08:17:03.332352Z",
+  "mint": "9PPMpwduf92BGy52pPef7gceC3T54H2SJac36Brxpump",
+  "name": "Cute Cat Coin",
+  "symbol": ":3",
+  "label": "Cute Cat Coin",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T08:16:33.962941Z",
+  "pool": "EsXseJBdPZKr49K57ENpYgCuP7ToqDgdmczF71P4iJsQ",
+  "creator": "ADX2ySBmoRZbf3QR8V7JKLXcLZDhTQFipc9VzQawaadG",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=9PPMpwduf92BGy52pPef7gceC3T54H2SJac36Brxpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.868e-06,
+  "priceTs": "2026-11-12T08:17:02.363601Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794471360,
+      "o": 2.868e-06,
+      "h": 2.868e-06,
+      "l": 2.868e-06,
+      "c": 2.868e-06,
+      "v": 0.0
+    },
+    {
+      "t": 1794471420,
+      "o": 2.868e-06,
+      "h": 2.868e-06,
+      "l": 2.868e-06,
+      "c": 2.868e-06,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 2774.0,
+    "liquidity": 2837.72,
+    "volume24h": 16001.39,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T08:16:36.109300Z",
+      "liquidity_usd": 2837.72,
+      "top10_pct": null,
+      "h1_change_pct": 0.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $2.8K"
+    }
+  ]
+}
