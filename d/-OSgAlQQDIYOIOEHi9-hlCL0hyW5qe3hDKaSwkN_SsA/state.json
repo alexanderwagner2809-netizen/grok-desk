@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T05:21:36.778424Z",
+  "ts": "2026-11-12T05:22:45.351619Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,21 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T05:21:27.440021Z",
+      "heartbeat": "2026-11-12T05:22:37.755960Z",
       "paused": false,
       "status": "running",
-      "card": "108 pools",
-      "count": 108,
+      "card": "109 pools",
+      "count": 109,
       "passed": 0,
       "feed": [
+        {
+          "mint": "Eh5zz6vrPK66MHzhBLrzEFHvATE7Z1SqoALzcNu4pump",
+          "label": "Bitcoin Inu",
+          "verdict": "kill",
+          "reason": "liq $31.9K",
+          "subtitle": "liq $31.9K",
+          "link": "https://fomo.family/coin?address=Eh5zz6vrPK66MHzhBLrzEFHvATE7Z1SqoALzcNu4pump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump",
           "label": "green cat",
@@ -74,14 +82,6 @@
           "reason": "liq $23.9K",
           "subtitle": "liq $23.9K",
           "link": "https://fomo.family/coin?address=6XE2QtpQjk9Ra9f3916uBve9X1vT6SB4DxKNGsX9pump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "4EGdVws4BwR9vVeZeNu61vpXB8FPGcPZyf2Zf3h8pump",
-          "label": "Solana Cat",
-          "verdict": "kill",
-          "reason": "liq $17.3K",
-          "subtitle": "liq $17.3K",
-          "link": "https://fomo.family/coin?address=4EGdVws4BwR9vVeZeNu61vpXB8FPGcPZyf2Zf3h8pump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T05:21:35.331780Z",
+      "heartbeat": "2026-11-12T05:22:43.476238Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T05:21:35.332816Z",
+      "heartbeat": "2026-11-12T05:22:43.480001Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T05:21:35.333170Z",
+      "heartbeat": "2026-11-12T05:22:43.481054Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T05:21:32.738249Z",
+      "heartbeat": "2026-11-12T05:22:37.755960Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
