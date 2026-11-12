@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T14:04:27.838283Z",
+  "ts": "2026-11-12T14:05:38.450616Z",
   "mint": "3dqeBW7EJYAPnv9tGJeQAwBoxZsC2vomFk7ah7GrFoss",
   "name": "X Coin",
   "symbol": "X",
@@ -11,8 +11,8 @@
   "creator": "H1xrpB3ECb8fYHJeqCKu24HmjRZwR6zwo2C81RiozfJg",
   "holders": null,
   "link": "https://fomo.family/coin?address=3dqeBW7EJYAPnv9tGJeQAwBoxZsC2vomFk7ah7GrFoss&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.805e-05,
-  "priceTs": "2026-11-12T14:04:26.679654Z",
+  "price": 7.013e-05,
+  "priceTs": "2026-11-12T14:05:37.267864Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2584,12 +2584,20 @@
       "l": 6.805e-05,
       "c": 6.805e-05,
       "v": 244.38999999999987
+    },
+    {
+      "t": 1794492300,
+      "o": 7.013e-05,
+      "h": 7.013e-05,
+      "l": 7.013e-05,
+      "c": 7.013e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 67046.0,
-    "liquidity": 21422.41,
-    "volume24h": 2204928.45,
+    "marketCap": 69093.0,
+    "liquidity": 21769.18,
+    "volume24h": 2204986.13,
     "holders": null
   },
   "position": null,

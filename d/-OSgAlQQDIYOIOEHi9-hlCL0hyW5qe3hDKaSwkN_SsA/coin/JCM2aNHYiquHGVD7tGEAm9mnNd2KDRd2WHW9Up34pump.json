@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T14:04:27.666244Z",
+  "ts": "2026-11-12T14:05:38.271063Z",
   "mint": "JCM2aNHYiquHGVD7tGEAm9mnNd2KDRd2WHW9Up34pump",
   "name": "PUMP AGENTS",
   "symbol": "AGENT",
@@ -11,8 +11,8 @@
   "creator": "Gqt7ddM8ibfJrERoGhTneGEZAUhZqzgBLuySxzK7Eog8",
   "holders": null,
   "link": "https://fomo.family/coin?address=JCM2aNHYiquHGVD7tGEAm9mnNd2KDRd2WHW9Up34pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.548e-09,
-  "priceTs": "2026-11-12T14:04:26.313593Z",
+  "price": 3.536e-09,
+  "priceTs": "2026-11-12T14:05:36.893943Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -752,12 +752,20 @@
       "l": 6.548e-09,
       "c": 6.548e-09,
       "v": 16.009999999999998
+    },
+    {
+      "t": 1794492300,
+      "o": 3.536e-09,
+      "h": 3.536e-09,
+      "l": 3.536e-09,
+      "c": 3.536e-09,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 13.0,
-    "liquidity": 2.14,
-    "volume24h": 88.77,
+    "marketCap": 7.0,
+    "liquidity": 1.66,
+    "volume24h": 89.6,
     "holders": null
   },
   "position": null,
