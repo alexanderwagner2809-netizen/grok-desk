@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:54:39.096353Z",
+  "ts": "2026-11-12T06:55:47.633956Z",
   "mint": "GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump",
   "name": "Max coin",
   "symbol": "Max",
   "label": "Max coin",
   "chain": "Solana",
-  "age": "49m old",
+  "age": "50m old",
   "migratedAt": "2026-11-12T06:05:14.753439Z",
   "pool": "8bPJ9dLKcPwbzwcEg8MjfunHJy8XhYXRkFBmjB5gLbNj",
   "creator": "Cc7qAqRPGoG9U1YMnutzSd9Udfs74ibiHpzLkSDmkDEe",
   "holders": null,
   "link": "https://fomo.family/coin?address=GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.02078,
-  "priceTs": "2026-11-12T06:54:38.225773Z",
+  "price": 0.0208,
+  "priceTs": "2026-11-12T06:55:46.834908Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -360,12 +360,20 @@
       "l": 0.02078,
       "c": 0.02078,
       "v": 0.0
+    },
+    {
+      "t": 1794466500,
+      "o": 0.0208,
+      "h": 0.0208,
+      "l": 0.0208,
+      "c": 0.0208,
+      "v": 51.6400000000001
     }
   ],
   "stats": {
-    "marketCap": 20779222.0,
-    "liquidity": 346389.45,
-    "volume24h": 172536.25,
+    "marketCap": 20801849.0,
+    "liquidity": 346579.38,
+    "volume24h": 172833.26,
     "holders": null
   },
   "position": null,
