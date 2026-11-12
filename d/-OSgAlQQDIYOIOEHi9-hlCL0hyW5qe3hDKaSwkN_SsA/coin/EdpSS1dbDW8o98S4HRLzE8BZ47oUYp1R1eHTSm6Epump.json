@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T03:10:56.518379Z",
+  "ts": "2026-11-12T03:12:04.606594Z",
   "mint": "EdpSS1dbDW8o98S4HRLzE8BZ47oUYp1R1eHTSm6Epump",
   "name": "Wyrm",
   "symbol": "WYRM",
@@ -11,8 +11,8 @@
   "creator": "BryH3TAHYuaJnCpb1YjWpmUSKNVcxVUMwmzeJf2QmGoi",
   "holders": null,
   "link": "https://fomo.family/coin?address=EdpSS1dbDW8o98S4HRLzE8BZ47oUYp1R1eHTSm6Epump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.112e-06,
-  "priceTs": "2026-11-12T03:10:56.037872Z",
+  "price": 2.097e-06,
+  "priceTs": "2026-11-12T03:12:04.067062Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -144,12 +144,20 @@
       "l": 2.112e-06,
       "c": 2.112e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794453120,
+      "o": 2.097e-06,
+      "h": 2.097e-06,
+      "l": 2.097e-06,
+      "c": 2.097e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1903.0,
-    "liquidity": 2057.2,
-    "volume24h": 37898.57,
+    "marketCap": 1890.0,
+    "liquidity": 2045.11,
+    "volume24h": 37899.97,
     "holders": null
   },
   "position": null,
