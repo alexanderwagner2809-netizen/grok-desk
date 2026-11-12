@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-12T16:44:44.564284Z",
+  "ts": "2026-11-12T16:45:55.526427Z",
   "mint": "3mJEHbAtXuZ2oXXXY9Yk7bPM3z5Vr1x3yvc8SZXqpump",
-  "name": null,
-  "symbol": null,
-  "label": "3mJEHbAt",
+  "name": "TeslaAir",
+  "symbol": "TESLAAIR",
+  "label": "TeslaAir",
   "chain": "Solana",
-  "age": "3m old",
+  "age": "4m old",
   "migratedAt": "2026-11-12T16:40:56.963992Z",
-  "pool": null,
+  "pool": "5mfm6VvGLLENFvjEEDpXNEdqZEBfQJgzNyuCzpDdGQKi",
   "creator": "8onH1h4GvYv2vE5HUecVgJH8z6t737jUmAzA4Jb3aN2x",
   "holders": null,
   "link": "https://fomo.family/coin?address=3mJEHbAtXuZ2oXXXY9Yk7bPM3z5Vr1x3yvc8SZXqpump&chainId=1399811149&r=savipww&source=share_link",
@@ -34,5 +34,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T16:45:23.681978Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 34.71,
+      "age_min": 4,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
