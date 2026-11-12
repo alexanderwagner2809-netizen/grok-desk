@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T20:17:54.450488Z",
+  "ts": "2026-11-12T20:19:06.424015Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T20:17:53.074186Z",
+  "heartbeat": "2026-11-12T20:19:01.091875Z",
   "paused": false,
   "status": "running",
-  "card": "327 pools",
-  "count": 327,
+  "card": "328 pools",
+  "count": 328,
   "passed": 0,
   "feed": [
+    {
+      "mint": "ECs6n795WEpSf5yDrw9ejsPKArxbouBiVYw5nxtRpump",
+      "label": "marsoperator",
+      "verdict": "kill",
+      "reason": "liq $18.1K",
+      "subtitle": "liq $18.1K",
+      "link": "https://fomo.family/coin?address=ECs6n795WEpSf5yDrw9ejsPKArxbouBiVYw5nxtRpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "56yuMwTAjQcdFXqo3FybeA5XYC3rVutykN6KAMBRpump",
       "label": "You guys are getting paid?",
@@ -66,19 +74,19 @@
       "reason": "liq $19.6K",
       "subtitle": "liq $19.6K",
       "link": "https://fomo.family/coin?address=4o3JKYKwHad7xEJ5sww7ck7WpA7ocXF8s36PvxLvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump",
-      "label": "Jensen Sins",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T20:17:54.481425Z",
+      "mint": "ECs6n795WEpSf5yDrw9ejsPKArxbouBiVYw5nxtRpump",
+      "label": "marsoperator",
+      "verdict": "kill",
+      "reason": "liq $18.1K",
+      "link": "https://fomo.family/coin?address=ECs6n795WEpSf5yDrw9ejsPKArxbouBiVYw5nxtRpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:15:52.216581Z",
       "mint": "56yuMwTAjQcdFXqo3FybeA5XYC3rVutykN6KAMBRpump",
       "label": "You guys are getting paid?",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "+373% in 1h",
       "link": "https://fomo.family/coin?address=F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T19:03:15.565293Z",
-      "mint": "2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump",
-      "label": "2BZBfmsz",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T20:17:54.481425Z",
+      "mint": "ECs6n795WEpSf5yDrw9ejsPKArxbouBiVYw5nxtRpump",
+      "label": "marsoperator",
+      "verdict": "kill",
+      "reason": "liq $18.1K",
+      "link": "https://fomo.family/coin?address=ECs6n795WEpSf5yDrw9ejsPKArxbouBiVYw5nxtRpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:15:52.216581Z",
       "mint": "56yuMwTAjQcdFXqo3FybeA5XYC3rVutykN6KAMBRpump",
       "label": "You guys are getting paid?",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "+373% in 1h",
       "link": "https://fomo.family/coin?address=F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T19:03:15.565293Z",
-      "mint": "2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump",
-      "label": "2BZBfmsz",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T20:17:54.143273Z",
+  "ts": "2026-11-12T20:19:05.310550Z",
   "mint": "ECs6n795WEpSf5yDrw9ejsPKArxbouBiVYw5nxtRpump",
-  "name": null,
-  "symbol": null,
-  "label": "ECs6n795",
+  "name": "marsoperator",
+  "symbol": "marsoperator",
+  "label": "marsoperator",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T20:16:47.082558Z",
-  "pool": null,
+  "pool": "AwVJqPTDaKndxCDV5fZBBhVkMteGQznudCLe4sVDCBtM",
   "creator": "DJ53tM5RA2pdkmqd42dRrzteYnhUPoyiJ4qH853aRuGD",
   "holders": null,
   "link": "https://fomo.family/coin?address=ECs6n795WEpSf5yDrw9ejsPKArxbouBiVYw5nxtRpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.434e-05,
-  "priceTs": "2026-11-12T20:17:52.721638Z",
+  "price": 8.827e-05,
+  "priceTs": "2026-11-12T20:19:03.105643Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 6.434e-05,
       "c": 6.434e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794514740,
+      "o": 8.827e-05,
+      "h": 8.827e-05,
+      "l": 8.827e-05,
+      "c": 8.827e-05,
+      "v": 40300.98
     }
   ],
   "stats": {
-    "marketCap": 64240.0,
-    "liquidity": 18085.9,
-    "volume24h": 47898.9,
+    "marketCap": 88128.0,
+    "liquidity": 21790.09,
+    "volume24h": 88199.88,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:17:54.481425Z",
+      "liquidity_usd": 18085.9,
+      "top10_pct": null,
+      "h1_change_pct": 70.5,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $18.1K"
+    }
+  ]
 }
