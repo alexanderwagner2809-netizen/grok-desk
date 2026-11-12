@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T19:07:40.510271Z",
+  "ts": "2026-11-12T19:14:43.341571Z",
   "mint": "CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump",
   "name": "HuangFu",
   "symbol": "HuangFu",
@@ -11,8 +11,8 @@
   "creator": "6p4f1rwuaA82g27D46cvxoysUzSWitXcWDzTi1s9CZAw",
   "holders": null,
   "link": "https://fomo.family/coin?address=CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.242e-07,
-  "priceTs": "2026-11-12T19:07:38.479603Z",
+  "price": 3.202e-07,
+  "priceTs": "2026-11-12T19:14:41.366489Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -160,12 +160,28 @@
       "l": 3.242e-07,
       "c": 3.242e-07,
       "v": 0.0
+    },
+    {
+      "t": 1794510480,
+      "o": 3.242e-07,
+      "h": 3.242e-07,
+      "l": 3.242e-07,
+      "c": 3.242e-07,
+      "v": 0.0
+    },
+    {
+      "t": 1794510840,
+      "o": 3.202e-07,
+      "h": 3.202e-07,
+      "l": 3.202e-07,
+      "c": 3.202e-07,
+      "v": 0.96
     }
   ],
   "stats": {
-    "marketCap": 648.0,
-    "liquidity": 219.81,
-    "volume24h": 6795.11,
+    "marketCap": 641.0,
+    "liquidity": 218.55,
+    "volume24h": 6796.08,
     "holders": null
   },
   "position": null,

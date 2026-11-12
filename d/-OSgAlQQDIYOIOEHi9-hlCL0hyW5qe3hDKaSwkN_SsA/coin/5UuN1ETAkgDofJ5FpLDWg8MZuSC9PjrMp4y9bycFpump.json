@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T19:07:40.499392Z",
+  "ts": "2026-11-12T19:14:43.326627Z",
   "mint": "5UuN1ETAkgDofJ5FpLDWg8MZuSC9PjrMp4y9bycFpump",
   "name": "Pirate Coin",
   "symbol": "PIRATE",
   "label": "Pirate Coin",
   "chain": "Solana",
-  "age": "27m old",
+  "age": "34m old",
   "migratedAt": "2026-11-12T18:40:12.854473Z",
   "pool": "CBicCBRm5AjsnKU4xTwfxMwwizyqyAKzBDYiMdf8aEdg",
   "creator": "B94JPmgR6xjEsJzCqRJmwhUqmx5ogpWn6UD8RDS8eoZN",
   "holders": null,
   "link": "https://fomo.family/coin?address=5UuN1ETAkgDofJ5FpLDWg8MZuSC9PjrMp4y9bycFpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 9.993e-10,
-  "priceTs": "2026-11-12T19:07:38.479603Z",
+  "price": 8.564e-10,
+  "priceTs": "2026-11-12T19:14:41.185600Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -56,11 +56,27 @@
       "l": 9.993e-10,
       "c": 9.993e-10,
       "v": 0.0
+    },
+    {
+      "t": 1794510480,
+      "o": 9.993e-10,
+      "h": 9.993e-10,
+      "l": 9.993e-10,
+      "c": 9.993e-10,
+      "v": 0.0
+    },
+    {
+      "t": 1794510840,
+      "o": 8.564e-10,
+      "h": 8.564e-10,
+      "l": 8.564e-10,
+      "c": 8.564e-10,
+      "v": 0.0
     }
   ],
   "stats": {
     "marketCap": 2.0,
-    "liquidity": 3.26,
+    "liquidity": 3.0,
     "volume24h": 435.24,
     "holders": null
   },

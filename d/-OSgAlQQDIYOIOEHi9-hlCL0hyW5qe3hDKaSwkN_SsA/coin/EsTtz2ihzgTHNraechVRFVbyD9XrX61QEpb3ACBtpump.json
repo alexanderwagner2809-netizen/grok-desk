@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-12T19:14:43.318597Z",
+  "mint": "EsTtz2ihzgTHNraechVRFVbyD9XrX61QEpb3ACBtpump",
+  "name": "Selfmade",
+  "symbol": "SELF",
+  "label": "Selfmade",
+  "chain": "Solana",
+  "age": "5m old",
+  "migratedAt": "2026-11-12T19:08:56.728142Z",
+  "pool": "79vHeLRsyUz5iCMbiMyPwts4CM7YGXej39B4kpLvwV59",
+  "creator": "EhiydfGSGwK1gC8mCG4byopccuyJW4GbianhCEQyrU1a",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=EsTtz2ihzgTHNraechVRFVbyD9XrX61QEpb3ACBtpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.524e-05,
+  "priceTs": "2026-11-12T19:14:41.185600Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794510540,
+      "o": 3.679e-05,
+      "h": 3.679e-05,
+      "l": 3.679e-05,
+      "c": 3.679e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794510840,
+      "o": 2.524e-05,
+      "h": 2.524e-05,
+      "l": 2.524e-05,
+      "c": 2.524e-05,
+      "v": 16198.96
+    }
+  ],
+  "stats": {
+    "marketCap": 25211.0,
+    "liquidity": 10713.15,
+    "volume24h": 34985.47,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T19:09:31.603828Z",
+      "liquidity_usd": 13116.28,
+      "top10_pct": null,
+      "h1_change_pct": 9.22,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $13.1K"
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T19:07:40.497264Z",
+  "ts": "2026-11-12T19:14:43.322532Z",
   "mint": "F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump",
   "name": "Jensen Huang Coin",
   "symbol": "JENSEN",
   "label": "Jensen Huang Coin",
   "chain": "Solana",
-  "age": "3m old",
+  "age": "10m old",
   "migratedAt": "2026-11-12T19:03:55.262791Z",
   "pool": "BsobfkjjQb5vGe2yY8WYHE4MRYG7Jf2mVQbfN6MzkE2j",
   "creator": "GZERM7uzaVAq7u7g6uibUbqTFFzBgtr2hvgMYFCSNidW",
   "holders": null,
   "link": "https://fomo.family/coin?address=F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0002309,
-  "priceTs": "2026-11-12T19:07:38.479603Z",
+  "price": 0.0002625,
+  "priceTs": "2026-11-12T19:14:41.185600Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -40,12 +40,28 @@
       "l": 0.0002309,
       "c": 0.0002309,
       "v": 20725.019999999997
+    },
+    {
+      "t": 1794510480,
+      "o": 0.0002289,
+      "h": 0.0002289,
+      "l": 0.0002289,
+      "c": 0.0002289,
+      "v": 0.0
+    },
+    {
+      "t": 1794510840,
+      "o": 0.0002625,
+      "h": 0.0002625,
+      "l": 0.0002625,
+      "c": 0.0002625,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 230908.0,
-    "liquidity": 35122.07,
-    "volume24h": 62738.59,
+    "marketCap": 262526.0,
+    "liquidity": 37748.92,
+    "volume24h": 136279.02,
     "holders": null
   },
   "position": null,

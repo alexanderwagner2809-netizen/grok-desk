@@ -1,16 +1,40 @@
 {
-  "ts": "2026-11-12T19:07:41.560024Z",
+  "ts": "2026-11-12T19:14:44.635097Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T19:07:35.278501Z",
+  "heartbeat": "2026-11-12T19:14:43.080785Z",
   "paused": false,
   "status": "running",
-  "card": "311 pools",
-  "count": 311,
+  "card": "314 pools",
+  "count": 314,
   "passed": 0,
   "feed": [
+    {
+      "mint": "AQKsrfYvQQEAQ47fP89tSm5hd6YdgUUCB1iCGchfpump",
+      "label": "Megan Fox",
+      "verdict": "kill",
+      "reason": "liq $179",
+      "subtitle": "liq $179",
+      "link": "https://fomo.family/coin?address=AQKsrfYvQQEAQ47fP89tSm5hd6YdgUUCB1iCGchfpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "EsTtz2ihzgTHNraechVRFVbyD9XrX61QEpb3ACBtpump",
+      "label": "Selfmade",
+      "verdict": "kill",
+      "reason": "liq $13.1K",
+      "subtitle": "liq $13.1K",
+      "link": "https://fomo.family/coin?address=EsTtz2ihzgTHNraechVRFVbyD9XrX61QEpb3ACBtpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "FMK5RyfhwcPaRUYaRQ5jAG3VNiVyYR5iq57TBhnPpump",
+      "label": "Ma Win The Motosai Cat",
+      "verdict": "kill",
+      "reason": "liq $12.4K",
+      "subtitle": "liq $12.4K",
+      "link": "https://fomo.family/coin?address=FMK5RyfhwcPaRUYaRQ5jAG3VNiVyYR5iq57TBhnPpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "Btf2Lr2LyZZSgv8wqNSggUFE39x1Eha82qWKGHj4pump",
       "label": "HORMUZ",
@@ -50,35 +74,35 @@
       "reason": "liq $18",
       "subtitle": "liq $18",
       "link": "https://fomo.family/coin?address=A7TmqRupSgt62Z2XbbXeZwxu7SrE7DSq5JkwLWZnpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5UuN1ETAkgDofJ5FpLDWg8MZuSC9PjrMp4y9bycFpump",
-      "label": "Pirate Coin",
-      "verdict": "kill",
-      "reason": "liq $8",
-      "subtitle": "liq $8",
-      "link": "https://fomo.family/coin?address=5UuN1ETAkgDofJ5FpLDWg8MZuSC9PjrMp4y9bycFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "99hVefYN8p8suhZNshzh9FuAsrh4ezsZTo3XtFyepump",
-      "label": "Robinhood",
-      "verdict": "kill",
-      "reason": "+192% in 1h",
-      "subtitle": "+192% in 1h",
-      "link": "https://fomo.family/coin?address=99hVefYN8p8suhZNshzh9FuAsrh4ezsZTo3XtFyepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "AWxAApqJVdrAvrweX9di5jz1cYx9wcUPSn3VmL1vpump",
-      "label": "Doge Memecards",
-      "verdict": "kill",
-      "reason": "liq $13.0K",
-      "subtitle": "liq $13.0K",
-      "link": "https://fomo.family/coin?address=AWxAApqJVdrAvrweX9di5jz1cYx9wcUPSn3VmL1vpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T19:09:31.605521Z",
+      "mint": "AQKsrfYvQQEAQ47fP89tSm5hd6YdgUUCB1iCGchfpump",
+      "label": "Megan Fox",
+      "verdict": "kill",
+      "reason": "liq $179",
+      "link": "https://fomo.family/coin?address=AQKsrfYvQQEAQ47fP89tSm5hd6YdgUUCB1iCGchfpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T19:09:31.603828Z",
+      "mint": "EsTtz2ihzgTHNraechVRFVbyD9XrX61QEpb3ACBtpump",
+      "label": "Selfmade",
+      "verdict": "kill",
+      "reason": "liq $13.1K",
+      "link": "https://fomo.family/coin?address=EsTtz2ihzgTHNraechVRFVbyD9XrX61QEpb3ACBtpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T19:08:58.912170Z",
+      "mint": "FMK5RyfhwcPaRUYaRQ5jAG3VNiVyYR5iq57TBhnPpump",
+      "label": "Ma Win The Motosai Cat",
+      "verdict": "kill",
+      "reason": "liq $12.4K",
+      "link": "https://fomo.family/coin?address=FMK5RyfhwcPaRUYaRQ5jAG3VNiVyYR5iq57TBhnPpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T19:05:05.242718Z",
       "mint": "Btf2Lr2LyZZSgv8wqNSggUFE39x1Eha82qWKGHj4pump",
       "label": "HORMUZ",
@@ -213,34 +237,34 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=BcTQ8pDmEZhiPXaDHZ4Chtvt7HEZzDf3LNFSacJHcXjP&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:10:59.399522Z",
-      "mint": "7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump",
-      "label": "MOMMY SU",
-      "verdict": "kill",
-      "reason": "liq $17.5K",
-      "link": "https://fomo.family/coin?address=7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:46:58.362421Z",
-      "mint": "CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump",
-      "label": "HuangFu",
-      "verdict": "kill",
-      "reason": "liq $258",
-      "link": "https://fomo.family/coin?address=CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:46:58.361604Z",
-      "mint": "4jqeezA4G7NvsowsfkcP366vguPK2GqPdNjaYMHvpump",
-      "label": "green cat",
-      "verdict": "kill",
-      "reason": "liq $77",
-      "link": "https://fomo.family/coin?address=4jqeezA4G7NvsowsfkcP366vguPK2GqPdNjaYMHvpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T19:09:31.605521Z",
+      "mint": "AQKsrfYvQQEAQ47fP89tSm5hd6YdgUUCB1iCGchfpump",
+      "label": "Megan Fox",
+      "verdict": "kill",
+      "reason": "liq $179",
+      "link": "https://fomo.family/coin?address=AQKsrfYvQQEAQ47fP89tSm5hd6YdgUUCB1iCGchfpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T19:09:31.603828Z",
+      "mint": "EsTtz2ihzgTHNraechVRFVbyD9XrX61QEpb3ACBtpump",
+      "label": "Selfmade",
+      "verdict": "kill",
+      "reason": "liq $13.1K",
+      "link": "https://fomo.family/coin?address=EsTtz2ihzgTHNraechVRFVbyD9XrX61QEpb3ACBtpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T19:08:58.912170Z",
+      "mint": "FMK5RyfhwcPaRUYaRQ5jAG3VNiVyYR5iq57TBhnPpump",
+      "label": "Ma Win The Motosai Cat",
+      "verdict": "kill",
+      "reason": "liq $12.4K",
+      "link": "https://fomo.family/coin?address=FMK5RyfhwcPaRUYaRQ5jAG3VNiVyYR5iq57TBhnPpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T19:05:05.242718Z",
       "mint": "Btf2Lr2LyZZSgv8wqNSggUFE39x1Eha82qWKGHj4pump",
       "label": "HORMUZ",
@@ -375,30 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=BcTQ8pDmEZhiPXaDHZ4Chtvt7HEZzDf3LNFSacJHcXjP&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:10:59.399522Z",
-      "mint": "7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump",
-      "label": "MOMMY SU",
-      "verdict": "kill",
-      "reason": "liq $17.5K",
-      "link": "https://fomo.family/coin?address=7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:46:58.362421Z",
-      "mint": "CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump",
-      "label": "HuangFu",
-      "verdict": "kill",
-      "reason": "liq $258",
-      "link": "https://fomo.family/coin?address=CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:46:58.361604Z",
-      "mint": "4jqeezA4G7NvsowsfkcP366vguPK2GqPdNjaYMHvpump",
-      "label": "green cat",
-      "verdict": "kill",
-      "reason": "liq $77",
-      "link": "https://fomo.family/coin?address=4jqeezA4G7NvsowsfkcP366vguPK2GqPdNjaYMHvpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T19:07:40.509338Z",
+  "ts": "2026-11-12T19:14:43.339816Z",
   "mint": "7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump",
   "name": "MOMMY SU",
   "symbol": "SU",
   "label": "MOMMY SU",
   "chain": "Solana",
-  "age": "57m old",
+  "age": "1h old",
   "migratedAt": "2026-11-12T18:10:22.229841Z",
   "pool": "Hg2x5aRduBfzfopGWX7YdpW6fRb1g7aCYCioh92ytSPy",
   "creator": "2susjhp9aPKEkXEKPfQeabruxQX8TdfXxCxa7KiuqxLJ",
   "holders": null,
   "link": "https://fomo.family/coin?address=7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.451e-06,
-  "priceTs": "2026-11-12T19:07:38.479603Z",
+  "price": 6.049e-06,
+  "priceTs": "2026-11-12T19:14:41.366489Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -152,12 +152,28 @@
       "l": 6.451e-06,
       "c": 6.451e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794510480,
+      "o": 6.451e-06,
+      "h": 6.451e-06,
+      "l": 6.451e-06,
+      "c": 6.451e-06,
+      "v": 0.0
+    },
+    {
+      "t": 1794510840,
+      "o": 6.049e-06,
+      "h": 6.049e-06,
+      "l": 6.049e-06,
+      "c": 6.049e-06,
+      "v": 102.41999999999999
     }
   ],
   "stats": {
-    "marketCap": 5999.0,
-    "liquidity": 5379.79,
-    "volume24h": 81603.17,
+    "marketCap": 5625.0,
+    "liquidity": 5144.16,
+    "volume24h": 81720.0,
     "holders": null
   },
   "position": null,

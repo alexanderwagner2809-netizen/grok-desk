@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T19:07:40.587976Z",
+  "ts": "2026-11-12T19:14:44.443915Z",
   "mint": "Fwx6scdrpqJNq5otjyztCaCNymNG5RiR4PBkN1D8pump",
   "name": "Terafab",
   "symbol": "TERAFAB",
@@ -11,8 +11,8 @@
   "creator": "BWD31qcGwFxKogJVzg4hhxPS4Pok5VkuM18je1EBydXm",
   "holders": null,
   "link": "https://fomo.family/coin?address=Fwx6scdrpqJNq5otjyztCaCNymNG5RiR4PBkN1D8pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.653e-05,
-  "priceTs": "2026-11-12T19:07:38.823429Z",
+  "price": 1.632e-05,
+  "priceTs": "2026-11-12T19:14:43.014912Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -800,12 +800,28 @@
       "l": 1.653e-05,
       "c": 1.653e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794510480,
+      "o": 1.653e-05,
+      "h": 1.653e-05,
+      "l": 1.653e-05,
+      "c": 1.653e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794510840,
+      "o": 1.632e-05,
+      "h": 1.632e-05,
+      "l": 1.632e-05,
+      "c": 1.632e-05,
+      "v": 0.5
     }
   ],
   "stats": {
-    "marketCap": 15463.0,
-    "liquidity": 8841.5,
-    "volume24h": 44843.19,
+    "marketCap": 15267.0,
+    "liquidity": 8764.31,
+    "volume24h": 44843.7,
     "holders": null
   },
   "position": null,
