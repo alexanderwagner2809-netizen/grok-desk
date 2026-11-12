@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:27:29.653996Z",
+  "ts": "2026-11-12T09:28:38.758009Z",
   "mint": "7iN1CooUtSY8433LuCTPU6DDeS8wvCurYuzCNMJWpump",
   "name": "profilepad",
   "symbol": "pfp",
@@ -11,8 +11,8 @@
   "creator": "AyRxCxNVPj4QTCzhXmHDgink4zApfdLEMtr67rg2jz9Y",
   "holders": null,
   "link": "https://fomo.family/coin?address=7iN1CooUtSY8433LuCTPU6DDeS8wvCurYuzCNMJWpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.061e-06,
-  "priceTs": "2026-11-12T09:27:28.791998Z",
+  "price": 2.048e-06,
+  "priceTs": "2026-11-12T09:28:37.918250Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1272,12 +1272,20 @@
       "l": 2.061e-06,
       "c": 2.061e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794475680,
+      "o": 2.048e-06,
+      "h": 2.048e-06,
+      "l": 2.048e-06,
+      "c": 2.048e-06,
+      "v": 6.65
     }
   ],
   "stats": {
-    "marketCap": 1959.0,
-    "liquidity": 2018.6,
-    "volume24h": 86195.04,
+    "marketCap": 1946.0,
+    "liquidity": 2006.38,
+    "volume24h": 86201.69,
     "holders": null
   },
   "position": null,
