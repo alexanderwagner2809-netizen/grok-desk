@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T04:02:25.793921Z",
+  "ts": "2026-11-12T04:03:34.027757Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T04:02:17.695183Z",
+  "heartbeat": "2026-11-12T04:03:17.719110Z",
   "paused": false,
   "status": "running",
-  "card": "98 pools",
-  "count": 98,
+  "card": "99 pools",
+  "count": 99,
   "passed": 0,
   "feed": [
+    {
+      "mint": "4EgTmufF8Jqn9vXT4bKv9UXy57EEMHxxrWkDjSAKpump",
+      "label": "FORTNITE TOKEN",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "subtitle": "liq $3",
+      "link": "https://fomo.family/coin?address=4EgTmufF8Jqn9vXT4bKv9UXy57EEMHxxrWkDjSAKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "8QRe56BCJPdWqBFS5hq6fcA9bghb6mRMCKMLrHacpump",
       "label": "Grok",
@@ -66,19 +74,19 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=7Wa24Rs39Ktf2vfo6Nt4kv4RTfjaQbXDY9y8E3vFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump",
-      "label": "Scamson Musk",
-      "verdict": "kill",
-      "reason": "liq $25.7K",
-      "subtitle": "liq $25.7K",
-      "link": "https://fomo.family/coin?address=HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T04:03:14.346109Z",
+      "mint": "4EgTmufF8Jqn9vXT4bKv9UXy57EEMHxxrWkDjSAKpump",
+      "label": "FORTNITE TOKEN",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "link": "https://fomo.family/coin?address=4EgTmufF8Jqn9vXT4bKv9UXy57EEMHxxrWkDjSAKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T03:49:20.417920Z",
       "mint": "8QRe56BCJPdWqBFS5hq6fcA9bghb6mRMCKMLrHacpump",
       "label": "Grok",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T01:34:46.732176Z",
-      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "label": "EPjFWdd5",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T04:03:14.346109Z",
+      "mint": "4EgTmufF8Jqn9vXT4bKv9UXy57EEMHxxrWkDjSAKpump",
+      "label": "FORTNITE TOKEN",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "link": "https://fomo.family/coin?address=4EgTmufF8Jqn9vXT4bKv9UXy57EEMHxxrWkDjSAKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T03:49:20.417920Z",
       "mint": "8QRe56BCJPdWqBFS5hq6fcA9bghb6mRMCKMLrHacpump",
       "label": "Grok",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T01:34:46.732176Z",
-      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "label": "EPjFWdd5",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

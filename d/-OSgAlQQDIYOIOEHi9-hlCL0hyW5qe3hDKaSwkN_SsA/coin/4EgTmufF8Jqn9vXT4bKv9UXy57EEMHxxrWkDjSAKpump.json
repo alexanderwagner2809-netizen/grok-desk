@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T04:02:25.750294Z",
+  "ts": "2026-11-12T04:03:33.910430Z",
   "mint": "4EgTmufF8Jqn9vXT4bKv9UXy57EEMHxxrWkDjSAKpump",
-  "name": null,
-  "symbol": null,
-  "label": "4EgTmufF",
+  "name": "FORTNITE TOKEN",
+  "symbol": "FPT",
+  "label": "FORTNITE TOKEN",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T04:02:16.688041Z",
-  "pool": null,
+  "pool": "AQvVK6hXMkKrKsYaM9F6tfr62n9K36PPfa4q7nPKAh3W",
   "creator": "9uwG7E6C9RwyPuJ4zJe5C5fM3H9p2qwKpdXCJgnyms98",
   "holders": null,
   "link": "https://fomo.family/coin?address=4EgTmufF8Jqn9vXT4bKv9UXy57EEMHxxrWkDjSAKpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.321e-09,
-  "priceTs": "2026-11-12T04:02:25.477271Z",
+  "price": 9.311e-10,
+  "priceTs": "2026-11-12T04:03:33.247207Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 6.321e-09,
       "c": 6.321e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794456180,
+      "o": 9.311e-10,
+      "h": 9.311e-10,
+      "l": 9.311e-10,
+      "c": 9.311e-10,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 6.32,
-    "liquidity": null,
-    "volume24h": 1097.7,
+    "marketCap": 2.0,
+    "liquidity": 4.93,
+    "volume24h": 33.5,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T04:03:14.346109Z",
+      "liquidity_usd": 2.75,
+      "top10_pct": null,
+      "h1_change_pct": -98.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $3"
+    }
+  ]
 }
