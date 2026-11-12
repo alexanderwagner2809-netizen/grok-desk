@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T21:06:24.277101Z",
+  "ts": "2026-11-12T21:07:34.350043Z",
   "mint": "C1pQ6KN72GaBKtUDbZJsEHD2ErkerLewfLBDBFphtmir",
   "name": "Marscoin",
   "symbol": "MARS",
   "label": "Marscoin",
   "chain": "Solana",
-  "age": "47m old",
+  "age": "49m old",
   "migratedAt": "2026-11-12T20:18:25.961199Z",
   "pool": "5aGyECaSau7EyVFbZhZkrraT6uhWvE3NrmZF24GhiV2c",
   "creator": "7X6dBC8pxk1qn3Ax2hUZZ1Ybb8jFyvZubSCb6xfuyMha",
   "holders": null,
   "link": "https://fomo.family/coin?address=C1pQ6KN72GaBKtUDbZJsEHD2ErkerLewfLBDBFphtmir&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.562e-06,
-  "priceTs": "2026-11-12T21:06:24.100530Z",
+  "price": 2.213e-06,
+  "priceTs": "2026-11-12T21:07:34.119845Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -344,12 +344,20 @@
       "l": 2.562e-06,
       "c": 2.562e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794517620,
+      "o": 2.213e-06,
+      "h": 2.213e-06,
+      "l": 2.213e-06,
+      "c": 2.213e-06,
+      "v": 133.58
     }
   ],
   "stats": {
-    "marketCap": 2184.0,
-    "liquidity": 2418.58,
-    "volume24h": 64695.55,
+    "marketCap": 1887.0,
+    "liquidity": 2138.42,
+    "volume24h": 64829.14,
     "holders": null
   },
   "position": null,
