@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T11:25:34.693040Z",
+  "ts": "2026-11-12T11:26:44.254269Z",
   "mint": "9zNnKrckBoA88gDAWBhnHcpWaxBbAWjbDucepq1Upump",
   "name": "PumpFun Rico",
   "symbol": "RICO",
@@ -11,8 +11,8 @@
   "creator": "5hQ1yhqYAdyvVmhGtg7Z3xjdoB5bmurT98f4D7AbSpzi",
   "holders": null,
   "link": "https://fomo.family/coin?address=9zNnKrckBoA88gDAWBhnHcpWaxBbAWjbDucepq1Upump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.72e-06,
-  "priceTs": "2026-11-12T11:25:33.653541Z",
+  "price": 2.696e-06,
+  "priceTs": "2026-11-12T11:26:43.069201Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1240,12 +1240,20 @@
       "l": 2.72e-06,
       "c": 2.72e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794482760,
+      "o": 2.696e-06,
+      "h": 2.696e-06,
+      "l": 2.696e-06,
+      "c": 2.696e-06,
+      "v": 7.6
     }
   ],
   "stats": {
-    "marketCap": 2471.0,
-    "liquidity": 2530.48,
-    "volume24h": 37092.13,
+    "marketCap": 2449.0,
+    "liquidity": 2510.54,
+    "volume24h": 37099.73,
     "holders": null
   },
   "position": null,
