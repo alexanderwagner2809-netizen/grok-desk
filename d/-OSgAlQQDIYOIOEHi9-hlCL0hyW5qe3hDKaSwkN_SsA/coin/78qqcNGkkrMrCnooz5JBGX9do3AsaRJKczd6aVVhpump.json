@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T08:21:56.175628Z",
+  "ts": "2026-11-12T08:23:04.935254Z",
   "mint": "78qqcNGkkrMrCnooz5JBGX9do3AsaRJKczd6aVVhpump",
-  "name": null,
-  "symbol": null,
-  "label": "78qqcNGk",
+  "name": "Diggo",
+  "symbol": "DIG",
+  "label": "Diggo",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T08:21:47.579859Z",
-  "pool": null,
+  "pool": "5eS5ExR97wuF87RWBcRD9Z7oZ8unVbtegdgdgaWVj1yQ",
   "creator": "BxfpakBUFuqDwNe82uPkv2jGJzvNaZXrwpp4JLJ2PtA9",
   "holders": null,
   "link": "https://fomo.family/coin?address=78qqcNGkkrMrCnooz5JBGX9do3AsaRJKczd6aVVhpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.046e-08,
-  "priceTs": "2026-11-12T08:21:55.667799Z",
+  "price": 5.069e-09,
+  "priceTs": "2026-11-12T08:23:03.974012Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,41 @@
       "l": 1.046e-08,
       "c": 1.046e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794471720,
+      "o": 5.069e-09,
+      "h": 5.069e-09,
+      "l": 5.069e-09,
+      "c": 5.069e-09,
+      "v": 0.0
+    },
+    {
+      "t": 1794471780,
+      "o": 5.069e-09,
+      "h": 5.069e-09,
+      "l": 5.069e-09,
+      "c": 5.069e-09,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 10.47,
-    "liquidity": null,
-    "volume24h": 1733.42,
+    "marketCap": 10.0,
+    "liquidity": 4.14,
+    "volume24h": 3.97,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T08:22:50.855171Z",
+      "liquidity_usd": 4.14,
+      "top10_pct": null,
+      "h1_change_pct": -74.2,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $4"
+    }
+  ]
 }
