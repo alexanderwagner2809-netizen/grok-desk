@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T10:56:33.291384Z",
+  "ts": "2026-11-12T11:04:41.846510Z",
   "mint": "HtcAPprundKCcYWhd37t3tf7SBbF9p6WzZ8x2zqzpump",
   "name": "goat coin",
   "symbol": "$GOAT",
   "label": "goat coin",
   "chain": "Solana",
-  "age": "58m old",
+  "age": "1h old",
   "migratedAt": "2026-11-12T09:58:11.345966Z",
   "pool": "7zz3qJnMoKPwyKnP1dqGmw9FTVgE5muA33WtN2k2PHWA",
   "creator": "CYQJUKYTNfmV94uFipjY5Eh6PaMAMDvBuDGnXRQRHruW",
   "holders": null,
   "link": "https://fomo.family/coin?address=HtcAPprundKCcYWhd37t3tf7SBbF9p6WzZ8x2zqzpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.4e-10,
-  "priceTs": "2026-11-12T10:56:32.102126Z",
+  "price": 3.742e-10,
+  "priceTs": "2026-11-12T11:04:40.654153Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -128,12 +128,20 @@
       "l": 8.4e-10,
       "c": 8.4e-10,
       "v": 0.0
+    },
+    {
+      "t": 1794481440,
+      "o": 3.742e-10,
+      "h": 3.742e-10,
+      "l": 3.742e-10,
+      "c": 3.742e-10,
+      "v": 0.17
     }
   ],
   "stats": {
-    "marketCap": 2.0,
-    "liquidity": 1.27,
-    "volume24h": 12.81,
+    "marketCap": 1.0,
+    "liquidity": 0.85,
+    "volume24h": 12.98,
     "holders": null
   },
   "position": null,

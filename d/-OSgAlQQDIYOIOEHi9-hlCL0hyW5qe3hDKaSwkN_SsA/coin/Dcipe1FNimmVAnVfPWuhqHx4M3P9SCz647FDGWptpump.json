@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T10:56:33.295042Z",
+  "ts": "2026-11-12T11:04:41.855866Z",
   "mint": "Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump",
   "name": "Shitcoin",
   "symbol": "STC",
@@ -11,8 +11,8 @@
   "creator": "Fx9U91mRL6SgbJftnNQTAeaLPrrDhQKwZeSbkKvN9S4G",
   "holders": null,
   "link": "https://fomo.family/coin?address=Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 9.575e-06,
-  "priceTs": "2026-11-12T10:56:32.102126Z",
+  "price": 1.062e-05,
+  "priceTs": "2026-11-12T11:04:40.654153Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -184,12 +184,20 @@
       "l": 9.575e-06,
       "c": 9.575e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794481440,
+      "o": 1.062e-05,
+      "h": 1.062e-05,
+      "l": 1.062e-05,
+      "c": 1.062e-05,
+      "v": 972.9999999999999
     }
   ],
   "stats": {
-    "marketCap": 9099.0,
-    "liquidity": 6735.39,
-    "volume24h": 50983.63,
+    "marketCap": 10094.0,
+    "liquidity": 7198.08,
+    "volume24h": 52514.55,
     "holders": null
   },
   "position": null,
