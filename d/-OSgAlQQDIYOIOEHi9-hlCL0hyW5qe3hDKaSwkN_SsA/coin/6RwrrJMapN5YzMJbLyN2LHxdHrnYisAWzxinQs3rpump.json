@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T11:19:46.809674Z",
+  "ts": "2026-11-12T11:20:56.412956Z",
   "mint": "6RwrrJMapN5YzMJbLyN2LHxdHrnYisAWzxinQs3rpump",
   "name": "HEIRLOOM",
   "symbol": "HEIRLOOM",
   "label": "HEIRLOOM",
   "chain": "Solana",
-  "age": "4m old",
+  "age": "5m old",
   "migratedAt": "2026-11-12T11:15:17.897504Z",
   "pool": "VCdhj2cfKYc2zY81R3nE5qyov8cymRCoGyEacMUmH2T",
   "creator": "D3n2kDyXBdGZQgtDvcCw6Xspbbd6pX7GuZDrHzon7vQU",
   "holders": null,
   "link": "https://fomo.family/coin?address=6RwrrJMapN5YzMJbLyN2LHxdHrnYisAWzxinQs3rpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.986e-05,
-  "priceTs": "2026-11-12T11:19:45.497973Z",
+  "price": 2.678e-05,
+  "priceTs": "2026-11-12T11:20:55.155203Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -48,12 +48,20 @@
       "l": 2.986e-05,
       "c": 2.986e-05,
       "v": 6582.230000000003
+    },
+    {
+      "t": 1794482400,
+      "o": 2.678e-05,
+      "h": 2.678e-05,
+      "l": 2.678e-05,
+      "c": 2.678e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 29818.0,
-    "liquidity": 11846.04,
-    "volume24h": 57919.08,
+    "marketCap": 26741.0,
+    "liquidity": 11170.33,
+    "volume24h": 64344.21,
     "holders": null
   },
   "position": null,
