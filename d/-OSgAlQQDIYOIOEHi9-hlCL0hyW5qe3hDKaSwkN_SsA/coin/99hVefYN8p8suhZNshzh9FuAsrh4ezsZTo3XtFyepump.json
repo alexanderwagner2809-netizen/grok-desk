@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T18:39:30.427730Z",
+  "mint": "99hVefYN8p8suhZNshzh9FuAsrh4ezsZTo3XtFyepump",
+  "name": "Robinhood",
+  "symbol": "Robinhood",
+  "label": "Robinhood",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-12T18:38:21.505685Z",
+  "pool": "5jyQ5VEZkSdBk32qQxABWDH8r4TamfxXRScKn93zLK2",
+  "creator": "FuPP1xxjbrKyEe21HcARiDDBsGz6zhNu6nmUxx5D3R7y",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=99hVefYN8p8suhZNshzh9FuAsrh4ezsZTo3XtFyepump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 9.934e-05,
+  "priceTs": "2026-11-12T18:39:28.201956Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794508740,
+      "o": 9.934e-05,
+      "h": 9.934e-05,
+      "l": 9.934e-05,
+      "c": 9.934e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 99289.0,
+    "liquidity": 22477.87,
+    "volume24h": 5017.16,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T18:39:26.530738Z",
+      "liquidity_usd": 22477.87,
+      "top10_pct": null,
+      "h1_change_pct": 192.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "+192% in 1h"
+    }
+  ]
+}
