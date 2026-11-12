@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-12T20:39:55.231689Z",
+  "ts": "2026-11-12T20:41:04.659136Z",
   "mint": "EVAAYGk58mQRHJ3ja5HgoLJ8FGzMWyHYLcvAY9GEpump",
-  "name": null,
-  "symbol": null,
-  "label": "EVAAYGk5",
+  "name": "Screaming Vandal",
+  "symbol": "SCRVAN",
+  "label": "Screaming Vandal",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T20:39:46.508618Z",
-  "pool": null,
+  "pool": "E4PXAFNhBX4R7MzJmuF1YmuWz4KqbXZd2zRxvGnz3vsP",
   "creator": "9n1xKXgG7EpJzwEWorHh631etCTkN8E2DwQpk7wp8wbd",
   "holders": null,
   "link": "https://fomo.family/coin?address=EVAAYGk58mQRHJ3ja5HgoLJ8FGzMWyHYLcvAY9GEpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 7.699e-09,
+  "priceTs": "2026-11-12T20:41:04.217292Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794516000,
+      "o": 4.107e-08,
+      "h": 4.107e-08,
+      "l": 4.107e-08,
+      "c": 4.107e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794516060,
+      "o": 7.699e-09,
+      "h": 7.699e-09,
+      "l": 7.699e-09,
+      "c": 7.699e-09,
+      "v": 42.379999999999995
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 15.0,
+    "liquidity": 7.41,
+    "volume24h": 88.58,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:40:35.298035Z",
+      "liquidity_usd": 18.73,
+      "top10_pct": null,
+      "h1_change_pct": 88.04,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $19"
+    }
+  ]
 }
