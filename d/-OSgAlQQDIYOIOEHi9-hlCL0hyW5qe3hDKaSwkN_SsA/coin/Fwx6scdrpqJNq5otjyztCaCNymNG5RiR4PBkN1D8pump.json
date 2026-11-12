@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T15:07:25.363182Z",
+  "mint": "Fwx6scdrpqJNq5otjyztCaCNymNG5RiR4PBkN1D8pump",
+  "name": "Terafab",
+  "symbol": "TERAFAB",
+  "label": "Terafab",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T15:06:36.580825Z",
+  "pool": "BDiyYpWPvpjbAvxbDtGWo71HkgP9v35r59gFXRKrYjYB",
+  "creator": "BWD31qcGwFxKogJVzg4hhxPS4Pok5VkuM18je1EBydXm",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=Fwx6scdrpqJNq5otjyztCaCNymNG5RiR4PBkN1D8pump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.489e-05,
+  "priceTs": "2026-11-12T15:07:23.748534Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794496020,
+      "o": 3.489e-05,
+      "h": 3.489e-05,
+      "l": 3.489e-05,
+      "c": 3.489e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 34836.0,
+    "liquidity": 13524.56,
+    "volume24h": 3205.65,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T15:07:11.229108Z",
+      "liquidity_usd": 13524.56,
+      "top10_pct": null,
+      "h1_change_pct": -14.58,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $13.5K"
+    }
+  ]
+}
