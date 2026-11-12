@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T14:06:48.537755Z",
+  "ts": "2026-11-12T14:07:58.810436Z",
   "mint": "2ETgxCfRwJRBuMgU7T5YiCDFYFQd3sUN3cFosRCPpump",
   "name": "Niggercoin",
   "symbol": "Nigger",
@@ -11,8 +11,8 @@
   "creator": "6JzE874f6CzvQ8Rx4LYyuXTPR8Mn1zdmURXifw3xi4CV",
   "holders": null,
   "link": "https://fomo.family/coin?address=2ETgxCfRwJRBuMgU7T5YiCDFYFQd3sUN3cFosRCPpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.83e-06,
-  "priceTs": "2026-11-12T14:06:47.046165Z",
+  "price": 3.826e-06,
+  "priceTs": "2026-11-12T14:07:57.363320Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -792,12 +792,20 @@
       "l": 3.83e-06,
       "c": 3.83e-06,
       "v": 0.16000000000000014
+    },
+    {
+      "t": 1794492420,
+      "o": 3.826e-06,
+      "h": 3.826e-06,
+      "l": 3.826e-06,
+      "c": 3.826e-06,
+      "v": 0.48
     }
   ],
   "stats": {
-    "marketCap": 3725.0,
-    "liquidity": 3449.74,
-    "volume24h": 531294.65,
+    "marketCap": 3721.0,
+    "liquidity": 3446.56,
+    "volume24h": 531295.13,
     "holders": null
   },
   "position": null,

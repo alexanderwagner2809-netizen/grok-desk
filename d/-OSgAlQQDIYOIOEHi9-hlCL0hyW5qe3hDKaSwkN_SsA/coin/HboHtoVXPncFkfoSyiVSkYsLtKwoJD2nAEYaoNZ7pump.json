@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T14:06:48.496270Z",
+  "ts": "2026-11-12T14:07:58.784705Z",
   "mint": "HboHtoVXPncFkfoSyiVSkYsLtKwoJD2nAEYaoNZ7pump",
   "name": "bunwifhat",
   "symbol": "MING",
@@ -11,8 +11,8 @@
   "creator": "HKrPy9nPfcknKC6vF1LYbqA593mcxBwiwRCPiFkZc1T9",
   "holders": null,
   "link": "https://fomo.family/coin?address=HboHtoVXPncFkfoSyiVSkYsLtKwoJD2nAEYaoNZ7pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.766e-06,
-  "priceTs": "2026-11-12T14:06:46.905347Z",
+  "price": 0.01625,
+  "priceTs": "2026-11-12T14:07:57.204952Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -376,12 +376,20 @@
       "l": 4.766e-06,
       "c": 4.766e-06,
       "v": 47.86
+    },
+    {
+      "t": 1794492420,
+      "o": 0.01625,
+      "h": 0.01625,
+      "l": 0.01625,
+      "c": 0.01625,
+      "v": 12.829999999999998
     }
   ],
   "stats": {
-    "marketCap": 4537.0,
-    "liquidity": 3903.46,
-    "volume24h": 310726.59,
+    "marketCap": 15467493.0,
+    "liquidity": 9069223.5,
+    "volume24h": 310740.04,
     "holders": null
   },
   "position": null,
