@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T19:04:03.969140Z",
+  "ts": "2026-11-12T19:05:16.120707Z",
   "mint": "5ba8HwNgio5t86aFdWJ81w5pNHjbqAKPKejTsVoDpump",
   "name": "Max wif hat",
   "symbol": "MaxWif",
@@ -11,8 +11,8 @@
   "creator": "2gNKGhvKVkDXWTbuWqtg4eAB3WBoFqvBJehcGDrc3qVM",
   "holders": null,
   "link": "https://fomo.family/coin?address=5ba8HwNgio5t86aFdWJ81w5pNHjbqAKPKejTsVoDpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001929,
-  "priceTs": "2026-11-12T19:04:02.056557Z",
+  "price": 0.000206,
+  "priceTs": "2026-11-12T19:05:14.243858Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -280,12 +280,20 @@
       "l": 0.0001929,
       "c": 0.0001929,
       "v": 0.0
+    },
+    {
+      "t": 1794510300,
+      "o": 0.000206,
+      "h": 0.000206,
+      "l": 0.000206,
+      "c": 0.000206,
+      "v": 597.8999999999996
     }
   ],
   "stats": {
-    "marketCap": 188200.0,
-    "liquidity": 32642.18,
-    "volume24h": 322236.12,
+    "marketCap": 200969.0,
+    "liquidity": 33782.98,
+    "volume24h": 324519.06,
     "holders": null
   },
   "position": null,

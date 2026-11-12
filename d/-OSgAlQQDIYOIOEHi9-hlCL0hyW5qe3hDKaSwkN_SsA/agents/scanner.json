@@ -1,16 +1,40 @@
 {
-  "ts": "2026-11-12T19:04:05.240370Z",
+  "ts": "2026-11-12T19:05:17.266222Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T19:03:59.412604Z",
+  "heartbeat": "2026-11-12T19:05:06.282490Z",
   "paused": false,
   "status": "running",
-  "card": "308 pools",
-  "count": 308,
+  "card": "311 pools",
+  "count": 311,
   "passed": 0,
   "feed": [
+    {
+      "mint": "Btf2Lr2LyZZSgv8wqNSggUFE39x1Eha82qWKGHj4pump",
+      "label": "HORMUZ",
+      "verdict": "kill",
+      "reason": "liq $27",
+      "subtitle": "liq $27",
+      "link": "https://fomo.family/coin?address=Btf2Lr2LyZZSgv8wqNSggUFE39x1Eha82qWKGHj4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "CvqhoX2kCgeS7T4oGj8teSLZQsfV9Cqw1oUfcmCrpump",
+      "label": "Solana Inu",
+      "verdict": "kill",
+      "reason": "liq $12.6K",
+      "subtitle": "liq $12.6K",
+      "link": "https://fomo.family/coin?address=CvqhoX2kCgeS7T4oGj8teSLZQsfV9Cqw1oUfcmCrpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump",
+      "label": "Jensen Huang Coin",
+      "verdict": "kill",
+      "reason": "+373% in 1h",
+      "subtitle": "+373% in 1h",
+      "link": "https://fomo.family/coin?address=F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump",
       "label": "2BZBfmsz",
@@ -50,35 +74,35 @@
       "reason": "liq $13.0K",
       "subtitle": "liq $13.0K",
       "link": "https://fomo.family/coin?address=AWxAApqJVdrAvrweX9di5jz1cYx9wcUPSn3VmL1vpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "bD4xhYHJEXvcE3UAVgBc1fqagjDPCv9F7ZvPjkUpump",
-      "label": "R1 R2 L1 × ← ↓ → ↑",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=bD4xhYHJEXvcE3UAVgBc1fqagjDPCv9F7ZvPjkUpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "ZewYq5fWCgC51RzuJAxf5oifsKg5wzRUJqkgpaHpump",
-      "label": "JHuang Cooked",
-      "verdict": "kill",
-      "reason": "liq $48",
-      "subtitle": "liq $48",
-      "link": "https://fomo.family/coin?address=ZewYq5fWCgC51RzuJAxf5oifsKg5wzRUJqkgpaHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "3JRvjghEHNu6nyhTDiimQovqSKPvNN49S2YgUkh1pump",
-      "label": "Pirate Coin",
-      "verdict": "kill",
-      "reason": "liq $31",
-      "subtitle": "liq $31",
-      "link": "https://fomo.family/coin?address=3JRvjghEHNu6nyhTDiimQovqSKPvNN49S2YgUkh1pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T19:05:05.242718Z",
+      "mint": "Btf2Lr2LyZZSgv8wqNSggUFE39x1Eha82qWKGHj4pump",
+      "label": "HORMUZ",
+      "verdict": "kill",
+      "reason": "liq $27",
+      "link": "https://fomo.family/coin?address=Btf2Lr2LyZZSgv8wqNSggUFE39x1Eha82qWKGHj4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T19:05:00.069900Z",
+      "mint": "CvqhoX2kCgeS7T4oGj8teSLZQsfV9Cqw1oUfcmCrpump",
+      "label": "Solana Inu",
+      "verdict": "kill",
+      "reason": "liq $12.6K",
+      "link": "https://fomo.family/coin?address=CvqhoX2kCgeS7T4oGj8teSLZQsfV9Cqw1oUfcmCrpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T19:05:00.067945Z",
+      "mint": "F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump",
+      "label": "Jensen Huang Coin",
+      "verdict": "kill",
+      "reason": "+373% in 1h",
+      "link": "https://fomo.family/coin?address=F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T19:03:15.565293Z",
       "mint": "2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump",
       "label": "2BZBfmsz",
@@ -213,34 +237,34 @@
       "verdict": "kill",
       "reason": "liq $77",
       "link": "https://fomo.family/coin?address=4jqeezA4G7NvsowsfkcP366vguPK2GqPdNjaYMHvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:46:58.360551Z",
-      "mint": "G6utrxUY8Nu9xqSkFZkKyvQPwdTZKrtMiaJNY1DFpump",
-      "label": "gently used leather jacket",
-      "verdict": "kill",
-      "reason": "liq $12.9K",
-      "link": "https://fomo.family/coin?address=G6utrxUY8Nu9xqSkFZkKyvQPwdTZKrtMiaJNY1DFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:46:58.359577Z",
-      "mint": "9tmoXR86yfdJLf3R41XrhWqj6VPdzmn6X21cnVHDpump",
-      "label": "Fear Of Missing Out",
-      "verdict": "kill",
-      "reason": "liq $54",
-      "link": "https://fomo.family/coin?address=9tmoXR86yfdJLf3R41XrhWqj6VPdzmn6X21cnVHDpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:45:10.915245Z",
-      "mint": "EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump",
-      "label": "DaCity Coin",
-      "verdict": "kill",
-      "reason": "liq $549",
-      "link": "https://fomo.family/coin?address=EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T19:05:05.242718Z",
+      "mint": "Btf2Lr2LyZZSgv8wqNSggUFE39x1Eha82qWKGHj4pump",
+      "label": "HORMUZ",
+      "verdict": "kill",
+      "reason": "liq $27",
+      "link": "https://fomo.family/coin?address=Btf2Lr2LyZZSgv8wqNSggUFE39x1Eha82qWKGHj4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T19:05:00.069900Z",
+      "mint": "CvqhoX2kCgeS7T4oGj8teSLZQsfV9Cqw1oUfcmCrpump",
+      "label": "Solana Inu",
+      "verdict": "kill",
+      "reason": "liq $12.6K",
+      "link": "https://fomo.family/coin?address=CvqhoX2kCgeS7T4oGj8teSLZQsfV9Cqw1oUfcmCrpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T19:05:00.067945Z",
+      "mint": "F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump",
+      "label": "Jensen Huang Coin",
+      "verdict": "kill",
+      "reason": "+373% in 1h",
+      "link": "https://fomo.family/coin?address=F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T19:03:15.565293Z",
       "mint": "2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump",
       "label": "2BZBfmsz",
@@ -375,30 +399,6 @@
       "verdict": "kill",
       "reason": "liq $77",
       "link": "https://fomo.family/coin?address=4jqeezA4G7NvsowsfkcP366vguPK2GqPdNjaYMHvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:46:58.360551Z",
-      "mint": "G6utrxUY8Nu9xqSkFZkKyvQPwdTZKrtMiaJNY1DFpump",
-      "label": "gently used leather jacket",
-      "verdict": "kill",
-      "reason": "liq $12.9K",
-      "link": "https://fomo.family/coin?address=G6utrxUY8Nu9xqSkFZkKyvQPwdTZKrtMiaJNY1DFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:46:58.359577Z",
-      "mint": "9tmoXR86yfdJLf3R41XrhWqj6VPdzmn6X21cnVHDpump",
-      "label": "Fear Of Missing Out",
-      "verdict": "kill",
-      "reason": "liq $54",
-      "link": "https://fomo.family/coin?address=9tmoXR86yfdJLf3R41XrhWqj6VPdzmn6X21cnVHDpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:45:10.915245Z",
-      "mint": "EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump",
-      "label": "DaCity Coin",
-      "verdict": "kill",
-      "reason": "liq $549",
-      "link": "https://fomo.family/coin?address=EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
