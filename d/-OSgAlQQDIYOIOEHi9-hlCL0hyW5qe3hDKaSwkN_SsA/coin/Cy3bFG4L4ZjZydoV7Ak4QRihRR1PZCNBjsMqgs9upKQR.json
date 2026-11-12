@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T05:23:54.009713Z",
+  "ts": "2026-11-12T05:36:48.258967Z",
   "mint": "Cy3bFG4L4ZjZydoV7Ak4QRihRR1PZCNBjsMqgs9upKQR",
   "name": "ALOHA POKE FAN TOKEN",
   "symbol": "POKE",
@@ -11,8 +11,8 @@
   "creator": "HdUVPXV8grTk3NZqsJiVPVcJkR2u8TrfCG6SQsUWwh6M",
   "holders": null,
   "link": "https://fomo.family/coin?address=Cy3bFG4L4ZjZydoV7Ak4QRihRR1PZCNBjsMqgs9upKQR&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.754e-06,
-  "priceTs": "2026-11-12T05:23:53.587301Z",
+  "price": 3.624e-06,
+  "priceTs": "2026-11-12T05:36:47.805041Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -600,12 +600,20 @@
       "l": 3.754e-06,
       "c": 3.754e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794461760,
+      "o": 3.624e-06,
+      "h": 3.624e-06,
+      "l": 3.624e-06,
+      "c": 3.624e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 3451.0,
-    "liquidity": 3248.7,
-    "volume24h": 173669.93,
+    "marketCap": 3332.0,
+    "liquidity": 3168.25,
+    "volume24h": 173700.2,
     "holders": null
   },
   "position": null,

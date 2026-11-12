@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T05:23:53.989398Z",
+  "ts": "2026-11-12T05:36:48.235256Z",
   "mint": "XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN",
   "name": null,
   "symbol": null,
   "label": "XsCPL9dN",
   "chain": "Solana",
-  "age": "4h old",
+  "age": "5h old",
   "migratedAt": "2026-11-12T00:28:15.443362Z",
   "pool": null,
   "creator": "JDq14BWvqCRFNu1krb12bcRpbGtJZ1FLEakMw6FdxJNs",
   "holders": null,
   "link": "https://fomo.family/coin?address=XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN&chainId=1399811149&r=savipww&source=share_link",
-  "price": 295.16,
-  "priceTs": "2026-11-12T05:23:53.456613Z",
+  "price": 295.46,
+  "priceTs": "2026-11-12T05:36:47.686407Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -520,12 +520,20 @@
       "l": 295.16,
       "c": 295.16,
       "v": 0.0
+    },
+    {
+      "t": 1794461760,
+      "o": 295.46,
+      "h": 295.46,
+      "l": 295.46,
+      "c": 295.46,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 295166.0,
-    "liquidity": 133952.4,
-    "volume24h": 579281.69,
+    "marketCap": 295470.0,
+    "liquidity": 134031.73,
+    "volume24h": 583657.94,
     "holders": null
   },
   "position": null,
