@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-12T20:38:44.369988Z",
+  "ts": "2026-11-12T20:39:54.366417Z",
   "mint": "9QtxNyxsS4aM6kNecXfNoRQd36hvnEk4vjzzGoAppump",
-  "name": null,
-  "symbol": null,
-  "label": "9QtxNyxs",
+  "name": "Nihao  Jensen",
+  "symbol": "JensenHao",
+  "label": "Nihao  Jensen",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T20:38:18.512408Z",
-  "pool": null,
+  "pool": "E1DvpEwMqDke65kEERQCvp2nm2EZ9dHdYphytzHPbEQH",
   "creator": "VCwgrzHBCE45VoA2ECkvjH2w6QrGMZHBAJLXiUinTjr",
   "holders": null,
   "link": "https://fomo.family/coin?address=9QtxNyxsS4aM6kNecXfNoRQd36hvnEk4vjzzGoAppump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 0.0001333,
+  "priceTs": "2026-11-12T20:39:53.819708Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794515940,
+      "o": 0.0001279,
+      "h": 0.0001333,
+      "l": 0.0001279,
+      "c": 0.0001333,
+      "v": 1131.3000000000002
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 133308.0,
+    "liquidity": 26262.19,
+    "volume24h": 7848.09,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:39:21.669293Z",
+      "liquidity_usd": 25703.97,
+      "top10_pct": null,
+      "h1_change_pct": 218.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "+218% in 1h"
+    }
+  ]
 }
