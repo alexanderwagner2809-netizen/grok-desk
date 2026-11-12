@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:19:25.455398Z",
+  "ts": "2026-11-12T09:20:34.804811Z",
   "mint": "83QBsPDGe1PMH6562UiS27NezeiDXaYaBf8ANHyXpump",
   "name": "Meme Maker General",
   "symbol": "MMG",
@@ -11,8 +11,8 @@
   "creator": "9vmdfsUdpAEj7KmQp7nHu3i5T95KYWXm1pBxRWxLS7bP",
   "holders": null,
   "link": "https://fomo.family/coin?address=83QBsPDGe1PMH6562UiS27NezeiDXaYaBf8ANHyXpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.666e-06,
-  "priceTs": "2026-11-12T09:19:24.744638Z",
+  "price": 1.656e-06,
+  "priceTs": "2026-11-12T09:20:34.088155Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1784,12 +1784,20 @@
       "l": 1.666e-06,
       "c": 1.666e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794475200,
+      "o": 1.656e-06,
+      "h": 1.656e-06,
+      "l": 1.656e-06,
+      "c": 1.656e-06,
+      "v": 2.83
     }
   ],
   "stats": {
-    "marketCap": 1635.0,
-    "liquidity": 1774.49,
-    "volume24h": 391968.33,
+    "marketCap": 1625.0,
+    "liquidity": 1764.13,
+    "volume24h": 391971.16,
     "holders": null
   },
   "position": null,
