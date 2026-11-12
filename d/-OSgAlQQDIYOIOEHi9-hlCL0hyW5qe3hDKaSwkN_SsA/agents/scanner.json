@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T09:48:13.197055Z",
+  "ts": "2026-11-12T09:49:22.421873Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T09:48:12.304812Z",
+  "heartbeat": "2026-11-12T09:49:18.402707Z",
   "paused": false,
   "status": "running",
-  "card": "191 pools",
-  "count": 191,
+  "card": "192 pools",
+  "count": 192,
   "passed": 0,
   "feed": [
+    {
+      "mint": "Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump",
+      "label": "Shitcoin",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "2ETgxCfRwJRBuMgU7T5YiCDFYFQd3sUN3cFosRCPpump",
       "label": "Niggercoin",
@@ -66,19 +74,19 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=Dqrnwf1RvwR9NZasdL6XDEGzFwDPXwARuaTa7CKMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "AWEVFNuXNEWxh2oGKp3poUi1d4rDEcRbu85YFE8Hpump",
-      "label": "man v mayhem",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=AWEVFNuXNEWxh2oGKp3poUi1d4rDEcRbu85YFE8Hpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T09:49:08.217564Z",
+      "mint": "Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump",
+      "label": "Shitcoin",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T09:45:44.413649Z",
       "mint": "2ETgxCfRwJRBuMgU7T5YiCDFYFQd3sUN3cFosRCPpump",
       "label": "Niggercoin",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "+182% in 1h",
       "link": "https://fomo.family/coin?address=7E9tPBRvCVJ4kn6DXvxMXuAMk4L9j1ZNcBSCAWuGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:36:38.949989Z",
-      "mint": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
-      "label": "63LfDmNb",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T09:49:08.217564Z",
+      "mint": "Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump",
+      "label": "Shitcoin",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T09:45:44.413649Z",
       "mint": "2ETgxCfRwJRBuMgU7T5YiCDFYFQd3sUN3cFosRCPpump",
       "label": "Niggercoin",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "+182% in 1h",
       "link": "https://fomo.family/coin?address=7E9tPBRvCVJ4kn6DXvxMXuAMk4L9j1ZNcBSCAWuGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:36:38.949989Z",
-      "mint": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
-      "label": "63LfDmNb",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
