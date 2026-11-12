@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-12T20:50:04.694458Z",
+  "ts": "2026-11-12T20:51:14.333475Z",
   "mint": "2LViw7VrzDn4EQr8uCzNCdywbjjYpAaNYjDQwA9Fpump",
-  "name": null,
-  "symbol": null,
-  "label": "2LViw7Vr",
+  "name": "GTA 6",
+  "symbol": "GTA 6",
+  "label": "GTA 6",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T20:49:54.106130Z",
-  "pool": null,
+  "pool": "AQGhzVKrfDzcseME1fvMV5AywYrpDWDsTTPx2NJQZYdL",
   "creator": "CTzX9MeCbUAPSA4dYSA58xxqY4oM8bRkZcQCLR5AxmF",
   "holders": null,
   "link": "https://fomo.family/coin?address=2LViw7VrzDn4EQr8uCzNCdywbjjYpAaNYjDQwA9Fpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 9.018e-05,
+  "priceTs": "2026-11-12T20:51:14.035420Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794516600,
+      "o": 8.827e-05,
+      "h": 8.827e-05,
+      "l": 8.827e-05,
+      "c": 8.827e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794516660,
+      "o": 9.018e-05,
+      "h": 9.018e-05,
+      "l": 9.018e-05,
+      "c": 9.018e-05,
+      "v": 209.4900000000007
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 90151.0,
+    "liquidity": 21306.41,
+    "volume24h": 4449.85,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:50:33.901432Z",
+      "liquidity_usd": 21064.91,
+      "top10_pct": null,
+      "h1_change_pct": 161.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "+161% in 1h"
+    }
+  ]
 }

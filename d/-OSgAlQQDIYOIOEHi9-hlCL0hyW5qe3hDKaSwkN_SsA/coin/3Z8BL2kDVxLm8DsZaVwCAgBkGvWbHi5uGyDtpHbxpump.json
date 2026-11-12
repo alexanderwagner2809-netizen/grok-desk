@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T20:50:04.558597Z",
+  "ts": "2026-11-12T20:51:14.344519Z",
   "mint": "3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump",
   "name": "Boop Cash",
   "symbol": "BOOP",
   "label": "Boop Cash",
   "chain": "Solana",
-  "age": "22m old",
+  "age": "24m old",
   "migratedAt": "2026-11-12T20:27:09.370528Z",
   "pool": "Hs31u38HVu4b66wNSh2ydi4X97tTQJgfXYJK9vuVoeT7",
   "creator": "55HApt3JdaYDvWt1rfdoi6muqZeh1JtLFZc7cQVhnN1t",
   "holders": null,
   "link": "https://fomo.family/coin?address=3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.789e-06,
-  "priceTs": "2026-11-12T20:50:04.166650Z",
+  "price": 8.005e-06,
+  "priceTs": "2026-11-12T20:51:14.035420Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -168,12 +168,20 @@
       "l": 8.789e-06,
       "c": 8.789e-06,
       "v": 187.0
+    },
+    {
+      "t": 1794516660,
+      "o": 8.005e-06,
+      "h": 8.005e-06,
+      "l": 8.005e-06,
+      "c": 8.005e-06,
+      "v": 55.41999999999996
     }
   ],
   "stats": {
-    "marketCap": 8789.0,
-    "liquidity": 5692.23,
-    "volume24h": 85861.45,
+    "marketCap": 8005.0,
+    "liquidity": 5368.66,
+    "volume24h": 86026.29,
     "holders": null
   },
   "position": null,
