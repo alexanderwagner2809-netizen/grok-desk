@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:41:18.978701Z",
+  "ts": "2026-11-12T09:42:27.890702Z",
   "mint": "3e4KNV6aPTtGks2cd7HNN6UFxPC3u2PC93WyFFcSpump",
   "name": "SlabScope",
   "symbol": "SLAB",
@@ -11,8 +11,8 @@
   "creator": "FGGK8ykvp9vmw8aQzfRKu2MK3CNUeXMVPMaCW2GYX2Ge",
   "holders": null,
   "link": "https://fomo.family/coin?address=3e4KNV6aPTtGks2cd7HNN6UFxPC3u2PC93WyFFcSpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.956e-06,
-  "priceTs": "2026-11-12T09:41:18.074407Z",
+  "price": 8.842e-06,
+  "priceTs": "2026-11-12T09:42:27.044821Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2152,12 +2152,20 @@
       "l": 8.956e-06,
       "c": 8.956e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794476520,
+      "o": 8.842e-06,
+      "h": 8.842e-06,
+      "l": 8.842e-06,
+      "c": 8.842e-06,
+      "v": 35.31
     }
   ],
   "stats": {
-    "marketCap": 8624.0,
-    "liquidity": 5817.05,
-    "volume24h": 101174.06,
+    "marketCap": 8514.0,
+    "liquidity": 5769.81,
+    "volume24h": 101209.38,
     "holders": null
   },
   "position": null,
