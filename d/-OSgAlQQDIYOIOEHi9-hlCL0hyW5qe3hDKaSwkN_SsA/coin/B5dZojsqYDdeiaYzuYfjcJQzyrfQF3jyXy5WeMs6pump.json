@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T21:04:03.604723Z",
+  "ts": "2026-11-12T21:05:13.869719Z",
   "mint": "B5dZojsqYDdeiaYzuYfjcJQzyrfQF3jyXy5WeMs6pump",
   "name": "ThirdAffair",
   "symbol": "THIAFF",
   "label": "ThirdAffair",
   "chain": "Solana",
-  "age": "3m old",
+  "age": "5m old",
   "migratedAt": "2026-11-12T21:00:07.587866Z",
   "pool": "2Ue5PUfBtKtti4vE5S9E1c8nCNfE5HCFuuT1fCooZsWw",
   "creator": "CGFKCvLYNS3USLPfzBAux39sJ5mWTHSdyCs2eUVwpYvW",
   "holders": null,
   "link": "https://fomo.family/coin?address=B5dZojsqYDdeiaYzuYfjcJQzyrfQF3jyXy5WeMs6pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.515e-08,
-  "priceTs": "2026-11-12T21:04:03.326608Z",
+  "price": 2.201e-08,
+  "priceTs": "2026-11-12T21:05:13.577143Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -40,12 +40,20 @@
       "l": 2.515e-08,
       "c": 2.515e-08,
       "v": 0.5900000000000034
+    },
+    {
+      "t": 1794517500,
+      "o": 2.201e-08,
+      "h": 2.201e-08,
+      "l": 2.201e-08,
+      "c": 2.201e-08,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 50.0,
-    "liquidity": 21.39,
-    "volume24h": 139.41,
+    "marketCap": 44.0,
+    "liquidity": 20.02,
+    "volume24h": 140.27,
     "holders": null
   },
   "position": null,
