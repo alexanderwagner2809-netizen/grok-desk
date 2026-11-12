@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T15:46:32.034249Z",
+  "ts": "2026-11-12T15:47:42.834568Z",
   "mint": "Fj4MWny4jeTEKhBvmjLMXr1RQ4nELMyU3eqH7AZspump",
   "name": "MAX EXTRACTION",
   "symbol": "MAX",
@@ -11,8 +11,8 @@
   "creator": "ELjFWLhYDGPwNQSv5BX75bUCTWNKYmtN4xZykYA4FnPg",
   "holders": null,
   "link": "https://fomo.family/coin?address=Fj4MWny4jeTEKhBvmjLMXr1RQ4nELMyU3eqH7AZspump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.638e-06,
-  "priceTs": "2026-11-12T15:46:31.014603Z",
+  "price": 1.582e-06,
+  "priceTs": "2026-11-12T15:47:41.815546Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -3080,12 +3080,20 @@
       "l": 1.638e-06,
       "c": 1.638e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794498420,
+      "o": 1.582e-06,
+      "h": 1.582e-06,
+      "l": 1.582e-06,
+      "c": 1.582e-06,
+      "v": 18.36
     }
   ],
   "stats": {
-    "marketCap": 1620.0,
-    "liquidity": 1680.49,
-    "volume24h": 216191.76,
+    "marketCap": 1565.0,
+    "liquidity": 1624.53,
+    "volume24h": 216210.12,
     "holders": null
   },
   "position": null,
