@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T05:14:02.274747Z",
+  "ts": "2026-11-12T05:20:28.878148Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T05:13:53.971255Z",
+  "heartbeat": "2026-11-12T05:20:27.144457Z",
   "paused": false,
   "status": "running",
-  "card": "106 pools",
-  "count": 106,
+  "card": "108 pools",
+  "count": 108,
   "passed": 0,
   "feed": [
+    {
+      "mint": "EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump",
+      "label": "green cat",
+      "verdict": "kill",
+      "reason": "liq $30",
+      "subtitle": "liq $30",
+      "link": "https://fomo.family/coin?address=EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump",
+      "label": "Anthropic official",
+      "verdict": "kill",
+      "reason": "liq $20.1K",
+      "subtitle": "liq $20.1K",
+      "link": "https://fomo.family/coin?address=EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "3WrHjtBhJBQWjEXHVsVaADD8eCzV45kVGfGa8hcbpump",
       "label": "Mayhem is my Bitch",
@@ -58,27 +74,27 @@
       "reason": "liq $17.3K",
       "subtitle": "liq $17.3K",
       "link": "https://fomo.family/coin?address=4EGdVws4BwR9vVeZeNu61vpXB8FPGcPZyf2Zf3h8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "Dkp7yCs1CUbAUwWekUwQaqEhNiNsY15N76D1jdtEpump",
-      "label": "GABOON",
-      "verdict": "kill",
-      "reason": "liq $13.6K",
-      "subtitle": "liq $13.6K",
-      "link": "https://fomo.family/coin?address=Dkp7yCs1CUbAUwWekUwQaqEhNiNsY15N76D1jdtEpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "4EgTmufF8Jqn9vXT4bKv9UXy57EEMHxxrWkDjSAKpump",
-      "label": "FORTNITE TOKEN",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "subtitle": "liq $3",
-      "link": "https://fomo.family/coin?address=4EgTmufF8Jqn9vXT4bKv9UXy57EEMHxxrWkDjSAKpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T05:20:27.437285Z",
+      "mint": "EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump",
+      "label": "green cat",
+      "verdict": "kill",
+      "reason": "liq $30",
+      "link": "https://fomo.family/coin?address=EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T05:20:27.429014Z",
+      "mint": "EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump",
+      "label": "Anthropic official",
+      "verdict": "kill",
+      "reason": "liq $20.1K",
+      "link": "https://fomo.family/coin?address=EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T05:10:09.009107Z",
       "mint": "3WrHjtBhJBQWjEXHVsVaADD8eCzV45kVGfGa8hcbpump",
       "label": "Mayhem is my Bitch",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $1",
       "link": "https://fomo.family/coin?address=CNdCc7mx3gCZcFwLrXnqxkYDnXXYxKhbgeMDTJbipump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:21:45.052469Z",
-      "mint": "4ifmbtSq12EbGZQh697bJaqcEHwNKeGsyou5Vrzgpump",
-      "label": "Hornycoin",
-      "verdict": "kill",
-      "reason": "liq $4.7K",
-      "link": "https://fomo.family/coin?address=4ifmbtSq12EbGZQh697bJaqcEHwNKeGsyou5Vrzgpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:07:49.469049Z",
-      "mint": "AtSRxRWXmPfNhTQLQkN3QTUM6vzxJcgLkBqENavvpump",
-      "label": "Ni Hao Dog",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "link": "https://fomo.family/coin?address=AtSRxRWXmPfNhTQLQkN3QTUM6vzxJcgLkBqENavvpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T05:20:27.437285Z",
+      "mint": "EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump",
+      "label": "green cat",
+      "verdict": "kill",
+      "reason": "liq $30",
+      "link": "https://fomo.family/coin?address=EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T05:20:27.429014Z",
+      "mint": "EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump",
+      "label": "Anthropic official",
+      "verdict": "kill",
+      "reason": "liq $20.1K",
+      "link": "https://fomo.family/coin?address=EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T05:10:09.009107Z",
       "mint": "3WrHjtBhJBQWjEXHVsVaADD8eCzV45kVGfGa8hcbpump",
       "label": "Mayhem is my Bitch",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $1",
       "link": "https://fomo.family/coin?address=CNdCc7mx3gCZcFwLrXnqxkYDnXXYxKhbgeMDTJbipump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:21:45.052469Z",
-      "mint": "4ifmbtSq12EbGZQh697bJaqcEHwNKeGsyou5Vrzgpump",
-      "label": "Hornycoin",
-      "verdict": "kill",
-      "reason": "liq $4.7K",
-      "link": "https://fomo.family/coin?address=4ifmbtSq12EbGZQh697bJaqcEHwNKeGsyou5Vrzgpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:07:49.469049Z",
-      "mint": "AtSRxRWXmPfNhTQLQkN3QTUM6vzxJcgLkBqENavvpump",
-      "label": "Ni Hao Dog",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "link": "https://fomo.family/coin?address=AtSRxRWXmPfNhTQLQkN3QTUM6vzxJcgLkBqENavvpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

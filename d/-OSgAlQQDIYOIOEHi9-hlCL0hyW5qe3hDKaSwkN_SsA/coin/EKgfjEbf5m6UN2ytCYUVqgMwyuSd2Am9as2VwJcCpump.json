@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-12T05:14:02.263435Z",
+  "ts": "2026-11-12T05:20:28.731760Z",
   "mint": "EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump",
-  "name": null,
-  "symbol": null,
-  "label": "EKgfjEbf",
+  "name": "Anthropic official",
+  "symbol": "Anthropic",
+  "label": "Anthropic official",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "6m old",
   "migratedAt": "2026-11-12T05:13:59.844399Z",
-  "pool": null,
+  "pool": "BxErnga6QKYc8Skny9wTB2WMEqaLMBxezU1R5pz1oPTk",
   "creator": "An8ntqqNAbuGinrtTY8PQnFgDM8b2aLYQoJSyvMwr21s",
   "holders": null,
   "link": "https://fomo.family/coin?address=EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 8.22e-05,
+  "priceTs": "2026-11-12T05:20:28.133182Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794460800,
+      "o": 7.943e-05,
+      "h": 8.22e-05,
+      "l": 7.943e-05,
+      "c": 8.22e-05,
+      "v": 51.399999999999636
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 82209.0,
+    "liquidity": 20430.99,
+    "volume24h": 8567.28,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T05:20:27.429014Z",
+      "liquidity_usd": 20057.37,
+      "top10_pct": null,
+      "h1_change_pct": 131.0,
+      "age_min": 6,
+      "verdict": "kill",
+      "reason": "liq $20.1K"
+    }
+  ]
 }
