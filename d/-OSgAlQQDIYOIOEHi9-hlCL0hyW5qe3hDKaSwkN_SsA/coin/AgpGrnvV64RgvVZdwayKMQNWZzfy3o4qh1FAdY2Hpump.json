@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T11:53:25.269297Z",
+  "ts": "2026-11-12T11:54:34.316665Z",
   "mint": "AgpGrnvV64RgvVZdwayKMQNWZzfy3o4qh1FAdY2Hpump",
   "name": null,
   "symbol": null,
   "label": "AgpGrnvV",
   "chain": "Solana",
-  "age": "19m old",
+  "age": "20m old",
   "migratedAt": "2026-11-12T11:34:11.206401Z",
   "pool": null,
   "creator": "AGJY1voXKjyMuu6CAeqHSSnxNVEr3Xf3rRHD3RYcWu7H",
   "holders": null,
   "link": "https://fomo.family/coin?address=AgpGrnvV64RgvVZdwayKMQNWZzfy3o4qh1FAdY2Hpump&chainId=1399811149&r=savipww&source=share_link",
   "price": 3.397e-05,
-  "priceTs": "2026-11-12T11:53:24.479859Z",
+  "priceTs": "2026-11-12T11:54:33.120674Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -152,6 +152,14 @@
       "l": 3.397e-05,
       "c": 3.397e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794484440,
+      "o": 3.397e-05,
+      "h": 3.397e-05,
+      "l": 3.397e-05,
+      "c": 3.397e-05,
+      "v": 0.0
     }
   ],
   "stats": {
@@ -162,5 +170,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T11:54:12.527664Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 20,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }
