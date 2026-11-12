@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T14:14:39.326499Z",
+  "ts": "2026-11-12T14:45:44.201917Z",
   "mint": "HtcAPprundKCcYWhd37t3tf7SBbF9p6WzZ8x2zqzpump",
   "name": "goat coin",
   "symbol": "$GOAT",
@@ -11,8 +11,8 @@
   "creator": "CYQJUKYTNfmV94uFipjY5Eh6PaMAMDvBuDGnXRQRHruW",
   "holders": null,
   "link": "https://fomo.family/coin?address=HtcAPprundKCcYWhd37t3tf7SBbF9p6WzZ8x2zqzpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.742e-10,
-  "priceTs": "2026-11-12T14:14:37.948176Z",
+  "price": 2.407e-10,
+  "priceTs": "2026-11-12T14:45:42.785682Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -736,11 +736,19 @@
       "l": 3.742e-10,
       "c": 3.742e-10,
       "v": 0.0
+    },
+    {
+      "t": 1794494700,
+      "o": 2.407e-10,
+      "h": 2.407e-10,
+      "l": 2.407e-10,
+      "c": 2.407e-10,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1.0,
-    "liquidity": 0.85,
+    "marketCap": 0.0,
+    "liquidity": 0.66,
     "volume24h": 12.98,
     "holders": null
   },

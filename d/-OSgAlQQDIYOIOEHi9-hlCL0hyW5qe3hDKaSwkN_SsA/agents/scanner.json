@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T14:14:40.011743Z",
+  "ts": "2026-11-12T14:45:44.909453Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T14:14:37.636686Z",
+  "heartbeat": "2026-11-12T14:45:40.830536Z",
   "paused": false,
   "status": "running",
-  "card": "228 pools",
-  "count": 228,
+  "card": "230 pools",
+  "count": 230,
   "passed": 0,
   "feed": [
+    {
+      "mint": "4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump",
+      "label": "Buy if you're horny",
+      "verdict": "kill",
+      "reason": "liq $1.7K",
+      "subtitle": "liq $1.7K",
+      "link": "https://fomo.family/coin?address=4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+      "label": "Xsc9qvGR",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "GZ2pDdip9spqiZuqV2tGhR1EcvbZzU1XTWk4ZVTGpump",
       "label": "Indo meme",
@@ -58,27 +74,27 @@
       "reason": "never qualified",
       "subtitle": "never qualified",
       "link": "https://fomo.family/coin?address=4HeaFCvsD76751R79Edk9y8odRxDkqEsaunAqryzpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "8amAx1Y1s3bgBQB2guLWH6G5PU4yi5foXXB7C4nFpump",
-      "label": "ELON",
-      "verdict": "kill",
-      "reason": "liq $11.7K",
-      "subtitle": "liq $11.7K",
-      "link": "https://fomo.family/coin?address=8amAx1Y1s3bgBQB2guLWH6G5PU4yi5foXXB7C4nFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "45wTiGpwQWRGdZ3pe5jPsEd8EYcaWLD7xyxm5XEJpump",
-      "label": "Tech",
-      "verdict": "kill",
-      "reason": "liq $12.5K",
-      "subtitle": "liq $12.5K",
-      "link": "https://fomo.family/coin?address=45wTiGpwQWRGdZ3pe5jPsEd8EYcaWLD7xyxm5XEJpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T14:44:55.821787Z",
+      "mint": "4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump",
+      "label": "Buy if you're horny",
+      "verdict": "kill",
+      "reason": "liq $1.7K",
+      "link": "https://fomo.family/coin?address=4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T14:44:55.816245Z",
+      "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+      "label": "Xsc9qvGR",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T14:14:37.839730Z",
       "mint": "GZ2pDdip9spqiZuqV2tGhR1EcvbZzU1XTWk4ZVTGpump",
       "label": "Indo meme",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "+15118% in 1h",
       "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T11:55:10.975113Z",
-      "mint": "Hj3iyUwYPJR5q4HSwxZ23CB32ry42ybwwDDEUbLYpump",
-      "label": "Robinhood",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=Hj3iyUwYPJR5q4HSwxZ23CB32ry42ybwwDDEUbLYpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T11:54:12.527664Z",
-      "mint": "AgpGrnvV64RgvVZdwayKMQNWZzfy3o4qh1FAdY2Hpump",
-      "label": "AgpGrnvV",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=AgpGrnvV64RgvVZdwayKMQNWZzfy3o4qh1FAdY2Hpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T14:44:55.821787Z",
+      "mint": "4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump",
+      "label": "Buy if you're horny",
+      "verdict": "kill",
+      "reason": "liq $1.7K",
+      "link": "https://fomo.family/coin?address=4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T14:44:55.816245Z",
+      "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+      "label": "Xsc9qvGR",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T14:14:37.839730Z",
       "mint": "GZ2pDdip9spqiZuqV2tGhR1EcvbZzU1XTWk4ZVTGpump",
       "label": "Indo meme",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "+15118% in 1h",
       "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T11:55:10.975113Z",
-      "mint": "Hj3iyUwYPJR5q4HSwxZ23CB32ry42ybwwDDEUbLYpump",
-      "label": "Robinhood",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=Hj3iyUwYPJR5q4HSwxZ23CB32ry42ybwwDDEUbLYpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T11:54:12.527664Z",
-      "mint": "AgpGrnvV64RgvVZdwayKMQNWZzfy3o4qh1FAdY2Hpump",
-      "label": "AgpGrnvV",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=AgpGrnvV64RgvVZdwayKMQNWZzfy3o4qh1FAdY2Hpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

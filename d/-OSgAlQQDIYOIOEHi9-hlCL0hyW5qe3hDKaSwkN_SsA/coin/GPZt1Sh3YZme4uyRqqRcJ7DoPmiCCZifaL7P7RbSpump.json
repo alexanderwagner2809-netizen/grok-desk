@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T14:14:39.934300Z",
+  "ts": "2026-11-12T14:45:44.826584Z",
   "mint": "GPZt1Sh3YZme4uyRqqRcJ7DoPmiCCZifaL7P7RbSpump",
   "name": "SpaceX",
   "symbol": "SpaceX",
@@ -11,8 +11,8 @@
   "creator": "A5ywLHARf249vREqPuhuVprJAwV5Y1itHpjy7XKXqzdy",
   "holders": null,
   "link": "https://fomo.family/coin?address=GPZt1Sh3YZme4uyRqqRcJ7DoPmiCCZifaL7P7RbSpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.506e-06,
-  "priceTs": "2026-11-12T14:14:39.155677Z",
+  "price": 1.474e-06,
+  "priceTs": "2026-11-12T14:45:43.991441Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2680,12 +2680,20 @@
       "l": 1.506e-06,
       "c": 1.506e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794494700,
+      "o": 1.474e-06,
+      "h": 1.474e-06,
+      "l": 1.474e-06,
+      "c": 1.474e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1484.0,
-    "liquidity": 1517.29,
-    "volume24h": 51101.36,
+    "marketCap": 1453.0,
+    "liquidity": 1485.02,
+    "volume24h": 51101.4,
     "holders": null
   },
   "position": null,

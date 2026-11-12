@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T14:14:39.262307Z",
+  "ts": "2026-11-12T14:45:44.140276Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T14:14:37.636686Z",
+      "heartbeat": "2026-11-12T14:45:40.830536Z",
       "paused": false,
       "status": "running",
-      "card": "228 pools",
-      "count": 228,
+      "card": "230 pools",
+      "count": 230,
       "passed": 0,
       "feed": [
+        {
+          "mint": "4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump",
+          "label": "Buy if you're horny",
+          "verdict": "kill",
+          "reason": "liq $1.7K",
+          "subtitle": "liq $1.7K",
+          "link": "https://fomo.family/coin?address=4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+          "label": "Xsc9qvGR",
+          "verdict": "kill",
+          "reason": "never qualified",
+          "subtitle": "never qualified",
+          "link": "https://fomo.family/coin?address=Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "GZ2pDdip9spqiZuqV2tGhR1EcvbZzU1XTWk4ZVTGpump",
           "label": "Indo meme",
@@ -66,22 +82,6 @@
           "reason": "never qualified",
           "subtitle": "never qualified",
           "link": "https://fomo.family/coin?address=4HeaFCvsD76751R79Edk9y8odRxDkqEsaunAqryzpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "8amAx1Y1s3bgBQB2guLWH6G5PU4yi5foXXB7C4nFpump",
-          "label": "ELON",
-          "verdict": "kill",
-          "reason": "liq $11.7K",
-          "subtitle": "liq $11.7K",
-          "link": "https://fomo.family/coin?address=8amAx1Y1s3bgBQB2guLWH6G5PU4yi5foXXB7C4nFpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "45wTiGpwQWRGdZ3pe5jPsEd8EYcaWLD7xyxm5XEJpump",
-          "label": "Tech",
-          "verdict": "kill",
-          "reason": "liq $12.5K",
-          "subtitle": "liq $12.5K",
-          "link": "https://fomo.family/coin?address=45wTiGpwQWRGdZ3pe5jPsEd8EYcaWLD7xyxm5XEJpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T14:14:37.621138Z",
+      "heartbeat": "2026-11-12T14:45:43.590517Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T14:14:37.621138Z",
+      "heartbeat": "2026-11-12T14:45:43.592129Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T14:14:37.621138Z",
+      "heartbeat": "2026-11-12T14:45:43.592620Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T14:14:37.621138Z",
+      "heartbeat": "2026-11-12T14:45:40.509838Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

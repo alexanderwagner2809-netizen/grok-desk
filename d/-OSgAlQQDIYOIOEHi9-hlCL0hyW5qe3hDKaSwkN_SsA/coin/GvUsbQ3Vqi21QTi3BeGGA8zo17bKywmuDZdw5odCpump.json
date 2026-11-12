@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T14:14:39.967396Z",
+  "ts": "2026-11-12T14:45:44.863542Z",
   "mint": "GvUsbQ3Vqi21QTi3BeGGA8zo17bKywmuDZdw5odCpump",
   "name": "huang out",
   "symbol": "fired",
@@ -11,8 +11,8 @@
   "creator": "7pbyH3cDUj2kUj1QA3Qq3Vo66wrrJRBtQd4jR4aLYmHT",
   "holders": null,
   "link": "https://fomo.family/coin?address=GvUsbQ3Vqi21QTi3BeGGA8zo17bKywmuDZdw5odCpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.171e-08,
-  "priceTs": "2026-11-12T14:14:39.257778Z",
+  "price": 3.103e-08,
+  "priceTs": "2026-11-12T14:45:44.133454Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2872,12 +2872,20 @@
       "l": 3.171e-08,
       "c": 3.171e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794494700,
+      "o": 3.103e-08,
+      "h": 3.103e-08,
+      "l": 3.103e-08,
+      "c": 3.103e-08,
+      "v": 1.57
     }
   ],
   "stats": {
-    "marketCap": 63.0,
-    "liquidity": 41.04,
-    "volume24h": 1381.69,
+    "marketCap": 62.0,
+    "liquidity": 40.49,
+    "volume24h": 1383.27,
     "holders": null
   },
   "position": null,

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T14:14:39.614850Z",
+  "ts": "2026-11-12T14:45:44.524351Z",
   "mint": "8QRe56BCJPdWqBFS5hq6fcA9bghb6mRMCKMLrHacpump",
   "name": "Grok",
   "symbol": "Grok",
@@ -11,8 +11,8 @@
   "creator": "Cqw8RcTh8Dfjs2uQZsGa3KWkgTisQGgRQNK568CohzJf",
   "holders": null,
   "link": "https://fomo.family/coin?address=8QRe56BCJPdWqBFS5hq6fcA9bghb6mRMCKMLrHacpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.51e-06,
-  "priceTs": "2026-11-12T14:14:38.600028Z",
+  "price": 1.48e-06,
+  "priceTs": "2026-11-12T14:45:43.447723Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2368,12 +2368,20 @@
       "l": 1.51e-06,
       "c": 1.51e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794494700,
+      "o": 1.48e-06,
+      "h": 1.48e-06,
+      "l": 1.48e-06,
+      "c": 1.48e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1489.0,
-    "liquidity": 1522.13,
-    "volume24h": 46012.12,
+    "marketCap": 1459.0,
+    "liquidity": 1491.51,
+    "volume24h": 46012.16,
     "holders": null
   },
   "position": null,
