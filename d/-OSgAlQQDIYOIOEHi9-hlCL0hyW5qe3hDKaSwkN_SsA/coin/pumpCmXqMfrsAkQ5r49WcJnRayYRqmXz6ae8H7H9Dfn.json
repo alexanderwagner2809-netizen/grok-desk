@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T07:38:03.233319Z",
+  "ts": "2026-11-12T07:59:01.428411Z",
   "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
   "name": null,
   "symbol": null,
   "label": "pumpCmXq",
   "chain": "Solana",
-  "age": "47m old",
+  "age": "1h old",
   "migratedAt": "2026-11-12T06:50:20.373453Z",
   "pool": null,
   "creator": "Doa8F9eugaAHpCBmfmShKV1BhKN9xyaEDg1mTsonW5p8",
   "holders": null,
   "link": "https://fomo.family/coin?address=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn&chainId=1399811149&r=savipww&source=share_link",
   "price": 0.003434,
-  "priceTs": "2026-11-12T07:38:02.945164Z",
+  "priceTs": "2026-11-12T07:59:00.465809Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -208,15 +208,33 @@
       "l": 0.003434,
       "c": 0.003434,
       "v": 0.0
+    },
+    {
+      "t": 1794470340,
+      "o": 0.003434,
+      "h": 0.003434,
+      "l": 0.003434,
+      "c": 0.003434,
+      "v": 0.0
     }
   ],
   "stats": {
     "marketCap": 1574783547.0,
     "liquidity": 2222268.63,
-    "volume24h": 3634135.83,
+    "volume24h": 3598928.61,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T07:58:13.099274Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 67,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }

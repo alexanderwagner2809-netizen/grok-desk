@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T07:38:02.950271Z",
+  "ts": "2026-11-12T07:59:01.420912Z",
   "readOnly": true,
   "groups": {
     "scanner": [
@@ -29,7 +29,7 @@
       },
       {
         "key": "scanner.poll_s",
-        "value": 60,
+        "value": 15,
         "type": "int",
         "min": 5,
         "max": 3600,
@@ -45,7 +45,7 @@
       },
       {
         "key": "scanner.max_wait_min",
-        "value": 60,
+        "value": 20,
         "type": "int",
         "min": 1,
         "max": 10080,

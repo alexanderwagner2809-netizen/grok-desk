@@ -1,11 +1,11 @@
 {
-  "ts": "2026-11-12T07:38:03.232815Z",
+  "ts": "2026-11-12T07:59:01.426984Z",
   "mint": "amyEXyGoPrBJbxjcjjwx1PFN5QHNVsb8piinbYApump",
   "name": null,
   "symbol": null,
   "label": "amyEXyGo",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "21m old",
   "migratedAt": "2026-11-12T07:37:50.621373Z",
   "pool": null,
   "creator": "GQPKqpfEm3SmqGVJCyFjd5icjyFuBSD84EbaUzky2ksi",
@@ -25,5 +25,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T07:58:53.992349Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 21,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }

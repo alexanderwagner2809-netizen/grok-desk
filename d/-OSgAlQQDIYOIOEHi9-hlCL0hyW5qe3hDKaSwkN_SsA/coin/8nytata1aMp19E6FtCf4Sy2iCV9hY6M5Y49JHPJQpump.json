@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T07:38:03.131296Z",
+  "ts": "2026-11-12T07:59:01.606834Z",
   "mint": "8nytata1aMp19E6FtCf4Sy2iCV9hY6M5Y49JHPJQpump",
   "name": null,
   "symbol": null,
   "label": "8nytata1",
   "chain": "Solana",
-  "age": "1h old",
+  "age": "2h old",
   "migratedAt": "2026-11-12T05:52:02.698140Z",
   "pool": null,
   "creator": "4Dzm4NkQA7xDwhXL6RuxTCzYD84S5ZQmUAWHkVWb7xHw",
   "holders": null,
   "link": "https://fomo.family/coin?address=8nytata1aMp19E6FtCf4Sy2iCV9hY6M5Y49JHPJQpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0002024,
-  "priceTs": "2026-11-12T07:38:02.530755Z",
+  "price": 0.0001375,
+  "priceTs": "2026-11-12T07:59:01.058446Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -616,12 +616,20 @@
       "l": 0.0002024,
       "c": 0.0002024,
       "v": 0.0
+    },
+    {
+      "t": 1794470340,
+      "o": 0.0001375,
+      "h": 0.0001375,
+      "l": 0.0001375,
+      "c": 0.0001375,
+      "v": 7908.31
     }
   ],
   "stats": {
-    "marketCap": 202441.0,
-    "liquidity": 33194.62,
-    "volume24h": 97080.83,
+    "marketCap": 137533.0,
+    "liquidity": 27134.88,
+    "volume24h": 108663.03,
     "holders": null
   },
   "position": null,

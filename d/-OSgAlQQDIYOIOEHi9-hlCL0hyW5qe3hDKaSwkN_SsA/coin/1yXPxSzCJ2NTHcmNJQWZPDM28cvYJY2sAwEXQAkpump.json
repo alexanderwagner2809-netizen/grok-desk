@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-12T07:38:03.066606Z",
+  "ts": "2026-11-12T07:59:01.431010Z",
   "mint": "1yXPxSzCJ2NTHcmNJQWZPDM28cvYJY2sAwEXQAkpump",
-  "name": null,
-  "symbol": null,
-  "label": "1yXPxSzC",
+  "name": "ㅤ",
+  "symbol": "ㅤ",
+  "label": "ㅤ",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "21m old",
   "migratedAt": "2026-11-12T07:37:33.579054Z",
-  "pool": null,
+  "pool": "62xpoqUnV6ncYmpYACS9HoyfdQgWdzwRSHixAFa44b7c",
   "creator": "GQPKqpfEm3SmqGVJCyFjd5icjyFuBSD84EbaUzky2ksi",
   "holders": null,
   "link": "https://fomo.family/coin?address=1yXPxSzCJ2NTHcmNJQWZPDM28cvYJY2sAwEXQAkpump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T07:40:14.965126Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 60.12,
+      "age_min": 2,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
