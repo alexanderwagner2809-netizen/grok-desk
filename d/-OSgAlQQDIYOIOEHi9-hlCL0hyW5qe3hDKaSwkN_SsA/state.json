@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T20:19:05.304557Z",
+  "ts": "2026-11-12T20:20:17.245135Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,45 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T20:19:01.091875Z",
+      "heartbeat": "2026-11-12T20:20:17.008248Z",
       "paused": false,
       "status": "running",
-      "card": "328 pools",
-      "count": 328,
+      "card": "332 pools",
+      "count": 332,
       "passed": 0,
       "feed": [
+        {
+          "mint": "CzqqJBWvL8iAZGWMJHrwsgtd3C2oYU8uBG6KaitHpump",
+          "label": "Eloncoin",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=CzqqJBWvL8iAZGWMJHrwsgtd3C2oYU8uBG6KaitHpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "58GiogU1oeKGLDHfupywXtecV3ZsmJg4mzMY7cyNpump",
+          "label": "Rockstar Games",
+          "verdict": "kill",
+          "reason": "+177% in 1h",
+          "subtitle": "+177% in 1h",
+          "link": "https://fomo.family/coin?address=58GiogU1oeKGLDHfupywXtecV3ZsmJg4mzMY7cyNpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "C1pQ6KN72GaBKtUDbZJsEHD2ErkerLewfLBDBFphtmir",
+          "label": "Marscoin",
+          "verdict": "kill",
+          "reason": "liq $12.6K",
+          "subtitle": "liq $12.6K",
+          "link": "https://fomo.family/coin?address=C1pQ6KN72GaBKtUDbZJsEHD2ErkerLewfLBDBFphtmir&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "x5MfvhAzBDjBH6DTa3NJx531B8s6jNvpQnSS11spump",
+          "label": "OVER9K",
+          "verdict": "kill",
+          "reason": "liq $1",
+          "subtitle": "liq $1",
+          "link": "https://fomo.family/coin?address=x5MfvhAzBDjBH6DTa3NJx531B8s6jNvpQnSS11spump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "ECs6n795WEpSf5yDrw9ejsPKArxbouBiVYw5nxtRpump",
           "label": "marsoperator",
@@ -50,38 +82,6 @@
           "reason": "+202% in 1h",
           "subtitle": "+202% in 1h",
           "link": "https://fomo.family/coin?address=zYGUsJhQn8mzcQby6QnNC5A9vBcwdSRoozFL7Mdpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "4cyPWVPcPBo5j5JWfp8Qhgo8ijfmzv1xQJvz3RCxpump",
-          "label": "GTA 6",
-          "verdict": "kill",
-          "reason": "+164% in 1h",
-          "subtitle": "+164% in 1h",
-          "link": "https://fomo.family/coin?address=4cyPWVPcPBo5j5JWfp8Qhgo8ijfmzv1xQJvz3RCxpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump",
-          "label": "Father",
-          "verdict": "kill",
-          "reason": "liq $0",
-          "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "GtzA52z9dNYHjHiK7LCEPrDsjYzs6ZgrjwkpyvT3pump",
-          "label": "Just start calling",
-          "verdict": "kill",
-          "reason": "liq $12.9K",
-          "subtitle": "liq $12.9K",
-          "link": "https://fomo.family/coin?address=GtzA52z9dNYHjHiK7LCEPrDsjYzs6ZgrjwkpyvT3pump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "4o3JKYKwHad7xEJ5sww7ck7WpA7ocXF8s36PvxLvpump",
-          "label": "Wife-Changing Money",
-          "verdict": "kill",
-          "reason": "liq $19.6K",
-          "subtitle": "liq $19.6K",
-          "link": "https://fomo.family/coin?address=4o3JKYKwHad7xEJ5sww7ck7WpA7ocXF8s36PvxLvpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T20:19:04.592977Z",
+      "heartbeat": "2026-11-12T20:20:17.008248Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T20:19:04.594541Z",
+      "heartbeat": "2026-11-12T20:20:17.008248Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T20:19:04.595183Z",
+      "heartbeat": "2026-11-12T20:20:17.008248Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T20:18:56.995599Z",
+      "heartbeat": "2026-11-12T20:20:17.008248Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T20:19:06.015767Z",
+  "ts": "2026-11-12T20:20:17.251512Z",
   "mint": "CzqqJBWvL8iAZGWMJHrwsgtd3C2oYU8uBG6KaitHpump",
-  "name": null,
-  "symbol": null,
-  "label": "CzqqJBWv",
+  "name": "Eloncoin",
+  "symbol": "Elon",
+  "label": "Eloncoin",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T20:18:38.382062Z",
-  "pool": null,
+  "pool": "9b5unHX4Sdrcwvx4YpdS3enRkTETFiPnESLTvQ25PLSD",
   "creator": "CifFR6QiQQKzZoeXbb7avTPPYr5oG6T41MQx22UfNxye",
   "holders": null,
   "link": "https://fomo.family/coin?address=CzqqJBWvL8iAZGWMJHrwsgtd3C2oYU8uBG6KaitHpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.344e-05,
-  "priceTs": "2026-11-12T20:19:04.612700Z",
+  "price": 2.37e-05,
+  "priceTs": "2026-11-12T20:20:14.935395Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -21,18 +21,36 @@
       "t": 1794514740,
       "o": 3.344e-05,
       "h": 3.344e-05,
-      "l": 3.344e-05,
-      "c": 3.344e-05,
+      "l": 3.096e-05,
+      "c": 3.096e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794514800,
+      "o": 2.37e-05,
+      "h": 2.37e-05,
+      "l": 2.37e-05,
+      "c": 2.37e-05,
+      "v": 13509.940000000002
     }
   ],
   "stats": {
-    "marketCap": 33449.76,
-    "liquidity": null,
-    "volume24h": 101679.4,
+    "marketCap": 23666.0,
+    "liquidity": 10365.63,
+    "volume24h": 20728.06,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:19:11.652330Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -7.63,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
