@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:59:14.015677Z",
+  "ts": "2026-11-12T07:00:22.965619Z",
   "mint": "5E86N4zSwKh9gAJ4Fn2eB8TnKGoYoSQQirSsCy5Wpump",
   "name": "MOONI",
   "symbol": "MOONI",
   "label": "MOONI",
   "chain": "Solana",
-  "age": "2m old",
+  "age": "4m old",
   "migratedAt": "2026-11-12T06:56:22.528961Z",
   "pool": "G5oER6NxaovbNMgbjEpuhfoKc3ohdBf8WdNUPqyXE5eA",
   "creator": "2A7xEFtB76hkfwrAASUmX1eVbSVA5TCQzDUh9QA6uLrC",
   "holders": null,
   "link": "https://fomo.family/coin?address=5E86N4zSwKh9gAJ4Fn2eB8TnKGoYoSQQirSsCy5Wpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 7.549e-09,
-  "priceTs": "2026-11-12T06:59:13.108459Z",
+  "price": 7.453e-09,
+  "priceTs": "2026-11-12T07:00:22.069453Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -48,12 +48,20 @@
       "l": 7.549e-09,
       "c": 7.549e-09,
       "v": 92.35000000000002
+    },
+    {
+      "t": 1794466800,
+      "o": 7.453e-09,
+      "h": 7.453e-09,
+      "l": 7.453e-09,
+      "c": 7.453e-09,
+      "v": 0.10000000000002274
     }
   ],
   "stats": {
     "marketCap": 15.0,
-    "liquidity": 9.82,
-    "volume24h": 704.11,
+    "liquidity": 9.77,
+    "volume24h": 704.21,
     "holders": null
   },
   "position": null,

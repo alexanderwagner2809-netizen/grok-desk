@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T07:00:22.963513Z",
+  "mint": "7ewFvnsWd5mKj1TuWuZj1x4wRmrutjpx1hNp8obBpump",
+  "name": "Suits",
+  "symbol": "SOOTS",
+  "label": "Suits",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T06:59:34.471352Z",
+  "pool": "3Vema2mErmGfx2q2JCEGAJFvLCzbBmrrPZ4RmnaFxyhD",
+  "creator": "AunfQCUCxgckFb6YTJfyxcEJveAbcHdwYwFefarD9iMh",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=7ewFvnsWd5mKj1TuWuZj1x4wRmrutjpx1hNp8obBpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.093e-09,
+  "priceTs": "2026-11-12T07:00:22.069453Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794466800,
+      "o": 3.093e-09,
+      "h": 3.093e-09,
+      "l": 3.093e-09,
+      "c": 3.093e-09,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 6.0,
+    "liquidity": 5.73,
+    "volume24h": 65.28,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T07:00:08.747136Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -93.08,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
