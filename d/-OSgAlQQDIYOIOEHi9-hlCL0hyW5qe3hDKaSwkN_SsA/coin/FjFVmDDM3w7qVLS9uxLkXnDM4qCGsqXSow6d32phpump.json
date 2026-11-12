@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T05:53:47.552958Z",
+  "ts": "2026-11-12T05:54:55.331989Z",
   "mint": "FjFVmDDM3w7qVLS9uxLkXnDM4qCGsqXSow6d32phpump",
   "name": "HAMSTER",
   "symbol": "HAMSTER",
@@ -11,8 +11,8 @@
   "creator": "GnvL94jnQ85BwSPPpTaqGden5eSXpzuGZyStqsvwoqmw",
   "holders": null,
   "link": "https://fomo.family/coin?address=FjFVmDDM3w7qVLS9uxLkXnDM4qCGsqXSow6d32phpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.675e-06,
-  "priceTs": "2026-11-12T05:53:47.410976Z",
+  "price": 2.624e-06,
+  "priceTs": "2026-11-12T05:54:55.176070Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -864,12 +864,20 @@
       "l": 2.675e-06,
       "c": 2.675e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794462840,
+      "o": 2.624e-06,
+      "h": 2.624e-06,
+      "l": 2.624e-06,
+      "c": 2.624e-06,
+      "v": 0.75
     }
   ],
   "stats": {
-    "marketCap": 2634.0,
-    "liquidity": 2605.72,
-    "volume24h": 381843.43,
+    "marketCap": 2584.0,
+    "liquidity": 2566.67,
+    "volume24h": 381844.18,
     "holders": null
   },
   "position": null,
