@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T07:07:15.212719Z",
+  "ts": "2026-11-12T07:08:23.278998Z",
   "mint": "8oS6EPWER1HPeQsM5hozy7JEytpp4J6aK1MAfvY1pump",
-  "name": null,
-  "symbol": null,
-  "label": "8oS6EPWE",
+  "name": "apeonx",
+  "symbol": "X",
+  "label": "apeonx",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T07:06:14.758773Z",
-  "pool": null,
+  "pool": "7o7cpdEEEasS1woeGVCGXjUk7pdRzkiyVynXrgHKaksL",
   "creator": "BNiyxyjHHDRz5tMr4pJUpgJFcwVE4oavzrdrwjjQ7HT8",
   "holders": null,
   "link": "https://fomo.family/coin?address=8oS6EPWER1HPeQsM5hozy7JEytpp4J6aK1MAfvY1pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0003455,
-  "priceTs": "2026-11-12T07:07:14.762867Z",
+  "price": 0.0003624,
+  "priceTs": "2026-11-12T07:08:22.385389Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 0.0003455,
       "c": 0.0003455,
       "v": 0.0
+    },
+    {
+      "t": 1794467280,
+      "o": 0.0003624,
+      "h": 0.0003624,
+      "l": 0.0003624,
+      "c": 0.0003624,
+      "v": 124.39000000000124
     }
   ],
   "stats": {
-    "marketCap": 345458.0,
-    "liquidity": 43434.43,
-    "volume24h": 15526.23,
+    "marketCap": 362379.0,
+    "liquidity": 44521.62,
+    "volume24h": 15650.62,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T07:07:18.182807Z",
+      "liquidity_usd": 43434.43,
+      "top10_pct": null,
+      "h1_change_pct": 904.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "+904% in 1h"
+    }
+  ]
 }
