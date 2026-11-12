@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T02:56:24.836655Z",
+  "ts": "2026-11-12T03:08:40.738633Z",
   "mint": "EdpSS1dbDW8o98S4HRLzE8BZ47oUYp1R1eHTSm6Epump",
   "name": "Wyrm",
   "symbol": "WYRM",
   "label": "Wyrm",
   "chain": "Solana",
-  "age": "52m old",
+  "age": "1h old",
   "migratedAt": "2026-11-12T02:03:54.395036Z",
   "pool": "Eaf9JV13iEjRBrHbet3pJCgUGRg5suDPt1XvKo8LcA79",
   "creator": "BryH3TAHYuaJnCpb1YjWpmUSKNVcxVUMwmzeJf2QmGoi",
   "holders": null,
   "link": "https://fomo.family/coin?address=EdpSS1dbDW8o98S4HRLzE8BZ47oUYp1R1eHTSm6Epump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.657e-06,
-  "priceTs": "2026-11-12T02:56:24.252031Z",
+  "price": 2.112e-06,
+  "priceTs": "2026-11-12T03:08:40.237564Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -120,12 +120,20 @@
       "l": 2.657e-06,
       "c": 2.657e-06,
       "v": 271.0
+    },
+    {
+      "t": 1794452880,
+      "o": 2.112e-06,
+      "h": 2.112e-06,
+      "l": 2.112e-06,
+      "c": 2.112e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 2394.0,
-    "liquidity": 2488.07,
-    "volume24h": 35612.03,
+    "marketCap": 1903.0,
+    "liquidity": 2057.2,
+    "volume24h": 37898.57,
     "holders": null
   },
   "position": null,

@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T02:56:24.955944Z",
+  "ts": "2026-11-12T03:08:40.844393Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T02:56:24.109057Z",
+  "heartbeat": "2026-11-12T03:08:40.696882Z",
   "paused": false,
   "status": "running",
-  "card": "92 pools",
-  "count": 92,
+  "card": "93 pools",
+  "count": 93,
   "passed": 0,
   "feed": [
+    {
+      "mint": "6ujwMRf28Xd5xUJBHyAN1hTTTLCCyDEDFbQTcHNRpump",
+      "label": "The RTX Dick",
+      "verdict": "kill",
+      "reason": "liq $48",
+      "subtitle": "liq $48",
+      "link": "https://fomo.family/coin?address=6ujwMRf28Xd5xUJBHyAN1hTTTLCCyDEDFbQTcHNRpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "7Wa24Rs39Ktf2vfo6Nt4kv4RTfjaQbXDY9y8E3vFpump",
       "label": "GTA6",
@@ -66,19 +74,19 @@
       "reason": "liq $2",
       "subtitle": "liq $2",
       "link": "https://fomo.family/coin?address=Goebmkx6ewHcBvBAydCutZC5RU3KiydnpZqX6Tgpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GqMVxDt2qCaEbyB3s9pbWrvEtNMuch52xBuXZf3Cpump",
-      "label": "GTA6",
-      "verdict": "kill",
-      "reason": "liq $22.6K",
-      "subtitle": "liq $22.6K",
-      "link": "https://fomo.family/coin?address=GqMVxDt2qCaEbyB3s9pbWrvEtNMuch52xBuXZf3Cpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T03:04:57.846897Z",
+      "mint": "6ujwMRf28Xd5xUJBHyAN1hTTTLCCyDEDFbQTcHNRpump",
+      "label": "The RTX Dick",
+      "verdict": "kill",
+      "reason": "liq $48",
+      "link": "https://fomo.family/coin?address=6ujwMRf28Xd5xUJBHyAN1hTTTLCCyDEDFbQTcHNRpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T02:32:51.504267Z",
       "mint": "7Wa24Rs39Ktf2vfo6Nt4kv4RTfjaQbXDY9y8E3vFpump",
       "label": "GTA6",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=DY5XeASmr2KZBbWNnZNHXM3eTvrfmqYaYy3YDh68pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T01:12:30.829113Z",
-      "mint": "4rg7dZ1cUec9iv1f1Mj5GP4juUe1dhAJooNNozCVpump",
-      "label": "Rockstar Games",
-      "verdict": "kill",
-      "reason": "liq $22.6K",
-      "link": "https://fomo.family/coin?address=4rg7dZ1cUec9iv1f1Mj5GP4juUe1dhAJooNNozCVpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T03:04:57.846897Z",
+      "mint": "6ujwMRf28Xd5xUJBHyAN1hTTTLCCyDEDFbQTcHNRpump",
+      "label": "The RTX Dick",
+      "verdict": "kill",
+      "reason": "liq $48",
+      "link": "https://fomo.family/coin?address=6ujwMRf28Xd5xUJBHyAN1hTTTLCCyDEDFbQTcHNRpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T02:32:51.504267Z",
       "mint": "7Wa24Rs39Ktf2vfo6Nt4kv4RTfjaQbXDY9y8E3vFpump",
       "label": "GTA6",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=DY5XeASmr2KZBbWNnZNHXM3eTvrfmqYaYy3YDh68pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T01:12:30.829113Z",
-      "mint": "4rg7dZ1cUec9iv1f1Mj5GP4juUe1dhAJooNNozCVpump",
-      "label": "Rockstar Games",
-      "verdict": "kill",
-      "reason": "liq $22.6K",
-      "link": "https://fomo.family/coin?address=4rg7dZ1cUec9iv1f1Mj5GP4juUe1dhAJooNNozCVpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
