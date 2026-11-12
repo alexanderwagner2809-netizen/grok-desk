@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T00:43:33.231710Z",
+  "ts": "2026-11-12T00:47:55.300502Z",
   "mint": "9RyENt3gJ1MEsFPiJAMyNerYYngLDuyZfVP4GBqepump",
   "name": "TILLY",
   "symbol": "TILLY",
@@ -11,8 +11,8 @@
   "creator": null,
   "holders": null,
   "link": "https://fomo.family/coin?address=9RyENt3gJ1MEsFPiJAMyNerYYngLDuyZfVP4GBqepump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001165,
-  "priceTs": "2026-11-12T00:43:33.040885Z",
+  "price": 0.0001133,
+  "priceTs": "2026-11-12T00:47:55.123062Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -304,12 +304,20 @@
       "l": 0.0001165,
       "c": 0.0001165,
       "v": 0.0
+    },
+    {
+      "t": 1794444420,
+      "o": 0.0001133,
+      "h": 0.0001133,
+      "l": 0.0001133,
+      "c": 0.0001133,
+      "v": 1822.77
     }
   ],
   "stats": {
-    "marketCap": 114341.0,
-    "liquidity": 25097.1,
-    "volume24h": 219787.95,
+    "marketCap": 111265.0,
+    "liquidity": 24742.98,
+    "volume24h": 221756.71,
     "holders": null
   },
   "position": null,
