@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T23:09:51.831868Z",
+  "mint": "GdPu5KPUeka8RJje6wjZ3o45wNDpHaSivoe6ydYhpump",
+  "name": "Yetzer Hara Trap ",
+  "symbol": "YHT",
+  "label": "Yetzer Hara Trap ",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T23:09:07.820938Z",
+  "pool": "2bcXYAxytviALobGuD21eF6riJkBPqKRJsVK34933ZdK",
+  "creator": "8wBA6NTtZHvu2jBCJQSTzRzEFh9KQgWC7btN4LrgpqP1",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=GdPu5KPUeka8RJje6wjZ3o45wNDpHaSivoe6ydYhpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.635e-05,
+  "priceTs": "2026-11-12T23:09:51.536785Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794524940,
+      "o": 2.635e-05,
+      "h": 2.635e-05,
+      "l": 2.635e-05,
+      "c": 2.635e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 26318.0,
+    "liquidity": 10934.34,
+    "volume24h": 3128.28,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T23:09:30.935833Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -30.54,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
