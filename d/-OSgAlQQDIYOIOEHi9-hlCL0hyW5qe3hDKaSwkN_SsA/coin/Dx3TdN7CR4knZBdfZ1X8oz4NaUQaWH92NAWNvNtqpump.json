@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-12T16:47:08.629874Z",
+  "ts": "2026-11-12T16:48:20.237925Z",
   "mint": "Dx3TdN7CR4knZBdfZ1X8oz4NaUQaWH92NAWNvNtqpump",
-  "name": null,
-  "symbol": null,
-  "label": "Dx3TdN7C",
+  "name": "SPY",
+  "symbol": "SPY",
+  "label": "SPY",
   "chain": "Solana",
-  "age": "3m old",
+  "age": "4m old",
   "migratedAt": "2026-11-12T16:43:48.964422Z",
-  "pool": null,
+  "pool": "67vPn4EMuyMq4zVFQHvdDxcPHQWUweropGcyU4mAfe4d",
   "creator": "BDM9pg31dXftteqPwmafYiaRojvaFVJR5DG6Q1szwg7D",
   "holders": null,
   "link": "https://fomo.family/coin?address=Dx3TdN7CR4knZBdfZ1X8oz4NaUQaWH92NAWNvNtqpump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T16:48:07.034468Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -78.48,
+      "age_min": 4,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
