@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T18:42:16.580800Z",
+  "mint": "A7TmqRupSgt62Z2XbbXeZwxu7SrE7DSq5JkwLWZnpump",
+  "name": "Gigabyte",
+  "symbol": "GB",
+  "label": "Gigabyte",
+  "chain": "Solana",
+  "age": "2m old",
+  "migratedAt": "2026-11-12T18:40:13.701145Z",
+  "pool": "D583i9DgTQP9KhDieJFbpkWBCEaCrvEA1wDLoychDbAC",
+  "creator": "A39XQVRkanWB9rVH9Lqdd8jngVLzNPESeJxEkw3tg4k3",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=A7TmqRupSgt62Z2XbbXeZwxu7SrE7DSq5JkwLWZnpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 5.719e-09,
+  "priceTs": "2026-11-12T18:42:15.763464Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794508920,
+      "o": 6.559e-09,
+      "h": 6.559e-09,
+      "l": 5.719e-09,
+      "c": 5.719e-09,
+      "v": 0.8400000000000034
+    }
+  ],
+  "stats": {
+    "marketCap": 11.0,
+    "liquidity": 17.07,
+    "volume24h": 160.69,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T18:42:14.392475Z",
+      "liquidity_usd": 18.37,
+      "top10_pct": null,
+      "h1_change_pct": -97.76,
+      "age_min": 2,
+      "verdict": "kill",
+      "reason": "liq $18"
+    }
+  ]
+}
