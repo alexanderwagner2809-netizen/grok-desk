@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T16:26:53.554881Z",
+  "ts": "2026-11-12T16:28:05.200892Z",
   "mint": "DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump",
   "name": "🐸 Moon Frog",
   "symbol": "$MFRG",
@@ -11,8 +11,8 @@
   "creator": "B9V6wNHE6hm98z22FcCszaaL93wcDuibzEYqsX5x6df5",
   "holders": null,
   "link": "https://fomo.family/coin?address=DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.529e-08,
-  "priceTs": "2026-11-12T16:26:51.982890Z",
+  "price": 2.119e-08,
+  "priceTs": "2026-11-12T16:28:03.453930Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -440,12 +440,20 @@
       "l": 1.529e-08,
       "c": 1.529e-08,
       "v": 2.6400000000000006
+    },
+    {
+      "t": 1794500880,
+      "o": 2.119e-08,
+      "h": 2.119e-08,
+      "l": 2.119e-08,
+      "c": 2.119e-08,
+      "v": 5.3100000000000005
     }
   ],
   "stats": {
-    "marketCap": 31.0,
-    "liquidity": 9.14,
-    "volume24h": 391.01,
+    "marketCap": 42.0,
+    "liquidity": 10.8,
+    "volume24h": 396.58,
     "holders": null
   },
   "position": null,
