@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T11:48:46.890889Z",
+  "ts": "2026-11-12T11:49:56.810709Z",
   "mint": "2rQWxRpgpxd9a24jK829ECcwWYnonPYmPRG9gG5cpump",
   "name": "Ian Buck",
   "symbol": "BUCK",
@@ -11,8 +11,8 @@
   "creator": "4EcSYHYW5t1cZ9D5evvyUgJzQfYcxVEjrzshVt5nRn9i",
   "holders": null,
   "link": "https://fomo.family/coin?address=2rQWxRpgpxd9a24jK829ECcwWYnonPYmPRG9gG5cpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.801e-05,
-  "priceTs": "2026-11-12T11:48:45.660232Z",
+  "price": 2.769e-05,
+  "priceTs": "2026-11-12T11:49:55.604951Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1032,12 +1032,20 @@
       "l": 2.801e-05,
       "c": 2.801e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794484140,
+      "o": 2.769e-05,
+      "h": 2.769e-05,
+      "l": 2.769e-05,
+      "c": 2.769e-05,
+      "v": 18.95
     }
   ],
   "stats": {
-    "marketCap": 26534.0,
-    "liquidity": 12847.65,
-    "volume24h": 16816.7,
+    "marketCap": 26233.0,
+    "liquidity": 12772.06,
+    "volume24h": 16835.65,
     "holders": null
   },
   "position": null,
