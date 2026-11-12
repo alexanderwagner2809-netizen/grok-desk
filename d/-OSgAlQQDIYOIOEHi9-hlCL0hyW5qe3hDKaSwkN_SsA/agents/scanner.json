@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T15:47:42.974746Z",
+  "ts": "2026-11-12T16:06:26.929190Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T15:47:41.694187Z",
+  "heartbeat": "2026-11-12T16:06:25.323367Z",
   "paused": false,
   "status": "running",
-  "card": "255 pools",
-  "count": 255,
+  "card": "256 pools",
+  "count": 256,
   "passed": 0,
   "feed": [
+    {
+      "mint": "2AWpsSAUc1nsf8ZKLhhnf2uRNX2ifV4RRYLPR5n8pump",
+      "label": "2AWpsSAU",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=2AWpsSAUc1nsf8ZKLhhnf2uRNX2ifV4RRYLPR5n8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "6wCbd4s3nknrqB7Cc3ZcAXWLfixydVywYE4Eikkxpump",
       "label": "GTA6",
@@ -66,19 +74,19 @@
       "reason": "liq $12.7K",
       "subtitle": "liq $12.7K",
       "link": "https://fomo.family/coin?address=3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "G4SCa7jcq2GCnTS9rUCCt7Fq6o4gZ4rhccnqCGR7pump",
-      "label": "Jensen Huang",
-      "verdict": "kill",
-      "reason": "liq $18.6K",
-      "subtitle": "liq $18.6K",
-      "link": "https://fomo.family/coin?address=G4SCa7jcq2GCnTS9rUCCt7Fq6o4gZ4rhccnqCGR7pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T16:01:53.115854Z",
+      "mint": "2AWpsSAUc1nsf8ZKLhhnf2uRNX2ifV4RRYLPR5n8pump",
+      "label": "2AWpsSAU",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=2AWpsSAUc1nsf8ZKLhhnf2uRNX2ifV4RRYLPR5n8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:46:55.697166Z",
       "mint": "6wCbd4s3nknrqB7Cc3ZcAXWLfixydVywYE4Eikkxpump",
       "label": "GTA6",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $18.9K",
       "link": "https://fomo.family/coin?address=ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:09:11.783801Z",
-      "mint": "DpFBdhBiBWH4s3HXi5YsEqoaRA44MPeNRMkTvNwzpump",
-      "label": "NVIDIA",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=DpFBdhBiBWH4s3HXi5YsEqoaRA44MPeNRMkTvNwzpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T16:01:53.115854Z",
+      "mint": "2AWpsSAUc1nsf8ZKLhhnf2uRNX2ifV4RRYLPR5n8pump",
+      "label": "2AWpsSAU",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=2AWpsSAUc1nsf8ZKLhhnf2uRNX2ifV4RRYLPR5n8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:46:55.697166Z",
       "mint": "6wCbd4s3nknrqB7Cc3ZcAXWLfixydVywYE4Eikkxpump",
       "label": "GTA6",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $18.9K",
       "link": "https://fomo.family/coin?address=ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:09:11.783801Z",
-      "mint": "DpFBdhBiBWH4s3HXi5YsEqoaRA44MPeNRMkTvNwzpump",
-      "label": "NVIDIA",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=DpFBdhBiBWH4s3HXi5YsEqoaRA44MPeNRMkTvNwzpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

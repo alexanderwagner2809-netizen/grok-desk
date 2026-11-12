@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T15:47:42.664720Z",
+  "ts": "2026-11-12T16:06:26.488279Z",
   "mint": "C5Jnxa1WT4EGouKzq2U8MbUyPddLYGBC79HczqWSpump",
   "name": "GABOON",
   "symbol": "GABOON",
@@ -11,8 +11,8 @@
   "creator": "hrBPCj2epsboCw17ZoigVeUH1icM9vJwppJxWZszxfw",
   "holders": null,
   "link": "https://fomo.family/coin?address=C5Jnxa1WT4EGouKzq2U8MbUyPddLYGBC79HczqWSpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.549e-06,
-  "priceTs": "2026-11-12T15:47:41.524953Z",
+  "price": 1.517e-06,
+  "priceTs": "2026-11-12T16:06:24.983933Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2824,12 +2824,20 @@
       "l": 1.549e-06,
       "c": 1.549e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794499560,
+      "o": 1.517e-06,
+      "h": 1.517e-06,
+      "l": 1.517e-06,
+      "c": 1.517e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1505.0,
-    "liquidity": 1570.73,
-    "volume24h": 79161.71,
+    "marketCap": 1474.0,
+    "liquidity": 1537.7,
+    "volume24h": 79161.76,
     "holders": null
   },
   "position": null,
