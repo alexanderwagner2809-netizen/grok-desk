@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T17:45:14.235722Z",
+  "ts": "2026-11-12T17:47:00.131781Z",
   "mint": "9tmoXR86yfdJLf3R41XrhWqj6VPdzmn6X21cnVHDpump",
-  "name": null,
-  "symbol": null,
-  "label": "9tmoXR86",
+  "name": "Fear Of Missing Out",
+  "symbol": "#FOMO",
+  "label": "Fear Of Missing Out",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T17:45:08.704666Z",
-  "pool": null,
+  "pool": "A1WggJTjVFqsRRJBJNSFmX38NMoSWazhSP7HjfoD5Bxg",
   "creator": "FuwkBNHLC2x2JFBd1Bapha8KTPWriRTVUuxzG7xbLhUf",
   "holders": null,
   "link": "https://fomo.family/coin?address=9tmoXR86yfdJLf3R41XrhWqj6VPdzmn6X21cnVHDpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.985e-07,
-  "priceTs": "2026-11-12T17:45:12.441404Z",
+  "price": 1.334e-08,
+  "priceTs": "2026-11-12T17:46:59.397006Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 1.985e-07,
       "c": 1.985e-07,
       "v": 0.0
+    },
+    {
+      "t": 1794505560,
+      "o": 1.334e-08,
+      "h": 1.334e-08,
+      "l": 1.334e-08,
+      "c": 1.334e-08,
+      "v": 946.28
     }
   ],
   "stats": {
-    "marketCap": 198.58,
-    "liquidity": null,
-    "volume24h": 1222.24,
+    "marketCap": 27.0,
+    "liquidity": 54.4,
+    "volume24h": 2168.52,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T17:46:58.359577Z",
+      "liquidity_usd": 54.4,
+      "top10_pct": null,
+      "h1_change_pct": -98.64,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $54"
+    }
+  ]
 }

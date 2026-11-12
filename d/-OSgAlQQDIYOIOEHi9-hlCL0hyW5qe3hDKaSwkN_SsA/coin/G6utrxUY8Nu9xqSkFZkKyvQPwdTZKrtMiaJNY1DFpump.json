@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T17:47:00.131129Z",
+  "mint": "G6utrxUY8Nu9xqSkFZkKyvQPwdTZKrtMiaJNY1DFpump",
+  "name": "gently used leather jacket",
+  "symbol": "jacket",
+  "label": "gently used leather jacket",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-12T17:45:23.289990Z",
+  "pool": "HoQpQJJKgfNjpXpfCkob5ENYPRGseBM8y8Wt9axMCRDd",
+  "creator": "21MRfwnMsz7NpddpKP3D27pZehRuiFhtENgUebjxxWFc",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=G6utrxUY8Nu9xqSkFZkKyvQPwdTZKrtMiaJNY1DFpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.556e-05,
+  "priceTs": "2026-11-12T17:46:59.994982Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794505560,
+      "o": 3.556e-05,
+      "h": 3.556e-05,
+      "l": 3.556e-05,
+      "c": 3.556e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 35517.0,
+    "liquidity": 12881.48,
+    "volume24h": 17932.87,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T17:46:58.360551Z",
+      "liquidity_usd": 12881.48,
+      "top10_pct": null,
+      "h1_change_pct": 5.57,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $12.9K"
+    }
+  ]
+}

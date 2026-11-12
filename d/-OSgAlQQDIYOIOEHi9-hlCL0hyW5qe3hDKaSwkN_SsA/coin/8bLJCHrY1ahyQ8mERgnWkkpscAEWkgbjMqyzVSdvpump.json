@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T17:45:13.621289Z",
+  "ts": "2026-11-12T17:47:00.151265Z",
   "mint": "8bLJCHrY1ahyQ8mERgnWkkpscAEWkgbjMqyzVSdvpump",
   "name": "Dugecoin",
   "symbol": "DUGE",
@@ -11,8 +11,8 @@
   "creator": "7b85oxqp3AiAeQ9dxPDJ5zkAqQrtZ7Bg6Nd6d91QW7AN",
   "holders": null,
   "link": "https://fomo.family/coin?address=8bLJCHrY1ahyQ8mERgnWkkpscAEWkgbjMqyzVSdvpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.997e-06,
-  "priceTs": "2026-11-12T17:45:10.636688Z",
+  "price": 1.566e-06,
+  "priceTs": "2026-11-12T17:46:58.371094Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -232,12 +232,20 @@
       "l": 1.997e-06,
       "c": 1.997e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794505560,
+      "o": 1.566e-06,
+      "h": 1.566e-06,
+      "l": 1.566e-06,
+      "c": 1.566e-06,
+      "v": 0.12
     }
   ],
   "stats": {
-    "marketCap": 1920.0,
-    "liquidity": 1995.8,
-    "volume24h": 60354.42,
+    "marketCap": 1505.0,
+    "liquidity": 1582.83,
+    "volume24h": 60354.54,
     "holders": null
   },
   "position": null,

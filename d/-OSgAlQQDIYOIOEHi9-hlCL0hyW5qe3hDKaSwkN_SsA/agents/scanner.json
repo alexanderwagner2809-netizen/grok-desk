@@ -1,16 +1,48 @@
 {
-  "ts": "2026-11-12T17:45:14.754917Z",
+  "ts": "2026-11-12T17:47:01.244135Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T17:45:10.708998Z",
+  "heartbeat": "2026-11-12T17:46:58.177852Z",
   "paused": false,
   "status": "running",
-  "card": "289 pools",
-  "count": 289,
+  "card": "293 pools",
+  "count": 293,
   "passed": 0,
   "feed": [
+    {
+      "mint": "CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump",
+      "label": "HuangFu",
+      "verdict": "kill",
+      "reason": "liq $258",
+      "subtitle": "liq $258",
+      "link": "https://fomo.family/coin?address=CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "4jqeezA4G7NvsowsfkcP366vguPK2GqPdNjaYMHvpump",
+      "label": "green cat",
+      "verdict": "kill",
+      "reason": "liq $77",
+      "subtitle": "liq $77",
+      "link": "https://fomo.family/coin?address=4jqeezA4G7NvsowsfkcP366vguPK2GqPdNjaYMHvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "G6utrxUY8Nu9xqSkFZkKyvQPwdTZKrtMiaJNY1DFpump",
+      "label": "gently used leather jacket",
+      "verdict": "kill",
+      "reason": "liq $12.9K",
+      "subtitle": "liq $12.9K",
+      "link": "https://fomo.family/coin?address=G6utrxUY8Nu9xqSkFZkKyvQPwdTZKrtMiaJNY1DFpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "9tmoXR86yfdJLf3R41XrhWqj6VPdzmn6X21cnVHDpump",
+      "label": "Fear Of Missing Out",
+      "verdict": "kill",
+      "reason": "liq $54",
+      "subtitle": "liq $54",
+      "link": "https://fomo.family/coin?address=9tmoXR86yfdJLf3R41XrhWqj6VPdzmn6X21cnVHDpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump",
       "label": "DaCity Coin",
@@ -42,43 +74,43 @@
       "reason": "liq $11.8K",
       "subtitle": "liq $11.8K",
       "link": "https://fomo.family/coin?address=3TZTcMvgST9TiMuiv1ALfU4tTBkLc6LbMjCjAaEjpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "42u2hK7MAATde7emizLnoQ7P5JLuuwPHbkS1DC8npump",
-      "label": "AURACOIN",
-      "verdict": "kill",
-      "reason": "liq $2",
-      "subtitle": "liq $2",
-      "link": "https://fomo.family/coin?address=42u2hK7MAATde7emizLnoQ7P5JLuuwPHbkS1DC8npump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
-      "label": "TTWofwAg",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "subtitle": "never qualified",
-      "link": "https://fomo.family/coin?address=TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "FTsygApbDiJ8QY9heS4bapiXWiTV1YCwYT14LeDqmfRP",
-      "label": "PillBoard",
-      "verdict": "kill",
-      "reason": "liq $10.0K",
-      "subtitle": "liq $10.0K",
-      "link": "https://fomo.family/coin?address=FTsygApbDiJ8QY9heS4bapiXWiTV1YCwYT14LeDqmfRP&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "HiTeQifUrayWtJXkvcRqbdRWRULKuo5KT9Qc4H5Zpump",
-      "label": "AURACOIN",
-      "verdict": "kill",
-      "reason": "+10325% in 1h",
-      "subtitle": "+10325% in 1h",
-      "link": "https://fomo.family/coin?address=HiTeQifUrayWtJXkvcRqbdRWRULKuo5KT9Qc4H5Zpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T17:46:58.362421Z",
+      "mint": "CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump",
+      "label": "HuangFu",
+      "verdict": "kill",
+      "reason": "liq $258",
+      "link": "https://fomo.family/coin?address=CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T17:46:58.361604Z",
+      "mint": "4jqeezA4G7NvsowsfkcP366vguPK2GqPdNjaYMHvpump",
+      "label": "green cat",
+      "verdict": "kill",
+      "reason": "liq $77",
+      "link": "https://fomo.family/coin?address=4jqeezA4G7NvsowsfkcP366vguPK2GqPdNjaYMHvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T17:46:58.360551Z",
+      "mint": "G6utrxUY8Nu9xqSkFZkKyvQPwdTZKrtMiaJNY1DFpump",
+      "label": "gently used leather jacket",
+      "verdict": "kill",
+      "reason": "liq $12.9K",
+      "link": "https://fomo.family/coin?address=G6utrxUY8Nu9xqSkFZkKyvQPwdTZKrtMiaJNY1DFpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T17:46:58.359577Z",
+      "mint": "9tmoXR86yfdJLf3R41XrhWqj6VPdzmn6X21cnVHDpump",
+      "label": "Fear Of Missing Out",
+      "verdict": "kill",
+      "reason": "liq $54",
+      "link": "https://fomo.family/coin?address=9tmoXR86yfdJLf3R41XrhWqj6VPdzmn6X21cnVHDpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T17:45:10.915245Z",
       "mint": "EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump",
       "label": "DaCity Coin",
@@ -205,42 +237,42 @@
       "verdict": "kill",
       "reason": "liq $11.8K",
       "link": "https://fomo.family/coin?address=58okqXoxYh1hbSgvUjHG4iNw1PekncGvAxGFRoRDpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:39:29.175126Z",
-      "mint": "9nKwU4ym71UGDMEV54MtJ8v8Gea2LMYiYCY3eDJnpump",
-      "label": "JEFFERY HUANG",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=9nKwU4ym71UGDMEV54MtJ8v8Gea2LMYiYCY3eDJnpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:35:59.468502Z",
-      "mint": "7P6NTos913CsZDJeCZYmZjcicevKR3vpQM7Rmrvrpump",
-      "label": "SLING",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=7P6NTos913CsZDJeCZYmZjcicevKR3vpQM7Rmrvrpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:33:04.258473Z",
-      "mint": "8bLJCHrY1ahyQ8mERgnWkkpscAEWkgbjMqyzVSdvpump",
-      "label": "Dugecoin",
-      "verdict": "kill",
-      "reason": "liq $13.2K",
-      "link": "https://fomo.family/coin?address=8bLJCHrY1ahyQ8mERgnWkkpscAEWkgbjMqyzVSdvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:29:32.811829Z",
-      "mint": "41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump",
-      "label": "NEYMAN",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T17:46:58.362421Z",
+      "mint": "CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump",
+      "label": "HuangFu",
+      "verdict": "kill",
+      "reason": "liq $258",
+      "link": "https://fomo.family/coin?address=CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T17:46:58.361604Z",
+      "mint": "4jqeezA4G7NvsowsfkcP366vguPK2GqPdNjaYMHvpump",
+      "label": "green cat",
+      "verdict": "kill",
+      "reason": "liq $77",
+      "link": "https://fomo.family/coin?address=4jqeezA4G7NvsowsfkcP366vguPK2GqPdNjaYMHvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T17:46:58.360551Z",
+      "mint": "G6utrxUY8Nu9xqSkFZkKyvQPwdTZKrtMiaJNY1DFpump",
+      "label": "gently used leather jacket",
+      "verdict": "kill",
+      "reason": "liq $12.9K",
+      "link": "https://fomo.family/coin?address=G6utrxUY8Nu9xqSkFZkKyvQPwdTZKrtMiaJNY1DFpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T17:46:58.359577Z",
+      "mint": "9tmoXR86yfdJLf3R41XrhWqj6VPdzmn6X21cnVHDpump",
+      "label": "Fear Of Missing Out",
+      "verdict": "kill",
+      "reason": "liq $54",
+      "link": "https://fomo.family/coin?address=9tmoXR86yfdJLf3R41XrhWqj6VPdzmn6X21cnVHDpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T17:45:10.915245Z",
       "mint": "EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump",
       "label": "DaCity Coin",
@@ -367,38 +399,6 @@
       "verdict": "kill",
       "reason": "liq $11.8K",
       "link": "https://fomo.family/coin?address=58okqXoxYh1hbSgvUjHG4iNw1PekncGvAxGFRoRDpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:39:29.175126Z",
-      "mint": "9nKwU4ym71UGDMEV54MtJ8v8Gea2LMYiYCY3eDJnpump",
-      "label": "JEFFERY HUANG",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=9nKwU4ym71UGDMEV54MtJ8v8Gea2LMYiYCY3eDJnpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:35:59.468502Z",
-      "mint": "7P6NTos913CsZDJeCZYmZjcicevKR3vpQM7Rmrvrpump",
-      "label": "SLING",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=7P6NTos913CsZDJeCZYmZjcicevKR3vpQM7Rmrvrpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:33:04.258473Z",
-      "mint": "8bLJCHrY1ahyQ8mERgnWkkpscAEWkgbjMqyzVSdvpump",
-      "label": "Dugecoin",
-      "verdict": "kill",
-      "reason": "liq $13.2K",
-      "link": "https://fomo.family/coin?address=8bLJCHrY1ahyQ8mERgnWkkpscAEWkgbjMqyzVSdvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:29:32.811829Z",
-      "mint": "41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump",
-      "label": "NEYMAN",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

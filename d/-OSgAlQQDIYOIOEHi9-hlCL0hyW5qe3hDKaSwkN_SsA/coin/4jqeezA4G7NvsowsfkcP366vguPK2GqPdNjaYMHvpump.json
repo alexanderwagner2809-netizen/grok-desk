@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T17:47:00.130511Z",
+  "mint": "4jqeezA4G7NvsowsfkcP366vguPK2GqPdNjaYMHvpump",
+  "name": "green cat",
+  "symbol": "GrenCAT",
+  "label": "green cat",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T17:46:58.176348Z",
+  "pool": "HjPCiDuxwHgM2tpx3P5Ao3nWrZTonRxSYqnZcDzHkLSP",
+  "creator": null,
+  "holders": null,
+  "link": "https://fomo.family/coin?address=4jqeezA4G7NvsowsfkcP366vguPK2GqPdNjaYMHvpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 1.531e-07,
+  "priceTs": "2026-11-12T17:46:58.361245Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794505560,
+      "o": 1.531e-07,
+      "h": 1.531e-07,
+      "l": 1.531e-07,
+      "c": 1.531e-07,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": null,
+    "liquidity": 76.74,
+    "volume24h": null,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T17:46:58.361604Z",
+      "liquidity_usd": 76.74,
+      "top10_pct": null,
+      "h1_change_pct": -14.09,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $77"
+    }
+  ]
+}

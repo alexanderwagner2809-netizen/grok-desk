@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T17:47:00.129753Z",
+  "mint": "CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump",
+  "name": "HuangFu",
+  "symbol": "HuangFu",
+  "label": "HuangFu",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T17:46:58.177324Z",
+  "pool": "4YE97GiCGtQQBS13Kum8KaXAWkGwtoPrjQWcg1Z32aCr",
+  "creator": "6p4f1rwuaA82g27D46cvxoysUzSWitXcWDzTi1s9CZAw",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.571e-07,
+  "priceTs": "2026-11-12T17:46:58.362089Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794505560,
+      "o": 3.571e-07,
+      "h": 3.571e-07,
+      "l": 3.571e-07,
+      "c": 3.571e-07,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": null,
+    "liquidity": 257.69,
+    "volume24h": null,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T17:46:58.362421Z",
+      "liquidity_usd": 257.69,
+      "top10_pct": null,
+      "h1_change_pct": -59.47,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $258"
+    }
+  ]
+}
