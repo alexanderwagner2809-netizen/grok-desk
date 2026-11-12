@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-12T20:41:05.281312Z",
+  "ts": "2026-11-12T20:41:52.288981Z",
   "mint": "AnVZpNnLSDR8fy3bmti3KpXrpa6AEJUEUvZo1Ddqpump",
-  "name": null,
-  "symbol": null,
-  "label": "AnVZpNnL",
+  "name": "Lots of Oil ",
+  "symbol": "LOO",
+  "label": "Lots of Oil ",
   "chain": "Solana",
   "age": "1m old",
   "migratedAt": "2026-11-12T20:40:02.443616Z",
-  "pool": null,
+  "pool": "7Xw5zFBYa8oZnX8n9TULbqqNc3vpApv18pUoyNR6Bc2B",
   "creator": "Aj749ETUDXfCAdMjDRtNAaaugNdCqckJMa4DZyhb6nHX",
   "holders": null,
   "link": "https://fomo.family/coin?address=AnVZpNnLSDR8fy3bmti3KpXrpa6AEJUEUvZo1Ddqpump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,7 +19,7 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
@@ -34,6 +34,15 @@
       "age_min": 61,
       "verdict": "kill",
       "reason": "never qualified"
+    },
+    {
+      "ts": "2026-11-12T20:41:46.497485Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 55.98,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $0"
     }
   ]
 }
