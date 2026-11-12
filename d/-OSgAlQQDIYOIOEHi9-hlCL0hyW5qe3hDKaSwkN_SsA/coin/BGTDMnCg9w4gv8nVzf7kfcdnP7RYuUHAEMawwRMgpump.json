@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T11:13:58.145392Z",
+  "ts": "2026-11-12T11:15:08.002034Z",
   "mint": "BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump",
   "name": "Paid",
   "symbol": "PAID",
@@ -11,8 +11,8 @@
   "creator": "2dpdWc1x28viNEpMYMA4T9nokcbTDZPbtZGBzah8mjyg",
   "holders": null,
   "link": "https://fomo.family/coin?address=BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.499e-06,
-  "priceTs": "2026-11-12T11:13:56.970013Z",
+  "price": 1.522e-06,
+  "priceTs": "2026-11-12T11:15:06.826247Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -424,12 +424,20 @@
       "l": 1.499e-06,
       "c": 1.499e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794482100,
+      "o": 1.522e-06,
+      "h": 1.522e-06,
+      "l": 1.522e-06,
+      "c": 1.522e-06,
+      "v": 2.79
     }
   ],
   "stats": {
-    "marketCap": 1478.0,
-    "liquidity": 1513.81,
-    "volume24h": 56666.47,
+    "marketCap": 1501.0,
+    "liquidity": 1536.83,
+    "volume24h": 56669.27,
     "holders": null
   },
   "position": null,
