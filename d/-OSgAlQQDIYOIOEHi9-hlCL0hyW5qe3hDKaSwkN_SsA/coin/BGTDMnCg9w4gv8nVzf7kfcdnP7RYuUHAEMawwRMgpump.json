@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T09:39:00.477765Z",
+  "ts": "2026-11-12T09:40:09.627806Z",
   "mint": "BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump",
   "name": "Paid",
   "symbol": "PAID",
   "label": "Paid",
   "chain": "Solana",
-  "age": "14m old",
+  "age": "15m old",
   "migratedAt": "2026-11-12T09:24:32.484182Z",
   "pool": "5XQ2PjAoHc2MLoWGATDuobj5hCLDAyxGFA9Yv3UtQJ4D",
   "creator": "2dpdWc1x28viNEpMYMA4T9nokcbTDZPbtZGBzah8mjyg",
   "holders": null,
   "link": "https://fomo.family/coin?address=BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001408,
-  "priceTs": "2026-11-12T09:38:59.409162Z",
+  "price": 0.000143,
+  "priceTs": "2026-11-12T09:40:08.458604Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -120,12 +120,20 @@
       "l": 0.0001408,
       "c": 0.0001408,
       "v": 113.25
+    },
+    {
+      "t": 1794476400,
+      "o": 0.000143,
+      "h": 0.000143,
+      "l": 0.000143,
+      "c": 0.000143,
+      "v": 88.23999999999978
     }
   ],
   "stats": {
-    "marketCap": 140810.0,
-    "liquidity": 27244.28,
-    "volume24h": 15589.51,
+    "marketCap": 143093.0,
+    "liquidity": 27477.08,
+    "volume24h": 16353.19,
     "holders": null
   },
   "position": null,

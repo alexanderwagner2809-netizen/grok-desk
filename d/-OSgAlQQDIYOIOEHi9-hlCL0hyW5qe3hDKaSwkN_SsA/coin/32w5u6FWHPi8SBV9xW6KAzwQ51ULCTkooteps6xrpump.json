@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-12T09:40:09.625053Z",
+  "mint": "32w5u6FWHPi8SBV9xW6KAzwQ51ULCTkooteps6xrpump",
+  "name": "MrBeast",
+  "symbol": "MrBeast",
+  "label": "MrBeast",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T09:39:16.114493Z",
+  "pool": "6J87wM4WW1zLKYrJPd8EdnJGFtoAZYwzAJavHmfksgt1",
+  "creator": "3YsDXspGq4QcNVvEswectUUYg6fMz8v155hUQLFnmMHP",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=32w5u6FWHPi8SBV9xW6KAzwQ51ULCTkooteps6xrpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 0.0001034,
+  "priceTs": "2026-11-12T09:40:08.458604Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794476340,
+      "o": 9.919e-05,
+      "h": 9.919e-05,
+      "l": 9.919e-05,
+      "c": 9.919e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794476400,
+      "o": 0.0001034,
+      "h": 0.0001034,
+      "l": 0.0001034,
+      "c": 0.0001034,
+      "v": 262.2399999999998
+    }
+  ],
+  "stats": {
+    "marketCap": 103412.0,
+    "liquidity": 23121.75,
+    "volume24h": 5419.59,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T09:39:54.032313Z",
+      "liquidity_usd": 22613.51,
+      "top10_pct": null,
+      "h1_change_pct": 188.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "+188% in 1h"
+    }
+  ]
+}

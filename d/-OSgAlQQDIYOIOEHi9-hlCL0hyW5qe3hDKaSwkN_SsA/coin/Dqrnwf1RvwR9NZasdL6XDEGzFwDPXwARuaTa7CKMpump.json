@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T09:39:00.825407Z",
+  "ts": "2026-11-12T09:40:09.625760Z",
   "mint": "Dqrnwf1RvwR9NZasdL6XDEGzFwDPXwARuaTa7CKMpump",
-  "name": null,
-  "symbol": null,
-  "label": "Dqrnwf1R",
+  "name": "La Misery",
+  "symbol": "LaMisery",
+  "label": "La Misery",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T09:38:47.788296Z",
-  "pool": null,
+  "pool": "9UDNhbNsvtxjdZKZZMpqriuu3XL5UvNXqdpuiDiE2sXB",
   "creator": "9n1xKXgG7EpJzwEWorHh631etCTkN8E2DwQpk7wp8wbd",
   "holders": null,
   "link": "https://fomo.family/coin?address=Dqrnwf1RvwR9NZasdL6XDEGzFwDPXwARuaTa7CKMpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.056e-09,
-  "priceTs": "2026-11-12T09:39:00.335945Z",
+  "price": 7.444e-10,
+  "priceTs": "2026-11-12T09:40:08.458604Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -21,18 +21,36 @@
       "t": 1794476340,
       "o": 4.056e-09,
       "h": 4.056e-09,
-      "l": 4.056e-09,
-      "c": 4.056e-09,
+      "l": 1.85e-09,
+      "c": 1.85e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794476400,
+      "o": 7.444e-10,
+      "h": 7.444e-10,
+      "l": 7.444e-10,
+      "c": 7.444e-10,
+      "v": 0.5499999999999998
     }
   ],
   "stats": {
-    "marketCap": 4.06,
-    "liquidity": null,
-    "volume24h": 680.89,
+    "marketCap": 1.0,
+    "liquidity": 1.19,
+    "volume24h": 5.09,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T09:39:18.148122Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -85.82,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
