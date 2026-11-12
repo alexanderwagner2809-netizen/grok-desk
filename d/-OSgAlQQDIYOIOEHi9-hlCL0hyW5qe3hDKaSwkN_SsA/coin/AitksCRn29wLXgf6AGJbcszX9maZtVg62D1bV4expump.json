@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T03:13:12.372621Z",
+  "ts": "2026-11-12T03:15:28.372423Z",
   "mint": "AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump",
   "name": "Maximus",
   "symbol": "MAX",
@@ -11,8 +11,8 @@
   "creator": "DJPpsJkwMnafRnEt5y6ARFC2ABwfpeLfd3FQYZGhKM57",
   "holders": null,
   "link": "https://fomo.family/coin?address=AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001436,
-  "priceTs": "2026-11-12T03:13:11.838926Z",
+  "price": 0.000126,
+  "priceTs": "2026-11-12T03:15:27.786146Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -160,12 +160,20 @@
       "l": 0.0001436,
       "c": 0.0001436,
       "v": 0.0
+    },
+    {
+      "t": 1794453300,
+      "o": 0.000126,
+      "h": 0.000126,
+      "l": 0.000126,
+      "c": 0.000126,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 141713.0,
-    "liquidity": 28312.11,
-    "volume24h": 382329.16,
+    "marketCap": 124397.0,
+    "liquidity": 26448.32,
+    "volume24h": 388448.61,
     "holders": null
   },
   "position": null,
