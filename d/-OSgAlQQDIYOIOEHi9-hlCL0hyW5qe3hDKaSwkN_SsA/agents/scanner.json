@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T15:27:36.985271Z",
+  "ts": "2026-11-12T15:28:48.770604Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T15:27:32.580984Z",
+  "heartbeat": "2026-11-12T15:28:42.419318Z",
   "paused": false,
   "status": "running",
-  "card": "244 pools",
-  "count": 244,
+  "card": "246 pools",
+  "count": 246,
   "passed": 0,
   "feed": [
+    {
+      "mint": "EPPBbiS1uqDVGgB4xdZ4SpxuVUWuSapT4T68wFGcpump",
+      "label": "Jensen Huang Coin",
+      "verdict": "kill",
+      "reason": "liq $12.9K",
+      "subtitle": "liq $12.9K",
+      "link": "https://fomo.family/coin?address=EPPBbiS1uqDVGgB4xdZ4SpxuVUWuSapT4T68wFGcpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "A1D74fA9RqeQcxdJNC67pzanVaiySyJPwcTUoyPBpump",
+      "label": "Jensen Huang Coin",
+      "verdict": "kill",
+      "reason": "liq $13.3K",
+      "subtitle": "liq $13.3K",
+      "link": "https://fomo.family/coin?address=A1D74fA9RqeQcxdJNC67pzanVaiySyJPwcTUoyPBpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump",
       "label": "Pokemon In 9-5",
@@ -58,27 +74,27 @@
       "reason": "liq $19.9K",
       "subtitle": "liq $19.9K",
       "link": "https://fomo.family/coin?address=GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump",
-      "label": "Seducing Intelligence",
-      "verdict": "kill",
-      "reason": "+188% in 1h",
-      "subtitle": "+188% in 1h",
-      "link": "https://fomo.family/coin?address=twrrjBg9gHUaX1jL2N4xPtnGR4JywfLxsdcntJqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump",
-      "label": "Dickcoin",
-      "verdict": "kill",
-      "reason": "liq $18.9K",
-      "subtitle": "liq $18.9K",
-      "link": "https://fomo.family/coin?address=ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T15:28:40.493631Z",
+      "mint": "EPPBbiS1uqDVGgB4xdZ4SpxuVUWuSapT4T68wFGcpump",
+      "label": "Jensen Huang Coin",
+      "verdict": "kill",
+      "reason": "liq $12.9K",
+      "link": "https://fomo.family/coin?address=EPPBbiS1uqDVGgB4xdZ4SpxuVUWuSapT4T68wFGcpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T15:28:40.492791Z",
+      "mint": "A1D74fA9RqeQcxdJNC67pzanVaiySyJPwcTUoyPBpump",
+      "label": "Jensen Huang Coin",
+      "verdict": "kill",
+      "reason": "liq $13.3K",
+      "link": "https://fomo.family/coin?address=A1D74fA9RqeQcxdJNC67pzanVaiySyJPwcTUoyPBpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:26:08.303118Z",
       "mint": "9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump",
       "label": "Pokemon In 9-5",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $3",
       "link": "https://fomo.family/coin?address=CZgr3UM7vnuDgMkLjyA62XwYcYL3qb3qRuupG2dopump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:08:19.944175Z",
-      "mint": "FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump",
-      "label": "OpenToWork",
-      "verdict": "kill",
-      "reason": "liq $13.3K",
-      "link": "https://fomo.family/coin?address=FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:05:51.159855Z",
-      "mint": "EVWBXYnaNZQEZmZYwrkNhzomM6jmd6HH1Ly8cVaRpump",
-      "label": "NVIDIA HOUSE COIN",
-      "verdict": "kill",
-      "reason": "liq $13.5K",
-      "link": "https://fomo.family/coin?address=EVWBXYnaNZQEZmZYwrkNhzomM6jmd6HH1Ly8cVaRpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T15:28:40.493631Z",
+      "mint": "EPPBbiS1uqDVGgB4xdZ4SpxuVUWuSapT4T68wFGcpump",
+      "label": "Jensen Huang Coin",
+      "verdict": "kill",
+      "reason": "liq $12.9K",
+      "link": "https://fomo.family/coin?address=EPPBbiS1uqDVGgB4xdZ4SpxuVUWuSapT4T68wFGcpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T15:28:40.492791Z",
+      "mint": "A1D74fA9RqeQcxdJNC67pzanVaiySyJPwcTUoyPBpump",
+      "label": "Jensen Huang Coin",
+      "verdict": "kill",
+      "reason": "liq $13.3K",
+      "link": "https://fomo.family/coin?address=A1D74fA9RqeQcxdJNC67pzanVaiySyJPwcTUoyPBpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:26:08.303118Z",
       "mint": "9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump",
       "label": "Pokemon In 9-5",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $3",
       "link": "https://fomo.family/coin?address=CZgr3UM7vnuDgMkLjyA62XwYcYL3qb3qRuupG2dopump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:08:19.944175Z",
-      "mint": "FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump",
-      "label": "OpenToWork",
-      "verdict": "kill",
-      "reason": "liq $13.3K",
-      "link": "https://fomo.family/coin?address=FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:05:51.159855Z",
-      "mint": "EVWBXYnaNZQEZmZYwrkNhzomM6jmd6HH1Ly8cVaRpump",
-      "label": "NVIDIA HOUSE COIN",
-      "verdict": "kill",
-      "reason": "liq $13.5K",
-      "link": "https://fomo.family/coin?address=EVWBXYnaNZQEZmZYwrkNhzomM6jmd6HH1Ly8cVaRpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
