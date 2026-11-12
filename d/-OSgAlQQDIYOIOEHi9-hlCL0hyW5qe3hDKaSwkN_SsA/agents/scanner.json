@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T06:04:02.454771Z",
+  "ts": "2026-11-12T06:05:10.836670Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T06:03:58.419015Z",
+  "heartbeat": "2026-11-12T06:04:58.429035Z",
   "paused": false,
   "status": "running",
-  "card": "119 pools",
-  "count": 119,
+  "card": "120 pools",
+  "count": 120,
   "passed": 0,
   "feed": [
+    {
+      "mint": "CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump",
+      "label": "Pepe Fly Adventure",
+      "verdict": "kill",
+      "reason": "liq $54",
+      "subtitle": "liq $54",
+      "link": "https://fomo.family/coin?address=CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "9sRDQgAWDMjVLmtJfcF2dPC2YE3A3x597H8o4ketpump",
       "label": "fine shyt cat",
@@ -66,19 +74,19 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=BX6Ve65LSXDYiWRFYjQZbJm4KX2i8sJ24TNn2zjhpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "7iN1CooUtSY8433LuCTPU6DDeS8wvCurYuzCNMJWpump",
-      "label": "profilepad",
-      "verdict": "kill",
-      "reason": "liq $3.6K",
-      "subtitle": "liq $3.6K",
-      "link": "https://fomo.family/coin?address=7iN1CooUtSY8433LuCTPU6DDeS8wvCurYuzCNMJWpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T06:04:17.911385Z",
+      "mint": "CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump",
+      "label": "Pepe Fly Adventure",
+      "verdict": "kill",
+      "reason": "liq $54",
+      "link": "https://fomo.family/coin?address=CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:01:17.724182Z",
       "mint": "9sRDQgAWDMjVLmtJfcF2dPC2YE3A3x597H8o4ketpump",
       "label": "fine shyt cat",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $17.3K",
       "link": "https://fomo.family/coin?address=4EGdVws4BwR9vVeZeNu61vpXB8FPGcPZyf2Zf3h8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T04:04:14.442539Z",
-      "mint": "Dkp7yCs1CUbAUwWekUwQaqEhNiNsY15N76D1jdtEpump",
-      "label": "GABOON",
-      "verdict": "kill",
-      "reason": "liq $13.6K",
-      "link": "https://fomo.family/coin?address=Dkp7yCs1CUbAUwWekUwQaqEhNiNsY15N76D1jdtEpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T06:04:17.911385Z",
+      "mint": "CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump",
+      "label": "Pepe Fly Adventure",
+      "verdict": "kill",
+      "reason": "liq $54",
+      "link": "https://fomo.family/coin?address=CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:01:17.724182Z",
       "mint": "9sRDQgAWDMjVLmtJfcF2dPC2YE3A3x597H8o4ketpump",
       "label": "fine shyt cat",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $17.3K",
       "link": "https://fomo.family/coin?address=4EGdVws4BwR9vVeZeNu61vpXB8FPGcPZyf2Zf3h8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T04:04:14.442539Z",
-      "mint": "Dkp7yCs1CUbAUwWekUwQaqEhNiNsY15N76D1jdtEpump",
-      "label": "GABOON",
-      "verdict": "kill",
-      "reason": "liq $13.6K",
-      "link": "https://fomo.family/coin?address=Dkp7yCs1CUbAUwWekUwQaqEhNiNsY15N76D1jdtEpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

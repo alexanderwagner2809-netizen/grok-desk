@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:04:02.432584Z",
+  "ts": "2026-11-12T06:05:10.680050Z",
   "mint": "CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump",
-  "name": null,
-  "symbol": null,
-  "label": "CbPGbH7j",
+  "name": "Pepe Fly Adventure",
+  "symbol": "PFA",
+  "label": "Pepe Fly Adventure",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T06:02:51.903687Z",
-  "pool": null,
+  "pool": "99wTt7M9ekQYseqhwCJuSbfuvDKoGaku2W3D4rfeCnky",
   "creator": "5EEDPgoDUKHHbz9aH8ZvhJWvdkRKxv87Z2XKaqe73K5r",
   "holders": null,
   "link": "https://fomo.family/coin?address=CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.606e-07,
-  "priceTs": "2026-11-12T06:04:02.165963Z",
+  "price": 1.946e-07,
+  "priceTs": "2026-11-12T06:05:09.912495Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -28,19 +28,37 @@
     {
       "t": 1794463440,
       "o": 1.606e-07,
-      "h": 1.606e-07,
+      "h": 4.398e-07,
       "l": 1.606e-07,
-      "c": 1.606e-07,
-      "v": 12.78
+      "c": 4.398e-07,
+      "v": 25.67
+    },
+    {
+      "t": 1794463500,
+      "o": 1.946e-07,
+      "h": 1.946e-07,
+      "l": 1.946e-07,
+      "c": 1.946e-07,
+      "v": 17.759999999999998
     }
   ],
   "stats": {
-    "marketCap": 148.0,
-    "liquidity": 32.35,
-    "volume24h": 12.78,
+    "marketCap": 180.0,
+    "liquidity": 35.25,
+    "volume24h": 43.43,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T06:04:17.911385Z",
+      "liquidity_usd": 53.84,
+      "top10_pct": null,
+      "h1_change_pct": 1071.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $54"
+    }
+  ]
 }
