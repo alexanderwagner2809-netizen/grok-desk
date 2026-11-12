@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T15:07:25.385079Z",
+  "ts": "2026-11-12T15:08:36.176770Z",
   "mint": "Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump",
   "name": "Paul Atreides",
   "symbol": "PAUL",
@@ -11,8 +11,8 @@
   "creator": "89PubRB6qFseWPEQb7B9ZhjmvE8oVGVCCcsc8PD2PtfX",
   "holders": null,
   "link": "https://fomo.family/coin?address=Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.538e-05,
-  "priceTs": "2026-11-12T15:07:23.748534Z",
+  "price": 4.466e-05,
+  "priceTs": "2026-11-12T15:08:34.567759Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -240,12 +240,20 @@
       "l": 4.538e-05,
       "c": 4.538e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794496080,
+      "o": 4.466e-05,
+      "h": 4.466e-05,
+      "l": 4.466e-05,
+      "c": 4.466e-05,
+      "v": 7.79
     }
   ],
   "stats": {
-    "marketCap": 43655.0,
-    "liquidity": 16605.01,
-    "volume24h": 23542.43,
+    "marketCap": 42963.0,
+    "liquidity": 16422.7,
+    "volume24h": 23550.22,
     "holders": null
   },
   "position": null,

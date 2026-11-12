@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-12T15:07:25.688613Z",
+  "ts": "2026-11-12T15:08:36.155310Z",
   "mint": "6MZZGJutbeEny8KB7Lexu3qxSTe7dHe1kQL3RVwCpump",
-  "name": null,
-  "symbol": null,
-  "label": "6MZZGJut",
+  "name": "Jensen at Terafab",
+  "symbol": "JENFAB",
+  "label": "Jensen at Terafab",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T15:07:09.120338Z",
-  "pool": null,
+  "pool": "ETDdJpMApVbS55gAjQGXpaktLFE2wvinsHwR2F2rguog",
   "creator": "FY3rmRMdNgMpDkhK9C6s6tXfXaW8NgeKv1yGUCCFK3d8",
   "holders": null,
   "link": "https://fomo.family/coin?address=6MZZGJutbeEny8KB7Lexu3qxSTe7dHe1kQL3RVwCpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 0.0001477,
+  "priceTs": "2026-11-12T15:08:34.567759Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794496020,
+      "o": 0.0001474,
+      "h": 0.0001474,
+      "l": 0.0001474,
+      "c": 0.0001474,
+      "v": 0.0
+    },
+    {
+      "t": 1794496080,
+      "o": 0.0001477,
+      "h": 0.0001477,
+      "l": 0.0001477,
+      "c": 0.0001477,
+      "v": 14.550000000000182
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 147666.0,
+    "liquidity": 27669.26,
+    "volume24h": 7571.6,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T15:07:41.787061Z",
+      "liquidity_usd": 27644.41,
+      "top10_pct": null,
+      "h1_change_pct": 313.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "+313% in 1h"
+    }
+  ]
 }

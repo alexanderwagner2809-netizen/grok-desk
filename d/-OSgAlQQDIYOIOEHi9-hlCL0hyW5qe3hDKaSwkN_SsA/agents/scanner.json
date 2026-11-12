@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T15:07:26.254111Z",
+  "ts": "2026-11-12T15:08:36.939958Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T15:07:21.341423Z",
+  "heartbeat": "2026-11-12T15:08:31.166627Z",
   "paused": false,
   "status": "running",
-  "card": "233 pools",
-  "count": 233,
+  "card": "235 pools",
+  "count": 235,
   "passed": 0,
   "feed": [
+    {
+      "mint": "4q1Khra69Q3wUHw7NdXMBhCwYj9WxNYsvhGX8D2Mpump",
+      "label": "Jensen Huang",
+      "verdict": "kill",
+      "reason": "liq $34",
+      "subtitle": "liq $34",
+      "link": "https://fomo.family/coin?address=4q1Khra69Q3wUHw7NdXMBhCwYj9WxNYsvhGX8D2Mpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "6MZZGJutbeEny8KB7Lexu3qxSTe7dHe1kQL3RVwCpump",
+      "label": "Jensen at Terafab",
+      "verdict": "kill",
+      "reason": "+313% in 1h",
+      "subtitle": "+313% in 1h",
+      "link": "https://fomo.family/coin?address=6MZZGJutbeEny8KB7Lexu3qxSTe7dHe1kQL3RVwCpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "Fwx6scdrpqJNq5otjyztCaCNymNG5RiR4PBkN1D8pump",
       "label": "Terafab",
@@ -58,27 +74,27 @@
       "reason": "liq $13.4K",
       "subtitle": "liq $13.4K",
       "link": "https://fomo.family/coin?address=GZ2pDdip9spqiZuqV2tGhR1EcvbZzU1XTWk4ZVTGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "CZgr3UM7vnuDgMkLjyA62XwYcYL3qb3qRuupG2dopump",
-      "label": "ANSEM ",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "subtitle": "liq $3",
-      "link": "https://fomo.family/coin?address=CZgr3UM7vnuDgMkLjyA62XwYcYL3qb3qRuupG2dopump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump",
-      "label": "OpenToWork",
-      "verdict": "kill",
-      "reason": "liq $13.3K",
-      "subtitle": "liq $13.3K",
-      "link": "https://fomo.family/coin?address=FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T15:08:31.262490Z",
+      "mint": "4q1Khra69Q3wUHw7NdXMBhCwYj9WxNYsvhGX8D2Mpump",
+      "label": "Jensen Huang",
+      "verdict": "kill",
+      "reason": "liq $34",
+      "link": "https://fomo.family/coin?address=4q1Khra69Q3wUHw7NdXMBhCwYj9WxNYsvhGX8D2Mpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T15:07:41.787061Z",
+      "mint": "6MZZGJutbeEny8KB7Lexu3qxSTe7dHe1kQL3RVwCpump",
+      "label": "Jensen at Terafab",
+      "verdict": "kill",
+      "reason": "+313% in 1h",
+      "link": "https://fomo.family/coin?address=6MZZGJutbeEny8KB7Lexu3qxSTe7dHe1kQL3RVwCpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:07:11.229108Z",
       "mint": "Fwx6scdrpqJNq5otjyztCaCNymNG5RiR4PBkN1D8pump",
       "label": "Terafab",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=jbL44HhSdvbpL1mK5z6jTVn7QjcnhyRghE7BH3Jpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T13:04:55.546649Z",
-      "mint": "3Vmrfa2npEBFmLp4q3omnrFWKSsgWoev6ZMhymZfpump",
-      "label": "3Vmrfa2n",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=3Vmrfa2npEBFmLp4q3omnrFWKSsgWoev6ZMhymZfpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T12:06:56.499567Z",
-      "mint": "DuV73eNW9ioPDnpB615AqugZwyGRo6MPrGweLUBEpump",
-      "label": "DuV73eNW",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=DuV73eNW9ioPDnpB615AqugZwyGRo6MPrGweLUBEpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T15:08:31.262490Z",
+      "mint": "4q1Khra69Q3wUHw7NdXMBhCwYj9WxNYsvhGX8D2Mpump",
+      "label": "Jensen Huang",
+      "verdict": "kill",
+      "reason": "liq $34",
+      "link": "https://fomo.family/coin?address=4q1Khra69Q3wUHw7NdXMBhCwYj9WxNYsvhGX8D2Mpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T15:07:41.787061Z",
+      "mint": "6MZZGJutbeEny8KB7Lexu3qxSTe7dHe1kQL3RVwCpump",
+      "label": "Jensen at Terafab",
+      "verdict": "kill",
+      "reason": "+313% in 1h",
+      "link": "https://fomo.family/coin?address=6MZZGJutbeEny8KB7Lexu3qxSTe7dHe1kQL3RVwCpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:07:11.229108Z",
       "mint": "Fwx6scdrpqJNq5otjyztCaCNymNG5RiR4PBkN1D8pump",
       "label": "Terafab",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=jbL44HhSdvbpL1mK5z6jTVn7QjcnhyRghE7BH3Jpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T13:04:55.546649Z",
-      "mint": "3Vmrfa2npEBFmLp4q3omnrFWKSsgWoev6ZMhymZfpump",
-      "label": "3Vmrfa2n",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=3Vmrfa2npEBFmLp4q3omnrFWKSsgWoev6ZMhymZfpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T12:06:56.499567Z",
-      "mint": "DuV73eNW9ioPDnpB615AqugZwyGRo6MPrGweLUBEpump",
-      "label": "DuV73eNW",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=DuV73eNW9ioPDnpB615AqugZwyGRo6MPrGweLUBEpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
