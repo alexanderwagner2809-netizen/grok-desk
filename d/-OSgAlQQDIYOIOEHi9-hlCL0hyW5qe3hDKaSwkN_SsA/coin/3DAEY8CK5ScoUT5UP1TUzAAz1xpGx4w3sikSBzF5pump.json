@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T08:23:05.055108Z",
+  "ts": "2026-11-12T08:24:13.728000Z",
   "mint": "3DAEY8CK5ScoUT5UP1TUzAAz1xpGx4w3sikSBzF5pump",
   "name": "JUSSYCOIN",
   "symbol": "JUSS",
@@ -11,8 +11,8 @@
   "creator": "DcTQjBVaCaApAXrf6PBwvMTBkWVzi2MCiR2WKUedQLNk",
   "holders": null,
   "link": "https://fomo.family/coin?address=3DAEY8CK5ScoUT5UP1TUzAAz1xpGx4w3sikSBzF5pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 9.141e-08,
-  "priceTs": "2026-11-12T08:23:04.467327Z",
+  "price": 8.938e-08,
+  "priceTs": "2026-11-12T08:24:13.133359Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1712,12 +1712,20 @@
       "l": 9.141e-08,
       "c": 9.141e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794471840,
+      "o": 8.938e-08,
+      "h": 8.938e-08,
+      "l": 8.938e-08,
+      "c": 8.938e-08,
+      "v": 1.09
     }
   ],
   "stats": {
-    "marketCap": 183.0,
-    "liquidity": 130.85,
-    "volume24h": 2959.53,
+    "marketCap": 179.0,
+    "liquidity": 129.35,
+    "volume24h": 2960.63,
     "holders": null
   },
   "position": null,
