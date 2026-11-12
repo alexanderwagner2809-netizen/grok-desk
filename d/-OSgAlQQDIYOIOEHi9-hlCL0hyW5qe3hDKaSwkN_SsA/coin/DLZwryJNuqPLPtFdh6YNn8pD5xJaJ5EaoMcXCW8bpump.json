@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:45:31.216912Z",
+  "ts": "2026-11-12T06:46:39.310506Z",
   "mint": "DLZwryJNuqPLPtFdh6YNn8pD5xJaJ5EaoMcXCW8bpump",
-  "name": null,
-  "symbol": null,
-  "label": "DLZwryJN",
+  "name": "KOSHAR!",
+  "symbol": "GoGo",
+  "label": "KOSHAR!",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T06:44:49.884573Z",
-  "pool": null,
+  "pool": "ECBxd7MLw9Xb63XhbbhMjd2SEZ7HH4ZbRiQTNUgycZ3g",
   "creator": "9QxVN5WU6QBeueVSmEhbLBJ5Qdobb9gBQZjNFaJSDuvz",
   "holders": null,
   "link": "https://fomo.family/coin?address=DLZwryJNuqPLPtFdh6YNn8pD5xJaJ5EaoMcXCW8bpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.511e-09,
-  "priceTs": "2026-11-12T06:45:30.898148Z",
+  "price": 1.582e-09,
+  "priceTs": "2026-11-12T06:46:38.444571Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 6.511e-09,
       "c": 6.511e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794465960,
+      "o": 1.582e-09,
+      "h": 1.582e-09,
+      "l": 1.582e-09,
+      "c": 1.582e-09,
+      "v": 37.5
     }
   ],
   "stats": {
-    "marketCap": 13.0,
-    "liquidity": 7.37,
-    "volume24h": 55.64,
+    "marketCap": 3.0,
+    "liquidity": 3.28,
+    "volume24h": 93.14,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T06:45:48.087887Z",
+      "liquidity_usd": 7.38,
+      "top10_pct": null,
+      "h1_change_pct": -82.18,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $7"
+    }
+  ]
 }
