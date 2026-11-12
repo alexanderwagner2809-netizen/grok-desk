@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T11:42:58.353618Z",
+  "ts": "2026-11-12T11:44:08.582785Z",
   "mint": "9PPMpwduf92BGy52pPef7gceC3T54H2SJac36Brxpump",
   "name": "Cute Cat Coin",
   "symbol": ":3",
@@ -11,8 +11,8 @@
   "creator": "ADX2ySBmoRZbf3QR8V7JKLXcLZDhTQFipc9VzQawaadG",
   "holders": null,
   "link": "https://fomo.family/coin?address=9PPMpwduf92BGy52pPef7gceC3T54H2SJac36Brxpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.473e-06,
-  "priceTs": "2026-11-12T11:42:57.248666Z",
+  "price": 3.231e-06,
+  "priceTs": "2026-11-12T11:44:07.535159Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1104,12 +1104,20 @@
       "l": 3.473e-06,
       "c": 3.473e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794483840,
+      "o": 3.231e-06,
+      "h": 3.231e-06,
+      "l": 3.231e-06,
+      "c": 3.231e-06,
+      "v": 102.09
     }
   ],
   "stats": {
-    "marketCap": 3359.0,
-    "liquidity": 3301.05,
-    "volume24h": 2539.94,
+    "marketCap": 3124.0,
+    "liquidity": 3115.82,
+    "volume24h": 2642.04,
     "holders": null
   },
   "position": null,
