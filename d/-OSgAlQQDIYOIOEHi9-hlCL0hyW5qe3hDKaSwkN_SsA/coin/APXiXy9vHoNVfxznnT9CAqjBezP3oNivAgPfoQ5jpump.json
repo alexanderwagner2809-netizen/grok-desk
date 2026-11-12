@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T08:25:22.404586Z",
+  "ts": "2026-11-12T08:26:30.879219Z",
   "mint": "APXiXy9vHoNVfxznnT9CAqjBezP3oNivAgPfoQ5jpump",
-  "name": null,
-  "symbol": null,
-  "label": "APXiXy9v",
+  "name": "beer",
+  "symbol": "beer",
+  "label": "beer",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T08:25:11.504130Z",
-  "pool": null,
+  "pool": "3q1iEGhLjHCfUXS1Ytiptv6eRYwPK7YgBVJDywxmDq97",
   "creator": "9avXpirpcPjYQPqM7ppyw9GRYJd72K4Ur2kZceZEwaFy",
   "holders": null,
   "link": "https://fomo.family/coin?address=APXiXy9vHoNVfxznnT9CAqjBezP3oNivAgPfoQ5jpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.717e-09,
-  "priceTs": "2026-11-12T08:25:21.941888Z",
+  "price": 1.764e-09,
+  "priceTs": "2026-11-12T08:26:29.941778Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 2.717e-09,
       "c": 2.717e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794471960,
+      "o": 1.274e-08,
+      "h": 1.274e-08,
+      "l": 1.764e-09,
+      "c": 1.764e-09,
+      "v": 20.699999999999996
     }
   ],
   "stats": {
-    "marketCap": 2.72,
-    "liquidity": null,
-    "volume24h": 200.64,
+    "marketCap": 4.0,
+    "liquidity": 2.83,
+    "volume24h": 54.9,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T08:26:14.915630Z",
+      "liquidity_usd": 11.23,
+      "top10_pct": null,
+      "h1_change_pct": -53.79,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $11"
+    }
+  ]
 }
