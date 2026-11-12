@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:56:57.364258Z",
+  "ts": "2026-11-12T06:58:05.592426Z",
   "mint": "CUXNaUvtbN2wujp3qR61G4uRCfaxGV4c5cwvZ7W9pump",
-  "name": null,
-  "symbol": null,
-  "label": "CUXNaUvt",
+  "name": "$CHIMPSHOT",
+  "symbol": "CHIMP",
+  "label": "$CHIMPSHOT",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T06:56:32.981167Z",
-  "pool": null,
+  "pool": "ATp4uUEFCasPCDmx3FtUcYqzJ9S8f9KcdsBJwUpJpB95",
   "creator": "4BJ14RY23fmST2AcMbrfHFNiPu3J4Y6ajXG3wJhTi5g4",
   "holders": null,
   "link": "https://fomo.family/coin?address=CUXNaUvtbN2wujp3qR61G4uRCfaxGV4c5cwvZ7W9pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 9.249e-08,
-  "priceTs": "2026-11-12T06:56:57.045275Z",
+  "price": 8.659e-09,
+  "priceTs": "2026-11-12T06:58:04.591318Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,41 @@
       "l": 9.249e-08,
       "c": 9.249e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794466620,
+      "o": 7.046e-08,
+      "h": 7.046e-08,
+      "l": 7.046e-08,
+      "c": 7.046e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794466680,
+      "o": 8.659e-09,
+      "h": 8.659e-09,
+      "l": 8.659e-09,
+      "c": 8.659e-09,
+      "v": 294.6700000000001
     }
   ],
   "stats": {
-    "marketCap": 92.5,
-    "liquidity": null,
-    "volume24h": 730.44,
+    "marketCap": 17.0,
+    "liquidity": 30.65,
+    "volume24h": 812.7,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T06:57:05.769473Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -87.46,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }

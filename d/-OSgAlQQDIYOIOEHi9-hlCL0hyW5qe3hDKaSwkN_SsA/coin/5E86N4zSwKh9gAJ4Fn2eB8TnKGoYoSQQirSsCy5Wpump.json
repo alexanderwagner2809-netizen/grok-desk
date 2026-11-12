@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:56:57.306168Z",
+  "ts": "2026-11-12T06:58:05.593180Z",
   "mint": "5E86N4zSwKh9gAJ4Fn2eB8TnKGoYoSQQirSsCy5Wpump",
-  "name": null,
-  "symbol": null,
-  "label": "5E86N4zS",
+  "name": "MOONI",
+  "symbol": "MOONI",
+  "label": "MOONI",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T06:56:22.528961Z",
-  "pool": null,
+  "pool": "G5oER6NxaovbNMgbjEpuhfoKc3ohdBf8WdNUPqyXE5eA",
   "creator": "2A7xEFtB76hkfwrAASUmX1eVbSVA5TCQzDUh9QA6uLrC",
   "holders": null,
   "link": "https://fomo.family/coin?address=5E86N4zSwKh9gAJ4Fn2eB8TnKGoYoSQQirSsCy5Wpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.575e-08,
-  "priceTs": "2026-11-12T06:56:56.807186Z",
+  "price": 1.531e-07,
+  "priceTs": "2026-11-12T06:58:04.591318Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,41 @@
       "l": 3.575e-08,
       "c": 3.575e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794466620,
+      "o": 2.331e-08,
+      "h": 2.331e-08,
+      "l": 2.331e-08,
+      "c": 2.331e-08,
+      "v": 120.14
+    },
+    {
+      "t": 1794466680,
+      "o": 1.531e-07,
+      "h": 1.531e-07,
+      "l": 1.531e-07,
+      "c": 1.531e-07,
+      "v": 488.78
     }
   ],
   "stats": {
-    "marketCap": 72.0,
-    "liquidity": 16.48,
-    "volume24h": 2.84,
+    "marketCap": 306.0,
+    "liquidity": 40.22,
+    "volume24h": 611.76,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T06:57:05.768177Z",
+      "liquidity_usd": 13.38,
+      "top10_pct": null,
+      "h1_change_pct": -47.56,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $13"
+    }
+  ]
 }
