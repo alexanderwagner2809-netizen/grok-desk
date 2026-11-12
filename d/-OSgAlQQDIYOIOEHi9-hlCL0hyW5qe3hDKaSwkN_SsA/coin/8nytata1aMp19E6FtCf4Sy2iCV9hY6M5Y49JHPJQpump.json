@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T16:24:31.746300Z",
+  "ts": "2026-11-12T16:25:42.966619Z",
   "mint": "8nytata1aMp19E6FtCf4Sy2iCV9hY6M5Y49JHPJQpump",
   "name": null,
   "symbol": null,
@@ -11,8 +11,8 @@
   "creator": "4Dzm4NkQA7xDwhXL6RuxTCzYD84S5ZQmUAWHkVWb7xHw",
   "holders": null,
   "link": "https://fomo.family/coin?address=8nytata1aMp19E6FtCf4Sy2iCV9hY6M5Y49JHPJQpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001238,
-  "priceTs": "2026-11-12T16:24:30.307765Z",
+  "price": 1.794e-05,
+  "priceTs": "2026-11-12T16:25:41.655768Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2592,12 +2592,20 @@
       "l": 0.0001238,
       "c": 0.0001238,
       "v": 0.0
+    },
+    {
+      "t": 1794500700,
+      "o": 1.794e-05,
+      "h": 1.794e-05,
+      "l": 1.794e-05,
+      "c": 1.794e-05,
+      "v": 8415.61
     }
   ],
   "stats": {
-    "marketCap": 123847.0,
-    "liquidity": 37798.95,
-    "volume24h": 108574.63,
+    "marketCap": 17942.0,
+    "liquidity": 8839.23,
+    "volume24h": 116990.25,
     "holders": null
   },
   "position": null,
