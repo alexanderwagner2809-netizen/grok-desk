@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T04:09:25.713145Z",
+  "mint": "6XE2QtpQjk9Ra9f3916uBve9X1vT6SB4DxKNGsX9pump",
+  "name": "would",
+  "symbol": "would",
+  "label": "would",
+  "chain": "Solana",
+  "age": "2m old",
+  "migratedAt": "2026-11-12T04:07:15.619670Z",
+  "pool": "6a58gBtHuE86iCMrTawznFitgbeKSdyTT8F5mRQBjApK",
+  "creator": "85LmfZXZ2Uvv6bB3gXPZcEPpvBuRJqeog99vERL4VSEQ",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=6XE2QtpQjk9Ra9f3916uBve9X1vT6SB4DxKNGsX9pump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 9.649e-05,
+  "priceTs": "2026-11-12T04:09:25.570374Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794456540,
+      "o": 0.000105,
+      "h": 0.000105,
+      "l": 9.649e-05,
+      "c": 9.649e-05,
+      "v": 19053.199999999997
+    }
+  ],
+  "stats": {
+    "marketCap": 96428.0,
+    "liquidity": 22981.31,
+    "volume24h": 55270.61,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T04:09:11.146065Z",
+      "liquidity_usd": 23931.49,
+      "top10_pct": null,
+      "h1_change_pct": 198.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $23.9K"
+    }
+  ]
+}

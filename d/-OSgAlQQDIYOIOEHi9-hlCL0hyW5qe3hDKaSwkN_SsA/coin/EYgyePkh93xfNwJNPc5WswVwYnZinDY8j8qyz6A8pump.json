@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T04:09:25.712189Z",
+  "mint": "EYgyePkh93xfNwJNPc5WswVwYnZinDY8j8qyz6A8pump",
+  "name": "attention",
+  "symbol": "att",
+  "label": "attention",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-12T04:07:39.441972Z",
+  "pool": "AvoXFJvACWuSziAJedP4NuhRGYXnuvJRd8Xk2owiDNky",
+  "creator": "A2vFGV5P7q745n1wxT1fpNRasyLj3mtJ8qZrG5YVQaVZ",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=EYgyePkh93xfNwJNPc5WswVwYnZinDY8j8qyz6A8pump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 7.386e-09,
+  "priceTs": "2026-11-12T04:09:25.700269Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794456540,
+      "o": 9.478e-09,
+      "h": 9.478e-09,
+      "l": 7.386e-09,
+      "c": 7.386e-09,
+      "v": 1.3799999999999955
+    }
+  ],
+  "stats": {
+    "marketCap": 15.0,
+    "liquidity": 17.66,
+    "volume24h": 335.69,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T04:09:11.152480Z",
+      "liquidity_usd": 19.88,
+      "top10_pct": null,
+      "h1_change_pct": -95.46,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $20"
+    }
+  ]
+}

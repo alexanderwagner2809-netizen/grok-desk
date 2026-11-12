@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T04:06:58.724542Z",
+  "ts": "2026-11-12T04:09:25.850858Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T04:06:57.765685Z",
+  "heartbeat": "2026-11-12T04:09:15.659800Z",
   "paused": false,
   "status": "running",
-  "card": "101 pools",
-  "count": 101,
+  "card": "103 pools",
+  "count": 103,
   "passed": 0,
   "feed": [
+    {
+      "mint": "EYgyePkh93xfNwJNPc5WswVwYnZinDY8j8qyz6A8pump",
+      "label": "attention",
+      "verdict": "kill",
+      "reason": "liq $20",
+      "subtitle": "liq $20",
+      "link": "https://fomo.family/coin?address=EYgyePkh93xfNwJNPc5WswVwYnZinDY8j8qyz6A8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "6XE2QtpQjk9Ra9f3916uBve9X1vT6SB4DxKNGsX9pump",
+      "label": "would",
+      "verdict": "kill",
+      "reason": "liq $23.9K",
+      "subtitle": "liq $23.9K",
+      "link": "https://fomo.family/coin?address=6XE2QtpQjk9Ra9f3916uBve9X1vT6SB4DxKNGsX9pump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "4EGdVws4BwR9vVeZeNu61vpXB8FPGcPZyf2Zf3h8pump",
       "label": "Solana Cat",
@@ -58,27 +74,27 @@
       "reason": "liq $17.6K",
       "subtitle": "liq $17.6K",
       "link": "https://fomo.family/coin?address=5kiVCtrqoJ1T9pUZf6C91kUnVJuhgdLKtibDhJ3ppump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "B2FVnR9VQpQrUkVdTye8cycHHzxdwuFKiju7LJtJpump",
-      "label": "SS1 GOKU",
-      "verdict": "kill",
-      "reason": "liq $7",
-      "subtitle": "liq $7",
-      "link": "https://fomo.family/coin?address=B2FVnR9VQpQrUkVdTye8cycHHzxdwuFKiju7LJtJpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "C5Jnxa1WT4EGouKzq2U8MbUyPddLYGBC79HczqWSpump",
-      "label": "GABOON",
-      "verdict": "kill",
-      "reason": "liq $14.2K",
-      "subtitle": "liq $14.2K",
-      "link": "https://fomo.family/coin?address=C5Jnxa1WT4EGouKzq2U8MbUyPddLYGBC79HczqWSpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T04:09:11.152480Z",
+      "mint": "EYgyePkh93xfNwJNPc5WswVwYnZinDY8j8qyz6A8pump",
+      "label": "attention",
+      "verdict": "kill",
+      "reason": "liq $20",
+      "link": "https://fomo.family/coin?address=EYgyePkh93xfNwJNPc5WswVwYnZinDY8j8qyz6A8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T04:09:11.146065Z",
+      "mint": "6XE2QtpQjk9Ra9f3916uBve9X1vT6SB4DxKNGsX9pump",
+      "label": "would",
+      "verdict": "kill",
+      "reason": "liq $23.9K",
+      "link": "https://fomo.family/coin?address=6XE2QtpQjk9Ra9f3916uBve9X1vT6SB4DxKNGsX9pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T04:06:14.646068Z",
       "mint": "4EGdVws4BwR9vVeZeNu61vpXB8FPGcPZyf2Zf3h8pump",
       "label": "Solana Cat",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $25.3K",
       "link": "https://fomo.family/coin?address=AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:04:49.178418Z",
-      "mint": "EdpSS1dbDW8o98S4HRLzE8BZ47oUYp1R1eHTSm6Epump",
-      "label": "Wyrm",
-      "verdict": "kill",
-      "reason": "liq $13.1K",
-      "link": "https://fomo.family/coin?address=EdpSS1dbDW8o98S4HRLzE8BZ47oUYp1R1eHTSm6Epump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:03:49.127808Z",
-      "mint": "AEuiaUyNzcMFyGQtqYY8D9taWCaH46m86QQfPsuypump",
-      "label": "HumpDayCamel",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=AEuiaUyNzcMFyGQtqYY8D9taWCaH46m86QQfPsuypump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T04:09:11.152480Z",
+      "mint": "EYgyePkh93xfNwJNPc5WswVwYnZinDY8j8qyz6A8pump",
+      "label": "attention",
+      "verdict": "kill",
+      "reason": "liq $20",
+      "link": "https://fomo.family/coin?address=EYgyePkh93xfNwJNPc5WswVwYnZinDY8j8qyz6A8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T04:09:11.146065Z",
+      "mint": "6XE2QtpQjk9Ra9f3916uBve9X1vT6SB4DxKNGsX9pump",
+      "label": "would",
+      "verdict": "kill",
+      "reason": "liq $23.9K",
+      "link": "https://fomo.family/coin?address=6XE2QtpQjk9Ra9f3916uBve9X1vT6SB4DxKNGsX9pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T04:06:14.646068Z",
       "mint": "4EGdVws4BwR9vVeZeNu61vpXB8FPGcPZyf2Zf3h8pump",
       "label": "Solana Cat",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $25.3K",
       "link": "https://fomo.family/coin?address=AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:04:49.178418Z",
-      "mint": "EdpSS1dbDW8o98S4HRLzE8BZ47oUYp1R1eHTSm6Epump",
-      "label": "Wyrm",
-      "verdict": "kill",
-      "reason": "liq $13.1K",
-      "link": "https://fomo.family/coin?address=EdpSS1dbDW8o98S4HRLzE8BZ47oUYp1R1eHTSm6Epump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:03:49.127808Z",
-      "mint": "AEuiaUyNzcMFyGQtqYY8D9taWCaH46m86QQfPsuypump",
-      "label": "HumpDayCamel",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=AEuiaUyNzcMFyGQtqYY8D9taWCaH46m86QQfPsuypump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
