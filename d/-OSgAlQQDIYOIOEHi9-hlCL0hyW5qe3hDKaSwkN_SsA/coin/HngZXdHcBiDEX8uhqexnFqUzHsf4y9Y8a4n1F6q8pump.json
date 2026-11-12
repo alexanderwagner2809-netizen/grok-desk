@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T08:04:11.363249Z",
+  "ts": "2026-11-12T08:05:20.372343Z",
   "mint": "HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump",
   "name": "Scamson Musk",
   "symbol": "SCAMSON",
@@ -11,8 +11,8 @@
   "creator": "6FqSAuhvbrzVJfASFYszRZFRGs1hCrGEPoepJ6VfbfZp",
   "holders": null,
   "link": "https://fomo.family/coin?address=HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.001658,
-  "priceTs": "2026-11-12T08:04:10.605177Z",
+  "price": 6.038e-06,
+  "priceTs": "2026-11-12T08:05:19.610123Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1064,12 +1064,20 @@
       "l": 0.001658,
       "c": 0.001658,
       "v": 4.029999999999999
+    },
+    {
+      "t": 1794470700,
+      "o": 6.038e-06,
+      "h": 6.038e-06,
+      "l": 6.038e-06,
+      "c": 6.038e-06,
+      "v": 0.4500000000000002
     }
   ],
   "stats": {
-    "marketCap": 1621191.0,
-    "liquidity": 868999.04,
-    "volume24h": 737820.86,
+    "marketCap": 5904.0,
+    "liquidity": 4857.98,
+    "volume24h": 737821.31,
     "holders": null
   },
   "position": null,
