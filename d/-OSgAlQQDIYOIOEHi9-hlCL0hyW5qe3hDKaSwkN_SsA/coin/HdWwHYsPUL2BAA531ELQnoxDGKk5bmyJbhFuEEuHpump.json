@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T08:48:19.671619Z",
+  "ts": "2026-11-12T08:49:28.023820Z",
   "mint": "HdWwHYsPUL2BAA531ELQnoxDGKk5bmyJbhFuEEuHpump",
-  "name": null,
-  "symbol": null,
-  "label": "HdWwHYsP",
+  "name": "OVER9K",
+  "symbol": "ITSOVER9K",
+  "label": "OVER9K",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T08:48:00.337833Z",
-  "pool": null,
+  "pool": "2PWpy3WAXNxeeEjAQCZv9hyfa7MekbBWbTMfPC6kF3jf",
   "creator": "DHvDE4oWxWFbEWyCSZ9BkYbjCmoL5dF71BuVyJqkBeL5",
   "holders": null,
   "link": "https://fomo.family/coin?address=HdWwHYsPUL2BAA531ELQnoxDGKk5bmyJbhFuEEuHpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.863e-08,
-  "priceTs": "2026-11-12T08:48:19.310373Z",
+  "price": 5.056e-10,
+  "priceTs": "2026-11-12T08:49:27.027731Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 1.863e-08,
       "c": 1.863e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794473340,
+      "o": 5.056e-10,
+      "h": 5.056e-10,
+      "l": 5.056e-10,
+      "c": 5.056e-10,
+      "v": 30.69
     }
   ],
   "stats": {
-    "marketCap": 37.0,
-    "liquidity": null,
-    "volume24h": 16.48,
+    "marketCap": 1.0,
+    "liquidity": 2.07,
+    "volume24h": 47.17,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T08:48:43.083305Z",
+      "liquidity_usd": 34.78,
+      "top10_pct": null,
+      "h1_change_pct": -58.33,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $35"
+    }
+  ]
 }

@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T08:48:19.681841Z",
+  "ts": "2026-11-12T08:49:28.360693Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T08:48:17.626392Z",
+  "heartbeat": "2026-11-12T08:49:21.304805Z",
   "paused": false,
   "status": "running",
-  "card": "174 pools",
-  "count": 174,
+  "card": "175 pools",
+  "count": 175,
   "passed": 0,
   "feed": [
+    {
+      "mint": "HdWwHYsPUL2BAA531ELQnoxDGKk5bmyJbhFuEEuHpump",
+      "label": "OVER9K",
+      "verdict": "kill",
+      "reason": "liq $35",
+      "subtitle": "liq $35",
+      "link": "https://fomo.family/coin?address=HdWwHYsPUL2BAA531ELQnoxDGKk5bmyJbhFuEEuHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "pb6DzXwafqPakPLUJiw6FrixdBfKyVw5LUjx6XHpump",
       "label": "Bugles Cat",
@@ -66,19 +74,19 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=DQYiZrXvLXfrqyhcY9gSGNV74KCqAwc9bVTDWGnmpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "78qqcNGkkrMrCnooz5JBGX9do3AsaRJKczd6aVVhpump",
-      "label": "Diggo",
-      "verdict": "kill",
-      "reason": "liq $4",
-      "subtitle": "liq $4",
-      "link": "https://fomo.family/coin?address=78qqcNGkkrMrCnooz5JBGX9do3AsaRJKczd6aVVhpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T08:48:43.083305Z",
+      "mint": "HdWwHYsPUL2BAA531ELQnoxDGKk5bmyJbhFuEEuHpump",
+      "label": "OVER9K",
+      "verdict": "kill",
+      "reason": "liq $35",
+      "link": "https://fomo.family/coin?address=HdWwHYsPUL2BAA531ELQnoxDGKk5bmyJbhFuEEuHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T08:42:09.130899Z",
       "mint": "pb6DzXwafqPakPLUJiw6FrixdBfKyVw5LUjx6XHpump",
       "label": "Bugles Cat",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=EkAkUmngYCD3Nw1cdaVmHXWFMEcFMNDL2DU8AkQfpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T07:58:13.099274Z",
-      "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
-      "label": "pumpCmXq",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T08:48:43.083305Z",
+      "mint": "HdWwHYsPUL2BAA531ELQnoxDGKk5bmyJbhFuEEuHpump",
+      "label": "OVER9K",
+      "verdict": "kill",
+      "reason": "liq $35",
+      "link": "https://fomo.family/coin?address=HdWwHYsPUL2BAA531ELQnoxDGKk5bmyJbhFuEEuHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T08:42:09.130899Z",
       "mint": "pb6DzXwafqPakPLUJiw6FrixdBfKyVw5LUjx6XHpump",
       "label": "Bugles Cat",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=EkAkUmngYCD3Nw1cdaVmHXWFMEcFMNDL2DU8AkQfpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T07:58:13.099274Z",
-      "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
-      "label": "pumpCmXq",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
