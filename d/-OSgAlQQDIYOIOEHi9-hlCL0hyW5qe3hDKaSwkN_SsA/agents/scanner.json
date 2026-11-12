@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T02:07:01.420492Z",
+  "ts": "2026-11-12T02:08:09.187592Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T02:06:49.283112Z",
+  "heartbeat": "2026-11-12T02:08:06.860661Z",
   "paused": false,
   "status": "running",
-  "card": "86 pools",
-  "count": 86,
+  "card": "87 pools",
+  "count": 87,
   "passed": 0,
   "feed": [
+    {
+      "mint": "AtSRxRWXmPfNhTQLQkN3QTUM6vzxJcgLkBqENavvpump",
+      "label": "Ni Hao Dog",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "subtitle": "liq $3",
+      "link": "https://fomo.family/coin?address=AtSRxRWXmPfNhTQLQkN3QTUM6vzxJcgLkBqENavvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "Goebmkx6ewHcBvBAydCutZC5RU3KiydnpZqX6Tgpump",
       "label": "Max Coin",
@@ -66,19 +74,19 @@
       "reason": "never qualified",
       "subtitle": "never qualified",
       "link": "https://fomo.family/coin?address=XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "label": "EPjFWdd5",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "subtitle": "never qualified",
-      "link": "https://fomo.family/coin?address=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T02:07:49.469049Z",
+      "mint": "AtSRxRWXmPfNhTQLQkN3QTUM6vzxJcgLkBqENavvpump",
+      "label": "Ni Hao Dog",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "link": "https://fomo.family/coin?address=AtSRxRWXmPfNhTQLQkN3QTUM6vzxJcgLkBqENavvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T02:05:49.282066Z",
       "mint": "Goebmkx6ewHcBvBAydCutZC5RU3KiydnpZqX6Tgpump",
       "label": "Max Coin",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=5cdKbVVLE9AScV6VG92D9YhdC3j2Zpg8XjPmqQ72pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T00:15:36.324284Z",
-      "mint": "238S5tCgJi8AG2LUskVXNCcNpYR3w9FMyTHfqgozpump",
-      "label": "Big tits Coin",
-      "verdict": "kill",
-      "reason": "liq $10",
-      "link": "https://fomo.family/coin?address=238S5tCgJi8AG2LUskVXNCcNpYR3w9FMyTHfqgozpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T02:07:49.469049Z",
+      "mint": "AtSRxRWXmPfNhTQLQkN3QTUM6vzxJcgLkBqENavvpump",
+      "label": "Ni Hao Dog",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "link": "https://fomo.family/coin?address=AtSRxRWXmPfNhTQLQkN3QTUM6vzxJcgLkBqENavvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T02:05:49.282066Z",
       "mint": "Goebmkx6ewHcBvBAydCutZC5RU3KiydnpZqX6Tgpump",
       "label": "Max Coin",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=5cdKbVVLE9AScV6VG92D9YhdC3j2Zpg8XjPmqQ72pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T00:15:36.324284Z",
-      "mint": "238S5tCgJi8AG2LUskVXNCcNpYR3w9FMyTHfqgozpump",
-      "label": "Big tits Coin",
-      "verdict": "kill",
-      "reason": "liq $10",
-      "link": "https://fomo.family/coin?address=238S5tCgJi8AG2LUskVXNCcNpYR3w9FMyTHfqgozpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
