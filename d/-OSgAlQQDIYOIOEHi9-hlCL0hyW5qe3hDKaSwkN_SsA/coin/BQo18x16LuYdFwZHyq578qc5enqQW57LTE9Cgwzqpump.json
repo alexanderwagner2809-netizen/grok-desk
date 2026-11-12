@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T02:23:34.509322Z",
+  "ts": "2026-11-12T02:30:48.349742Z",
   "mint": "BQo18x16LuYdFwZHyq578qc5enqQW57LTE9Cgwzqpump",
   "name": "CallScout",
   "symbol": "CALLSCOUT",
   "label": "CallScout",
   "chain": "Solana",
-  "age": "1h old",
+  "age": "2h old",
   "migratedAt": "2026-11-12T00:28:34.160593Z",
   "pool": "G7U6C8M5KDDWKyC3SUuqUTSQGCTugbWJDUb7VpUo9rKE",
   "creator": "4Zt7ei3yVNbC51aio9gXKraPVLiZ3A4vkmqnd7iaq4MJ",
   "holders": null,
   "link": "https://fomo.family/coin?address=BQo18x16LuYdFwZHyq578qc5enqQW57LTE9Cgwzqpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.765e-05,
-  "priceTs": "2026-11-12T02:23:34.069346Z",
+  "price": 1.217e-05,
+  "priceTs": "2026-11-12T02:30:47.891369Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -168,12 +168,20 @@
       "l": 1.765e-05,
       "c": 1.765e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794450600,
+      "o": 1.217e-05,
+      "h": 1.217e-05,
+      "l": 1.217e-05,
+      "c": 1.217e-05,
+      "v": 224.57000000000002
     }
   ],
   "stats": {
-    "marketCap": 16408.0,
-    "liquidity": 8733.82,
-    "volume24h": 33264.84,
+    "marketCap": 11314.0,
+    "liquidity": 6999.47,
+    "volume24h": 34331.03,
     "holders": null
   },
   "position": null,

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T02:23:34.503624Z",
+  "ts": "2026-11-12T02:30:48.342854Z",
   "mint": "DnhM9c4Gdaabirg3W8Ks2c6g5hmMruErapxFRV7apump",
   "name": "Elon Max",
   "symbol": "ELONMAX",
@@ -11,8 +11,8 @@
   "creator": "6PLXPRLMzFM8PrP1rJeqzf6CZZHFScFSiDLZWbC9tGK",
   "holders": null,
   "link": "https://fomo.family/coin?address=DnhM9c4Gdaabirg3W8Ks2c6g5hmMruErapxFRV7apump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.577e-06,
-  "priceTs": "2026-11-12T02:23:33.935919Z",
+  "price": 1.569e-06,
+  "priceTs": "2026-11-12T02:30:47.762030Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -96,12 +96,20 @@
       "l": 1.577e-06,
       "c": 1.577e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794450600,
+      "o": 1.569e-06,
+      "h": 1.569e-06,
+      "l": 1.569e-06,
+      "c": 1.569e-06,
+      "v": 0.03
     }
   ],
   "stats": {
-    "marketCap": 1560.0,
-    "liquidity": 1630.9,
-    "volume24h": 312815.62,
+    "marketCap": 1553.0,
+    "liquidity": 1623.56,
+    "volume24h": 312815.69,
     "holders": null
   },
   "position": null,
