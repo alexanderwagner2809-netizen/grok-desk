@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T08:41:26.138512Z",
+  "ts": "2026-11-12T08:42:35.058569Z",
   "mint": "pb6DzXwafqPakPLUJiw6FrixdBfKyVw5LUjx6XHpump",
   "name": "Bugles Cat",
   "symbol": "BUGLES",
   "label": "Bugles Cat",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T08:39:36.161314Z",
   "pool": "EJGqTg9r5pEvYY9fxCV2LPPyyW7xvNyTMx5oMbQJJ3kT",
   "creator": "An9rmr3t5ZM4kXcVXpYyMN1v5fx48hXQgfKzCb18idnK",
   "holders": null,
   "link": "https://fomo.family/coin?address=pb6DzXwafqPakPLUJiw6FrixdBfKyVw5LUjx6XHpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.432e-05,
-  "priceTs": "2026-11-12T08:41:25.813295Z",
+  "price": 7.424e-05,
+  "priceTs": "2026-11-12T08:42:34.033004Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -29,18 +29,36 @@
       "t": 1794472860,
       "o": 8.493e-05,
       "h": 8.493e-05,
-      "l": 8.432e-05,
-      "c": 8.432e-05,
-      "v": 685.1800000000001
+      "l": 8.036e-05,
+      "c": 8.036e-05,
+      "v": 1169.9199999999998
+    },
+    {
+      "t": 1794472920,
+      "o": 7.32e-05,
+      "h": 7.424e-05,
+      "l": 7.32e-05,
+      "c": 7.424e-05,
+      "v": 1065.7800000000002
     }
   ],
   "stats": {
-    "marketCap": 84322.0,
-    "liquidity": 20724.4,
-    "volume24h": 2274.09,
+    "marketCap": 74247.0,
+    "liquidity": 19352.41,
+    "volume24h": 3824.61,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T08:42:09.130899Z",
+      "liquidity_usd": 19204.73,
+      "top10_pct": null,
+      "h1_change_pct": -21.78,
+      "age_min": 2,
+      "verdict": "kill",
+      "reason": "liq $19.2K"
+    }
+  ]
 }
