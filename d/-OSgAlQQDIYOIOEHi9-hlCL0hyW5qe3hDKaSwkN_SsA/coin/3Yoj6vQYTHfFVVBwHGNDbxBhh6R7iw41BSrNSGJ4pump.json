@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T14:07:58.793833Z",
+  "ts": "2026-11-12T14:09:09.062140Z",
   "mint": "3Yoj6vQYTHfFVVBwHGNDbxBhh6R7iw41BSrNSGJ4pump",
   "name": "Party Parrot",
   "symbol": "Parrot",
@@ -11,8 +11,8 @@
   "creator": "B9KtuhgEwnY5JASR5W8Yjq5t3Xw1uzr6Uz55mjaGeLCd",
   "holders": null,
   "link": "https://fomo.family/coin?address=3Yoj6vQYTHfFVVBwHGNDbxBhh6R7iw41BSrNSGJ4pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 9.579e-06,
-  "priceTs": "2026-11-12T14:07:57.363320Z",
+  "price": 9.458e-06,
+  "priceTs": "2026-11-12T14:09:07.660026Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -528,12 +528,20 @@
       "l": 9.579e-06,
       "c": 9.579e-06,
       "v": 32.99000000000001
+    },
+    {
+      "t": 1794492540,
+      "o": 9.458e-06,
+      "h": 9.458e-06,
+      "l": 9.458e-06,
+      "c": 9.458e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 9142.0,
-    "liquidity": 6173.02,
-    "volume24h": 296525.3,
+    "marketCap": 9026.0,
+    "liquidity": 6124.82,
+    "volume24h": 296553.26,
     "holders": null
   },
   "position": null,

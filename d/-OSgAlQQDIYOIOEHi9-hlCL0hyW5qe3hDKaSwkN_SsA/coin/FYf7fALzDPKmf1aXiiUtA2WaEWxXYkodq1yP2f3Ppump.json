@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T14:07:59.392783Z",
+  "ts": "2026-11-12T14:09:09.026313Z",
   "mint": "FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump",
-  "name": null,
-  "symbol": null,
-  "label": "FYf7fALz",
+  "name": "OpenToWork",
+  "symbol": "JENSEN",
+  "label": "OpenToWork",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T14:07:21.154218Z",
-  "pool": null,
+  "pool": "9TEM3utTxL1JwWWYY2CcqWn19MhyY8HoShX8W52h1wK",
   "creator": "Gy82UimBwSusyG4oKzasVWtrG4YFAjn4M1UFZB69LWFR",
   "holders": null,
   "link": "https://fomo.family/coin?address=FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.768e-05,
-  "priceTs": "2026-11-12T14:07:58.614803Z",
+  "price": 3.798e-05,
+  "priceTs": "2026-11-12T14:09:07.555424Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,41 @@
       "l": 3.768e-05,
       "c": 3.768e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794492480,
+      "o": 3.768e-05,
+      "h": 3.768e-05,
+      "l": 3.768e-05,
+      "c": 3.768e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794492540,
+      "o": 3.798e-05,
+      "h": 3.798e-05,
+      "l": 3.798e-05,
+      "c": 3.798e-05,
+      "v": 12877.410000000002
     }
   ],
   "stats": {
-    "marketCap": 37619.0,
-    "liquidity": 13254.38,
-    "volume24h": 4315.42,
+    "marketCap": 37918.0,
+    "liquidity": 13380.28,
+    "volume24h": 17192.83,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T14:08:19.944175Z",
+      "liquidity_usd": 13267.67,
+      "top10_pct": null,
+      "h1_change_pct": 12.03,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $13.3K"
+    }
+  ]
 }

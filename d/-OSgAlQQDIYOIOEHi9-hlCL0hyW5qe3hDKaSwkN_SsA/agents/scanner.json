@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T14:07:59.491271Z",
+  "ts": "2026-11-12T14:09:09.748830Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T14:07:53.748841Z",
+  "heartbeat": "2026-11-12T14:09:08.647476Z",
   "paused": false,
   "status": "running",
-  "card": "225 pools",
-  "count": 225,
+  "card": "226 pools",
+  "count": 226,
   "passed": 0,
   "feed": [
+    {
+      "mint": "FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump",
+      "label": "OpenToWork",
+      "verdict": "kill",
+      "reason": "liq $13.3K",
+      "subtitle": "liq $13.3K",
+      "link": "https://fomo.family/coin?address=FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "EVWBXYnaNZQEZmZYwrkNhzomM6jmd6HH1Ly8cVaRpump",
       "label": "NVIDIA HOUSE COIN",
@@ -66,19 +74,19 @@
       "reason": "+248% in 1h",
       "subtitle": "+248% in 1h",
       "link": "https://fomo.family/coin?address=Gw479MQ33aYK6nRJvKq2JFTR7CQibJ4QYK4yHstnVATs&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump",
-      "label": "Paul Atreides",
-      "verdict": "kill",
-      "reason": "liq $16.1K",
-      "subtitle": "liq $16.1K",
-      "link": "https://fomo.family/coin?address=Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T14:08:19.944175Z",
+      "mint": "FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump",
+      "label": "OpenToWork",
+      "verdict": "kill",
+      "reason": "liq $13.3K",
+      "link": "https://fomo.family/coin?address=FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T14:05:51.159855Z",
       "mint": "EVWBXYnaNZQEZmZYwrkNhzomM6jmd6HH1Ly8cVaRpump",
       "label": "NVIDIA HOUSE COIN",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $10.8K",
       "link": "https://fomo.family/coin?address=HboHtoVXPncFkfoSyiVSkYsLtKwoJD2nAEYaoNZ7pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T11:36:17.596922Z",
-      "mint": "79rd4qH5n9yiLvueZi8M4Mpsjnzfffy4xrS4F1mfpump",
-      "label": "mr anyone",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=79rd4qH5n9yiLvueZi8M4Mpsjnzfffy4xrS4F1mfpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T14:08:19.944175Z",
+      "mint": "FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump",
+      "label": "OpenToWork",
+      "verdict": "kill",
+      "reason": "liq $13.3K",
+      "link": "https://fomo.family/coin?address=FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T14:05:51.159855Z",
       "mint": "EVWBXYnaNZQEZmZYwrkNhzomM6jmd6HH1Ly8cVaRpump",
       "label": "NVIDIA HOUSE COIN",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $10.8K",
       "link": "https://fomo.family/coin?address=HboHtoVXPncFkfoSyiVSkYsLtKwoJD2nAEYaoNZ7pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T11:36:17.596922Z",
-      "mint": "79rd4qH5n9yiLvueZi8M4Mpsjnzfffy4xrS4F1mfpump",
-      "label": "mr anyone",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=79rd4qH5n9yiLvueZi8M4Mpsjnzfffy4xrS4F1mfpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
