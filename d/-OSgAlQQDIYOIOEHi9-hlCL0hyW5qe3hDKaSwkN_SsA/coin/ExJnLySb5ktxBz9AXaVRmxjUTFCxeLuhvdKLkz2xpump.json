@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-12T15:10:58.640452Z",
+  "ts": "2026-11-12T15:12:08.903972Z",
   "mint": "ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump",
-  "name": null,
-  "symbol": null,
-  "label": "ExJnLySb",
+  "name": "Dickcoin",
+  "symbol": "Dickcoin",
+  "label": "Dickcoin",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T15:10:54.377391Z",
-  "pool": null,
+  "pool": "8eRh7CDEyU2aW8vkhjeWmLgkDYJBMJvZSF3ZfuQ8jC25",
   "creator": "HqL3pnDShvccxs6CfovgQpjgtPimpC1DPBbyXq89htCH",
   "holders": null,
   "link": "https://fomo.family/coin?address=ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.643e-05,
+  "priceTs": "2026-11-12T15:12:07.051510Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794496260,
+      "o": 7.056e-05,
+      "h": 7.056e-05,
+      "l": 7.056e-05,
+      "c": 7.056e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794496320,
+      "o": 3.643e-05,
+      "h": 3.643e-05,
+      "l": 3.643e-05,
+      "c": 3.643e-05,
+      "v": 2787.9700000000003
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 36400.0,
+    "liquidity": 13036.8,
+    "volume24h": 5845.8,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T15:11:27.045632Z",
+      "liquidity_usd": 18918.35,
+      "top10_pct": null,
+      "h1_change_pct": 107.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $18.9K"
+    }
+  ]
 }

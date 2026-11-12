@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T15:10:58.758266Z",
+  "ts": "2026-11-12T15:12:09.712455Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T15:10:56.382406Z",
+  "heartbeat": "2026-11-12T15:12:06.544485Z",
   "paused": false,
   "status": "running",
-  "card": "236 pools",
-  "count": 236,
+  "card": "237 pools",
+  "count": 237,
   "passed": 0,
   "feed": [
+    {
+      "mint": "ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump",
+      "label": "Dickcoin",
+      "verdict": "kill",
+      "reason": "liq $18.9K",
+      "subtitle": "liq $18.9K",
+      "link": "https://fomo.family/coin?address=ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "DpFBdhBiBWH4s3HXi5YsEqoaRA44MPeNRMkTvNwzpump",
       "label": "NVIDIA",
@@ -66,19 +74,19 @@
       "reason": "liq $1.7K",
       "subtitle": "liq $1.7K",
       "link": "https://fomo.family/coin?address=4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
-      "label": "Xsc9qvGR",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "subtitle": "never qualified",
-      "link": "https://fomo.family/coin?address=Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T15:11:27.045632Z",
+      "mint": "ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump",
+      "label": "Dickcoin",
+      "verdict": "kill",
+      "reason": "liq $18.9K",
+      "link": "https://fomo.family/coin?address=ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:09:11.783801Z",
       "mint": "DpFBdhBiBWH4s3HXi5YsEqoaRA44MPeNRMkTvNwzpump",
       "label": "NVIDIA",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $16.1K",
       "link": "https://fomo.family/coin?address=Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T13:07:12.766357Z",
-      "mint": "VCE9b98Kruc5G8zu7kSmcvcfaRerj4HJyzZfnjapump",
-      "label": "Robinhood",
-      "verdict": "kill",
-      "reason": "+196% in 1h",
-      "link": "https://fomo.family/coin?address=VCE9b98Kruc5G8zu7kSmcvcfaRerj4HJyzZfnjapump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T15:11:27.045632Z",
+      "mint": "ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump",
+      "label": "Dickcoin",
+      "verdict": "kill",
+      "reason": "liq $18.9K",
+      "link": "https://fomo.family/coin?address=ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:09:11.783801Z",
       "mint": "DpFBdhBiBWH4s3HXi5YsEqoaRA44MPeNRMkTvNwzpump",
       "label": "NVIDIA",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $16.1K",
       "link": "https://fomo.family/coin?address=Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T13:07:12.766357Z",
-      "mint": "VCE9b98Kruc5G8zu7kSmcvcfaRerj4HJyzZfnjapump",
-      "label": "Robinhood",
-      "verdict": "kill",
-      "reason": "+196% in 1h",
-      "link": "https://fomo.family/coin?address=VCE9b98Kruc5G8zu7kSmcvcfaRerj4HJyzZfnjapump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
