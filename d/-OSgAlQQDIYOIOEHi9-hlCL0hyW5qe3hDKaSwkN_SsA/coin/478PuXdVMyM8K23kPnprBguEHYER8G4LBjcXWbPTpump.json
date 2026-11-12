@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-12T20:45:22.479706Z",
+  "mint": "478PuXdVMyM8K23kPnprBguEHYER8G4LBjcXWbPTpump",
+  "name": "Helmiz",
+  "symbol": "Helmiz",
+  "label": "Helmiz",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-12T20:44:16.499443Z",
+  "pool": "HPc6rBjtHaWdNAKeBTVButCfrtKPDDApRVMTZUfTUHfv",
+  "creator": "FnbZsCS74E7wPjxdNZaU2SmopdRU9CjUhsEMAaYN1tcN",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=478PuXdVMyM8K23kPnprBguEHYER8G4LBjcXWbPTpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.949e-05,
+  "priceTs": "2026-11-12T20:45:22.121518Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794516240,
+      "o": 3.49e-05,
+      "h": 3.49e-05,
+      "l": 3.49e-05,
+      "c": 3.49e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794516300,
+      "o": 3.949e-05,
+      "h": 3.949e-05,
+      "l": 3.949e-05,
+      "c": 3.949e-05,
+      "v": 13238.65
+    }
+  ],
+  "stats": {
+    "marketCap": 39417.0,
+    "liquidity": 13740.33,
+    "volume24h": 14048.59,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T20:44:47.159227Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 2.91,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
