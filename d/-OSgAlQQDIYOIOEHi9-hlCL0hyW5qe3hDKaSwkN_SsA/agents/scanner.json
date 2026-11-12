@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T06:12:01.920379Z",
+  "ts": "2026-11-12T06:13:10.392898Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T06:11:58.512578Z",
+  "heartbeat": "2026-11-12T06:12:59.160438Z",
   "paused": false,
   "status": "running",
-  "card": "127 pools",
-  "count": 127,
+  "card": "128 pools",
+  "count": 128,
   "passed": 0,
   "feed": [
+    {
+      "mint": "HxxCe42L5d3zdacxQZHJdj33g7Pm8bJqjXVbTpoApump",
+      "label": "⭐⭐⭐⭐⭐⭐",
+      "verdict": "kill",
+      "reason": "liq $15.1K",
+      "subtitle": "liq $15.1K",
+      "link": "https://fomo.family/coin?address=HxxCe42L5d3zdacxQZHJdj33g7Pm8bJqjXVbTpoApump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "BPA2AoMbUZVJhkno5ryCwFbQLX1KfXwzaCuQJETfpump",
       "label": "GTA 6 Updates",
@@ -66,19 +74,19 @@
       "reason": "+225% in 1h",
       "subtitle": "+225% in 1h",
       "link": "https://fomo.family/coin?address=2fFLX5PPNKiuALi1c8dH1FYEEXuNSWbD3GWyeNYxpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump",
-      "label": "Pepe Fly Adventure",
-      "verdict": "kill",
-      "reason": "liq $54",
-      "subtitle": "liq $54",
-      "link": "https://fomo.family/coin?address=CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T06:12:59.338974Z",
+      "mint": "HxxCe42L5d3zdacxQZHJdj33g7Pm8bJqjXVbTpoApump",
+      "label": "⭐⭐⭐⭐⭐⭐",
+      "verdict": "kill",
+      "reason": "liq $15.1K",
+      "link": "https://fomo.family/coin?address=HxxCe42L5d3zdacxQZHJdj33g7Pm8bJqjXVbTpoApump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:11:59.156547Z",
       "mint": "BPA2AoMbUZVJhkno5ryCwFbQLX1KfXwzaCuQJETfpump",
       "label": "GTA 6 Updates",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $31.9K",
       "link": "https://fomo.family/coin?address=Eh5zz6vrPK66MHzhBLrzEFHvATE7Z1SqoALzcNu4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T05:20:27.437285Z",
-      "mint": "EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump",
-      "label": "green cat",
-      "verdict": "kill",
-      "reason": "liq $30",
-      "link": "https://fomo.family/coin?address=EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T06:12:59.338974Z",
+      "mint": "HxxCe42L5d3zdacxQZHJdj33g7Pm8bJqjXVbTpoApump",
+      "label": "⭐⭐⭐⭐⭐⭐",
+      "verdict": "kill",
+      "reason": "liq $15.1K",
+      "link": "https://fomo.family/coin?address=HxxCe42L5d3zdacxQZHJdj33g7Pm8bJqjXVbTpoApump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:11:59.156547Z",
       "mint": "BPA2AoMbUZVJhkno5ryCwFbQLX1KfXwzaCuQJETfpump",
       "label": "GTA 6 Updates",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $31.9K",
       "link": "https://fomo.family/coin?address=Eh5zz6vrPK66MHzhBLrzEFHvATE7Z1SqoALzcNu4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T05:20:27.437285Z",
-      "mint": "EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump",
-      "label": "green cat",
-      "verdict": "kill",
-      "reason": "liq $30",
-      "link": "https://fomo.family/coin?address=EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
