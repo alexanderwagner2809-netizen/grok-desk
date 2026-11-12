@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T08:35:42.366780Z",
+  "ts": "2026-11-12T08:36:51.228662Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T08:35:41.127407Z",
+  "heartbeat": "2026-11-12T08:36:41.135739Z",
   "paused": false,
   "status": "running",
-  "card": "171 pools",
-  "count": 171,
+  "card": "172 pools",
+  "count": 172,
   "passed": 0,
   "feed": [
+    {
+      "mint": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+      "label": "63LfDmNb",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "2rQWxRpgpxd9a24jK829ECcwWYnonPYmPRG9gG5cpump",
       "label": "Ian Buck",
@@ -66,19 +74,19 @@
       "reason": "liq $2.8K",
       "subtitle": "liq $2.8K",
       "link": "https://fomo.family/coin?address=9PPMpwduf92BGy52pPef7gceC3T54H2SJac36Brxpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "2rpVrECe1SmCFU8msoxmuUSNy5yRqdbPppjwH6VSpump",
-      "label": "makemerich",
-      "verdict": "kill",
-      "reason": "liq $4",
-      "subtitle": "liq $4",
-      "link": "https://fomo.family/coin?address=2rpVrECe1SmCFU8msoxmuUSNy5yRqdbPppjwH6VSpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T08:36:38.949989Z",
+      "mint": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+      "label": "63LfDmNb",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T08:33:17.954407Z",
       "mint": "2rQWxRpgpxd9a24jK829ECcwWYnonPYmPRG9gG5cpump",
       "label": "Ian Buck",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $7",
       "link": "https://fomo.family/coin?address=3CWDBe7zG2oKSuuEP5YM2wvgBDE3Qhp3xZcMX7BYpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T07:40:14.965126Z",
-      "mint": "1yXPxSzCJ2NTHcmNJQWZPDM28cvYJY2sAwEXQAkpump",
-      "label": "ㅤ",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=1yXPxSzCJ2NTHcmNJQWZPDM28cvYJY2sAwEXQAkpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T08:36:38.949989Z",
+      "mint": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+      "label": "63LfDmNb",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T08:33:17.954407Z",
       "mint": "2rQWxRpgpxd9a24jK829ECcwWYnonPYmPRG9gG5cpump",
       "label": "Ian Buck",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $7",
       "link": "https://fomo.family/coin?address=3CWDBe7zG2oKSuuEP5YM2wvgBDE3Qhp3xZcMX7BYpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T07:40:14.965126Z",
-      "mint": "1yXPxSzCJ2NTHcmNJQWZPDM28cvYJY2sAwEXQAkpump",
-      "label": "ㅤ",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=1yXPxSzCJ2NTHcmNJQWZPDM28cvYJY2sAwEXQAkpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
