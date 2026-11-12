@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T13:27:56.847207Z",
+  "mint": "Fcrtn1hSxfNnAD87yahjJJhdcc2XwKFvZA5Shc4Ppump",
+  "name": "VectorKeith ",
+  "symbol": "USVK",
+  "label": "VectorKeith ",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-12T13:26:52.405288Z",
+  "pool": "GkCJmWmG9XZncCBCgrLYHeNZmNJCcMwHda9oFDuhuxJr",
+  "creator": "AEosz933g5uYByNCjeadba9tik1ReTFmYyqAg1enAqen",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=Fcrtn1hSxfNnAD87yahjJJhdcc2XwKFvZA5Shc4Ppump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 7.631e-08,
+  "priceTs": "2026-11-12T13:27:55.388333Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794490020,
+      "o": 7.576e-08,
+      "h": 7.631e-08,
+      "l": 7.576e-08,
+      "c": 7.631e-08,
+      "v": 2.75
+    }
+  ],
+  "stats": {
+    "marketCap": 153.0,
+    "liquidity": 31.0,
+    "volume24h": 3.01,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T13:27:25.254115Z",
+      "liquidity_usd": 30.87,
+      "top10_pct": null,
+      "h1_change_pct": 1.81,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $31"
+    }
+  ]
+}
