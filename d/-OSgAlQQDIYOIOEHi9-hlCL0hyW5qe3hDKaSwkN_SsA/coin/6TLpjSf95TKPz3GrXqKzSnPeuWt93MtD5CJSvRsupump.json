@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T07:08:23.421665Z",
+  "ts": "2026-11-12T07:09:32.046726Z",
   "mint": "6TLpjSf95TKPz3GrXqKzSnPeuWt93MtD5CJSvRsupump",
-  "name": null,
-  "symbol": null,
-  "label": "6TLpjSf9",
+  "name": "NIMS",
+  "symbol": "NIMS",
+  "label": "NIMS",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T07:07:53.461887Z",
-  "pool": null,
+  "pool": "BePwZNymscBgee7VB1R1CBXPjt13E5GL3gaV3udCy1kV",
   "creator": "DAyNrCn2NYTaozA63mARxy6NSJqbQBVUyY34AfAPuken",
   "holders": null,
   "link": "https://fomo.family/coin?address=6TLpjSf95TKPz3GrXqKzSnPeuWt93MtD5CJSvRsupump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.322e-07,
-  "priceTs": "2026-11-12T07:08:22.880262Z",
+  "price": 3.906e-07,
+  "priceTs": "2026-11-12T07:09:31.182132Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 1.322e-07,
       "c": 1.322e-07,
       "v": 0.0
+    },
+    {
+      "t": 1794467340,
+      "o": 3.906e-07,
+      "h": 3.906e-07,
+      "l": 3.906e-07,
+      "c": 3.906e-07,
+      "v": 28.86
     }
   ],
   "stats": {
-    "marketCap": 264.0,
-    "liquidity": 53.57,
-    "volume24h": 1.92,
+    "marketCap": 781.0,
+    "liquidity": 90.47,
+    "volume24h": 30.78,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T07:08:26.210352Z",
+      "liquidity_usd": 53.57,
+      "top10_pct": null,
+      "h1_change_pct": 7.52,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $54"
+    }
+  ]
 }
