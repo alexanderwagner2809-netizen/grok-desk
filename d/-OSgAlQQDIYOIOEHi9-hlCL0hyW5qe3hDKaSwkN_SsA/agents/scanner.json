@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T11:26:44.731146Z",
+  "ts": "2026-11-12T11:27:53.907120Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T11:26:39.999793Z",
+  "heartbeat": "2026-11-12T11:27:52.589054Z",
   "paused": false,
   "status": "running",
-  "card": "201 pools",
-  "count": 201,
+  "card": "202 pools",
+  "count": 202,
   "passed": 0,
   "feed": [
+    {
+      "mint": "Gj8TvZuz6g7mo3vbsxiNVg57Q3m7UNn69V9gqrepump",
+      "label": "fomo",
+      "verdict": "kill",
+      "reason": "+192% in 1h",
+      "subtitle": "+192% in 1h",
+      "link": "https://fomo.family/coin?address=Gj8TvZuz6g7mo3vbsxiNVg57Q3m7UNn69V9gqrepump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "3Yoj6vQYTHfFVVBwHGNDbxBhh6R7iw41BSrNSGJ4pump",
       "label": "Party Parrot",
@@ -66,19 +74,19 @@
       "reason": "liq $5",
       "subtitle": "liq $5",
       "link": "https://fomo.family/coin?address=F6J1FrXk5jQSXZLmjA2jaEz5dGQiytDxB6zMiyRnpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "JCM2aNHYiquHGVD7tGEAm9mnNd2KDRd2WHW9Up34pump",
-      "label": "PUMP AGENTS",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=JCM2aNHYiquHGVD7tGEAm9mnNd2KDRd2WHW9Up34pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T11:27:30.921691Z",
+      "mint": "Gj8TvZuz6g7mo3vbsxiNVg57Q3m7UNn69V9gqrepump",
+      "label": "fomo",
+      "verdict": "kill",
+      "reason": "+192% in 1h",
+      "link": "https://fomo.family/coin?address=Gj8TvZuz6g7mo3vbsxiNVg57Q3m7UNn69V9gqrepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T11:16:22.434325Z",
       "mint": "3Yoj6vQYTHfFVVBwHGNDbxBhh6R7iw41BSrNSGJ4pump",
       "label": "Party Parrot",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=4SKc6peHq1Je3kWyGt7CQnRjnVphuwd425kcwqPapump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T09:25:05.124440Z",
-      "mint": "BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump",
-      "label": "Paid",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T11:27:30.921691Z",
+      "mint": "Gj8TvZuz6g7mo3vbsxiNVg57Q3m7UNn69V9gqrepump",
+      "label": "fomo",
+      "verdict": "kill",
+      "reason": "+192% in 1h",
+      "link": "https://fomo.family/coin?address=Gj8TvZuz6g7mo3vbsxiNVg57Q3m7UNn69V9gqrepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T11:16:22.434325Z",
       "mint": "3Yoj6vQYTHfFVVBwHGNDbxBhh6R7iw41BSrNSGJ4pump",
       "label": "Party Parrot",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=4SKc6peHq1Je3kWyGt7CQnRjnVphuwd425kcwqPapump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T09:25:05.124440Z",
-      "mint": "BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump",
-      "label": "Paid",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
