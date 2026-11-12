@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-12T20:48:54.297319Z",
+  "ts": "2026-11-12T20:50:04.549575Z",
   "mint": "5GHrLCmWz2Af5HAcF8oRSLntaXTaWftERYmhDt4wpump",
-  "name": null,
-  "symbol": null,
-  "label": "5GHrLCmW",
+  "name": "DeepSeek",
+  "symbol": "DeepSeek",
+  "label": "DeepSeek",
   "chain": "Solana",
-  "age": "2m old",
+  "age": "3m old",
   "migratedAt": "2026-11-12T20:46:53.736655Z",
-  "pool": null,
+  "pool": "5X629VmNLCJdDTF7viCh6kjx8VVk1qP51bwQnTeKiTD1",
   "creator": "6z8ruxQPJLu1kVbeQQ21FQaie1oGTWgkLuGYpoVkYGoS",
   "holders": null,
   "link": "https://fomo.family/coin?address=5GHrLCmWz2Af5HAcF8oRSLntaXTaWftERYmhDt4wpump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:49:54.444905Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -73.91,
+      "age_min": 3,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
