@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-12T21:13:25.355595Z",
+  "mint": "9nQ1kmKPcWLWibRmJVk13HLGSVqtdiTHHtiCgsiYzeus",
+  "name": "Pepes Dog",
+  "symbol": "ZEUS",
+  "label": "Pepes Dog",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-12T21:12:16.981218Z",
+  "pool": "BXbufWQZR78vxXKKn1eocFNCjKCbcMz3jH7FNDpXcCUB",
+  "creator": null,
+  "holders": null,
+  "link": "https://fomo.family/coin?address=9nQ1kmKPcWLWibRmJVk13HLGSVqtdiTHHtiCgsiYzeus&chainId=1399811149&r=savipww&source=share_link",
+  "price": 0.0001603,
+  "priceTs": "2026-11-12T21:13:25.095285Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794517920,
+      "o": 0.0001476,
+      "h": 0.0001476,
+      "l": 0.0001476,
+      "c": 0.0001476,
+      "v": 0.0
+    },
+    {
+      "t": 1794517980,
+      "o": 0.0001603,
+      "h": 0.0001603,
+      "l": 0.0001603,
+      "c": 0.0001603,
+      "v": 509.9899999999998
+    }
+  ],
+  "stats": {
+    "marketCap": 160251.0,
+    "liquidity": 28856.9,
+    "volume24h": 8055.58,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T21:12:50.052799Z",
+      "liquidity_usd": 27613.96,
+      "top10_pct": null,
+      "h1_change_pct": 229.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "+229% in 1h"
+    }
+  ]
+}
