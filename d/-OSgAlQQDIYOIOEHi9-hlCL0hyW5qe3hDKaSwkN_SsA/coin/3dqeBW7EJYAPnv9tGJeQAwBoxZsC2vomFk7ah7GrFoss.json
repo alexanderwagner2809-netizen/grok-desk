@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T01:18:39.186269Z",
+  "ts": "2026-11-12T01:21:17.632783Z",
   "mint": "3dqeBW7EJYAPnv9tGJeQAwBoxZsC2vomFk7ah7GrFoss",
   "name": "X Coin",
   "symbol": "X",
   "label": "X Coin",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "3m old",
   "migratedAt": "2026-11-12T01:17:38.245990Z",
   "pool": "kLHa4xqSRezGxr6kp1VtKLn783qXA1xd8MppW44DkHa",
   "creator": "H1xrpB3ECb8fYHJeqCKu24HmjRZwR6zwo2C81RiozfJg",
   "holders": null,
   "link": "https://fomo.family/coin?address=3dqeBW7EJYAPnv9tGJeQAwBoxZsC2vomFk7ah7GrFoss&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.01e-05,
-  "priceTs": "2026-11-12T01:18:38.714766Z",
+  "price": 0.000148,
+  "priceTs": "2026-11-12T01:21:17.088965Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,12 +24,20 @@
       "l": 3.789e-05,
       "c": 6.01e-05,
       "v": 28342.74
+    },
+    {
+      "t": 1794446460,
+      "o": 0.000148,
+      "h": 0.000148,
+      "l": 0.000148,
+      "c": 0.000148,
+      "v": 169545.07
     }
   ],
   "stats": {
-    "marketCap": 59997.0,
-    "liquidity": 17576.48,
-    "volume24h": 40770.94,
+    "marketCap": 147818.0,
+    "liquidity": 30183.78,
+    "volume24h": 210316.01,
     "holders": null
   },
   "position": null,

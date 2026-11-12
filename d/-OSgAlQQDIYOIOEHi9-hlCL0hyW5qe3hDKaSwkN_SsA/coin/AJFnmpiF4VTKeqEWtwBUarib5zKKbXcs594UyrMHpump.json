@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T01:21:17.630645Z",
+  "mint": "AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump",
+  "name": "Ansem is Back",
+  "symbol": "AIB",
+  "label": "Ansem is Back",
+  "chain": "Solana",
+  "age": "2m old",
+  "migratedAt": "2026-11-12T01:19:01.751635Z",
+  "pool": "5jN7YxKhncGwi3njP5Z8M6YYBKkuhL7p2axLLG2DaGK3",
+  "creator": "FkLwrNJYkmG3d6ZxFUSX7wgu77xoYbFBewYniRRHTMTD",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=AJFnmpiF4VTKeqEWtwBUarib5zKKbXcs594UyrMHpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 0.0002866,
+  "priceTs": "2026-11-12T01:21:17.484544Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794446460,
+      "o": 0.0002866,
+      "h": 0.0002866,
+      "l": 0.0002866,
+      "c": 0.0002866,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 286562.0,
+    "liquidity": 39738.69,
+    "volume24h": 64142.13,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T01:21:17.066739Z",
+      "liquidity_usd": 39729.8,
+      "top10_pct": null,
+      "h1_change_pct": 418.0,
+      "age_min": 2,
+      "verdict": "kill",
+      "reason": "liq $39.7K"
+    }
+  ]
+}

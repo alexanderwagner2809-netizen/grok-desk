@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T01:18:39.260464Z",
+  "ts": "2026-11-12T01:21:17.631384Z",
   "mint": "DnhM9c4Gdaabirg3W8Ks2c6g5hmMruErapxFRV7apump",
-  "name": null,
-  "symbol": null,
-  "label": "DnhM9c4G",
+  "name": "Elon Max",
+  "symbol": "ELONMAX",
+  "label": "Elon Max",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "3m old",
   "migratedAt": "2026-11-12T01:18:10.541326Z",
-  "pool": null,
+  "pool": "7s6z8Mk9MsmPDmcSyKwFE9BNLdgmmj81dcLqfQXoYSv5",
   "creator": "6PLXPRLMzFM8PrP1rJeqzf6CZZHFScFSiDLZWbC9tGK",
   "holders": null,
   "link": "https://fomo.family/coin?address=DnhM9c4Gdaabirg3W8Ks2c6g5hmMruErapxFRV7apump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001013,
-  "priceTs": "2026-11-12T01:18:39.047116Z",
+  "price": 0.0001305,
+  "priceTs": "2026-11-12T01:21:17.088965Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,41 @@
       "l": 0.0001013,
       "c": 0.0001013,
       "v": 0.0
+    },
+    {
+      "t": 1794446340,
+      "o": 0.0001069,
+      "h": 0.0001069,
+      "l": 0.0001069,
+      "c": 0.0001069,
+      "v": 1101.96
+    },
+    {
+      "t": 1794446460,
+      "o": 0.0001305,
+      "h": 0.0001305,
+      "l": 0.0001305,
+      "c": 0.0001305,
+      "v": 42703.04
     }
   ],
   "stats": {
-    "marketCap": 101328.0,
-    "liquidity": null,
-    "volume24h": 5115.46,
+    "marketCap": 130510.0,
+    "liquidity": 26386.02,
+    "volume24h": 48920.46,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T01:19:02.142735Z",
+      "liquidity_usd": 23607.71,
+      "top10_pct": null,
+      "h1_change_pct": 157.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $23.6K"
+    }
+  ]
 }
