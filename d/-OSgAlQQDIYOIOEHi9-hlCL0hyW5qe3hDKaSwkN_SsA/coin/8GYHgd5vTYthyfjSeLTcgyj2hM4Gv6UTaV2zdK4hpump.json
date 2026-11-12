@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-12T21:02:54.226645Z",
+  "ts": "2026-11-12T21:04:03.603995Z",
   "mint": "8GYHgd5vTYthyfjSeLTcgyj2hM4Gv6UTaV2zdK4hpump",
   "name": null,
   "symbol": null,
   "label": "8GYHgd5v",
   "chain": "Solana",
-  "age": "19m old",
+  "age": "20m old",
   "migratedAt": "2026-11-12T20:43:11.572711Z",
   "pool": null,
   "creator": "v1K9wRrWngaFhE9mVQ93SkxFGBJ4fq7N9c5JWjxtH56",
   "holders": null,
   "link": "https://fomo.family/coin?address=8GYHgd5vTYthyfjSeLTcgyj2hM4Gv6UTaV2zdK4hpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.345e-05,
+  "priceTs": "2026-11-12T21:04:03.326608Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794517440,
+      "o": 3.345e-05,
+      "h": 3.345e-05,
+      "l": 3.345e-05,
+      "c": 3.345e-05,
+      "v": 0.0
+    }
+  ],
   "stats": {
-    "marketCap": null,
+    "marketCap": 33457.97,
     "liquidity": null,
-    "volume24h": null,
+    "volume24h": 85405.06,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T21:03:12.382533Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 20,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }
