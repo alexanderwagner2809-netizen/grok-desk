@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T17:42:48.377496Z",
+  "ts": "2026-11-12T17:44:00.404895Z",
   "mint": "58okqXoxYh1hbSgvUjHG4iNw1PekncGvAxGFRoRDpump",
   "name": "The Trump Files",
   "symbol": "TRUMP",
@@ -11,8 +11,8 @@
   "creator": "AM2k7RDDuX2jwSRENzT9nZeJTejyAFSwGDSUuaKYD9DM",
   "holders": null,
   "link": "https://fomo.family/coin?address=58okqXoxYh1hbSgvUjHG4iNw1PekncGvAxGFRoRDpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.919e-06,
-  "priceTs": "2026-11-12T17:42:46.595666Z",
+  "price": 3.895e-06,
+  "priceTs": "2026-11-12T17:43:58.329384Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -160,12 +160,20 @@
       "l": 3.919e-06,
       "c": 3.919e-06,
       "v": 13.940000000000001
+    },
+    {
+      "t": 1794505380,
+      "o": 3.895e-06,
+      "h": 3.895e-06,
+      "l": 3.895e-06,
+      "c": 3.895e-06,
+      "v": 0.9600000000000009
     }
   ],
   "stats": {
-    "marketCap": 3745.0,
-    "liquidity": 3332.85,
-    "volume24h": 128908.44,
+    "marketCap": 3721.0,
+    "liquidity": 3317.94,
+    "volume24h": 128909.39,
     "holders": null
   },
   "position": null,

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T17:42:49.519289Z",
+  "ts": "2026-11-12T17:44:01.531624Z",
   "mint": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
   "name": null,
   "symbol": null,
@@ -11,8 +11,8 @@
   "creator": "Doa8F9eugaAHpCBmfmShKV1BhKN9xyaEDg1mTsonW5p8",
   "holders": null,
   "link": "https://fomo.family/coin?address=pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.003373,
-  "priceTs": "2026-11-12T17:42:48.351393Z",
+  "price": 0.003362,
+  "priceTs": "2026-11-12T17:44:00.372745Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2432,12 +2432,20 @@
       "l": 0.003373,
       "c": 0.003373,
       "v": 184.14999999999998
+    },
+    {
+      "t": 1794505440,
+      "o": 0.003362,
+      "h": 0.003362,
+      "l": 0.003362,
+      "c": 0.003362,
+      "v": 3364.1000000000004
     }
   ],
   "stats": {
-    "marketCap": 1546084752.0,
-    "liquidity": 2179623.92,
-    "volume24h": 2895876.52,
+    "marketCap": 1540821210.0,
+    "liquidity": 2174126.64,
+    "volume24h": 2893468.94,
     "holders": null
   },
   "position": null,
