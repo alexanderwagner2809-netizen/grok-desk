@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T20:11:54.864396Z",
+  "ts": "2026-11-12T20:13:06.253406Z",
   "mint": "4o3JKYKwHad7xEJ5sww7ck7WpA7ocXF8s36PvxLvpump",
   "name": "Wife-Changing Money",
   "symbol": "WIFE",
   "label": "Wife-Changing Money",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T20:10:38.896260Z",
   "pool": "5iNfDuYP5NduEShuDeNuzk9giEPtFbuEoYpS8KDjD2H6",
   "creator": "4kMSHb74pYfsesihS8muuGggokzMZ3ZB3B9uK7s8KSYP",
   "holders": null,
   "link": "https://fomo.family/coin?address=4o3JKYKwHad7xEJ5sww7ck7WpA7ocXF8s36PvxLvpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 7.557e-05,
-  "priceTs": "2026-11-12T20:11:53.262759Z",
+  "price": 4.033e-05,
+  "priceTs": "2026-11-12T20:13:04.038894Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,41 @@
       "l": 7.557e-05,
       "c": 7.557e-05,
       "v": 25544.98
+    },
+    {
+      "t": 1794514320,
+      "o": 7.557e-05,
+      "h": 7.557e-05,
+      "l": 7.557e-05,
+      "c": 7.557e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794514380,
+      "o": 4.033e-05,
+      "h": 4.033e-05,
+      "l": 4.033e-05,
+      "c": 4.033e-05,
+      "v": 41716.409999999996
     }
   ],
   "stats": {
-    "marketCap": 75531.0,
-    "liquidity": 19622.55,
-    "volume24h": 42251.96,
+    "marketCap": 40313.0,
+    "liquidity": 14679.04,
+    "volume24h": 83968.37,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:12:02.248738Z",
+      "liquidity_usd": 19622.55,
+      "top10_pct": null,
+      "h1_change_pct": 35.84,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $19.6K"
+    }
+  ]
 }

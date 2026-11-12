@@ -1,16 +1,40 @@
 {
-  "ts": "2026-11-12T20:11:55.688783Z",
+  "ts": "2026-11-12T20:13:07.350351Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T20:11:51.554836Z",
+  "heartbeat": "2026-11-12T20:13:04.043862Z",
   "paused": false,
   "status": "running",
-  "card": "320 pools",
-  "count": 320,
+  "card": "323 pools",
+  "count": 323,
   "passed": 0,
   "feed": [
+    {
+      "mint": "91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump",
+      "label": "Father",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "GtzA52z9dNYHjHiK7LCEPrDsjYzs6ZgrjwkpyvT3pump",
+      "label": "Just start calling",
+      "verdict": "kill",
+      "reason": "liq $12.9K",
+      "subtitle": "liq $12.9K",
+      "link": "https://fomo.family/coin?address=GtzA52z9dNYHjHiK7LCEPrDsjYzs6ZgrjwkpyvT3pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "4o3JKYKwHad7xEJ5sww7ck7WpA7ocXF8s36PvxLvpump",
+      "label": "Wife-Changing Money",
+      "verdict": "kill",
+      "reason": "liq $19.6K",
+      "subtitle": "liq $19.6K",
+      "link": "https://fomo.family/coin?address=4o3JKYKwHad7xEJ5sww7ck7WpA7ocXF8s36PvxLvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump",
       "label": "Jensen Sins",
@@ -50,35 +74,35 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=9Q7HLMNfCqyaGmGXJbpBGBEkNiihsyACw3aEZTwMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs",
-      "label": "longcat",
-      "verdict": "kill",
-      "reason": "liq $2.3K",
-      "subtitle": "liq $2.3K",
-      "link": "https://fomo.family/coin?address=4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "AQKsrfYvQQEAQ47fP89tSm5hd6YdgUUCB1iCGchfpump",
-      "label": "Megan Fox",
-      "verdict": "kill",
-      "reason": "liq $179",
-      "subtitle": "liq $179",
-      "link": "https://fomo.family/coin?address=AQKsrfYvQQEAQ47fP89tSm5hd6YdgUUCB1iCGchfpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EsTtz2ihzgTHNraechVRFVbyD9XrX61QEpb3ACBtpump",
-      "label": "Selfmade",
-      "verdict": "kill",
-      "reason": "liq $13.1K",
-      "subtitle": "liq $13.1K",
-      "link": "https://fomo.family/coin?address=EsTtz2ihzgTHNraechVRFVbyD9XrX61QEpb3ACBtpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T20:12:47.227175Z",
+      "mint": "91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump",
+      "label": "Father",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T20:12:47.225570Z",
+      "mint": "GtzA52z9dNYHjHiK7LCEPrDsjYzs6ZgrjwkpyvT3pump",
+      "label": "Just start calling",
+      "verdict": "kill",
+      "reason": "liq $12.9K",
+      "link": "https://fomo.family/coin?address=GtzA52z9dNYHjHiK7LCEPrDsjYzs6ZgrjwkpyvT3pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T20:12:02.248738Z",
+      "mint": "4o3JKYKwHad7xEJ5sww7ck7WpA7ocXF8s36PvxLvpump",
+      "label": "Wife-Changing Money",
+      "verdict": "kill",
+      "reason": "liq $19.6K",
+      "link": "https://fomo.family/coin?address=4o3JKYKwHad7xEJ5sww7ck7WpA7ocXF8s36PvxLvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:10:37.049635Z",
       "mint": "HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump",
       "label": "Jensen Sins",
@@ -213,34 +237,34 @@
       "verdict": "kill",
       "reason": "liq $13.0K",
       "link": "https://fomo.family/coin?address=AWxAApqJVdrAvrweX9di5jz1cYx9wcUPSn3VmL1vpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:36:08.474426Z",
-      "mint": "bD4xhYHJEXvcE3UAVgBc1fqagjDPCv9F7ZvPjkUpump",
-      "label": "R1 R2 L1 × ← ↓ → ↑",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=bD4xhYHJEXvcE3UAVgBc1fqagjDPCv9F7ZvPjkUpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:34:57.527890Z",
-      "mint": "ZewYq5fWCgC51RzuJAxf5oifsKg5wzRUJqkgpaHpump",
-      "label": "JHuang Cooked",
-      "verdict": "kill",
-      "reason": "liq $48",
-      "link": "https://fomo.family/coin?address=ZewYq5fWCgC51RzuJAxf5oifsKg5wzRUJqkgpaHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:34:57.526813Z",
-      "mint": "3JRvjghEHNu6nyhTDiimQovqSKPvNN49S2YgUkh1pump",
-      "label": "Pirate Coin",
-      "verdict": "kill",
-      "reason": "liq $31",
-      "link": "https://fomo.family/coin?address=3JRvjghEHNu6nyhTDiimQovqSKPvNN49S2YgUkh1pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T20:12:47.227175Z",
+      "mint": "91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump",
+      "label": "Father",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T20:12:47.225570Z",
+      "mint": "GtzA52z9dNYHjHiK7LCEPrDsjYzs6ZgrjwkpyvT3pump",
+      "label": "Just start calling",
+      "verdict": "kill",
+      "reason": "liq $12.9K",
+      "link": "https://fomo.family/coin?address=GtzA52z9dNYHjHiK7LCEPrDsjYzs6ZgrjwkpyvT3pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T20:12:02.248738Z",
+      "mint": "4o3JKYKwHad7xEJ5sww7ck7WpA7ocXF8s36PvxLvpump",
+      "label": "Wife-Changing Money",
+      "verdict": "kill",
+      "reason": "liq $19.6K",
+      "link": "https://fomo.family/coin?address=4o3JKYKwHad7xEJ5sww7ck7WpA7ocXF8s36PvxLvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:10:37.049635Z",
       "mint": "HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump",
       "label": "Jensen Sins",
@@ -375,30 +399,6 @@
       "verdict": "kill",
       "reason": "liq $13.0K",
       "link": "https://fomo.family/coin?address=AWxAApqJVdrAvrweX9di5jz1cYx9wcUPSn3VmL1vpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:36:08.474426Z",
-      "mint": "bD4xhYHJEXvcE3UAVgBc1fqagjDPCv9F7ZvPjkUpump",
-      "label": "R1 R2 L1 × ← ↓ → ↑",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=bD4xhYHJEXvcE3UAVgBc1fqagjDPCv9F7ZvPjkUpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:34:57.527890Z",
-      "mint": "ZewYq5fWCgC51RzuJAxf5oifsKg5wzRUJqkgpaHpump",
-      "label": "JHuang Cooked",
-      "verdict": "kill",
-      "reason": "liq $48",
-      "link": "https://fomo.family/coin?address=ZewYq5fWCgC51RzuJAxf5oifsKg5wzRUJqkgpaHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:34:57.526813Z",
-      "mint": "3JRvjghEHNu6nyhTDiimQovqSKPvNN49S2YgUkh1pump",
-      "label": "Pirate Coin",
-      "verdict": "kill",
-      "reason": "liq $31",
-      "link": "https://fomo.family/coin?address=3JRvjghEHNu6nyhTDiimQovqSKPvNN49S2YgUkh1pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
