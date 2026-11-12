@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T01:11:52.460072Z",
+  "ts": "2026-11-12T01:17:31.022911Z",
   "mint": "4rg7dZ1cUec9iv1f1Mj5GP4juUe1dhAJooNNozCVpump",
-  "name": null,
-  "symbol": null,
-  "label": "4rg7dZ1c",
+  "name": "Rockstar Games",
+  "symbol": "Rockstar",
+  "label": "Rockstar Games",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "6m old",
   "migratedAt": "2026-11-12T01:10:36.381598Z",
-  "pool": null,
+  "pool": "AcKkEZMSpYMVrLFW2vkVBEAZqTXWa7ujjQPCmGSJbc5n",
   "creator": "HRWtUP1AL63aqVRbELqgWH6juUS6pt4mzu9TBPLJiUUS",
   "holders": null,
   "link": "https://fomo.family/coin?address=4rg7dZ1cUec9iv1f1Mj5GP4juUe1dhAJooNNozCVpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001009,
-  "priceTs": "2026-11-12T01:11:52.368660Z",
+  "price": 0.0001043,
+  "priceTs": "2026-11-12T01:17:30.593748Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,41 @@
       "l": 0.0001009,
       "c": 0.0001009,
       "v": 0.0
+    },
+    {
+      "t": 1794445920,
+      "o": 9.874e-05,
+      "h": 9.874e-05,
+      "l": 9.874e-05,
+      "c": 9.874e-05,
+      "v": 1217.2599999999993
+    },
+    {
+      "t": 1794446220,
+      "o": 0.0001043,
+      "h": 0.0001043,
+      "l": 0.0001043,
+      "c": 0.0001043,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 100933.0,
-    "liquidity": 22852.86,
-    "volume24h": 5305.97,
+    "marketCap": 104390.0,
+    "liquidity": 23274.13,
+    "volume24h": 11083.34,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T01:12:30.829113Z",
+      "liquidity_usd": 22586.07,
+      "top10_pct": null,
+      "h1_change_pct": 185.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $22.6K"
+    }
+  ]
 }
