@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T12:08:49.272358Z",
+  "ts": "2026-11-12T12:10:35.657142Z",
   "mint": "2UMho4zUPqSKb2fbJbKNPf1dU1WKD6SfbNmVkvphpump",
   "name": "十七",
   "symbol": "Shiqi",
@@ -11,8 +11,8 @@
   "creator": "9aXfQYQ39J72TR8k6MNn5rTJ4g5mZ52MnMoFZY1C3DXk",
   "holders": null,
   "link": "https://fomo.family/coin?address=2UMho4zUPqSKb2fbJbKNPf1dU1WKD6SfbNmVkvphpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.099e-05,
-  "priceTs": "2026-11-12T12:08:48.002670Z",
+  "price": 1.852e-05,
+  "priceTs": "2026-11-12T12:10:34.303480Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1000,12 +1000,20 @@
       "l": 2.099e-05,
       "c": 2.099e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794485400,
+      "o": 1.852e-05,
+      "h": 1.852e-05,
+      "l": 1.852e-05,
+      "c": 1.852e-05,
+      "v": 111.23999999999978
     }
   ],
   "stats": {
-    "marketCap": 20110.0,
-    "liquidity": 10279.57,
-    "volume24h": 736378.93,
+    "marketCap": 17747.0,
+    "liquidity": 9576.72,
+    "volume24h": 738005.04,
     "holders": null
   },
   "position": null,
