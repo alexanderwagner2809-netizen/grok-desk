@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T00:21:53.881992Z",
+  "ts": "2026-11-12T00:23:01.586588Z",
   "mint": "D2xYkMmtVYqNTJnc5zZPeQ6BSjEwwmd6c3BMfj2Npump",
   "name": "Firework Cat",
   "symbol": "FIRE",
@@ -11,8 +11,8 @@
   "creator": "JBmGydk5hbgkDBzhKYLQcY8QjtMtnEa8Eg54mVBwThWh",
   "holders": null,
   "link": "https://fomo.family/coin?address=D2xYkMmtVYqNTJnc5zZPeQ6BSjEwwmd6c3BMfj2Npump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.449e-05,
-  "priceTs": "2026-11-12T00:21:53.483717Z",
+  "price": 2.366e-05,
+  "priceTs": "2026-11-12T00:23:01.184707Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -112,12 +112,20 @@
       "l": 2.449e-05,
       "c": 2.449e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794442980,
+      "o": 2.366e-05,
+      "h": 2.366e-05,
+      "l": 2.366e-05,
+      "c": 2.366e-05,
+      "v": 3.81
     }
   ],
   "stats": {
-    "marketCap": 23545.0,
-    "liquidity": 10529.5,
-    "volume24h": 11773.06,
+    "marketCap": 22743.0,
+    "liquidity": 10331.38,
+    "volume24h": 11776.88,
     "holders": null
   },
   "position": null,
