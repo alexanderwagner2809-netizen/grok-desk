@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T15:19:21.349816Z",
+  "ts": "2026-11-12T15:20:31.958370Z",
   "mint": "9bVzrsofzesaoEXbWLPSTHTWUcmcqfwkXK7Ha2bMpump",
   "name": "XTO",
   "symbol": "XTO",
@@ -12,7 +12,7 @@
   "holders": null,
   "link": "https://fomo.family/coin?address=9bVzrsofzesaoEXbWLPSTHTWUcmcqfwkXK7Ha2bMpump&chainId=1399811149&r=savipww&source=share_link",
   "price": 0.1255,
-  "priceTs": "2026-11-12T15:19:19.825917Z",
+  "priceTs": "2026-11-12T15:20:30.350903Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -384,12 +384,20 @@
       "l": 0.1255,
       "c": 0.1255,
       "v": 0.0
+    },
+    {
+      "t": 1794496800,
+      "o": 0.1255,
+      "h": 0.1255,
+      "l": 0.1255,
+      "c": 0.1255,
+      "v": 23.17999999999998
     }
   ],
   "stats": {
-    "marketCap": 125548923.0,
-    "liquidity": 843445.49,
-    "volume24h": 514084.11,
+    "marketCap": 125596084.0,
+    "liquidity": 843604.32,
+    "volume24h": 514163.79,
     "holders": null
   },
   "position": null,

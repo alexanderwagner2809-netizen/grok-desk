@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T15:19:22.202366Z",
+  "ts": "2026-11-12T15:20:32.697185Z",
   "mint": "GSQGdUXpuAaAmkkZu7Mfnv1Yxeq2rFSGnyoBXzT8pump",
   "name": "Celon",
   "symbol": "Celon",
@@ -11,8 +11,8 @@
   "creator": "35PRgfwJ3QRefaaTBdArtFofumz4h66jZxiURPvUpvpp",
   "holders": null,
   "link": "https://fomo.family/coin?address=GSQGdUXpuAaAmkkZu7Mfnv1Yxeq2rFSGnyoBXzT8pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.046e-06,
-  "priceTs": "2026-11-12T15:19:21.160092Z",
+  "price": 3.012e-06,
+  "priceTs": "2026-11-12T15:20:31.768134Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2184,12 +2184,20 @@
       "l": 3.046e-06,
       "c": 3.046e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794496800,
+      "o": 3.012e-06,
+      "h": 3.012e-06,
+      "l": 3.012e-06,
+      "c": 3.012e-06,
+      "v": 5.33
     }
   ],
   "stats": {
-    "marketCap": 2856.0,
-    "liquidity": 2745.01,
-    "volume24h": 37077.41,
+    "marketCap": 2825.0,
+    "liquidity": 2720.6,
+    "volume24h": 37082.74,
     "holders": null
   },
   "position": null,
