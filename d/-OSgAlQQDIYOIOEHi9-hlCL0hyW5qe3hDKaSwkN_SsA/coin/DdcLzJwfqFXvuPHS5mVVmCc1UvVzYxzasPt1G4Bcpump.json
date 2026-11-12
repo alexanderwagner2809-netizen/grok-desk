@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T02:44:17.903665Z",
+  "ts": "2026-11-12T02:54:42.283105Z",
   "mint": "DdcLzJwfqFXvuPHS5mVVmCc1UvVzYxzasPt1G4Bcpump",
   "name": "HYPE",
   "symbol": "HYPE",
   "label": "HYPE",
   "chain": "Solana",
-  "age": "21m old",
+  "age": "32m old",
   "migratedAt": "2026-11-12T02:22:34.534603Z",
   "pool": "GZNeZsGSGgB1wVQrV5eJJLzi8ST6EfcM6ZoNH52zg7hA",
   "creator": "G6PhVh1g2U8c2vyVE1FguA5HhPagTPuHWRP5uh87k2qq",
   "holders": null,
   "link": "https://fomo.family/coin?address=DdcLzJwfqFXvuPHS5mVVmCc1UvVzYxzasPt1G4Bcpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.502e-05,
-  "priceTs": "2026-11-12T02:44:17.318197Z",
+  "price": 0.000107,
+  "priceTs": "2026-11-12T02:54:41.583405Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -64,12 +64,20 @@
       "l": 8.502e-05,
       "c": 8.502e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794452040,
+      "o": 0.000107,
+      "h": 0.000107,
+      "l": 0.000107,
+      "c": 0.000107,
+      "v": 381.21000000000004
     }
   ],
   "stats": {
-    "marketCap": 84995.0,
-    "liquidity": 20904.84,
-    "volume24h": 24196.5,
+    "marketCap": 107011.0,
+    "liquidity": 23667.2,
+    "volume24h": 30672.05,
     "holders": null
   },
   "position": null,
