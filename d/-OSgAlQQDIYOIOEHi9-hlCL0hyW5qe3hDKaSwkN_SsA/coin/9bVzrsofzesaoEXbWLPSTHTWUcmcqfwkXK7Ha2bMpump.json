@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-12T11:59:13.265944Z",
+  "ts": "2026-11-12T12:00:22.953655Z",
   "mint": "9bVzrsofzesaoEXbWLPSTHTWUcmcqfwkXK7Ha2bMpump",
-  "name": null,
-  "symbol": null,
-  "label": "9bVzrsof",
+  "name": "XTO",
+  "symbol": "XTO",
+  "label": "XTO",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T11:59:07.836391Z",
-  "pool": null,
+  "pool": "8PyqnfTH36QVWfRT9mCLLzuVjj1HrG31pjhJEzBZ9fAD",
   "creator": "F1yGxr7J9RH1d6E1F27Yo1htzNwEC5hjeXThkhdbbjWB",
   "holders": null,
   "link": "https://fomo.family/coin?address=9bVzrsofzesaoEXbWLPSTHTWUcmcqfwkXK7Ha2bMpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 0.1187,
+  "priceTs": "2026-11-12T12:00:21.433844Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794484740,
+      "o": 0.1186,
+      "h": 0.1186,
+      "l": 0.1186,
+      "c": 0.1186,
+      "v": 0.0
+    },
+    {
+      "t": 1794484800,
+      "o": 0.1187,
+      "h": 0.1187,
+      "l": 0.1187,
+      "c": 0.1187,
+      "v": 6.940000000002328
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 118788218.0,
+    "liquidity": 832272.91,
+    "volume24h": 411212.8,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T11:59:40.520979Z",
+      "liquidity_usd": 831877.47,
+      "top10_pct": null,
+      "h1_change_pct": 344451.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "+344451% in 1h"
+    }
+  ]
 }
