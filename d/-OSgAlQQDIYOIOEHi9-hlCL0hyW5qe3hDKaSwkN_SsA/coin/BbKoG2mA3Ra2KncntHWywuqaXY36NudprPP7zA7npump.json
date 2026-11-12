@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T03:48:07.068502Z",
+  "ts": "2026-11-12T03:49:15.355661Z",
   "mint": "BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump",
   "name": "explodecat",
   "symbol": "EXPLODECAT",
@@ -11,8 +11,8 @@
   "creator": "BkYd5g1ryLWpMjXu9tS5LyJiGQywwgLpHB7qUqGLdN4U",
   "holders": null,
   "link": "https://fomo.family/coin?address=BbKoG2mA3Ra2KncntHWywuqaXY36NudprPP7zA7npump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.652e-06,
-  "priceTs": "2026-11-12T03:48:06.839579Z",
+  "price": 1.648e-06,
+  "priceTs": "2026-11-12T03:49:15.047713Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -560,12 +560,20 @@
       "l": 1.652e-06,
       "c": 1.652e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794455340,
+      "o": 1.648e-06,
+      "h": 1.648e-06,
+      "l": 1.648e-06,
+      "c": 1.648e-06,
+      "v": 0.01
     }
   ],
   "stats": {
-    "marketCap": 1596.0,
-    "liquidity": 1709.74,
-    "volume24h": 215358.33,
+    "marketCap": 1592.0,
+    "liquidity": 1705.37,
+    "volume24h": 215358.35,
     "holders": null
   },
   "position": null,
