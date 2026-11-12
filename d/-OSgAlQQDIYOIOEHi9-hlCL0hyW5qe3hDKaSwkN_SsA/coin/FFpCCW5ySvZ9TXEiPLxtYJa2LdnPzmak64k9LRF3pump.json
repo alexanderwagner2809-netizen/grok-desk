@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T15:38:16.181369Z",
+  "ts": "2026-11-12T15:39:25.979274Z",
   "mint": "FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump",
-  "name": null,
-  "symbol": null,
-  "label": "FFpCCW5y",
+  "name": "Jensen Huang Memes",
+  "symbol": "JHM",
+  "label": "Jensen Huang Memes",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T15:37:53.368380Z",
-  "pool": null,
+  "pool": "6iDtBbvF645L29mzaEFSGxB555RdJf8xffeTECXiM8r1",
   "creator": "7ruifiUQAC1qdpgGfzWbBZ3PxC44sPPbpyzBL8fD5kgk",
   "holders": null,
   "link": "https://fomo.family/coin?address=FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.725e-05,
-  "priceTs": "2026-11-12T15:38:15.338014Z",
+  "price": 2.143e-05,
+  "priceTs": "2026-11-12T15:39:24.357209Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -21,18 +21,36 @@
       "t": 1794497880,
       "o": 2.725e-05,
       "h": 2.725e-05,
-      "l": 2.725e-05,
-      "c": 2.725e-05,
+      "l": 1.89e-05,
+      "c": 1.89e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794497940,
+      "o": 2.143e-05,
+      "h": 2.143e-05,
+      "l": 2.143e-05,
+      "c": 2.143e-05,
+      "v": 1960.58
     }
   ],
   "stats": {
-    "marketCap": 27256.57,
-    "liquidity": null,
-    "volume24h": 54292.32,
+    "marketCap": 21418.0,
+    "liquidity": 9641.53,
+    "volume24h": 7906.46,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T15:38:49.919101Z",
+      "liquidity_usd": 8957.86,
+      "top10_pct": null,
+      "h1_change_pct": -43.68,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $9.0K"
+    }
+  ]
 }

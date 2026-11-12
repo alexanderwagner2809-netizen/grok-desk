@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T15:38:16.303657Z",
+  "ts": "2026-11-12T15:39:26.865509Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T15:38:13.191326Z",
+  "heartbeat": "2026-11-12T15:39:25.507570Z",
   "paused": false,
   "status": "running",
-  "card": "249 pools",
-  "count": 249,
+  "card": "251 pools",
+  "count": 251,
   "passed": 0,
   "feed": [
+    {
+      "mint": "9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump",
+      "label": "Trump the Pig",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "subtitle": "liq $3",
+      "link": "https://fomo.family/coin?address=9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump",
+      "label": "Jensen Huang Memes",
+      "verdict": "kill",
+      "reason": "liq $9.0K",
+      "subtitle": "liq $9.0K",
+      "link": "https://fomo.family/coin?address=FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump",
       "label": "Tim Chip",
@@ -58,27 +74,27 @@
       "reason": "liq $10.9K",
       "subtitle": "liq $10.9K",
       "link": "https://fomo.family/coin?address=9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "C6N5RdMkKMBZ28dKx5cVkfcntEjajwjPXt1Y1ihHpump",
-      "label": "JUSSY COIN",
-      "verdict": "kill",
-      "reason": "liq $6",
-      "subtitle": "liq $6",
-      "link": "https://fomo.family/coin?address=C6N5RdMkKMBZ28dKx5cVkfcntEjajwjPXt1Y1ihHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "BDkKHKzDqBH7GXF9DBwmcwzGidaTXQeR6pDnnVzMpump",
-      "label": "Rockstar Games",
-      "verdict": "kill",
-      "reason": "+191% in 1h",
-      "subtitle": "+191% in 1h",
-      "link": "https://fomo.family/coin?address=BDkKHKzDqBH7GXF9DBwmcwzGidaTXQeR6pDnnVzMpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T15:39:20.505050Z",
+      "mint": "9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump",
+      "label": "Trump the Pig",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "link": "https://fomo.family/coin?address=9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T15:38:49.919101Z",
+      "mint": "FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump",
+      "label": "Jensen Huang Memes",
+      "verdict": "kill",
+      "reason": "liq $9.0K",
+      "link": "https://fomo.family/coin?address=FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:36:22.430208Z",
       "mint": "3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump",
       "label": "Tim Chip",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $16",
       "link": "https://fomo.family/coin?address=DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:49:15.972557Z",
-      "mint": "EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump",
-      "label": "The Affair Rally",
-      "verdict": "kill",
-      "reason": "liq $14.5K",
-      "link": "https://fomo.family/coin?address=EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:44:55.821787Z",
-      "mint": "4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump",
-      "label": "Buy if you're horny",
-      "verdict": "kill",
-      "reason": "liq $1.7K",
-      "link": "https://fomo.family/coin?address=4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T15:39:20.505050Z",
+      "mint": "9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump",
+      "label": "Trump the Pig",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "link": "https://fomo.family/coin?address=9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T15:38:49.919101Z",
+      "mint": "FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump",
+      "label": "Jensen Huang Memes",
+      "verdict": "kill",
+      "reason": "liq $9.0K",
+      "link": "https://fomo.family/coin?address=FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:36:22.430208Z",
       "mint": "3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump",
       "label": "Tim Chip",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $16",
       "link": "https://fomo.family/coin?address=DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:49:15.972557Z",
-      "mint": "EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump",
-      "label": "The Affair Rally",
-      "verdict": "kill",
-      "reason": "liq $14.5K",
-      "link": "https://fomo.family/coin?address=EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:44:55.821787Z",
-      "mint": "4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump",
-      "label": "Buy if you're horny",
-      "verdict": "kill",
-      "reason": "liq $1.7K",
-      "link": "https://fomo.family/coin?address=4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
