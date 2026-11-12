@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T08:32:15.708084Z",
+  "ts": "2026-11-12T08:33:24.273933Z",
   "mint": "2rQWxRpgpxd9a24jK829ECcwWYnonPYmPRG9gG5cpump",
-  "name": null,
-  "symbol": null,
-  "label": "2rQWxRpg",
+  "name": "Ian Buck",
+  "symbol": "BUCK",
+  "label": "Ian Buck",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T08:32:14.528674Z",
-  "pool": null,
-  "creator": null,
+  "pool": "62G6PuSCNv2cS4F3fUUuzUHghYj5WqqeEyqbhWReQdFk",
+  "creator": "4EcSYHYW5t1cZ9D5evvyUgJzQfYcxVEjrzshVt5nRn9i",
   "holders": null,
   "link": "https://fomo.family/coin?address=2rQWxRpgpxd9a24jK829ECcwWYnonPYmPRG9gG5cpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.089e-05,
-  "priceTs": "2026-11-12T08:32:15.122284Z",
+  "price": 4.074e-05,
+  "priceTs": "2026-11-12T08:33:23.275365Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 4.089e-05,
       "c": 4.089e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794472380,
+      "o": 4.074e-05,
+      "h": 4.074e-05,
+      "l": 4.074e-05,
+      "c": 4.074e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 40895.4,
-    "liquidity": null,
-    "volume24h": 119852.79,
+    "marketCap": 40740.0,
+    "liquidity": 15903.72,
+    "volume24h": 1398.63,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T08:33:17.954407Z",
+      "liquidity_usd": 15903.72,
+      "top10_pct": null,
+      "h1_change_pct": -10.15,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $15.9K"
+    }
+  ]
 }
