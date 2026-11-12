@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T16:06:25.583750Z",
+  "ts": "2026-11-12T16:07:38.404499Z",
   "mint": "GZ2pDdip9spqiZuqV2tGhR1EcvbZzU1XTWk4ZVTGpump",
   "name": "Indo meme",
   "symbol": "indomeme",
@@ -11,8 +11,8 @@
   "creator": "8cM6Mu3XuaQsdhiQw9D3RF4x69YQ6DRMJz8B7niErVch",
   "holders": null,
   "link": "https://fomo.family/coin?address=GZ2pDdip9spqiZuqV2tGhR1EcvbZzU1XTWk4ZVTGpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.061e-05,
-  "priceTs": "2026-11-12T16:06:23.781230Z",
+  "price": 1.701e-05,
+  "priceTs": "2026-11-12T16:07:36.110550Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -360,12 +360,20 @@
       "l": 2.061e-05,
       "c": 2.061e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794499620,
+      "o": 1.701e-05,
+      "h": 1.701e-05,
+      "l": 1.701e-05,
+      "c": 1.701e-05,
+      "v": 532.76
     }
   ],
   "stats": {
-    "marketCap": 19839.0,
-    "liquidity": 9451.24,
-    "volume24h": 11547.42,
+    "marketCap": 16374.0,
+    "liquidity": 8463.27,
+    "volume24h": 12080.19,
     "holders": null
   },
   "position": null,
