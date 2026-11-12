@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T00:13:57.082043Z",
+  "ts": "2026-11-12T00:15:05.143973Z",
   "mint": "Cy3bFG4L4ZjZydoV7Ak4QRihRR1PZCNBjsMqgs9upKQR",
   "name": "ALOHA POKE FAN TOKEN",
   "symbol": "POKE",
   "label": "ALOHA POKE FAN TOKEN",
   "chain": "Solana",
-  "age": "22m old",
+  "age": "23m old",
   "migratedAt": "2026-11-11T23:51:53.527275Z",
   "pool": "BvurHXipJbFakTp9WeivKYxHHPeieR1p3bEA1eMKPgZb",
   "creator": "HdUVPXV8grTk3NZqsJiVPVcJkR2u8TrfCG6SQsUWwh6M",
   "holders": null,
   "link": "https://fomo.family/coin?address=Cy3bFG4L4ZjZydoV7Ak4QRihRR1PZCNBjsMqgs9upKQR&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.21e-05,
-  "priceTs": "2026-11-12T00:13:56.736462Z",
+  "price": 1.009e-05,
+  "priceTs": "2026-11-12T00:15:04.681695Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -48,12 +48,20 @@
       "l": 1.21e-05,
       "c": 1.21e-05,
       "v": 4383.4400000000005
+    },
+    {
+      "t": 1794442500,
+      "o": 1.009e-05,
+      "h": 1.009e-05,
+      "l": 1.009e-05,
+      "c": 1.009e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 11742.0,
-    "liquidity": 7124.69,
-    "volume24h": 165475.56,
+    "marketCap": 9795.0,
+    "liquidity": 6402.62,
+    "volume24h": 166345.44,
     "holders": null
   },
   "position": null,

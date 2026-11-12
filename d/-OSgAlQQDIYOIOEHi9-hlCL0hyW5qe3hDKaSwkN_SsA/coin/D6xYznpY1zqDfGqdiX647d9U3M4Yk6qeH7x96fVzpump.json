@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T00:13:57.136036Z",
+  "ts": "2026-11-12T00:15:05.203957Z",
   "mint": "D6xYznpY1zqDfGqdiX647d9U3M4Yk6qeH7x96fVzpump",
   "name": "11N",
   "symbol": "1N",
@@ -11,8 +11,8 @@
   "creator": "HCW5t3TMgT2Jr4AB3HDz7dK81VuCdchguq8PzXWzZ8hC",
   "holders": null,
   "link": "https://fomo.family/coin?address=D6xYznpY1zqDfGqdiX647d9U3M4Yk6qeH7x96fVzpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 9.297e-09,
-  "priceTs": "2026-11-12T00:13:57.071671Z",
+  "price": 8.765e-09,
+  "priceTs": "2026-11-12T00:15:05.126376Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -392,12 +392,20 @@
       "l": 9.297e-09,
       "c": 9.297e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794442500,
+      "o": 8.765e-09,
+      "h": 8.765e-09,
+      "l": 8.765e-09,
+      "c": 8.765e-09,
+      "v": 0.23
     }
   ],
   "stats": {
-    "marketCap": 19.0,
-    "liquidity": 27.86,
-    "volume24h": 1390.33,
+    "marketCap": 18.0,
+    "liquidity": 26.82,
+    "volume24h": 1390.56,
     "holders": null
   },
   "position": null,

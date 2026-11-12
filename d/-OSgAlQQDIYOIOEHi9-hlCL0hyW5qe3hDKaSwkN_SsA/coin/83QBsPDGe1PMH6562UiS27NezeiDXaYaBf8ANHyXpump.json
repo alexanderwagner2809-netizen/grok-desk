@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T00:13:57.138003Z",
+  "ts": "2026-11-12T00:15:05.139437Z",
   "mint": "83QBsPDGe1PMH6562UiS27NezeiDXaYaBf8ANHyXpump",
-  "name": null,
-  "symbol": null,
-  "label": "83QBsPDG",
+  "name": "Meme Maker General",
+  "symbol": "MMG",
+  "label": "Meme Maker General",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T00:13:48.102557Z",
-  "pool": null,
+  "pool": "HSq5an5BCas5ctGS867851RZjWfBXwmmhLdykUFppHEX",
   "creator": "9vmdfsUdpAEj7KmQp7nHu3i5T95KYWXm1pBxRWxLS7bP",
   "holders": null,
   "link": "https://fomo.family/coin?address=83QBsPDGe1PMH6562UiS27NezeiDXaYaBf8ANHyXpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.4e-05,
-  "priceTs": "2026-11-12T00:13:57.071671Z",
+  "price": 4.509e-05,
+  "priceTs": "2026-11-12T00:15:04.681695Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,41 @@
       "l": 2.4e-05,
       "c": 2.4e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794442440,
+      "o": 5.253e-05,
+      "h": 5.253e-05,
+      "l": 5.253e-05,
+      "c": 5.253e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794442500,
+      "o": 4.509e-05,
+      "h": 4.509e-05,
+      "l": 4.509e-05,
+      "c": 4.509e-05,
+      "v": 13965.17
     }
   ],
   "stats": {
-    "marketCap": 24000.11,
-    "liquidity": null,
-    "volume24h": 18571.49,
+    "marketCap": 45094.0,
+    "liquidity": 15016.03,
+    "volume24h": 29418.52,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T00:14:36.126128Z",
+      "liquidity_usd": 16182.03,
+      "top10_pct": null,
+      "h1_change_pct": 52.46,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $16.2K"
+    }
+  ]
 }
