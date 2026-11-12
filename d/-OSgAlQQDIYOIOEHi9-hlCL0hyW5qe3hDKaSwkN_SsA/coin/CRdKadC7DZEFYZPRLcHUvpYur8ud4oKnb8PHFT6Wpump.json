@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T05:57:11.695052Z",
+  "ts": "2026-11-12T05:58:19.787913Z",
   "mint": "CRdKadC7DZEFYZPRLcHUvpYur8ud4oKnb8PHFT6Wpump",
-  "name": null,
-  "symbol": null,
-  "label": "CRdKadC7",
+  "name": "ORGASM",
+  "symbol": "ORGASM",
+  "label": "ORGASM",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T05:56:20.462496Z",
-  "pool": null,
+  "pool": "7JtZzqp4d9kCoze3bPa21tLUsXi2sY6sWLLymDL6ea1S",
   "creator": "4fX9VuRqkUKbuLLdMFcFL3dq1bjTjUqATcpeeMAYGswK",
   "holders": null,
   "link": "https://fomo.family/coin?address=CRdKadC7DZEFYZPRLcHUvpYur8ud4oKnb8PHFT6Wpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.839e-08,
-  "priceTs": "2026-11-12T05:57:11.558375Z",
+  "price": 4.083e-09,
+  "priceTs": "2026-11-12T05:58:19.100928Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -21,18 +21,36 @@
       "t": 1794463020,
       "o": 2.839e-08,
       "h": 2.839e-08,
-      "l": 2.839e-08,
-      "c": 2.839e-08,
-      "v": 0.0
+      "l": 5.408e-09,
+      "c": 5.408e-09,
+      "v": 4.209999999999999
+    },
+    {
+      "t": 1794463080,
+      "o": 4.083e-09,
+      "h": 4.083e-09,
+      "l": 4.083e-09,
+      "c": 4.083e-09,
+      "v": 4.02
     }
   ],
   "stats": {
-    "marketCap": 26.0,
-    "liquidity": 9.33,
-    "volume24h": 1.31,
+    "marketCap": 4.0,
+    "liquidity": 3.14,
+    "volume24h": 9.54,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T05:57:43.442494Z",
+      "liquidity_usd": 3.63,
+      "top10_pct": null,
+      "h1_change_pct": -63.8,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $4"
+    }
+  ]
 }
