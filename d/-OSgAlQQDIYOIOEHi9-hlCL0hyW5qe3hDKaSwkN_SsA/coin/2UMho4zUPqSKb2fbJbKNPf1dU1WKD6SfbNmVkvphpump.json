@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T09:35:33.598327Z",
+  "ts": "2026-11-12T09:36:42.415428Z",
   "mint": "2UMho4zUPqSKb2fbJbKNPf1dU1WKD6SfbNmVkvphpump",
   "name": "十七",
   "symbol": "Shiqi",
   "label": "十七",
   "chain": "Solana",
-  "age": "41m old",
+  "age": "43m old",
   "migratedAt": "2026-11-12T08:53:34.624022Z",
   "pool": "5siBm6iiunV9iiw395MGU8ZvdJgiDTt7F6pd23TsMrh",
   "creator": "9aXfQYQ39J72TR8k6MNn5rTJ4g5mZ52MnMoFZY1C3DXk",
   "holders": null,
   "link": "https://fomo.family/coin?address=2UMho4zUPqSKb2fbJbKNPf1dU1WKD6SfbNmVkvphpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.327e-05,
-  "priceTs": "2026-11-12T09:35:32.449994Z",
+  "price": 0.0001,
+  "priceTs": "2026-11-12T09:36:41.330229Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -312,12 +312,20 @@
       "l": 8.327e-05,
       "c": 8.327e-05,
       "v": 5198.779999999999
+    },
+    {
+      "t": 1794476160,
+      "o": 0.0001,
+      "h": 0.0001,
+      "l": 0.0001,
+      "c": 0.0001,
+      "v": 11857.620000000003
     }
   ],
   "stats": {
-    "marketCap": 79786.0,
-    "liquidity": 21083.43,
-    "volume24h": 198537.82,
+    "marketCap": 95870.0,
+    "liquidity": 23568.2,
+    "volume24h": 215249.33,
     "holders": null
   },
   "position": null,
