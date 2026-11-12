@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T08:19:38.669277Z",
+  "mint": "HiA2MkUnz1koKkDEZGxRYbhWMLLJXSgVgBu3th7mpump",
+  "name": "WOLOLO",
+  "symbol": "AOE",
+  "label": "WOLOLO",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T08:18:53.342681Z",
+  "pool": "BzTxvDujPr7PyFkkUoAhiewvWFBZ9xyRKwTWTshJSeRD",
+  "creator": null,
+  "holders": null,
+  "link": "https://fomo.family/coin?address=HiA2MkUnz1koKkDEZGxRYbhWMLLJXSgVgBu3th7mpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.103e-08,
+  "priceTs": "2026-11-12T08:19:37.647079Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794471540,
+      "o": 2.103e-08,
+      "h": 2.103e-08,
+      "l": 2.103e-08,
+      "c": 2.103e-08,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 42.0,
+    "liquidity": 7.68,
+    "volume24h": 0.43,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T08:19:26.120541Z",
+      "liquidity_usd": 7.68,
+      "top10_pct": null,
+      "h1_change_pct": 14.54,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $8"
+    }
+  ]
+}

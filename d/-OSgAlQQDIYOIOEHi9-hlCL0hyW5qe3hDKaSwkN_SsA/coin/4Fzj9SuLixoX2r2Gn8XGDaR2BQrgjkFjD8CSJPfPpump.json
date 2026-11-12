@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T08:18:29.316967Z",
+  "ts": "2026-11-12T08:19:38.700852Z",
   "mint": "4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump",
   "name": "XomoPay",
   "symbol": "XomoPay",
   "label": "XomoPay",
   "chain": "Solana",
-  "age": "1h old",
+  "age": "2h old",
   "migratedAt": "2026-11-12T06:19:15.807838Z",
   "pool": "5ZfvCSiqzESG5m8AxACdkWtEUgjrfC27i9Tm4HbZMd4v",
   "creator": "6FkamdBWcbsK7gF7qygqvX93LUeSfXsFhqU9xCa6MgFS",
   "holders": null,
   "link": "https://fomo.family/coin?address=4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.908e-06,
-  "priceTs": "2026-11-12T08:18:28.427533Z",
+  "price": 3.803e-06,
+  "priceTs": "2026-11-12T08:19:37.785168Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -560,12 +560,20 @@
       "l": 3.908e-06,
       "c": 3.908e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794471540,
+      "o": 3.803e-06,
+      "h": 3.803e-06,
+      "l": 3.803e-06,
+      "c": 3.803e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 3712.0,
-    "liquidity": 3355.15,
-    "volume24h": 172867.09,
+    "marketCap": 3612.0,
+    "liquidity": 3290.07,
+    "volume24h": 172925.23,
     "holders": null
   },
   "position": null,
