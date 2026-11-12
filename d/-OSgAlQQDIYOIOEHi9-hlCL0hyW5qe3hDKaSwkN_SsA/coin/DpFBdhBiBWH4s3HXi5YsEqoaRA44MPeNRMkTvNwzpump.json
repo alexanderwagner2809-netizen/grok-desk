@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T15:09:47.306078Z",
+  "mint": "DpFBdhBiBWH4s3HXi5YsEqoaRA44MPeNRMkTvNwzpump",
+  "name": "NVIDIA",
+  "symbol": "NVDA",
+  "label": "NVIDIA",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-12T15:08:39.110916Z",
+  "pool": "3vDe7J9q4dokEN2NnGJpU6DeCyWVCxrU9AqUgwqUsVW8",
+  "creator": "6KngSeEPT6bTWeLRr58G7q8RcB17MzdGjmMi8gu6KFkV",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=DpFBdhBiBWH4s3HXi5YsEqoaRA44MPeNRMkTvNwzpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 0.0001088,
+  "priceTs": "2026-11-12T15:09:45.720257Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794496140,
+      "o": 0.0001084,
+      "h": 0.0001088,
+      "l": 0.0001084,
+      "c": 0.0001088,
+      "v": 473.75
+    }
+  ],
+  "stats": {
+    "marketCap": 108757.0,
+    "liquidity": 23480.63,
+    "volume24h": 6359.2,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T15:09:11.783801Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 222.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
