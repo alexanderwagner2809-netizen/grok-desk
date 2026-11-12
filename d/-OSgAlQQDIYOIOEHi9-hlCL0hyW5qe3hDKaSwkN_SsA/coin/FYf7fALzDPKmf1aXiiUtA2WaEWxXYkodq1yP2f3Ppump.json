@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T16:23:19.954557Z",
+  "ts": "2026-11-12T16:24:31.314825Z",
   "mint": "FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump",
   "name": "OpenToWork",
   "symbol": "JENSEN",
@@ -11,8 +11,8 @@
   "creator": "Gy82UimBwSusyG4oKzasVWtrG4YFAjn4M1UFZB69LWFR",
   "holders": null,
   "link": "https://fomo.family/coin?address=FYf7fALzDPKmf1aXiiUtA2WaEWxXYkodq1yP2f3Ppump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.91e-06,
-  "priceTs": "2026-11-12T16:23:18.263146Z",
+  "price": 1.912e-06,
+  "priceTs": "2026-11-12T16:24:29.518113Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -480,12 +480,20 @@
       "l": 1.91e-06,
       "c": 1.91e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794500640,
+      "o": 1.912e-06,
+      "h": 1.912e-06,
+      "l": 1.912e-06,
+      "c": 1.912e-06,
+      "v": 1.69
     }
   ],
   "stats": {
-    "marketCap": 1850.0,
-    "liquidity": 1915.16,
-    "volume24h": 95761.77,
+    "marketCap": 1852.0,
+    "liquidity": 1917.46,
+    "volume24h": 95763.46,
     "holders": null
   },
   "position": null,
