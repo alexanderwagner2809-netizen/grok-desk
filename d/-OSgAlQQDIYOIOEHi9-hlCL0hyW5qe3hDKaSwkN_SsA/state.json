@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T11:36:01.168324Z",
+  "ts": "2026-11-12T11:37:10.725595Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,37 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T11:35:57.150661Z",
+      "heartbeat": "2026-11-12T11:37:07.284256Z",
       "paused": false,
       "status": "running",
-      "card": "205 pools",
-      "count": 205,
+      "card": "208 pools",
+      "count": 208,
       "passed": 0,
       "feed": [
+        {
+          "mint": "HboHtoVXPncFkfoSyiVSkYsLtKwoJD2nAEYaoNZ7pump",
+          "label": "bunwifhat",
+          "verdict": "kill",
+          "reason": "liq $10.8K",
+          "subtitle": "liq $10.8K",
+          "link": "https://fomo.family/coin?address=HboHtoVXPncFkfoSyiVSkYsLtKwoJD2nAEYaoNZ7pump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "79rd4qH5n9yiLvueZi8M4Mpsjnzfffy4xrS4F1mfpump",
+          "label": "mr anyone",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=79rd4qH5n9yiLvueZi8M4Mpsjnzfffy4xrS4F1mfpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "FjDRwnBryF6kVLQGuAy5t1baHe45RQbGXvXRdYKypump",
+          "label": "MrBeast",
+          "verdict": "kill",
+          "reason": "+159% in 1h",
+          "subtitle": "+159% in 1h",
+          "link": "https://fomo.family/coin?address=FjDRwnBryF6kVLQGuAy5t1baHe45RQbGXvXRdYKypump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "7avhD1xZgH6m49AkpJwbnVZGa72LmJGasSma6kRKpump",
           "label": "zai jian cat",
@@ -58,30 +82,6 @@
           "reason": "liq $12.2K",
           "subtitle": "liq $12.2K",
           "link": "https://fomo.family/coin?address=3Yoj6vQYTHfFVVBwHGNDbxBhh6R7iw41BSrNSGJ4pump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "6RwrrJMapN5YzMJbLyN2LHxdHrnYisAWzxinQs3rpump",
-          "label": "HEIRLOOM",
-          "verdict": "kill",
-          "reason": "liq $12.1K",
-          "subtitle": "liq $12.1K",
-          "link": "https://fomo.family/coin?address=6RwrrJMapN5YzMJbLyN2LHxdHrnYisAWzxinQs3rpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "E29pbfgv127YFhL1nJSZ2fDfc5FdjZTvaQQuXcnNpump",
-          "label": "JUMP COIN",
-          "verdict": "kill",
-          "reason": "liq $10",
-          "subtitle": "liq $10",
-          "link": "https://fomo.family/coin?address=E29pbfgv127YFhL1nJSZ2fDfc5FdjZTvaQQuXcnNpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "Hy7sTj6N5kZ9bnHxeBRTWsdJQMozosAunWdyKEycTtoG",
-          "label": "Generational Bottom",
-          "verdict": "kill",
-          "reason": "liq $0",
-          "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=Hy7sTj6N5kZ9bnHxeBRTWsdJQMozosAunWdyKEycTtoG&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T11:36:00.714057Z",
+      "heartbeat": "2026-11-12T11:37:08.871151Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T11:36:00.715767Z",
+      "heartbeat": "2026-11-12T11:37:08.872695Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T11:36:00.716344Z",
+      "heartbeat": "2026-11-12T11:37:08.873022Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T11:35:53.256609Z",
+      "heartbeat": "2026-11-12T11:37:08.122075Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

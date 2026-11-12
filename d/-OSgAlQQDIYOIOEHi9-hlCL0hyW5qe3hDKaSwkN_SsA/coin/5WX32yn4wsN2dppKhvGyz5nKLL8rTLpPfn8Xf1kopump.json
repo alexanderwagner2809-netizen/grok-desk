@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T11:36:01.175727Z",
+  "ts": "2026-11-12T11:37:10.735296Z",
   "mint": "5WX32yn4wsN2dppKhvGyz5nKLL8rTLpPfn8Xf1kopump",
   "name": "Salute",
   "symbol": "SALUTE",
   "label": "Salute",
   "chain": "Solana",
-  "age": "2m old",
+  "age": "3m old",
   "migratedAt": "2026-11-12T11:33:35.337133Z",
   "pool": "45Bm4HBuqRYYytALvd5Bik3npCX4xsaSnYkxCHRzJzov",
   "creator": "A7RzrburD5kFRJMPtx7Jgw1AydKkvXB1Ka4N6mNF8m6p",
   "holders": null,
   "link": "https://fomo.family/coin?address=5WX32yn4wsN2dppKhvGyz5nKLL8rTLpPfn8Xf1kopump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.73e-09,
-  "priceTs": "2026-11-12T11:35:59.621799Z",
+  "price": 1.343e-09,
+  "priceTs": "2026-11-12T11:37:09.365869Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -40,12 +40,20 @@
       "l": 1.73e-09,
       "c": 1.73e-09,
       "v": 0.4100000000000037
+    },
+    {
+      "t": 1794483420,
+      "o": 1.343e-09,
+      "h": 1.343e-09,
+      "l": 1.343e-09,
+      "c": 1.343e-09,
+      "v": 0.12999999999999545
     }
   ],
   "stats": {
     "marketCap": 3.0,
-    "liquidity": 2.38,
-    "volume24h": 58.13,
+    "liquidity": 2.13,
+    "volume24h": 58.26,
     "holders": null
   },
   "position": null,

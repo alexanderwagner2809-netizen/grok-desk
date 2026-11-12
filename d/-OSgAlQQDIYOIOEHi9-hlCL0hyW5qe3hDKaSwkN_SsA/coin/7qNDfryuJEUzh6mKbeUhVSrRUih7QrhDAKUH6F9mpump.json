@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T11:36:01.176454Z",
+  "ts": "2026-11-12T11:37:10.736007Z",
   "mint": "7qNDfryuJEUzh6mKbeUhVSrRUih7QrhDAKUH6F9mpump",
   "name": "Robinhood",
   "symbol": "Robinhood",
   "label": "Robinhood",
   "chain": "Solana",
-  "age": "5m old",
+  "age": "6m old",
   "migratedAt": "2026-11-12T11:30:28.544579Z",
   "pool": "BNJFhbfmRruNJ4LY6Azxc1zRArtNbvyq7eT5iszG8tTg",
   "creator": "EVCmX1pz6zoEZqVTwWdyygpbVBTxUuVLFXmLPmQxeuAk",
   "holders": null,
   "link": "https://fomo.family/coin?address=7qNDfryuJEUzh6mKbeUhVSrRUih7QrhDAKUH6F9mpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001246,
-  "priceTs": "2026-11-12T11:35:59.621799Z",
+  "price": 0.0001285,
+  "priceTs": "2026-11-12T11:37:09.365869Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -56,12 +56,20 @@
       "l": 0.0001246,
       "c": 0.0001246,
       "v": 0.0
+    },
+    {
+      "t": 1794483420,
+      "o": 0.0001285,
+      "h": 0.0001285,
+      "l": 0.0001285,
+      "c": 0.0001285,
+      "v": 1653.76
     }
   ],
   "stats": {
-    "marketCap": 124549.0,
-    "liquidity": 25485.07,
-    "volume24h": 6112.84,
+    "marketCap": 128514.0,
+    "liquidity": 25881.85,
+    "volume24h": 7892.95,
     "holders": null
   },
   "position": null,

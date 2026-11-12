@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T11:37:10.732321Z",
+  "mint": "HboHtoVXPncFkfoSyiVSkYsLtKwoJD2nAEYaoNZ7pump",
+  "name": "bunwifhat",
+  "symbol": "MING",
+  "label": "bunwifhat",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T11:36:29.591628Z",
+  "pool": "3GtLQQuRmz4ixQSCc47RebB59MEa2ENZMKBj1Wy8uf1i",
+  "creator": "HKrPy9nPfcknKC6vF1LYbqA593mcxBwiwRCPiFkZc1T9",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=HboHtoVXPncFkfoSyiVSkYsLtKwoJD2nAEYaoNZ7pump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.59e-05,
+  "priceTs": "2026-11-12T11:37:09.365869Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794483420,
+      "o": 2.59e-05,
+      "h": 2.59e-05,
+      "l": 2.59e-05,
+      "c": 2.59e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 25861.0,
+    "liquidity": 10894.96,
+    "volume24h": 5934.62,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T11:37:02.281736Z",
+      "liquidity_usd": 10824.29,
+      "top10_pct": null,
+      "h1_change_pct": -24.14,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $10.8K"
+    }
+  ]
+}
