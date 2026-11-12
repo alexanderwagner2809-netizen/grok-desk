@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T04:25:03.488164Z",
+  "ts": "2026-11-12T04:26:41.199305Z",
   "mint": "DdcLzJwfqFXvuPHS5mVVmCc1UvVzYxzasPt1G4Bcpump",
   "name": "HYPE",
   "symbol": "HYPE",
@@ -11,8 +11,8 @@
   "creator": "G6PhVh1g2U8c2vyVE1FguA5HhPagTPuHWRP5uh87k2qq",
   "holders": null,
   "link": "https://fomo.family/coin?address=DdcLzJwfqFXvuPHS5mVVmCc1UvVzYxzasPt1G4Bcpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.519e-06,
-  "priceTs": "2026-11-12T04:25:02.838855Z",
+  "price": 1.545e-06,
+  "priceTs": "2026-11-12T04:26:40.463170Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -296,11 +296,19 @@
       "l": 1.519e-06,
       "c": 1.519e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794457560,
+      "o": 1.545e-06,
+      "h": 1.545e-06,
+      "l": 1.545e-06,
+      "c": 1.545e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1495.0,
-    "liquidity": 1535.23,
+    "marketCap": 1520.0,
+    "liquidity": 1560.64,
     "volume24h": 67318.19,
     "holders": null
   },
