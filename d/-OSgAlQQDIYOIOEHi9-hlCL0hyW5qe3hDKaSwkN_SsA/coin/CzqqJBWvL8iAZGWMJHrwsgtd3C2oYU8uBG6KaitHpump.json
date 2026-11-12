@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T22:14:05.166865Z",
+  "ts": "2026-11-12T23:08:41.004578Z",
   "mint": "CzqqJBWvL8iAZGWMJHrwsgtd3C2oYU8uBG6KaitHpump",
   "name": "Eloncoin",
   "symbol": "Elon",
   "label": "Eloncoin",
   "chain": "Solana",
-  "age": "1h old",
+  "age": "2h old",
   "migratedAt": "2026-11-12T20:18:38.382062Z",
   "pool": "9b5unHX4Sdrcwvx4YpdS3enRkTETFiPnESLTvQ25PLSD",
   "creator": "CifFR6QiQQKzZoeXbb7avTPPYr5oG6T41MQx22UfNxye",
   "holders": null,
   "link": "https://fomo.family/coin?address=CzqqJBWvL8iAZGWMJHrwsgtd3C2oYU8uBG6KaitHpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.207e-06,
-  "priceTs": "2026-11-12T22:14:04.941646Z",
+  "price": 2.255e-06,
+  "priceTs": "2026-11-12T23:08:40.753715Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -608,12 +608,20 @@
       "l": 2.207e-06,
       "c": 2.207e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794524880,
+      "o": 2.255e-06,
+      "h": 2.255e-06,
+      "l": 2.255e-06,
+      "c": 2.255e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1940.0,
-    "liquidity": 2128.72,
-    "volume24h": 57648.97,
+    "marketCap": 1982.0,
+    "liquidity": 2167.49,
+    "volume24h": 60134.25,
     "holders": null
   },
   "position": null,

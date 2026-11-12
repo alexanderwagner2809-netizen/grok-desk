@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T22:14:05.155431Z",
+  "ts": "2026-11-12T23:08:40.991545Z",
   "mint": "GasYxdh4RP971cY9odYBDPxa7Dwid8qVxDqKXnk7pump",
   "name": "ni hao cat",
   "symbol": "mihao",
   "label": "ni hao cat",
   "chain": "Solana",
-  "age": "1h old",
+  "age": "2h old",
   "migratedAt": "2026-11-12T20:29:59.278704Z",
   "pool": "JCXXGXUjneLCCeCJNYoKexnsXGJt4kP6xsyYaBQb68V8",
   "creator": "8BjJ1TLjhchPXfmx5dcYhRKxd2Ks4AeJJJ98gdrFNQFj",
   "holders": null,
   "link": "https://fomo.family/coin?address=GasYxdh4RP971cY9odYBDPxa7Dwid8qVxDqKXnk7pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0003328,
-  "priceTs": "2026-11-12T22:14:04.941646Z",
+  "price": 1.479e-06,
+  "priceTs": "2026-11-12T23:08:40.753715Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -528,12 +528,20 @@
       "l": 0.0003328,
       "c": 0.0003328,
       "v": 0.0
+    },
+    {
+      "t": 1794524880,
+      "o": 1.479e-06,
+      "h": 1.479e-06,
+      "l": 1.479e-06,
+      "c": 1.479e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 328282.0,
-    "liquidity": 42397.62,
-    "volume24h": 67179.33,
+    "marketCap": 1459.0,
+    "liquidity": 1499.31,
+    "volume24h": 116733.12,
     "holders": null
   },
   "position": null,

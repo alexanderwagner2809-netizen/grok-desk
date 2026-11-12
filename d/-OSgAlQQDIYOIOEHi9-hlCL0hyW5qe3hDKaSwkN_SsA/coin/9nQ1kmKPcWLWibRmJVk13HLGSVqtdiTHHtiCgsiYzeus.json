@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T22:14:05.115155Z",
+  "ts": "2026-11-12T23:08:40.935361Z",
   "mint": "9nQ1kmKPcWLWibRmJVk13HLGSVqtdiTHHtiCgsiYzeus",
   "name": "Pepes Dog",
   "symbol": "ZEUS",
@@ -11,8 +11,8 @@
   "creator": null,
   "holders": null,
   "link": "https://fomo.family/coin?address=9nQ1kmKPcWLWibRmJVk13HLGSVqtdiTHHtiCgsiYzeus&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0002134,
-  "priceTs": "2026-11-12T22:14:04.790280Z",
+  "price": 0.000213,
+  "priceTs": "2026-11-12T23:08:40.595033Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -248,12 +248,20 @@
       "l": 0.0002134,
       "c": 0.0002134,
       "v": 0.0
+    },
+    {
+      "t": 1794524880,
+      "o": 0.000213,
+      "h": 0.000213,
+      "l": 0.000213,
+      "c": 0.000213,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 211914.0,
-    "liquidity": 33544.31,
-    "volume24h": 11524.2,
+    "marketCap": 211574.0,
+    "liquidity": 33509.65,
+    "volume24h": 11541.24,
     "holders": null
   },
   "position": null,

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T22:14:05.090603Z",
+  "ts": "2026-11-12T23:08:40.903433Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T22:14:04.824988Z",
+      "heartbeat": "2026-11-12T23:08:40.288822Z",
       "paused": false,
       "status": "running",
-      "card": "381 pools",
-      "count": 381,
+      "card": "383 pools",
+      "count": 383,
       "passed": 0,
       "feed": [
+        {
+          "mint": "ee36ZxYeezxfCFywPuVankrxGUtg46jso361QGNpump",
+          "label": "ee36ZxYe",
+          "verdict": "kill",
+          "reason": "never qualified",
+          "subtitle": "never qualified",
+          "link": "https://fomo.family/coin?address=ee36ZxYeezxfCFywPuVankrxGUtg46jso361QGNpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "3A4G2XhivyN1SD7pQeF3ecJSBNQ6UWimtp8CqbpVpump",
+          "label": "3A4G2Xhi",
+          "verdict": "kill",
+          "reason": "never qualified",
+          "subtitle": "never qualified",
+          "link": "https://fomo.family/coin?address=3A4G2XhivyN1SD7pQeF3ecJSBNQ6UWimtp8CqbpVpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "AR9MqjNWerrkvr1X19jp8BPuewVGogxXdZ7Ux4JSpump",
           "label": "MrBeast",
@@ -66,22 +82,6 @@
           "reason": "never qualified",
           "subtitle": "never qualified",
           "link": "https://fomo.family/coin?address=9FmMnabharFMFeBhuBLP89NQ9DMPsjQBnR5iGRaBpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "8296KBTcB7GDDpgJ8XquHoR6bGtfqdf5xfnqqzc2pump",
-          "label": "Rockstar Games",
-          "verdict": "kill",
-          "reason": "+171% in 1h",
-          "subtitle": "+171% in 1h",
-          "link": "https://fomo.family/coin?address=8296KBTcB7GDDpgJ8XquHoR6bGtfqdf5xfnqqzc2pump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "2GLTCLnfVbCdeRG56MBmzgKQS6CvL3LWrdFAt74Gpump",
-          "label": "2GLTCLnf",
-          "verdict": "kill",
-          "reason": "never qualified",
-          "subtitle": "never qualified",
-          "link": "https://fomo.family/coin?address=2GLTCLnfVbCdeRG56MBmzgKQS6CvL3LWrdFAt74Gpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T22:14:04.507644Z",
+      "heartbeat": "2026-11-12T23:08:39.017239Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T22:14:04.508739Z",
+      "heartbeat": "2026-11-12T23:08:39.019291Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T22:14:04.512241Z",
+      "heartbeat": "2026-11-12T23:08:39.019873Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T22:14:02.511458Z",
+      "heartbeat": "2026-11-12T23:08:27.883574Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

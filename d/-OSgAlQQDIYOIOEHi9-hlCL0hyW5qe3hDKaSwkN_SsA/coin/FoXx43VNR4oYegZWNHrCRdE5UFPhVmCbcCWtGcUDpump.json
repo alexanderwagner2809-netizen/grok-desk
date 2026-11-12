@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T22:14:05.138840Z",
+  "ts": "2026-11-12T23:08:40.973772Z",
   "mint": "FoXx43VNR4oYegZWNHrCRdE5UFPhVmCbcCWtGcUDpump",
   "name": "Cheeseburger Coin",
   "symbol": "CHEESE",
   "label": "Cheeseburger Coin",
   "chain": "Solana",
-  "age": "1h old",
+  "age": "2h old",
   "migratedAt": "2026-11-12T20:49:05.422409Z",
   "pool": "GhgkaKE759HkK7BDxyLy2wTaxrFfpB8MinQZfduGqNft",
   "creator": "9vL2pT6tnkmCDesiq4Sp3jKHNkaPcAMpwEuJNENdCJVd",
   "holders": null,
   "link": "https://fomo.family/coin?address=FoXx43VNR4oYegZWNHrCRdE5UFPhVmCbcCWtGcUDpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.207e-06,
-  "priceTs": "2026-11-12T22:14:04.941646Z",
+  "price": 2.176e-06,
+  "priceTs": "2026-11-12T23:08:40.753715Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -408,12 +408,20 @@
       "l": 2.207e-06,
       "c": 2.207e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794524880,
+      "o": 2.176e-06,
+      "h": 2.176e-06,
+      "l": 2.176e-06,
+      "c": 2.176e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1793.0,
-    "liquidity": 2139.3,
-    "volume24h": 65550.47,
+    "marketCap": 1768.0,
+    "liquidity": 2113.74,
+    "volume24h": 65560.19,
     "holders": null
   },
   "position": null,
