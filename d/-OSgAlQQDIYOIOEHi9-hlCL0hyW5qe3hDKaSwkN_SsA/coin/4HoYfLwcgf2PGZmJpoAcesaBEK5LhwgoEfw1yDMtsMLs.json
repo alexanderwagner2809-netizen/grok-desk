@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T20:55:53.574212Z",
+  "ts": "2026-11-12T20:57:03.040135Z",
   "mint": "4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs",
   "name": "longcat",
   "symbol": "longcat",
@@ -11,8 +11,8 @@
   "creator": "6xdTuL6AKuhrYYutG8W1RqT6ZGFhJkF9TjxPp8aLXeBn",
   "holders": null,
   "link": "https://fomo.family/coin?address=4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.238e-06,
-  "priceTs": "2026-11-12T20:55:53.382334Z",
+  "price": 2.236e-06,
+  "priceTs": "2026-11-12T20:57:02.817987Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -384,12 +384,20 @@
       "l": 2.238e-06,
       "c": 2.238e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794517020,
+      "o": 2.236e-06,
+      "h": 2.236e-06,
+      "l": 2.236e-06,
+      "c": 2.236e-06,
+      "v": 0.07
     }
   ],
   "stats": {
-    "marketCap": 2037.0,
-    "liquidity": 2155.02,
-    "volume24h": 67411.4,
+    "marketCap": 2035.0,
+    "liquidity": 2152.82,
+    "volume24h": 67411.47,
     "holders": null
   },
   "position": null,
