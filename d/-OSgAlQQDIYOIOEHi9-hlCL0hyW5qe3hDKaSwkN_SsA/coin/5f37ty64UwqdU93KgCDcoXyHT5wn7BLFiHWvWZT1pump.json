@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:55:47.755241Z",
+  "ts": "2026-11-12T06:56:57.163644Z",
   "mint": "5f37ty64UwqdU93KgCDcoXyHT5wn7BLFiHWvWZT1pump",
-  "name": null,
-  "symbol": null,
-  "label": "5f37ty64",
+  "name": "pump.fun",
+  "symbol": "pump it",
+  "label": "pump.fun",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T06:55:06.859993Z",
-  "pool": null,
+  "pool": "4ffm2kSd7VFXAnSgHiFhwqSPeGCYshPqDd59nvKHaRj8",
   "creator": "BTUTSZiiGRUHrLEkNxNt917P7MHSA2eZWgTpErinDjbH",
   "holders": null,
   "link": "https://fomo.family/coin?address=5f37ty64UwqdU93KgCDcoXyHT5wn7BLFiHWvWZT1pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.652e-08,
-  "priceTs": "2026-11-12T06:55:47.232710Z",
+  "price": 7.047e-09,
+  "priceTs": "2026-11-12T06:56:56.317131Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 1.652e-08,
       "c": 1.652e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794466560,
+      "o": 1.652e-08,
+      "h": 1.652e-08,
+      "l": 7.047e-09,
+      "c": 7.047e-09,
+      "v": 12.600000000000023
     }
   ],
   "stats": {
-    "marketCap": 33.0,
-    "liquidity": 50.17,
-    "volume24h": 514.02,
+    "marketCap": 14.0,
+    "liquidity": 17.52,
+    "volume24h": 526.62,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T06:56:00.010604Z",
+      "liquidity_usd": 50.17,
+      "top10_pct": null,
+      "h1_change_pct": -92.41,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $50"
+    }
+  ]
 }
