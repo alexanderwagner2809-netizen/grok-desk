@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T20:14:19.076542Z",
+  "ts": "2026-11-12T20:15:31.114384Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T20:14:17.340555Z",
+  "heartbeat": "2026-11-12T20:15:26.641788Z",
   "paused": false,
   "status": "running",
-  "card": "324 pools",
-  "count": 324,
+  "card": "326 pools",
+  "count": 326,
   "passed": 0,
   "feed": [
+    {
+      "mint": "8aFxqZoX6DdpaYDpfM5AhtDqU7AgzseChszLAGBipump",
+      "label": "TRIGON",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=8aFxqZoX6DdpaYDpfM5AhtDqU7AgzseChszLAGBipump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "zYGUsJhQn8mzcQby6QnNC5A9vBcwdSRoozFL7Mdpump",
+      "label": "GTA6",
+      "verdict": "kill",
+      "reason": "+202% in 1h",
+      "subtitle": "+202% in 1h",
+      "link": "https://fomo.family/coin?address=zYGUsJhQn8mzcQby6QnNC5A9vBcwdSRoozFL7Mdpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "4cyPWVPcPBo5j5JWfp8Qhgo8ijfmzv1xQJvz3RCxpump",
       "label": "GTA 6",
@@ -58,27 +74,27 @@
       "reason": "+190% in 1h",
       "subtitle": "+190% in 1h",
       "link": "https://fomo.family/coin?address=3u2Enou6XnEYBGAkMQcx1rCukVc9BwGUp73xjNYepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GHB5wJfknCtudnrCak2QcjXXrExs8ZpNy1XMRTddzEKr",
-      "label": "Hachiko",
-      "verdict": "kill",
-      "reason": "liq $16.0K",
-      "subtitle": "liq $16.0K",
-      "link": "https://fomo.family/coin?address=GHB5wJfknCtudnrCak2QcjXXrExs8ZpNy1XMRTddzEKr&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "3cEXSrHj7J6XTPq3iCnHRDXFEBMaHZTvYq2sf88spump",
-      "label": "Rockstar Games",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=3cEXSrHj7J6XTPq3iCnHRDXFEBMaHZTvYq2sf88spump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T20:15:21.639896Z",
+      "mint": "8aFxqZoX6DdpaYDpfM5AhtDqU7AgzseChszLAGBipump",
+      "label": "TRIGON",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=8aFxqZoX6DdpaYDpfM5AhtDqU7AgzseChszLAGBipump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T20:14:54.152171Z",
+      "mint": "zYGUsJhQn8mzcQby6QnNC5A9vBcwdSRoozFL7Mdpump",
+      "label": "GTA6",
+      "verdict": "kill",
+      "reason": "+202% in 1h",
+      "link": "https://fomo.family/coin?address=zYGUsJhQn8mzcQby6QnNC5A9vBcwdSRoozFL7Mdpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:13:51.850815Z",
       "mint": "4cyPWVPcPBo5j5JWfp8Qhgo8ijfmzv1xQJvz3RCxpump",
       "label": "GTA 6",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $18",
       "link": "https://fomo.family/coin?address=A7TmqRupSgt62Z2XbbXeZwxu7SrE7DSq5JkwLWZnpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:42:14.390117Z",
-      "mint": "5UuN1ETAkgDofJ5FpLDWg8MZuSC9PjrMp4y9bycFpump",
-      "label": "Pirate Coin",
-      "verdict": "kill",
-      "reason": "liq $8",
-      "link": "https://fomo.family/coin?address=5UuN1ETAkgDofJ5FpLDWg8MZuSC9PjrMp4y9bycFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:39:26.530738Z",
-      "mint": "99hVefYN8p8suhZNshzh9FuAsrh4ezsZTo3XtFyepump",
-      "label": "Robinhood",
-      "verdict": "kill",
-      "reason": "+192% in 1h",
-      "link": "https://fomo.family/coin?address=99hVefYN8p8suhZNshzh9FuAsrh4ezsZTo3XtFyepump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T20:15:21.639896Z",
+      "mint": "8aFxqZoX6DdpaYDpfM5AhtDqU7AgzseChszLAGBipump",
+      "label": "TRIGON",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=8aFxqZoX6DdpaYDpfM5AhtDqU7AgzseChszLAGBipump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T20:14:54.152171Z",
+      "mint": "zYGUsJhQn8mzcQby6QnNC5A9vBcwdSRoozFL7Mdpump",
+      "label": "GTA6",
+      "verdict": "kill",
+      "reason": "+202% in 1h",
+      "link": "https://fomo.family/coin?address=zYGUsJhQn8mzcQby6QnNC5A9vBcwdSRoozFL7Mdpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:13:51.850815Z",
       "mint": "4cyPWVPcPBo5j5JWfp8Qhgo8ijfmzv1xQJvz3RCxpump",
       "label": "GTA 6",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $18",
       "link": "https://fomo.family/coin?address=A7TmqRupSgt62Z2XbbXeZwxu7SrE7DSq5JkwLWZnpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:42:14.390117Z",
-      "mint": "5UuN1ETAkgDofJ5FpLDWg8MZuSC9PjrMp4y9bycFpump",
-      "label": "Pirate Coin",
-      "verdict": "kill",
-      "reason": "liq $8",
-      "link": "https://fomo.family/coin?address=5UuN1ETAkgDofJ5FpLDWg8MZuSC9PjrMp4y9bycFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T18:39:26.530738Z",
-      "mint": "99hVefYN8p8suhZNshzh9FuAsrh4ezsZTo3XtFyepump",
-      "label": "Robinhood",
-      "verdict": "kill",
-      "reason": "+192% in 1h",
-      "link": "https://fomo.family/coin?address=99hVefYN8p8suhZNshzh9FuAsrh4ezsZTo3XtFyepump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
