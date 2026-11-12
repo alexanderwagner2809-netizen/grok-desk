@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T18:34:43.255694Z",
+  "ts": "2026-11-12T18:35:54.878890Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T18:34:42.188547Z",
+      "heartbeat": "2026-11-12T18:35:53.195213Z",
       "paused": false,
       "status": "running",
-      "card": "300 pools",
-      "count": 300,
+      "card": "302 pools",
+      "count": 302,
       "passed": 0,
       "feed": [
+        {
+          "mint": "ZewYq5fWCgC51RzuJAxf5oifsKg5wzRUJqkgpaHpump",
+          "label": "JHuang Cooked",
+          "verdict": "kill",
+          "reason": "liq $48",
+          "subtitle": "liq $48",
+          "link": "https://fomo.family/coin?address=ZewYq5fWCgC51RzuJAxf5oifsKg5wzRUJqkgpaHpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "3JRvjghEHNu6nyhTDiimQovqSKPvNN49S2YgUkh1pump",
+          "label": "Pirate Coin",
+          "verdict": "kill",
+          "reason": "liq $31",
+          "subtitle": "liq $31",
+          "link": "https://fomo.family/coin?address=3JRvjghEHNu6nyhTDiimQovqSKPvNN49S2YgUkh1pump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "GkrF14AQzTXjBJZrfmewFARA5YPP8s6fAoeNNmYqpump",
           "label": "小峰",
@@ -66,22 +82,6 @@
           "reason": "liq $0",
           "subtitle": "liq $0",
           "link": "https://fomo.family/coin?address=BcTQ8pDmEZhiPXaDHZ4Chtvt7HEZzDf3LNFSacJHcXjP&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump",
-          "label": "MOMMY SU",
-          "verdict": "kill",
-          "reason": "liq $17.5K",
-          "subtitle": "liq $17.5K",
-          "link": "https://fomo.family/coin?address=7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump",
-          "label": "HuangFu",
-          "verdict": "kill",
-          "reason": "liq $258",
-          "subtitle": "liq $258",
-          "link": "https://fomo.family/coin?address=CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T18:34:42.961656Z",
+      "heartbeat": "2026-11-12T18:35:53.195213Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T18:34:42.963953Z",
+      "heartbeat": "2026-11-12T18:35:53.195213Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T18:34:42.964412Z",
+      "heartbeat": "2026-11-12T18:35:53.195213Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T18:34:38.178666Z",
+      "heartbeat": "2026-11-12T18:35:53.195213Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

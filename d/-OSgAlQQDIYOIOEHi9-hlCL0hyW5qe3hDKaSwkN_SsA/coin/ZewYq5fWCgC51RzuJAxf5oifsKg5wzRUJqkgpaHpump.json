@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T18:34:44.536683Z",
+  "ts": "2026-11-12T18:35:54.885431Z",
   "mint": "ZewYq5fWCgC51RzuJAxf5oifsKg5wzRUJqkgpaHpump",
-  "name": null,
-  "symbol": null,
-  "label": "ZewYq5fW",
+  "name": "JHuang Cooked",
+  "symbol": "JCooked",
+  "label": "JHuang Cooked",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T18:34:24.804204Z",
-  "pool": null,
+  "pool": "pNiFAK8HayGroe5igh1R4wFYh3Zc6NL9HzDKNaFoN3j",
   "creator": "HZ8RKVTRH48f5syGcfhc6xtKafm7aFEHUF7GkJmfC68R",
   "holders": null,
   "link": "https://fomo.family/coin?address=ZewYq5fWCgC51RzuJAxf5oifsKg5wzRUJqkgpaHpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.759e-08,
-  "priceTs": "2026-11-12T18:34:43.251889Z",
+  "price": 5.598e-09,
+  "priceTs": "2026-11-12T18:35:52.833456Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -20,19 +20,37 @@
     {
       "t": 1794508440,
       "o": 3.759e-08,
-      "h": 3.759e-08,
+      "h": 7.449e-08,
       "l": 3.759e-08,
-      "c": 3.759e-08,
+      "c": 7.449e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794508500,
+      "o": 5.598e-09,
+      "h": 5.598e-09,
+      "l": 5.598e-09,
+      "c": 5.598e-09,
+      "v": 220.2
     }
   ],
   "stats": {
-    "marketCap": 37.59,
-    "liquidity": null,
-    "volume24h": 3000.57,
+    "marketCap": 11.0,
+    "liquidity": 12.43,
+    "volume24h": 233.84,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T18:34:57.527890Z",
+      "liquidity_usd": 47.85,
+      "top10_pct": null,
+      "h1_change_pct": -49.75,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $48"
+    }
+  ]
 }
