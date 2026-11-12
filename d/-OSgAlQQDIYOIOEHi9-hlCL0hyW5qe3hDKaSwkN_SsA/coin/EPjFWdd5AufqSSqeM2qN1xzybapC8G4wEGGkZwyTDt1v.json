@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T03:17:47.816199Z",
+  "ts": "2026-11-12T03:26:47.098175Z",
   "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
   "name": null,
   "symbol": null,
   "label": "EPjFWdd5",
   "chain": "Solana",
-  "age": "2h old",
+  "age": "3h old",
   "migratedAt": "2026-11-12T00:23:32.750476Z",
   "pool": null,
   "creator": "2wmVCSfPxGPjrnMMn7rchp4uaeoTqN39mXFC2zhPdri9",
   "holders": null,
   "link": "https://fomo.family/coin?address=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.9984,
-  "priceTs": "2026-11-12T03:17:47.264661Z",
+  "price": 1.00019,
+  "priceTs": "2026-11-12T03:26:46.564579Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -296,12 +296,20 @@
       "l": 0.9984,
       "c": 0.9984,
       "v": 9913.010000000002
+    },
+    {
+      "t": 1794453960,
+      "o": 1.00019,
+      "h": 1.00019,
+      "l": 1.00019,
+      "c": 1.00019,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 69558645669.0,
-    "liquidity": 2163524.81,
-    "volume24h": 20723658.43,
+    "marketCap": 69678916126.0,
+    "liquidity": 2164023.94,
+    "volume24h": 20797428.43,
     "holders": null
   },
   "position": null,
