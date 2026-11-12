@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T15:35:54.430870Z",
+  "ts": "2026-11-12T15:37:04.937781Z",
   "mint": "G4SCa7jcq2GCnTS9rUCCt7Fq6o4gZ4rhccnqCGR7pump",
-  "name": null,
-  "symbol": null,
-  "label": "G4SCa7jc",
+  "name": "Jensen Huang",
+  "symbol": "HUANG",
+  "label": "Jensen Huang",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T15:35:17.170998Z",
-  "pool": null,
+  "pool": "CVMpkDfCvKpEdw2nAoHc7SiwgxqyZy5L1PQ8gKrzmDsi",
   "creator": null,
   "holders": null,
   "link": "https://fomo.family/coin?address=G4SCa7jcq2GCnTS9rUCCt7Fq6o4gZ4rhccnqCGR7pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 7.006e-05,
-  "priceTs": "2026-11-12T15:35:53.477994Z",
+  "price": 7.308e-05,
+  "priceTs": "2026-11-12T15:37:03.253360Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,41 @@
       "l": 7.006e-05,
       "c": 7.006e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794497760,
+      "o": 7.006e-05,
+      "h": 7.006e-05,
+      "l": 7.006e-05,
+      "c": 7.006e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794497820,
+      "o": 7.308e-05,
+      "h": 7.308e-05,
+      "l": 7.308e-05,
+      "c": 7.308e-05,
+      "v": 29.170000000000073
     }
   ],
   "stats": {
-    "marketCap": 70026.0,
-    "liquidity": 18598.84,
-    "volume24h": 3049.63,
+    "marketCap": 73038.0,
+    "liquidity": 18993.89,
+    "volume24h": 3078.8,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T15:36:22.429209Z",
+      "liquidity_usd": 18598.62,
+      "top10_pct": null,
+      "h1_change_pct": 105.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $18.6K"
+    }
+  ]
 }

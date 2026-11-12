@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T15:35:53.849728Z",
+  "ts": "2026-11-12T15:37:04.936569Z",
   "mint": "3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump",
-  "name": null,
-  "symbol": null,
-  "label": "3NicSvAg",
+  "name": "Tim Chip",
+  "symbol": "CHIP",
+  "label": "Tim Chip",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T15:35:19.239384Z",
-  "pool": null,
+  "pool": "FVVFW9DS8QXErBnX8HyDu4zzRwaXwCw296s4pEAJcDzf",
   "creator": "3MB3ungATq7LiSXepK32z1kKwqoMm3V1F1sFYneTrWeB",
   "holders": null,
   "link": "https://fomo.family/coin?address=3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.993e-05,
-  "priceTs": "2026-11-12T15:35:52.606885Z",
+  "price": 8.707e-05,
+  "priceTs": "2026-11-12T15:37:03.253360Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,41 @@
       "l": 2.993e-05,
       "c": 2.993e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794497760,
+      "o": 3.476e-05,
+      "h": 3.476e-05,
+      "l": 3.476e-05,
+      "c": 3.476e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794497820,
+      "o": 8.707e-05,
+      "h": 8.707e-05,
+      "l": 8.707e-05,
+      "c": 8.707e-05,
+      "v": 37504.83
     }
   ],
   "stats": {
-    "marketCap": 29930.59,
-    "liquidity": null,
-    "volume24h": 24080.55,
+    "marketCap": 87073.0,
+    "liquidity": 21046.52,
+    "volume24h": 41842.58,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T15:36:22.430208Z",
+      "liquidity_usd": 12703.67,
+      "top10_pct": null,
+      "h1_change_pct": 2.73,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $12.7K"
+    }
+  ]
 }

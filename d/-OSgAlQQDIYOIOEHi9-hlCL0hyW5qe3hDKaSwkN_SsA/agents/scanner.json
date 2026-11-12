@@ -1,16 +1,40 @@
 {
-  "ts": "2026-11-12T15:35:54.545012Z",
+  "ts": "2026-11-12T15:37:05.957329Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T15:35:51.778802Z",
+  "heartbeat": "2026-11-12T15:37:02.504270Z",
   "paused": false,
   "status": "running",
-  "card": "246 pools",
-  "count": 246,
+  "card": "249 pools",
+  "count": 249,
   "passed": 0,
   "feed": [
+    {
+      "mint": "3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump",
+      "label": "Tim Chip",
+      "verdict": "kill",
+      "reason": "liq $12.7K",
+      "subtitle": "liq $12.7K",
+      "link": "https://fomo.family/coin?address=3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "G4SCa7jcq2GCnTS9rUCCt7Fq6o4gZ4rhccnqCGR7pump",
+      "label": "Jensen Huang",
+      "verdict": "kill",
+      "reason": "liq $18.6K",
+      "subtitle": "liq $18.6K",
+      "link": "https://fomo.family/coin?address=G4SCa7jcq2GCnTS9rUCCt7Fq6o4gZ4rhccnqCGR7pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "FpnSCqYy3oT5QuYTUKkPzCg3krhkqdvuirpsUXNEpump",
+      "label": "gomo",
+      "verdict": "kill",
+      "reason": "liq $2",
+      "subtitle": "liq $2",
+      "link": "https://fomo.family/coin?address=FpnSCqYy3oT5QuYTUKkPzCg3krhkqdvuirpsUXNEpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "EPPBbiS1uqDVGgB4xdZ4SpxuVUWuSapT4T68wFGcpump",
       "label": "Jensen Huang Coin",
@@ -50,35 +74,35 @@
       "reason": "+191% in 1h",
       "subtitle": "+191% in 1h",
       "link": "https://fomo.family/coin?address=BDkKHKzDqBH7GXF9DBwmcwzGidaTXQeR6pDnnVzMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5vyAnkTKNY4CrgBagXXgWfKRYE9pqcFYykGqGeU9pump",
-      "label": "TeraFaps",
-      "verdict": "kill",
-      "reason": "liq $12.7K",
-      "subtitle": "liq $12.7K",
-      "link": "https://fomo.family/coin?address=5vyAnkTKNY4CrgBagXXgWfKRYE9pqcFYykGqGeU9pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5v5zdVrnB15fCzpHmi5Zmp1a3t2BnMgDfCV6sehppump",
-      "label": "Jensen Huang",
-      "verdict": "kill",
-      "reason": "liq $12.0K",
-      "subtitle": "liq $12.0K",
-      "link": "https://fomo.family/coin?address=5v5zdVrnB15fCzpHmi5Zmp1a3t2BnMgDfCV6sehppump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump",
-      "label": "AI Bubble Popper",
-      "verdict": "kill",
-      "reason": "liq $19.9K",
-      "subtitle": "liq $19.9K",
-      "link": "https://fomo.family/coin?address=GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T15:36:22.430208Z",
+      "mint": "3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump",
+      "label": "Tim Chip",
+      "verdict": "kill",
+      "reason": "liq $12.7K",
+      "link": "https://fomo.family/coin?address=3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T15:36:22.429209Z",
+      "mint": "G4SCa7jcq2GCnTS9rUCCt7Fq6o4gZ4rhccnqCGR7pump",
+      "label": "Jensen Huang",
+      "verdict": "kill",
+      "reason": "liq $18.6K",
+      "link": "https://fomo.family/coin?address=G4SCa7jcq2GCnTS9rUCCt7Fq6o4gZ4rhccnqCGR7pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T15:36:22.428365Z",
+      "mint": "FpnSCqYy3oT5QuYTUKkPzCg3krhkqdvuirpsUXNEpump",
+      "label": "gomo",
+      "verdict": "kill",
+      "reason": "liq $2",
+      "link": "https://fomo.family/coin?address=FpnSCqYy3oT5QuYTUKkPzCg3krhkqdvuirpsUXNEpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:28:40.493631Z",
       "mint": "EPPBbiS1uqDVGgB4xdZ4SpxuVUWuSapT4T68wFGcpump",
       "label": "Jensen Huang Coin",
@@ -213,34 +237,34 @@
       "verdict": "kill",
       "reason": "liq $1.7K",
       "link": "https://fomo.family/coin?address=4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:44:55.816245Z",
-      "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
-      "label": "Xsc9qvGR",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:14:37.839730Z",
-      "mint": "GZ2pDdip9spqiZuqV2tGhR1EcvbZzU1XTWk4ZVTGpump",
-      "label": "Indo meme",
-      "verdict": "kill",
-      "reason": "liq $13.4K",
-      "link": "https://fomo.family/coin?address=GZ2pDdip9spqiZuqV2tGhR1EcvbZzU1XTWk4ZVTGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:14:37.837440Z",
-      "mint": "CZgr3UM7vnuDgMkLjyA62XwYcYL3qb3qRuupG2dopump",
-      "label": "ANSEM ",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "link": "https://fomo.family/coin?address=CZgr3UM7vnuDgMkLjyA62XwYcYL3qb3qRuupG2dopump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T15:36:22.430208Z",
+      "mint": "3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump",
+      "label": "Tim Chip",
+      "verdict": "kill",
+      "reason": "liq $12.7K",
+      "link": "https://fomo.family/coin?address=3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T15:36:22.429209Z",
+      "mint": "G4SCa7jcq2GCnTS9rUCCt7Fq6o4gZ4rhccnqCGR7pump",
+      "label": "Jensen Huang",
+      "verdict": "kill",
+      "reason": "liq $18.6K",
+      "link": "https://fomo.family/coin?address=G4SCa7jcq2GCnTS9rUCCt7Fq6o4gZ4rhccnqCGR7pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T15:36:22.428365Z",
+      "mint": "FpnSCqYy3oT5QuYTUKkPzCg3krhkqdvuirpsUXNEpump",
+      "label": "gomo",
+      "verdict": "kill",
+      "reason": "liq $2",
+      "link": "https://fomo.family/coin?address=FpnSCqYy3oT5QuYTUKkPzCg3krhkqdvuirpsUXNEpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:28:40.493631Z",
       "mint": "EPPBbiS1uqDVGgB4xdZ4SpxuVUWuSapT4T68wFGcpump",
       "label": "Jensen Huang Coin",
@@ -375,30 +399,6 @@
       "verdict": "kill",
       "reason": "liq $1.7K",
       "link": "https://fomo.family/coin?address=4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:44:55.816245Z",
-      "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
-      "label": "Xsc9qvGR",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:14:37.839730Z",
-      "mint": "GZ2pDdip9spqiZuqV2tGhR1EcvbZzU1XTWk4ZVTGpump",
-      "label": "Indo meme",
-      "verdict": "kill",
-      "reason": "liq $13.4K",
-      "link": "https://fomo.family/coin?address=GZ2pDdip9spqiZuqV2tGhR1EcvbZzU1XTWk4ZVTGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T14:14:37.837440Z",
-      "mint": "CZgr3UM7vnuDgMkLjyA62XwYcYL3qb3qRuupG2dopump",
-      "label": "ANSEM ",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "link": "https://fomo.family/coin?address=CZgr3UM7vnuDgMkLjyA62XwYcYL3qb3qRuupG2dopump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
