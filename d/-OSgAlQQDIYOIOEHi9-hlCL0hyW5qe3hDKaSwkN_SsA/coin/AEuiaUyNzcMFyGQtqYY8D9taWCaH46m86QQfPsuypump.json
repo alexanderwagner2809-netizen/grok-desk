@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T02:03:37.276349Z",
+  "ts": "2026-11-12T02:04:45.390069Z",
   "mint": "AEuiaUyNzcMFyGQtqYY8D9taWCaH46m86QQfPsuypump",
-  "name": null,
-  "symbol": null,
-  "label": "AEuiaUyN",
+  "name": "HumpDayCamel",
+  "symbol": "HDC",
+  "label": "HumpDayCamel",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T02:03:15.942317Z",
-  "pool": null,
+  "pool": "EZwLC2M2Q7FqQ1G4EryFW3GA2MZkusYGBooPgzcqNnLW",
   "creator": "9q6dbLyjdSMjWkh8W4i1RaDJgXGD6BzWfNSWkW5dTjyF",
   "holders": null,
   "link": "https://fomo.family/coin?address=AEuiaUyNzcMFyGQtqYY8D9taWCaH46m86QQfPsuypump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.772e-08,
-  "priceTs": "2026-11-12T02:03:37.176621Z",
+  "price": 4.348e-09,
+  "priceTs": "2026-11-12T02:04:44.900354Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -21,18 +21,36 @@
       "t": 1794448980,
       "o": 4.772e-08,
       "h": 4.772e-08,
-      "l": 4.772e-08,
-      "c": 4.772e-08,
+      "l": 2.788e-08,
+      "c": 2.788e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794449040,
+      "o": 4.348e-09,
+      "h": 4.348e-09,
+      "l": 4.348e-09,
+      "c": 4.348e-09,
+      "v": 77.74000000000001
     }
   ],
   "stats": {
-    "marketCap": 47.73,
-    "liquidity": null,
-    "volume24h": 4357.3,
+    "marketCap": 9.0,
+    "liquidity": 3.67,
+    "volume24h": 120.5,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T02:03:49.127808Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 72.84,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
