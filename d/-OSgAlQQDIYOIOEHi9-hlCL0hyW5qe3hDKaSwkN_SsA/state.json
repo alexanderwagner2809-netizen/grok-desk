@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T16:18:34.677962Z",
+  "ts": "2026-11-12T16:19:45.675078Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T16:18:32.708267Z",
+      "heartbeat": "2026-11-12T16:19:33.680505Z",
       "paused": false,
       "status": "running",
-      "card": "262 pools",
-      "count": 262,
+      "card": "264 pools",
+      "count": 264,
       "passed": 0,
       "feed": [
+        {
+          "mint": "65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump",
+          "label": "Bugles Cat",
+          "verdict": "kill",
+          "reason": "liq $12.6K",
+          "subtitle": "liq $12.6K",
+          "link": "https://fomo.family/coin?address=65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump",
+          "label": "SpaceX community benefits",
+          "verdict": "kill",
+          "reason": "liq $12.8K",
+          "subtitle": "liq $12.8K",
+          "link": "https://fomo.family/coin?address=ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK",
           "label": "TrenchedIn",
@@ -66,22 +82,6 @@
           "reason": "+185% in 1h",
           "subtitle": "+185% in 1h",
           "link": "https://fomo.family/coin?address=H6Z16MWrRQsaVLJGxWbsnUjk7FBt1JdHHjYaUhXypump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "2AWpsSAUc1nsf8ZKLhhnf2uRNX2ifV4RRYLPR5n8pump",
-          "label": "2AWpsSAU",
-          "verdict": "kill",
-          "reason": "never qualified",
-          "subtitle": "never qualified",
-          "link": "https://fomo.family/coin?address=2AWpsSAUc1nsf8ZKLhhnf2uRNX2ifV4RRYLPR5n8pump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "6wCbd4s3nknrqB7Cc3ZcAXWLfixydVywYE4Eikkxpump",
-          "label": "GTA6",
-          "verdict": "kill",
-          "reason": "liq $0",
-          "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=6wCbd4s3nknrqB7Cc3ZcAXWLfixydVywYE4Eikkxpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T16:18:34.312662Z",
+      "heartbeat": "2026-11-12T16:19:44.418326Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T16:18:34.312983Z",
+      "heartbeat": "2026-11-12T16:19:44.419226Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T16:18:34.313103Z",
+      "heartbeat": "2026-11-12T16:19:44.420225Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T16:18:29.028713Z",
+      "heartbeat": "2026-11-12T16:19:39.239033Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

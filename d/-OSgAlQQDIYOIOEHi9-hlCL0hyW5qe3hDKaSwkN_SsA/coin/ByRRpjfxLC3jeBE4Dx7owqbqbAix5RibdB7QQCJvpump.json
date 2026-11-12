@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T16:18:35.291405Z",
+  "ts": "2026-11-12T16:19:45.682377Z",
   "mint": "ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump",
-  "name": null,
-  "symbol": null,
-  "label": "ByRRpjfx",
+  "name": "SpaceX community benefits",
+  "symbol": "SBC",
+  "label": "SpaceX community benefits",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T16:17:52.716248Z",
-  "pool": null,
+  "pool": "FSX1XH1XJHcTfdxD29VAADEe4moe2ZiUxxGjJpjUHQSS",
   "creator": "7WZSQBkAbEagWR9EA26KVLy1ynNALzmxJotoea4QmTYC",
   "holders": null,
   "link": "https://fomo.family/coin?address=ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.503e-05,
-  "priceTs": "2026-11-12T16:18:34.171628Z",
+  "price": 3.877e-05,
+  "priceTs": "2026-11-12T16:19:43.869310Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 3.503e-05,
       "c": 3.503e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794500340,
+      "o": 3.877e-05,
+      "h": 3.877e-05,
+      "l": 3.877e-05,
+      "c": 3.877e-05,
+      "v": 10247.279999999999
     }
   ],
   "stats": {
-    "marketCap": 35002.0,
-    "liquidity": 12784.79,
-    "volume24h": 6301.73,
+    "marketCap": 38740.0,
+    "liquidity": 13571.48,
+    "volume24h": 16549.01,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T16:18:53.106088Z",
+      "liquidity_usd": 12784.79,
+      "top10_pct": null,
+      "h1_change_pct": 3.26,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $12.8K"
+    }
+  ]
 }

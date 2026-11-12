@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T16:18:35.627866Z",
+  "ts": "2026-11-12T16:19:46.668710Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T16:18:32.708267Z",
+  "heartbeat": "2026-11-12T16:19:33.680505Z",
   "paused": false,
   "status": "running",
-  "card": "262 pools",
-  "count": 262,
+  "card": "264 pools",
+  "count": 264,
   "passed": 0,
   "feed": [
+    {
+      "mint": "65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump",
+      "label": "Bugles Cat",
+      "verdict": "kill",
+      "reason": "liq $12.6K",
+      "subtitle": "liq $12.6K",
+      "link": "https://fomo.family/coin?address=65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump",
+      "label": "SpaceX community benefits",
+      "verdict": "kill",
+      "reason": "liq $12.8K",
+      "subtitle": "liq $12.8K",
+      "link": "https://fomo.family/coin?address=ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK",
       "label": "TrenchedIn",
@@ -58,27 +74,27 @@
       "reason": "+185% in 1h",
       "subtitle": "+185% in 1h",
       "link": "https://fomo.family/coin?address=H6Z16MWrRQsaVLJGxWbsnUjk7FBt1JdHHjYaUhXypump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "2AWpsSAUc1nsf8ZKLhhnf2uRNX2ifV4RRYLPR5n8pump",
-      "label": "2AWpsSAU",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "subtitle": "never qualified",
-      "link": "https://fomo.family/coin?address=2AWpsSAUc1nsf8ZKLhhnf2uRNX2ifV4RRYLPR5n8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "6wCbd4s3nknrqB7Cc3ZcAXWLfixydVywYE4Eikkxpump",
-      "label": "GTA6",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=6wCbd4s3nknrqB7Cc3ZcAXWLfixydVywYE4Eikkxpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T16:19:18.676763Z",
+      "mint": "65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump",
+      "label": "Bugles Cat",
+      "verdict": "kill",
+      "reason": "liq $12.6K",
+      "link": "https://fomo.family/coin?address=65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T16:18:53.106088Z",
+      "mint": "ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump",
+      "label": "SpaceX community benefits",
+      "verdict": "kill",
+      "reason": "liq $12.8K",
+      "link": "https://fomo.family/coin?address=ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:17:51.493973Z",
       "mint": "tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK",
       "label": "TrenchedIn",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $13.3K",
       "link": "https://fomo.family/coin?address=A1D74fA9RqeQcxdJNC67pzanVaiySyJPwcTUoyPBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:26:08.303118Z",
-      "mint": "9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump",
-      "label": "Pokemon In 9-5",
-      "verdict": "kill",
-      "reason": "liq $10.9K",
-      "link": "https://fomo.family/coin?address=9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:25:47.877872Z",
-      "mint": "C6N5RdMkKMBZ28dKx5cVkfcntEjajwjPXt1Y1ihHpump",
-      "label": "JUSSY COIN",
-      "verdict": "kill",
-      "reason": "liq $6",
-      "link": "https://fomo.family/coin?address=C6N5RdMkKMBZ28dKx5cVkfcntEjajwjPXt1Y1ihHpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T16:19:18.676763Z",
+      "mint": "65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump",
+      "label": "Bugles Cat",
+      "verdict": "kill",
+      "reason": "liq $12.6K",
+      "link": "https://fomo.family/coin?address=65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T16:18:53.106088Z",
+      "mint": "ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump",
+      "label": "SpaceX community benefits",
+      "verdict": "kill",
+      "reason": "liq $12.8K",
+      "link": "https://fomo.family/coin?address=ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:17:51.493973Z",
       "mint": "tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK",
       "label": "TrenchedIn",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $13.3K",
       "link": "https://fomo.family/coin?address=A1D74fA9RqeQcxdJNC67pzanVaiySyJPwcTUoyPBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:26:08.303118Z",
-      "mint": "9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump",
-      "label": "Pokemon In 9-5",
-      "verdict": "kill",
-      "reason": "liq $10.9K",
-      "link": "https://fomo.family/coin?address=9cUiUKSyAbX83ZZuVoqTvB5QrW9BYHRshEMNeUmepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:25:47.877872Z",
-      "mint": "C6N5RdMkKMBZ28dKx5cVkfcntEjajwjPXt1Y1ihHpump",
-      "label": "JUSSY COIN",
-      "verdict": "kill",
-      "reason": "liq $6",
-      "link": "https://fomo.family/coin?address=C6N5RdMkKMBZ28dKx5cVkfcntEjajwjPXt1Y1ihHpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
