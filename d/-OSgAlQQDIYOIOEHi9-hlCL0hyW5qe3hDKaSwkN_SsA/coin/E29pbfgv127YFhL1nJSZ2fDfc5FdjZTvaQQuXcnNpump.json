@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T11:12:48.866271Z",
+  "ts": "2026-11-12T11:13:58.127807Z",
   "mint": "E29pbfgv127YFhL1nJSZ2fDfc5FdjZTvaQQuXcnNpump",
   "name": "JUMP COIN",
   "symbol": "JUMP",
   "label": "JUMP COIN",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T11:12:18.326080Z",
   "pool": "9aHrdLCUGZt3Bk9dwtgNt3GDwJaTG1qTUXPSSMZzt7Qs",
   "creator": "3Mg9WFwRLJA4uyoBCKYJEfoq14y3z4t9uo4tW6kZ2M3P",
   "holders": null,
   "link": "https://fomo.family/coin?address=E29pbfgv127YFhL1nJSZ2fDfc5FdjZTvaQQuXcnNpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.32e-09,
-  "priceTs": "2026-11-12T11:12:47.718456Z",
+  "price": 1.239e-09,
+  "priceTs": "2026-11-12T11:13:56.970013Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,12 +24,20 @@
       "l": 2.32e-09,
       "c": 2.32e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794481980,
+      "o": 1.239e-09,
+      "h": 1.239e-09,
+      "l": 1.239e-09,
+      "c": 1.239e-09,
+      "v": 10.32
     }
   ],
   "stats": {
-    "marketCap": 5.0,
-    "liquidity": 10.06,
-    "volume24h": 50.42,
+    "marketCap": 2.0,
+    "liquidity": 3.01,
+    "volume24h": 60.74,
     "holders": null
   },
   "position": null,
