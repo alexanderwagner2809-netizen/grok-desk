@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T16:43:32.375108Z",
+  "mint": "5ba8HwNgio5t86aFdWJ81w5pNHjbqAKPKejTsVoDpump",
+  "name": "Max wif hat",
+  "symbol": "MaxWif",
+  "label": "Max wif hat",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T16:42:49.705873Z",
+  "pool": "AgXRYb1vnsKuU9GFrbyMiEjvJWZtKF38WDCBBcxgsJ4B",
+  "creator": "2gNKGhvKVkDXWTbuWqtg4eAB3WBoFqvBJehcGDrc3qVM",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=5ba8HwNgio5t86aFdWJ81w5pNHjbqAKPKejTsVoDpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 0.0001457,
+  "priceTs": "2026-11-12T16:43:29.808359Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794501780,
+      "o": 0.0001457,
+      "h": 0.0001457,
+      "l": 0.0001457,
+      "c": 0.0001457,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 145677.0,
+    "liquidity": 27511.85,
+    "volume24h": 7540.36,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T16:43:22.555945Z",
+      "liquidity_usd": 27511.85,
+      "top10_pct": null,
+      "h1_change_pct": 262.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "+262% in 1h"
+    }
+  ]
+}
