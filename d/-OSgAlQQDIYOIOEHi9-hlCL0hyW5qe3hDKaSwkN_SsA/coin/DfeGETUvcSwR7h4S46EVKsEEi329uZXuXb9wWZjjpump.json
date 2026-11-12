@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:08:36.098674Z",
+  "ts": "2026-11-12T06:09:44.698590Z",
   "mint": "DfeGETUvcSwR7h4S46EVKsEEi329uZXuXb9wWZjjpump",
-  "name": null,
-  "symbol": null,
-  "label": "DfeGETUv",
+  "name": "AudaCity",
+  "symbol": "AudaCity",
+  "label": "AudaCity",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T06:07:03.103478Z",
-  "pool": null,
+  "pool": "EPgMuNQy2KQ3nVXNUCdZZps5GawwJTur8Mj3WX2kdf12",
   "creator": "C4yPqxCsHiovJG3hHVz58skiR3U9hqU78VvbmdTaNj2Z",
   "holders": null,
   "link": "https://fomo.family/coin?address=DfeGETUvcSwR7h4S46EVKsEEi329uZXuXb9wWZjjpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.113e-05,
-  "priceTs": "2026-11-12T06:08:35.838358Z",
+  "price": 2.957e-05,
+  "priceTs": "2026-11-12T06:09:43.912675Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -32,15 +32,33 @@
       "l": 3.113e-05,
       "c": 3.113e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794463740,
+      "o": 3.008e-05,
+      "h": 3.008e-05,
+      "l": 2.957e-05,
+      "c": 2.957e-05,
+      "v": 5886.16
     }
   ],
   "stats": {
-    "marketCap": 31088.0,
-    "liquidity": 13604.72,
-    "volume24h": 7032.52,
+    "marketCap": 29536.0,
+    "liquidity": 13285.25,
+    "volume24h": 12918.68,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T06:09:25.365042Z",
+      "liquidity_usd": 13409.55,
+      "top10_pct": null,
+      "h1_change_pct": -33.62,
+      "age_min": 2,
+      "verdict": "kill",
+      "reason": "liq $13.4K"
+    }
+  ]
 }

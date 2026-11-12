@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:08:36.055595Z",
+  "ts": "2026-11-12T06:09:44.794086Z",
   "mint": "4uUtPSPvXh4fiCVuy5TSf64vLX2ayfhRX95B2Xfopump",
   "name": null,
   "symbol": null,
   "label": "4uUtPSPv",
   "chain": "Solana",
-  "age": "17m old",
+  "age": "18m old",
   "migratedAt": "2026-11-12T05:51:29.850549Z",
   "pool": null,
   "creator": "GaPVwqxNyM4swebXN6VJbsvLnoN5JyfMjBTeBvmFreQF",
   "holders": null,
   "link": "https://fomo.family/coin?address=4uUtPSPvXh4fiCVuy5TSf64vLX2ayfhRX95B2Xfopump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0002114,
-  "priceTs": "2026-11-12T06:08:35.702763Z",
+  "price": 5.508e-05,
+  "priceTs": "2026-11-12T06:09:44.412045Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -136,12 +136,20 @@
       "l": 0.0002114,
       "c": 0.0002114,
       "v": 648.9200000000001
+    },
+    {
+      "t": 1794463740,
+      "o": 5.508e-05,
+      "h": 5.508e-05,
+      "l": 5.508e-05,
+      "c": 5.508e-05,
+      "v": 9075.89
     }
   ],
   "stats": {
-    "marketCap": 211365.0,
-    "liquidity": 33715.52,
-    "volume24h": 17169.52,
+    "marketCap": 55062.0,
+    "liquidity": 16517.38,
+    "volume24h": 26884.7,
     "holders": null
   },
   "position": null,

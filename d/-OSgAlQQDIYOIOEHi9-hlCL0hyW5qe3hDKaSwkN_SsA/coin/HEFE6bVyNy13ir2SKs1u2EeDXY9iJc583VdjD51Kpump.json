@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:08:36.114927Z",
+  "ts": "2026-11-12T06:09:44.697326Z",
   "mint": "HEFE6bVyNy13ir2SKs1u2EeDXY9iJc583VdjD51Kpump",
-  "name": null,
-  "symbol": null,
-  "label": "HEFE6bVy",
+  "name": "maritains",
+  "symbol": "LOM",
+  "label": "maritains",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T06:08:27.292275Z",
-  "pool": null,
+  "pool": "9wxqnzzZot87YGMpJohbU6LBhpoQXSfUJHUBUeGe8cEf",
   "creator": "9xyWmDbRYAtxTukVM9J7JrsBB56BCeu4AAp8CvkZSYw2",
   "holders": null,
   "link": "https://fomo.family/coin?address=HEFE6bVyNy13ir2SKs1u2EeDXY9iJc583VdjD51Kpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.388e-07,
-  "priceTs": "2026-11-12T06:08:35.938381Z",
+  "price": 1.578e-07,
+  "priceTs": "2026-11-12T06:09:43.912675Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 1.388e-07,
       "c": 1.388e-07,
       "v": 0.0
+    },
+    {
+      "t": 1794463740,
+      "o": 1.485e-06,
+      "h": 1.485e-06,
+      "l": 1.578e-07,
+      "c": 1.578e-07,
+      "v": 507.2099999999999
     }
   ],
   "stats": {
-    "marketCap": 138.9,
-    "liquidity": null,
-    "volume24h": 4998.99,
+    "marketCap": 316.0,
+    "liquidity": 138.25,
+    "volume24h": 1087.61,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T06:09:25.371268Z",
+      "liquidity_usd": 489.65,
+      "top10_pct": null,
+      "h1_change_pct": 281.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $490"
+    }
+  ]
 }
