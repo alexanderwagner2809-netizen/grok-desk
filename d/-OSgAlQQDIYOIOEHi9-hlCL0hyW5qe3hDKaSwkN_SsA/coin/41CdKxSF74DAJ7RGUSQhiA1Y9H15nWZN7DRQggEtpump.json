@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T16:29:16.235177Z",
+  "ts": "2026-11-12T16:30:27.221811Z",
   "mint": "41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump",
-  "name": null,
-  "symbol": null,
-  "label": "41CdKxSF",
+  "name": "NEYMAN",
+  "symbol": "NEYMAN",
+  "label": "NEYMAN",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T16:29:00.156962Z",
-  "pool": null,
+  "pool": "HPLsy3oyDxDF57LRCYgsSMrQNnereWB6Wg7zcMTf7jxr",
   "creator": "4oei5sdSdGd3bHRfKtFLNWtqkFbpJFfWBASTXaDTj67H",
   "holders": null,
   "link": "https://fomo.family/coin?address=41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.979e-05,
-  "priceTs": "2026-11-12T16:29:14.932136Z",
+  "price": 3.606e-05,
+  "priceTs": "2026-11-12T16:30:25.372201Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -20,19 +20,37 @@
     {
       "t": 1794500940,
       "o": 2.979e-05,
-      "h": 2.979e-05,
+      "h": 3.657e-05,
       "l": 2.979e-05,
-      "c": 2.979e-05,
+      "c": 3.657e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794501000,
+      "o": 3.606e-05,
+      "h": 3.606e-05,
+      "l": 3.606e-05,
+      "c": 3.606e-05,
+      "v": 1145.1299999999999
     }
   ],
   "stats": {
-    "marketCap": 29798.97,
-    "liquidity": null,
-    "volume24h": 3760.11,
+    "marketCap": 36062.0,
+    "liquidity": 12982.46,
+    "volume24h": 2000.07,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T16:29:32.811829Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 8.1,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }

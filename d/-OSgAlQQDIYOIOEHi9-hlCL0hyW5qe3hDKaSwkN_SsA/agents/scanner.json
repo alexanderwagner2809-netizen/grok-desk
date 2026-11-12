@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T16:29:16.981219Z",
+  "ts": "2026-11-12T16:30:28.193409Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T16:29:12.363143Z",
+  "heartbeat": "2026-11-12T16:30:22.316966Z",
   "paused": false,
   "status": "running",
-  "card": "269 pools",
-  "count": 269,
+  "card": "270 pools",
+  "count": 270,
   "passed": 0,
   "feed": [
+    {
+      "mint": "41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump",
+      "label": "NEYMAN",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "7TtS9ExPM1sejKbqhynkFC6zizdALHTuRzytJ2tApump",
       "label": "BiiiiIrrd",
@@ -66,19 +74,19 @@
       "reason": "liq $12.8K",
       "subtitle": "liq $12.8K",
       "link": "https://fomo.family/coin?address=ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK",
-      "label": "TrenchedIn",
-      "verdict": "kill",
-      "reason": "liq $12.1K",
-      "subtitle": "liq $12.1K",
-      "link": "https://fomo.family/coin?address=tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T16:29:32.811829Z",
+      "mint": "41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump",
+      "label": "NEYMAN",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:28:08.483546Z",
       "mint": "7TtS9ExPM1sejKbqhynkFC6zizdALHTuRzytJ2tApump",
       "label": "BiiiiIrrd",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $3",
       "link": "https://fomo.family/coin?address=9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:38:49.919101Z",
-      "mint": "FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump",
-      "label": "Jensen Huang Memes",
-      "verdict": "kill",
-      "reason": "liq $9.0K",
-      "link": "https://fomo.family/coin?address=FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T16:29:32.811829Z",
+      "mint": "41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump",
+      "label": "NEYMAN",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:28:08.483546Z",
       "mint": "7TtS9ExPM1sejKbqhynkFC6zizdALHTuRzytJ2tApump",
       "label": "BiiiiIrrd",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $3",
       "link": "https://fomo.family/coin?address=9uH9AGUxYgMNhJozPJDfLHW5f8dznETqhmU6UnLnpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:38:49.919101Z",
-      "mint": "FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump",
-      "label": "Jensen Huang Memes",
-      "verdict": "kill",
-      "reason": "liq $9.0K",
-      "link": "https://fomo.family/coin?address=FFpCCW5ySvZ9TXEiPLxtYJa2LdnPzmak64k9LRF3pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
