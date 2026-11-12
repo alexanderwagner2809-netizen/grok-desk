@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T15:22:53.978447Z",
+  "ts": "2026-11-12T15:24:03.634876Z",
   "mint": "5vyAnkTKNY4CrgBagXXgWfKRYE9pqcFYykGqGeU9pump",
-  "name": null,
-  "symbol": null,
-  "label": "5vyAnkTK",
+  "name": "TeraFaps",
+  "symbol": "TERAFAPS",
+  "label": "TeraFaps",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T15:22:36.089934Z",
-  "pool": null,
+  "pool": "8FRJkhJxD4oYz8jzumJD2Sv3Dp1nyR6ypCJnEKHo79Lb",
   "creator": "5DwN4MvGrP9Beb1NFF12vmKErVx3jU6Tvj4ZhPSVpw37",
   "holders": null,
   "link": "https://fomo.family/coin?address=5vyAnkTKNY4CrgBagXXgWfKRYE9pqcFYykGqGeU9pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.053e-05,
-  "priceTs": "2026-11-12T15:22:52.750976Z",
+  "price": 3.991e-05,
+  "priceTs": "2026-11-12T15:24:02.053965Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,41 @@
       "l": 3.053e-05,
       "c": 3.053e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794496980,
+      "o": 3.496e-05,
+      "h": 3.496e-05,
+      "l": 3.496e-05,
+      "c": 3.496e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794497040,
+      "o": 3.991e-05,
+      "h": 3.991e-05,
+      "l": 3.991e-05,
+      "c": 3.991e-05,
+      "v": 11078.970000000001
     }
   ],
   "stats": {
-    "marketCap": 30533.5,
-    "liquidity": null,
-    "volume24h": 25213.15,
+    "marketCap": 39919.0,
+    "liquidity": 13704.36,
+    "volume24h": 12622.27,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T15:23:03.687722Z",
+      "liquidity_usd": 12692.44,
+      "top10_pct": null,
+      "h1_change_pct": 4.03,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $12.7K"
+    }
+  ]
 }

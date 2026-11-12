@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T15:22:53.646753Z",
+  "ts": "2026-11-12T15:24:03.627400Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T15:22:53.407145Z",
+      "heartbeat": "2026-11-12T15:24:03.026800Z",
       "paused": false,
       "status": "running",
-      "card": "240 pools",
-      "count": 240,
+      "card": "242 pools",
+      "count": 242,
       "passed": 0,
       "feed": [
+        {
+          "mint": "BDkKHKzDqBH7GXF9DBwmcwzGidaTXQeR6pDnnVzMpump",
+          "label": "Rockstar Games",
+          "verdict": "kill",
+          "reason": "+191% in 1h",
+          "subtitle": "+191% in 1h",
+          "link": "https://fomo.family/coin?address=BDkKHKzDqBH7GXF9DBwmcwzGidaTXQeR6pDnnVzMpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "5vyAnkTKNY4CrgBagXXgWfKRYE9pqcFYykGqGeU9pump",
+          "label": "TeraFaps",
+          "verdict": "kill",
+          "reason": "liq $12.7K",
+          "subtitle": "liq $12.7K",
+          "link": "https://fomo.family/coin?address=5vyAnkTKNY4CrgBagXXgWfKRYE9pqcFYykGqGeU9pump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "5v5zdVrnB15fCzpHmi5Zmp1a3t2BnMgDfCV6sehppump",
           "label": "Jensen Huang",
@@ -66,22 +82,6 @@
           "reason": "liq $34",
           "subtitle": "liq $34",
           "link": "https://fomo.family/coin?address=4q1Khra69Q3wUHw7NdXMBhCwYj9WxNYsvhGX8D2Mpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "6MZZGJutbeEny8KB7Lexu3qxSTe7dHe1kQL3RVwCpump",
-          "label": "Jensen at Terafab",
-          "verdict": "kill",
-          "reason": "+313% in 1h",
-          "subtitle": "+313% in 1h",
-          "link": "https://fomo.family/coin?address=6MZZGJutbeEny8KB7Lexu3qxSTe7dHe1kQL3RVwCpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "Fwx6scdrpqJNq5otjyztCaCNymNG5RiR4PBkN1D8pump",
-          "label": "Terafab",
-          "verdict": "kill",
-          "reason": "liq $13.5K",
-          "subtitle": "liq $13.5K",
-          "link": "https://fomo.family/coin?address=Fwx6scdrpqJNq5otjyztCaCNymNG5RiR4PBkN1D8pump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T15:22:51.825209Z",
+      "heartbeat": "2026-11-12T15:24:02.609474Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T15:22:51.826912Z",
+      "heartbeat": "2026-11-12T15:24:02.610041Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T15:22:51.827092Z",
+      "heartbeat": "2026-11-12T15:24:02.610819Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T15:22:52.349990Z",
+      "heartbeat": "2026-11-12T15:24:02.366616Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
