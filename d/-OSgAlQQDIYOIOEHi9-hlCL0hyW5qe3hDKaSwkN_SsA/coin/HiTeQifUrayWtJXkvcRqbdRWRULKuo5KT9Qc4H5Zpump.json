@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T20:31:56.734530Z",
+  "ts": "2026-11-12T20:33:07.079751Z",
   "mint": "HiTeQifUrayWtJXkvcRqbdRWRULKuo5KT9Qc4H5Zpump",
   "name": "AURACOIN",
   "symbol": "$AURA",
@@ -11,8 +11,8 @@
   "creator": "7FxfxK7sDFa7WfkrKFYqph3v9sVwYryexLWRsHb2ftM6",
   "holders": null,
   "link": "https://fomo.family/coin?address=HiTeQifUrayWtJXkvcRqbdRWRULKuo5KT9Qc4H5Zpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 9.784e-08,
-  "priceTs": "2026-11-12T20:31:56.663067Z",
+  "price": 1.027e-07,
+  "priceTs": "2026-11-12T20:33:07.003919Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -464,12 +464,20 @@
       "l": 9.784e-08,
       "c": 9.784e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794515580,
+      "o": 1.027e-07,
+      "h": 1.027e-07,
+      "l": 1.027e-07,
+      "c": 1.027e-07,
+      "v": 4.02
     }
   ],
   "stats": {
-    "marketCap": 196.0,
-    "liquidity": 314.76,
-    "volume24h": 415526.22,
+    "marketCap": 205.0,
+    "liquidity": 323.1,
+    "volume24h": 415530.25,
     "holders": null
   },
   "position": null,

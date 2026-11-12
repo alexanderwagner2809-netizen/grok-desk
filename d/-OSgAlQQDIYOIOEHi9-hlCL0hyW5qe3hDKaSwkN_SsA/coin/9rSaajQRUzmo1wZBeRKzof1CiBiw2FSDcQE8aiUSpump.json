@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T20:31:56.681921Z",
+  "ts": "2026-11-12T20:33:07.022510Z",
   "mint": "9rSaajQRUzmo1wZBeRKzof1CiBiw2FSDcQE8aiUSpump",
   "name": "DID",
   "symbol": "DID",
   "label": "DID",
   "chain": "Solana",
-  "age": "7m old",
+  "age": "8m old",
   "migratedAt": "2026-11-12T20:24:22.433171Z",
   "pool": "C9T2UiNzG1LXFYXfUwCpQT4sEGKAYY61ygA4cVC4pToe",
   "creator": "AjdWWp6WzeNFCReTg6452H3DFbd8fkLZcReUT6BTGsaG",
   "holders": null,
   "link": "https://fomo.family/coin?address=9rSaajQRUzmo1wZBeRKzof1CiBiw2FSDcQE8aiUSpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.000306,
-  "priceTs": "2026-11-12T20:31:56.319667Z",
+  "price": 0.0002785,
+  "priceTs": "2026-11-12T20:33:06.603315Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -72,12 +72,20 @@
       "l": 0.000306,
       "c": 0.000306,
       "v": 0.0
+    },
+    {
+      "t": 1794515580,
+      "o": 0.0002785,
+      "h": 0.0002785,
+      "l": 0.0002785,
+      "c": 0.0002785,
+      "v": 14085.800000000003
     }
   ],
   "stats": {
-    "marketCap": 305883.0,
-    "liquidity": 40857.14,
-    "volume24h": 137258.17,
+    "marketCap": 278406.0,
+    "liquidity": 38933.08,
+    "volume24h": 173490.22,
     "holders": null
   },
   "position": null,
