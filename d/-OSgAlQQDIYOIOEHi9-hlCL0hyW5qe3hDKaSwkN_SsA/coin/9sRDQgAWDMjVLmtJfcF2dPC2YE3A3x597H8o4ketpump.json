@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:00:36.689441Z",
+  "ts": "2026-11-12T06:01:44.929490Z",
   "mint": "9sRDQgAWDMjVLmtJfcF2dPC2YE3A3x597H8o4ketpump",
-  "name": null,
-  "symbol": null,
-  "label": "9sRDQgAW",
+  "name": "fine shyt cat",
+  "symbol": "fineshyt",
+  "label": "fine shyt cat",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T05:59:01.143669Z",
-  "pool": null,
+  "pool": "82oCpzMeYevKSvDkfUeaE8JH55bnWgbdFQw7RsDyzz6R",
   "creator": "EFJQjVAeQLaK6qBkHGu7u7oDU1UVnZqPS6n41kyZtzJu",
   "holders": null,
   "link": "https://fomo.family/coin?address=9sRDQgAWDMjVLmtJfcF2dPC2YE3A3x597H8o4ketpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.137e-05,
-  "priceTs": "2026-11-12T06:00:36.428523Z",
+  "price": 4.101e-05,
+  "priceTs": "2026-11-12T06:01:44.129084Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -32,15 +32,33 @@
       "l": 5.137e-05,
       "c": 5.137e-05,
       "v": 1514.94
+    },
+    {
+      "t": 1794463260,
+      "o": 6.577e-05,
+      "h": 6.577e-05,
+      "l": 4.101e-05,
+      "c": 4.101e-05,
+      "v": 2814.1700000000005
     }
   ],
   "stats": {
-    "marketCap": 51373.0,
-    "liquidity": 15922.91,
-    "volume24h": 4247.79,
+    "marketCap": 41018.0,
+    "liquidity": 14058.68,
+    "volume24h": 5547.02,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T06:01:17.724182Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 88.35,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
