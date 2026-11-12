@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T02:04:45.473549Z",
+  "ts": "2026-11-12T02:05:53.525017Z",
   "mint": "Goebmkx6ewHcBvBAydCutZC5RU3KiydnpZqX6Tgpump",
-  "name": null,
-  "symbol": null,
-  "label": "Goebmkx6",
+  "name": "Max Coin",
+  "symbol": "MAX",
+  "label": "Max Coin",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T02:04:32.880406Z",
-  "pool": null,
+  "pool": "9kHBte71y3NuHnRWqgBVwdWj8T81D4CpDfxWqGZDLA1e",
   "creator": "Ds8fiw8ECD6y3MvLWrbA7e8ACfe6eNpAWvYd4bz2UUEm",
   "holders": null,
   "link": "https://fomo.family/coin?address=Goebmkx6ewHcBvBAydCutZC5RU3KiydnpZqX6Tgpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.487e-09,
-  "priceTs": "2026-11-12T02:04:45.380005Z",
+  "price": 2.42e-09,
+  "priceTs": "2026-11-12T02:05:52.980962Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 3.487e-09,
       "c": 3.487e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794449100,
+      "o": 1.808e-09,
+      "h": 2.42e-09,
+      "l": 1.808e-09,
+      "c": 2.42e-09,
+      "v": 3.219999999999999
     }
   ],
   "stats": {
-    "marketCap": 3.49,
-    "liquidity": null,
-    "volume24h": 2741.93,
+    "marketCap": 5.0,
+    "liquidity": 2.13,
+    "volume24h": 11.85,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T02:05:49.282066Z",
+      "liquidity_usd": 1.65,
+      "top10_pct": null,
+      "h1_change_pct": -78.88,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $2"
+    }
+  ]
 }

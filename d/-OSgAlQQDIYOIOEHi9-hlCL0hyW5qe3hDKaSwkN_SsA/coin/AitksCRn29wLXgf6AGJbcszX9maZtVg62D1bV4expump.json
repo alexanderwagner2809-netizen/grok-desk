@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T02:04:45.469213Z",
+  "ts": "2026-11-12T02:05:53.526581Z",
   "mint": "AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump",
-  "name": null,
-  "symbol": null,
-  "label": "AitksCRn",
+  "name": "Maximus",
+  "symbol": "MAX",
+  "label": "Maximus",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T02:04:04.770492Z",
-  "pool": null,
+  "pool": "8JrY8TSh5bkaR87ytYgNJxipV4Mh5yzABEvJvuNPz6o7",
   "creator": "DJPpsJkwMnafRnEt5y6ARFC2ABwfpeLfd3FQYZGhKM57",
   "holders": null,
   "link": "https://fomo.family/coin?address=AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001226,
-  "priceTs": "2026-11-12T02:04:45.380005Z",
+  "price": 0.000121,
+  "priceTs": "2026-11-12T02:05:52.980962Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 0.0001226,
       "c": 0.0001226,
       "v": 0.0
+    },
+    {
+      "t": 1794449100,
+      "o": 0.0001223,
+      "h": 0.0001223,
+      "l": 0.000121,
+      "c": 0.000121,
+      "v": 797.0699999999997
     }
   ],
   "stats": {
-    "marketCap": 122601.0,
-    "liquidity": 25372.15,
-    "volume24h": 6461.34,
+    "marketCap": 121069.0,
+    "liquidity": 25206.16,
+    "volume24h": 7258.41,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T02:05:49.278725Z",
+      "liquidity_usd": 25347.56,
+      "top10_pct": null,
+      "h1_change_pct": 206.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $25.3K"
+    }
+  ]
 }
