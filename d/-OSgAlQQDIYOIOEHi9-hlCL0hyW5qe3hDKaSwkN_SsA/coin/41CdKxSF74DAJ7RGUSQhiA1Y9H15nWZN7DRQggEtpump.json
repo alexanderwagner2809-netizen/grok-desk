@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T18:33:31.270847Z",
+  "ts": "2026-11-12T18:34:43.297199Z",
   "mint": "41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump",
   "name": "NEYMAN",
   "symbol": "NEYMAN",
@@ -11,8 +11,8 @@
   "creator": "4oei5sdSdGd3bHRfKtFLNWtqkFbpJFfWBASTXaDTj67H",
   "holders": null,
   "link": "https://fomo.family/coin?address=41CdKxSF74DAJ7RGUSQhiA1Y9H15nWZN7DRQggEtpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.387e-05,
-  "priceTs": "2026-11-12T18:17:01.274136Z",
+  "price": 4.315e-05,
+  "priceTs": "2026-11-12T18:34:41.347531Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -320,12 +320,20 @@
       "l": 4.387e-05,
       "c": 4.387e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794508440,
+      "o": 4.315e-05,
+      "h": 4.315e-05,
+      "l": 4.315e-05,
+      "c": 4.315e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 42132.0,
-    "liquidity": 14414.19,
-    "volume24h": 7697.03,
+    "marketCap": 41438.0,
+    "liquidity": 14317.86,
+    "volume24h": 7709.14,
     "holders": null
   },
   "position": null,

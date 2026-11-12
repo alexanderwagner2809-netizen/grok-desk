@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T18:33:31.283642Z",
+  "ts": "2026-11-12T18:34:43.309148Z",
   "mint": "tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK",
   "name": "TrenchedIn",
   "symbol": "TRENCHEDIN",
@@ -11,8 +11,8 @@
   "creator": "Gw8ZbY3QeXpHZabDeWfZhg4VbLLnkFSpnh9i7F58uYU4",
   "holders": null,
   "link": "https://fomo.family/coin?address=tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.131e-06,
-  "priceTs": "2026-11-12T18:17:01.274136Z",
+  "price": 2.125e-06,
+  "priceTs": "2026-11-12T18:34:41.347531Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -400,12 +400,20 @@
       "l": 2.131e-06,
       "c": 2.131e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794508440,
+      "o": 2.125e-06,
+      "h": 2.125e-06,
+      "l": 2.125e-06,
+      "c": 2.125e-06,
+      "v": 0.38
     }
   ],
   "stats": {
-    "marketCap": 2017.0,
-    "liquidity": 2097.12,
-    "volume24h": 172674.7,
+    "marketCap": 2011.0,
+    "liquidity": 2092.42,
+    "volume24h": 172677.36,
     "holders": null
   },
   "position": null,
