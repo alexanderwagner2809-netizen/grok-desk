@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-12T18:11:04.422710Z",
+  "ts": "2026-11-12T18:12:15.279278Z",
   "mint": "BcTQ8pDmEZhiPXaDHZ4Chtvt7HEZzDf3LNFSacJHcXjP",
-  "name": null,
-  "symbol": null,
-  "label": "BcTQ8pDm",
+  "name": "Cyberinu",
+  "symbol": "CI",
+  "label": "Cyberinu",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T18:10:57.346448Z",
-  "pool": null,
+  "pool": "HQY491nxq3UWXco72aGQYBHkPnhEEHJ6NnABeovhz7xq",
   "creator": "13vBpTvYNgNQtsVzv7WLJxWTTyQmXqM6sUfFy4cqMGvm",
   "holders": null,
   "link": "https://fomo.family/coin?address=BcTQ8pDmEZhiPXaDHZ4Chtvt7HEZzDf3LNFSacJHcXjP&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T18:11:35.718041Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -12.39,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }

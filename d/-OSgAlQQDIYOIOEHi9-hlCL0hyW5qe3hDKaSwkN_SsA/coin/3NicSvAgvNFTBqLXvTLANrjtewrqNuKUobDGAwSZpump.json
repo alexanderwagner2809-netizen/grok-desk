@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T18:11:03.761001Z",
+  "ts": "2026-11-12T18:12:15.353979Z",
   "mint": "3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump",
   "name": "Tim Chip",
   "symbol": "CHIP",
@@ -11,8 +11,8 @@
   "creator": "3MB3ungATq7LiSXepK32z1kKwqoMm3V1F1sFYneTrWeB",
   "holders": null,
   "link": "https://fomo.family/coin?address=3NicSvAgvNFTBqLXvTLANrjtewrqNuKUobDGAwSZpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.117e-06,
-  "priceTs": "2026-11-12T18:11:01.941773Z",
+  "price": 2.096e-06,
+  "priceTs": "2026-11-12T18:12:13.688760Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -512,12 +512,20 @@
       "l": 2.117e-06,
       "c": 2.117e-06,
       "v": 18.28
+    },
+    {
+      "t": 1794507120,
+      "o": 2.096e-06,
+      "h": 2.096e-06,
+      "l": 2.096e-06,
+      "c": 2.096e-06,
+      "v": 0.0799999999999983
     }
   ],
   "stats": {
-    "marketCap": 1887.0,
-    "liquidity": 2115.08,
-    "volume24h": 193535.91,
+    "marketCap": 1867.0,
+    "liquidity": 2096.97,
+    "volume24h": 193535.99,
     "holders": null
   },
   "position": null,
