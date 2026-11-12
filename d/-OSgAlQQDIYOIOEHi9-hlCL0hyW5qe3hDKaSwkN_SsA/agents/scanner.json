@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T03:27:55.450110Z",
+  "ts": "2026-11-12T03:33:57.299089Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T03:27:38.372684Z",
+  "heartbeat": "2026-11-12T03:33:52.207242Z",
   "paused": false,
   "status": "running",
-  "card": "94 pools",
-  "count": 94,
+  "card": "95 pools",
+  "count": 95,
   "passed": 0,
   "feed": [
+    {
+      "mint": "B2FVnR9VQpQrUkVdTye8cycHHzxdwuFKiju7LJtJpump",
+      "label": "SS1 GOKU",
+      "verdict": "kill",
+      "reason": "liq $7",
+      "subtitle": "liq $7",
+      "link": "https://fomo.family/coin?address=B2FVnR9VQpQrUkVdTye8cycHHzxdwuFKiju7LJtJpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "C5Jnxa1WT4EGouKzq2U8MbUyPddLYGBC79HczqWSpump",
       "label": "GABOON",
@@ -66,19 +74,19 @@
       "reason": "liq $4.7K",
       "subtitle": "liq $4.7K",
       "link": "https://fomo.family/coin?address=4ifmbtSq12EbGZQh697bJaqcEHwNKeGsyou5Vrzgpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "AtSRxRWXmPfNhTQLQkN3QTUM6vzxJcgLkBqENavvpump",
-      "label": "Ni Hao Dog",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "subtitle": "liq $3",
-      "link": "https://fomo.family/coin?address=AtSRxRWXmPfNhTQLQkN3QTUM6vzxJcgLkBqENavvpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T03:28:11.467608Z",
+      "mint": "B2FVnR9VQpQrUkVdTye8cycHHzxdwuFKiju7LJtJpump",
+      "label": "SS1 GOKU",
+      "verdict": "kill",
+      "reason": "liq $7",
+      "link": "https://fomo.family/coin?address=B2FVnR9VQpQrUkVdTye8cycHHzxdwuFKiju7LJtJpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T03:11:11.869334Z",
       "mint": "C5Jnxa1WT4EGouKzq2U8MbUyPddLYGBC79HczqWSpump",
       "label": "GABOON",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $10.8K",
       "link": "https://fomo.family/coin?address=ENdPZyCaoUeS4Evfb9YxK2y3U9LjLHYzTomhZFx7Qpay&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T01:18:01.947704Z",
-      "mint": "3dqeBW7EJYAPnv9tGJeQAwBoxZsC2vomFk7ah7GrFoss",
-      "label": "X Coin",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=3dqeBW7EJYAPnv9tGJeQAwBoxZsC2vomFk7ah7GrFoss&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T03:28:11.467608Z",
+      "mint": "B2FVnR9VQpQrUkVdTye8cycHHzxdwuFKiju7LJtJpump",
+      "label": "SS1 GOKU",
+      "verdict": "kill",
+      "reason": "liq $7",
+      "link": "https://fomo.family/coin?address=B2FVnR9VQpQrUkVdTye8cycHHzxdwuFKiju7LJtJpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T03:11:11.869334Z",
       "mint": "C5Jnxa1WT4EGouKzq2U8MbUyPddLYGBC79HczqWSpump",
       "label": "GABOON",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $10.8K",
       "link": "https://fomo.family/coin?address=ENdPZyCaoUeS4Evfb9YxK2y3U9LjLHYzTomhZFx7Qpay&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T01:18:01.947704Z",
-      "mint": "3dqeBW7EJYAPnv9tGJeQAwBoxZsC2vomFk7ah7GrFoss",
-      "label": "X Coin",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=3dqeBW7EJYAPnv9tGJeQAwBoxZsC2vomFk7ah7GrFoss&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

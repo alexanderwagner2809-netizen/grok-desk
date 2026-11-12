@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T03:27:55.436674Z",
+  "ts": "2026-11-12T03:33:57.186827Z",
   "mint": "B2FVnR9VQpQrUkVdTye8cycHHzxdwuFKiju7LJtJpump",
-  "name": null,
-  "symbol": null,
-  "label": "B2FVnR9V",
+  "name": "SS1 GOKU",
+  "symbol": "SSG1",
+  "label": "SS1 GOKU",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "6m old",
   "migratedAt": "2026-11-12T03:27:14.277530Z",
-  "pool": null,
+  "pool": "BxKY7D1iFgnRJhiv8MeZwdqvmrfNf4K2EBX2qyTUKqkY",
   "creator": "4W9ioVWcksVSTNMNSSo9UqWFGsH2QKVnEtDoLgAAdDDR",
   "holders": null,
   "link": "https://fomo.family/coin?address=B2FVnR9VQpQrUkVdTye8cycHHzxdwuFKiju7LJtJpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.651e-09,
-  "priceTs": "2026-11-12T03:27:55.271655Z",
+  "price": 8.18e-10,
+  "priceTs": "2026-11-12T03:33:56.663689Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,41 @@
       "l": 3.651e-09,
       "c": 3.651e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794454080,
+      "o": 3.651e-09,
+      "h": 3.651e-09,
+      "l": 3.651e-09,
+      "c": 3.651e-09,
+      "v": 0.0
+    },
+    {
+      "t": 1794454380,
+      "o": 8.18e-10,
+      "h": 8.18e-10,
+      "l": 8.18e-10,
+      "c": 8.18e-10,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 7.0,
-    "liquidity": 6.76,
-    "volume24h": 79.84,
+    "marketCap": 2.0,
+    "liquidity": 3.05,
+    "volume24h": 85.33,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T03:28:11.467608Z",
+      "liquidity_usd": 6.76,
+      "top10_pct": null,
+      "h1_change_pct": -94.55,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $7"
+    }
+  ]
 }

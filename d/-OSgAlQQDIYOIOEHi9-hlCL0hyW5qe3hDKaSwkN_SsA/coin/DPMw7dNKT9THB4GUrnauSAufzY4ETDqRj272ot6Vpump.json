@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T03:27:55.443800Z",
+  "ts": "2026-11-12T03:33:57.292523Z",
   "mint": "DPMw7dNKT9THB4GUrnauSAufzY4ETDqRj272ot6Vpump",
   "name": "MEMEUM",
   "symbol": "MEMEUM",
@@ -11,8 +11,8 @@
   "creator": "HbjztQgY9X3wmGRcfsA9wsktZEsiisZBdw4Ex8NQLt18",
   "holders": null,
   "link": "https://fomo.family/coin?address=DPMw7dNKT9THB4GUrnauSAufzY4ETDqRj272ot6Vpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.597e-06,
-  "priceTs": "2026-11-12T03:27:55.271655Z",
+  "price": 1.558e-06,
+  "priceTs": "2026-11-12T03:33:57.170479Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -720,12 +720,20 @@
       "l": 1.597e-06,
       "c": 1.597e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794454380,
+      "o": 1.558e-06,
+      "h": 1.558e-06,
+      "l": 1.558e-06,
+      "c": 1.558e-06,
+      "v": 0.43
     }
   ],
   "stats": {
-    "marketCap": 1542.0,
-    "liquidity": 1601.23,
-    "volume24h": 40544.04,
+    "marketCap": 1505.0,
+    "liquidity": 1563.74,
+    "volume24h": 40544.48,
     "holders": null
   },
   "position": null,
