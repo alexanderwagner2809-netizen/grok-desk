@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T15:31:09.877537Z",
+  "ts": "2026-11-12T15:32:20.521602Z",
   "mint": "EVWBXYnaNZQEZmZYwrkNhzomM6jmd6HH1Ly8cVaRpump",
   "name": "NVIDIA HOUSE COIN",
   "symbol": "NVDIAHOUSE",
@@ -11,8 +11,8 @@
   "creator": "9fLwvJZVNhSGRXpMUkpjHM3P1nc7ng1Gmk8GZF3pUyps",
   "holders": null,
   "link": "https://fomo.family/coin?address=EVWBXYnaNZQEZmZYwrkNhzomM6jmd6HH1Ly8cVaRpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.709e-06,
-  "priceTs": "2026-11-12T15:31:08.300995Z",
+  "price": 1.711e-06,
+  "priceTs": "2026-11-12T15:32:19.058730Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -272,12 +272,20 @@
       "l": 1.709e-06,
       "c": 1.709e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794497520,
+      "o": 1.711e-06,
+      "h": 1.711e-06,
+      "l": 1.711e-06,
+      "c": 1.711e-06,
+      "v": 0.01
     }
   ],
   "stats": {
-    "marketCap": 1658.0,
-    "liquidity": 1780.6,
-    "volume24h": 252134.89,
+    "marketCap": 1660.0,
+    "liquidity": 1782.81,
+    "volume24h": 252134.9,
     "holders": null
   },
   "position": null,
