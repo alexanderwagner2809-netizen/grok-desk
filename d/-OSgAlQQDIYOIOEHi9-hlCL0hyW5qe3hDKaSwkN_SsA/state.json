@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T20:03:30.560060Z",
+  "ts": "2026-11-12T20:04:43.935922Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T20:03:30.495115Z",
+      "heartbeat": "2026-11-12T20:04:36.196994Z",
       "paused": false,
       "status": "running",
-      "card": "315 pools",
-      "count": 315,
+      "card": "317 pools",
+      "count": 317,
       "passed": 0,
       "feed": [
+        {
+          "mint": "3cEXSrHj7J6XTPq3iCnHRDXFEBMaHZTvYq2sf88spump",
+          "label": "Rockstar Games",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=3cEXSrHj7J6XTPq3iCnHRDXFEBMaHZTvYq2sf88spump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "9Q7HLMNfCqyaGmGXJbpBGBEkNiihsyACw3aEZTwMpump",
+          "label": "ELON SOLAR",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=9Q7HLMNfCqyaGmGXJbpBGBEkNiihsyACw3aEZTwMpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "4HoYfLwcgf2PGZmJpoAcesaBEK5LhwgoEfw1yDMtsMLs",
           "label": "longcat",
@@ -66,22 +82,6 @@
           "reason": "liq $12.6K",
           "subtitle": "liq $12.6K",
           "link": "https://fomo.family/coin?address=CvqhoX2kCgeS7T4oGj8teSLZQsfV9Cqw1oUfcmCrpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump",
-          "label": "Jensen Huang Coin",
-          "verdict": "kill",
-          "reason": "+373% in 1h",
-          "subtitle": "+373% in 1h",
-          "link": "https://fomo.family/coin?address=F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump",
-          "label": "2BZBfmsz",
-          "verdict": "kill",
-          "reason": "never qualified",
-          "subtitle": "never qualified",
-          "link": "https://fomo.family/coin?address=2BZBfmszpTqsxC1QvUVUZSJ8sYDS3ezwMtF6v5Edpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T20:03:30.391002Z",
+      "heartbeat": "2026-11-12T20:04:42.504772Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T20:03:30.392040Z",
+      "heartbeat": "2026-11-12T20:04:42.506886Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T20:03:30.392211Z",
+      "heartbeat": "2026-11-12T20:04:42.507294Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T20:03:25.001227Z",
+      "heartbeat": "2026-11-12T20:04:40.018624Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

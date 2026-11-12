@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-12T20:03:31.078325Z",
+  "ts": "2026-11-12T20:04:43.943541Z",
   "mint": "9Q7HLMNfCqyaGmGXJbpBGBEkNiihsyACw3aEZTwMpump",
-  "name": null,
-  "symbol": null,
-  "label": "9Q7HLMNf",
+  "name": "ELON SOLAR",
+  "symbol": "$SENTSUN",
+  "label": "ELON SOLAR",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T20:03:03.031672Z",
-  "pool": null,
+  "pool": "4h7xdY8nQFGWyDnfXF5oNuUbiUuc6ZvUxJY34vATY9fo",
   "creator": "Dkq7cpJ6cjof99ozA5PucLwmoXBeWvwsFbXkkkPgpDse",
   "holders": null,
   "link": "https://fomo.family/coin?address=9Q7HLMNfCqyaGmGXJbpBGBEkNiihsyACw3aEZTwMpump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:04:05.736051Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 0.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
