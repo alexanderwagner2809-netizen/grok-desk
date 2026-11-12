@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:49:22.148995Z",
+  "ts": "2026-11-12T09:51:04.901847Z",
   "mint": "3WrHjtBhJBQWjEXHVsVaADD8eCzV45kVGfGa8hcbpump",
   "name": "Mayhem is my Bitch",
   "symbol": "Slutty",
@@ -11,8 +11,8 @@
   "creator": "6YRGd1txN23Gp1jMYn4MkNtJvt5a3TYrW8VduW6y6ajU",
   "holders": null,
   "link": "https://fomo.family/coin?address=3WrHjtBhJBQWjEXHVsVaADD8eCzV45kVGfGa8hcbpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.461e-08,
-  "priceTs": "2026-11-12T09:49:21.400114Z",
+  "price": 1.427e-08,
+  "priceTs": "2026-11-12T09:51:04.602671Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1496,12 +1496,20 @@
       "l": 1.461e-08,
       "c": 1.461e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794477060,
+      "o": 1.427e-08,
+      "h": 1.427e-08,
+      "l": 1.427e-08,
+      "c": 1.427e-08,
+      "v": 1.43
     }
   ],
   "stats": {
     "marketCap": 29.0,
-    "liquidity": 13.76,
-    "volume24h": 76.76,
+    "liquidity": 13.6,
+    "volume24h": 78.2,
     "holders": null
   },
   "position": null,

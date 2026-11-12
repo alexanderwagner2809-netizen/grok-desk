@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T09:49:22.421873Z",
+  "ts": "2026-11-12T09:51:05.215378Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T09:49:18.402707Z",
+  "heartbeat": "2026-11-12T09:50:58.017701Z",
   "paused": false,
   "status": "running",
-  "card": "192 pools",
-  "count": 192,
+  "card": "194 pools",
+  "count": 194,
   "passed": 0,
   "feed": [
+    {
+      "mint": "JCM2aNHYiquHGVD7tGEAm9mnNd2KDRd2WHW9Up34pump",
+      "label": "PUMP AGENTS",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=JCM2aNHYiquHGVD7tGEAm9mnNd2KDRd2WHW9Up34pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "CrRbQeKKFtYT9AbWwRNJ2sP3STYmqjWGnTamo5ozKray",
+      "label": "CrRbQeKK",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=CrRbQeKKFtYT9AbWwRNJ2sP3STYmqjWGnTamo5ozKray&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump",
       "label": "Shitcoin",
@@ -58,27 +74,27 @@
       "reason": "liq $30",
       "subtitle": "liq $30",
       "link": "https://fomo.family/coin?address=3e7osEZADaksySfhpTqftDDwfGxQ2kHAWurMumrYpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "32w5u6FWHPi8SBV9xW6KAzwQ51ULCTkooteps6xrpump",
-      "label": "MrBeast",
-      "verdict": "kill",
-      "reason": "+188% in 1h",
-      "subtitle": "+188% in 1h",
-      "link": "https://fomo.family/coin?address=32w5u6FWHPi8SBV9xW6KAzwQ51ULCTkooteps6xrpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "Dqrnwf1RvwR9NZasdL6XDEGzFwDPXwARuaTa7CKMpump",
-      "label": "La Misery",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=Dqrnwf1RvwR9NZasdL6XDEGzFwDPXwARuaTa7CKMpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T09:49:38.783534Z",
+      "mint": "JCM2aNHYiquHGVD7tGEAm9mnNd2KDRd2WHW9Up34pump",
+      "label": "PUMP AGENTS",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=JCM2aNHYiquHGVD7tGEAm9mnNd2KDRd2WHW9Up34pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T09:49:33.686297Z",
+      "mint": "CrRbQeKKFtYT9AbWwRNJ2sP3STYmqjWGnTamo5ozKray",
+      "label": "CrRbQeKK",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=CrRbQeKKFtYT9AbWwRNJ2sP3STYmqjWGnTamo5ozKray&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T09:49:08.217564Z",
       "mint": "Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump",
       "label": "Shitcoin",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $35",
       "link": "https://fomo.family/coin?address=HdWwHYsPUL2BAA531ELQnoxDGKk5bmyJbhFuEEuHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:42:09.130899Z",
-      "mint": "pb6DzXwafqPakPLUJiw6FrixdBfKyVw5LUjx6XHpump",
-      "label": "Bugles Cat",
-      "verdict": "kill",
-      "reason": "liq $19.2K",
-      "link": "https://fomo.family/coin?address=pb6DzXwafqPakPLUJiw6FrixdBfKyVw5LUjx6XHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:41:35.187201Z",
-      "mint": "7E9tPBRvCVJ4kn6DXvxMXuAMk4L9j1ZNcBSCAWuGpump",
-      "label": "Claudecoin",
-      "verdict": "kill",
-      "reason": "+182% in 1h",
-      "link": "https://fomo.family/coin?address=7E9tPBRvCVJ4kn6DXvxMXuAMk4L9j1ZNcBSCAWuGpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T09:49:38.783534Z",
+      "mint": "JCM2aNHYiquHGVD7tGEAm9mnNd2KDRd2WHW9Up34pump",
+      "label": "PUMP AGENTS",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=JCM2aNHYiquHGVD7tGEAm9mnNd2KDRd2WHW9Up34pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T09:49:33.686297Z",
+      "mint": "CrRbQeKKFtYT9AbWwRNJ2sP3STYmqjWGnTamo5ozKray",
+      "label": "CrRbQeKK",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=CrRbQeKKFtYT9AbWwRNJ2sP3STYmqjWGnTamo5ozKray&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T09:49:08.217564Z",
       "mint": "Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump",
       "label": "Shitcoin",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $35",
       "link": "https://fomo.family/coin?address=HdWwHYsPUL2BAA531ELQnoxDGKk5bmyJbhFuEEuHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:42:09.130899Z",
-      "mint": "pb6DzXwafqPakPLUJiw6FrixdBfKyVw5LUjx6XHpump",
-      "label": "Bugles Cat",
-      "verdict": "kill",
-      "reason": "liq $19.2K",
-      "link": "https://fomo.family/coin?address=pb6DzXwafqPakPLUJiw6FrixdBfKyVw5LUjx6XHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:41:35.187201Z",
-      "mint": "7E9tPBRvCVJ4kn6DXvxMXuAMk4L9j1ZNcBSCAWuGpump",
-      "label": "Claudecoin",
-      "verdict": "kill",
-      "reason": "+182% in 1h",
-      "link": "https://fomo.family/coin?address=7E9tPBRvCVJ4kn6DXvxMXuAMk4L9j1ZNcBSCAWuGpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
