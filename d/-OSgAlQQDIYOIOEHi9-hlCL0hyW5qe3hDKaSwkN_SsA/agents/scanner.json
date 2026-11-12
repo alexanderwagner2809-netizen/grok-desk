@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T06:47:47.875167Z",
+  "ts": "2026-11-12T06:48:56.246800Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T06:47:42.645214Z",
+  "heartbeat": "2026-11-12T06:48:52.989760Z",
   "paused": false,
   "status": "running",
-  "card": "140 pools",
-  "count": 140,
+  "card": "142 pools",
+  "count": 142,
   "passed": 0,
   "feed": [
+    {
+      "mint": "CY975ge6R6U6pcZ3im1AxMC8JdwvRC7CAbQFZHeCpump",
+      "label": "pump.fun",
+      "verdict": "kill",
+      "reason": "liq $1.5K",
+      "subtitle": "liq $1.5K",
+      "link": "https://fomo.family/coin?address=CY975ge6R6U6pcZ3im1AxMC8JdwvRC7CAbQFZHeCpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "JyVaecqQDMbTQEWCvG6p8rofRMyMPUmKj3yyjxxpump",
+      "label": "ULTRAPAID",
+      "verdict": "kill",
+      "reason": "liq $21",
+      "subtitle": "liq $21",
+      "link": "https://fomo.family/coin?address=JyVaecqQDMbTQEWCvG6p8rofRMyMPUmKj3yyjxxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump",
       "label": "dͨoͣgͭ",
@@ -58,27 +74,27 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=Bdos43bFy1W4crNBKjRgPmWsmnMeiLMbi9jrpzeqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "BpcFE5CcaezdM3uMTFkyWWUvw8Lc4MEQNqwmQwyCpump",
-      "label": "AURACOIN",
-      "verdict": "kill",
-      "reason": "liq $5",
-      "subtitle": "liq $5",
-      "link": "https://fomo.family/coin?address=BpcFE5CcaezdM3uMTFkyWWUvw8Lc4MEQNqwmQwyCpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "DdS7pPMcMB1ZvH9JyU31wrXE49oMTdeRH9dbtGTrpump",
-      "label": "GTA 6 Updates",
-      "verdict": "kill",
-      "reason": "liq $16.1K",
-      "subtitle": "liq $16.1K",
-      "link": "https://fomo.family/coin?address=DdS7pPMcMB1ZvH9JyU31wrXE49oMTdeRH9dbtGTrpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T06:47:52.988921Z",
+      "mint": "CY975ge6R6U6pcZ3im1AxMC8JdwvRC7CAbQFZHeCpump",
+      "label": "pump.fun",
+      "verdict": "kill",
+      "reason": "liq $1.5K",
+      "link": "https://fomo.family/coin?address=CY975ge6R6U6pcZ3im1AxMC8JdwvRC7CAbQFZHeCpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T06:47:52.988169Z",
+      "mint": "JyVaecqQDMbTQEWCvG6p8rofRMyMPUmKj3yyjxxpump",
+      "label": "ULTRAPAID",
+      "verdict": "kill",
+      "reason": "liq $21",
+      "link": "https://fomo.family/coin?address=JyVaecqQDMbTQEWCvG6p8rofRMyMPUmKj3yyjxxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:46:53.032670Z",
       "mint": "GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump",
       "label": "dͨoͣgͭ",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "+58099% in 1h",
       "link": "https://fomo.family/coin?address=GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T06:06:50.839196Z",
-      "mint": "2uu6nkUg1JF9d1HxuYB7oQFUtqqWqbrTU4KtYN5vpump",
-      "label": "AURACOIN",
-      "verdict": "kill",
-      "reason": "liq $16",
-      "link": "https://fomo.family/coin?address=2uu6nkUg1JF9d1HxuYB7oQFUtqqWqbrTU4KtYN5vpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T06:05:50.717780Z",
-      "mint": "2fFLX5PPNKiuALi1c8dH1FYEEXuNSWbD3GWyeNYxpump",
-      "label": "AudaCity",
-      "verdict": "kill",
-      "reason": "+225% in 1h",
-      "link": "https://fomo.family/coin?address=2fFLX5PPNKiuALi1c8dH1FYEEXuNSWbD3GWyeNYxpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T06:47:52.988921Z",
+      "mint": "CY975ge6R6U6pcZ3im1AxMC8JdwvRC7CAbQFZHeCpump",
+      "label": "pump.fun",
+      "verdict": "kill",
+      "reason": "liq $1.5K",
+      "link": "https://fomo.family/coin?address=CY975ge6R6U6pcZ3im1AxMC8JdwvRC7CAbQFZHeCpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T06:47:52.988169Z",
+      "mint": "JyVaecqQDMbTQEWCvG6p8rofRMyMPUmKj3yyjxxpump",
+      "label": "ULTRAPAID",
+      "verdict": "kill",
+      "reason": "liq $21",
+      "link": "https://fomo.family/coin?address=JyVaecqQDMbTQEWCvG6p8rofRMyMPUmKj3yyjxxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:46:53.032670Z",
       "mint": "GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump",
       "label": "dͨoͣgͭ",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "+58099% in 1h",
       "link": "https://fomo.family/coin?address=GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T06:06:50.839196Z",
-      "mint": "2uu6nkUg1JF9d1HxuYB7oQFUtqqWqbrTU4KtYN5vpump",
-      "label": "AURACOIN",
-      "verdict": "kill",
-      "reason": "liq $16",
-      "link": "https://fomo.family/coin?address=2uu6nkUg1JF9d1HxuYB7oQFUtqqWqbrTU4KtYN5vpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T06:05:50.717780Z",
-      "mint": "2fFLX5PPNKiuALi1c8dH1FYEEXuNSWbD3GWyeNYxpump",
-      "label": "AudaCity",
-      "verdict": "kill",
-      "reason": "+225% in 1h",
-      "link": "https://fomo.family/coin?address=2fFLX5PPNKiuALi1c8dH1FYEEXuNSWbD3GWyeNYxpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
