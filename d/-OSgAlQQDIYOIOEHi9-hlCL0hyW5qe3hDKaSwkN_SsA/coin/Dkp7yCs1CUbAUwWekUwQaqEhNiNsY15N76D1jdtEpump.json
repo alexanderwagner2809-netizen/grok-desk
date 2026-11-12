@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T04:05:50.123946Z",
+  "ts": "2026-11-12T04:06:58.599834Z",
   "mint": "Dkp7yCs1CUbAUwWekUwQaqEhNiNsY15N76D1jdtEpump",
   "name": "GABOON",
   "symbol": "GABOON",
   "label": "GABOON",
   "chain": "Solana",
-  "age": "2m old",
+  "age": "3m old",
   "migratedAt": "2026-11-12T04:03:09.465886Z",
   "pool": "6KaF7qdfWAcjz9v3DqVFqD6SuDLvTuWUKhvhafFCKKnH",
   "creator": "hrBPCj2epsboCw17ZoigVeUH1icM9vJwppJxWZszxfw",
   "holders": null,
   "link": "https://fomo.family/coin?address=Dkp7yCs1CUbAUwWekUwQaqEhNiNsY15N76D1jdtEpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 7.685e-05,
-  "priceTs": "2026-11-12T04:05:49.473905Z",
+  "price": 0.0001076,
+  "priceTs": "2026-11-12T04:06:57.836064Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -40,12 +40,20 @@
       "l": 7.685e-05,
       "c": 7.685e-05,
       "v": 11709.48
+    },
+    {
+      "t": 1794456360,
+      "o": 0.0001076,
+      "h": 0.0001076,
+      "l": 0.0001076,
+      "c": 0.0001076,
+      "v": 8997.530000000002
     }
   ],
   "stats": {
-    "marketCap": 76735.0,
-    "liquidity": 20172.74,
-    "volume24h": 16565.87,
+    "marketCap": 107480.0,
+    "liquidity": 23768.33,
+    "volume24h": 25563.4,
     "holders": null
   },
   "position": null,

@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T04:05:50.255953Z",
+  "ts": "2026-11-12T04:06:58.599072Z",
   "mint": "4EGdVws4BwR9vVeZeNu61vpXB8FPGcPZyf2Zf3h8pump",
-  "name": null,
-  "symbol": null,
-  "label": "4EGdVws4",
+  "name": "Solana Cat",
+  "symbol": "SOLCAT",
+  "label": "Solana Cat",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T04:04:25.831905Z",
-  "pool": null,
+  "pool": "FZQmJ8MoFWq86ZocWChMnibTsYjCFHYcnppPUK4qZutr",
   "creator": "41q2mimSQBzSbJFvTEBu8X352jYKBEgMY1Kr6qGUgcYR",
   "holders": null,
   "link": "https://fomo.family/coin?address=4EGdVws4BwR9vVeZeNu61vpXB8FPGcPZyf2Zf3h8pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.892e-05,
-  "priceTs": "2026-11-12T04:05:49.971510Z",
+  "price": 6.24e-05,
+  "priceTs": "2026-11-12T04:06:57.836064Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -32,15 +32,33 @@
       "l": 5.892e-05,
       "c": 5.892e-05,
       "v": 27726.880000000005
+    },
+    {
+      "t": 1794456360,
+      "o": 5.892e-05,
+      "h": 6.24e-05,
+      "l": 5.892e-05,
+      "c": 6.24e-05,
+      "v": 66868.29
     }
   ],
   "stats": {
-    "marketCap": 58873.0,
-    "liquidity": 17308.25,
-    "volume24h": 64070.69,
+    "marketCap": 62351.0,
+    "liquidity": 18222.26,
+    "volume24h": 130938.98,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T04:06:14.646068Z",
+      "liquidity_usd": 17308.25,
+      "top10_pct": null,
+      "h1_change_pct": 62.14,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $17.3K"
+    }
+  ]
 }
