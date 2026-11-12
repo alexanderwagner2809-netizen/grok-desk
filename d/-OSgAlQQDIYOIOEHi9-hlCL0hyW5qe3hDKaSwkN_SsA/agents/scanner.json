@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T06:28:01.368790Z",
+  "ts": "2026-11-12T06:29:12.595226Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T06:28:01.017274Z",
+  "heartbeat": "2026-11-12T06:29:11.480194Z",
   "paused": false,
   "status": "running",
-  "card": "132 pools",
-  "count": 132,
+  "card": "133 pools",
+  "count": 133,
   "passed": 0,
   "feed": [
+    {
+      "mint": "DdS7pPMcMB1ZvH9JyU31wrXE49oMTdeRH9dbtGTrpump",
+      "label": "GTA 6 Updates",
+      "verdict": "kill",
+      "reason": "liq $16.1K",
+      "subtitle": "liq $16.1K",
+      "link": "https://fomo.family/coin?address=DdS7pPMcMB1ZvH9JyU31wrXE49oMTdeRH9dbtGTrpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump",
       "label": "XomoPay",
@@ -66,19 +74,19 @@
       "reason": "liq $490",
       "subtitle": "liq $490",
       "link": "https://fomo.family/coin?address=HEFE6bVyNy13ir2SKs1u2EeDXY9iJc583VdjD51Kpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GSQGdUXpuAaAmkkZu7Mfnv1Yxeq2rFSGnyoBXzT8pump",
-      "label": "Celon",
-      "verdict": "kill",
-      "reason": "liq $10.2K",
-      "subtitle": "liq $10.2K",
-      "link": "https://fomo.family/coin?address=GSQGdUXpuAaAmkkZu7Mfnv1Yxeq2rFSGnyoBXzT8pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T06:28:01.383057Z",
+      "mint": "DdS7pPMcMB1ZvH9JyU31wrXE49oMTdeRH9dbtGTrpump",
+      "label": "GTA 6 Updates",
+      "verdict": "kill",
+      "reason": "liq $16.1K",
+      "link": "https://fomo.family/coin?address=DdS7pPMcMB1ZvH9JyU31wrXE49oMTdeRH9dbtGTrpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:20:00.322321Z",
       "mint": "4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump",
       "label": "XomoPay",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $4",
       "link": "https://fomo.family/coin?address=CRdKadC7DZEFYZPRLcHUvpYur8ud4oKnb8PHFT6Wpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T05:50:46.486623Z",
-      "mint": "BX6Ve65LSXDYiWRFYjQZbJm4KX2i8sJ24TNn2zjhpump",
-      "label": "AudaCity",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=BX6Ve65LSXDYiWRFYjQZbJm4KX2i8sJ24TNn2zjhpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T06:28:01.383057Z",
+      "mint": "DdS7pPMcMB1ZvH9JyU31wrXE49oMTdeRH9dbtGTrpump",
+      "label": "GTA 6 Updates",
+      "verdict": "kill",
+      "reason": "liq $16.1K",
+      "link": "https://fomo.family/coin?address=DdS7pPMcMB1ZvH9JyU31wrXE49oMTdeRH9dbtGTrpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:20:00.322321Z",
       "mint": "4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump",
       "label": "XomoPay",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $4",
       "link": "https://fomo.family/coin?address=CRdKadC7DZEFYZPRLcHUvpYur8ud4oKnb8PHFT6Wpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T05:50:46.486623Z",
-      "mint": "BX6Ve65LSXDYiWRFYjQZbJm4KX2i8sJ24TNn2zjhpump",
-      "label": "AudaCity",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=BX6Ve65LSXDYiWRFYjQZbJm4KX2i8sJ24TNn2zjhpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
