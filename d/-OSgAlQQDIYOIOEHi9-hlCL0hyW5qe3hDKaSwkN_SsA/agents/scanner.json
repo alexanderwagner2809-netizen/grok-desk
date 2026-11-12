@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T17:10:37.042795Z",
+  "ts": "2026-11-12T17:11:47.531973Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T17:10:31.191442Z",
+  "heartbeat": "2026-11-12T17:11:43.782253Z",
   "paused": false,
   "status": "running",
-  "card": "281 pools",
-  "count": 281,
+  "card": "283 pools",
+  "count": 283,
   "passed": 0,
   "feed": [
+    {
+      "mint": "FTsygApbDiJ8QY9heS4bapiXWiTV1YCwYT14LeDqmfRP",
+      "label": "PillBoard",
+      "verdict": "kill",
+      "reason": "liq $10.0K",
+      "subtitle": "liq $10.0K",
+      "link": "https://fomo.family/coin?address=FTsygApbDiJ8QY9heS4bapiXWiTV1YCwYT14LeDqmfRP&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "HiTeQifUrayWtJXkvcRqbdRWRULKuo5KT9Qc4H5Zpump",
+      "label": "AURACOIN",
+      "verdict": "kill",
+      "reason": "+10325% in 1h",
+      "subtitle": "+10325% in 1h",
+      "link": "https://fomo.family/coin?address=HiTeQifUrayWtJXkvcRqbdRWRULKuo5KT9Qc4H5Zpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "6H45TpyeGhzvEVmbqHDykdmusBPfbMSfUurFQ7jopump",
       "label": "MrBeast",
@@ -58,27 +74,27 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=3mJEHbAtXuZ2oXXXY9Yk7bPM3z5Vr1x3yvc8SZXqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5ba8HwNgio5t86aFdWJ81w5pNHjbqAKPKejTsVoDpump",
-      "label": "Max wif hat",
-      "verdict": "kill",
-      "reason": "+262% in 1h",
-      "subtitle": "+262% in 1h",
-      "link": "https://fomo.family/coin?address=5ba8HwNgio5t86aFdWJ81w5pNHjbqAKPKejTsVoDpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "58okqXoxYh1hbSgvUjHG4iNw1PekncGvAxGFRoRDpump",
-      "label": "The Trump Files",
-      "verdict": "kill",
-      "reason": "liq $11.8K",
-      "subtitle": "liq $11.8K",
-      "link": "https://fomo.family/coin?address=58okqXoxYh1hbSgvUjHG4iNw1PekncGvAxGFRoRDpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T17:11:02.672069Z",
+      "mint": "FTsygApbDiJ8QY9heS4bapiXWiTV1YCwYT14LeDqmfRP",
+      "label": "PillBoard",
+      "verdict": "kill",
+      "reason": "liq $10.0K",
+      "link": "https://fomo.family/coin?address=FTsygApbDiJ8QY9heS4bapiXWiTV1YCwYT14LeDqmfRP&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T17:11:02.669436Z",
+      "mint": "HiTeQifUrayWtJXkvcRqbdRWRULKuo5KT9Qc4H5Zpump",
+      "label": "AURACOIN",
+      "verdict": "kill",
+      "reason": "+10325% in 1h",
+      "link": "https://fomo.family/coin?address=HiTeQifUrayWtJXkvcRqbdRWRULKuo5KT9Qc4H5Zpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T17:09:20.127916Z",
       "mint": "6H45TpyeGhzvEVmbqHDykdmusBPfbMSfUurFQ7jopump",
       "label": "MrBeast",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $12.6K",
       "link": "https://fomo.family/coin?address=65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:18:53.106088Z",
-      "mint": "ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump",
-      "label": "SpaceX community benefits",
-      "verdict": "kill",
-      "reason": "liq $12.8K",
-      "link": "https://fomo.family/coin?address=ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:17:51.493973Z",
-      "mint": "tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK",
-      "label": "TrenchedIn",
-      "verdict": "kill",
-      "reason": "liq $12.1K",
-      "link": "https://fomo.family/coin?address=tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T17:11:02.672069Z",
+      "mint": "FTsygApbDiJ8QY9heS4bapiXWiTV1YCwYT14LeDqmfRP",
+      "label": "PillBoard",
+      "verdict": "kill",
+      "reason": "liq $10.0K",
+      "link": "https://fomo.family/coin?address=FTsygApbDiJ8QY9heS4bapiXWiTV1YCwYT14LeDqmfRP&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T17:11:02.669436Z",
+      "mint": "HiTeQifUrayWtJXkvcRqbdRWRULKuo5KT9Qc4H5Zpump",
+      "label": "AURACOIN",
+      "verdict": "kill",
+      "reason": "+10325% in 1h",
+      "link": "https://fomo.family/coin?address=HiTeQifUrayWtJXkvcRqbdRWRULKuo5KT9Qc4H5Zpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T17:09:20.127916Z",
       "mint": "6H45TpyeGhzvEVmbqHDykdmusBPfbMSfUurFQ7jopump",
       "label": "MrBeast",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $12.6K",
       "link": "https://fomo.family/coin?address=65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:18:53.106088Z",
-      "mint": "ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump",
-      "label": "SpaceX community benefits",
-      "verdict": "kill",
-      "reason": "liq $12.8K",
-      "link": "https://fomo.family/coin?address=ByRRpjfxLC3jeBE4Dx7owqbqbAix5RibdB7QQCJvpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:17:51.493973Z",
-      "mint": "tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK",
-      "label": "TrenchedIn",
-      "verdict": "kill",
-      "reason": "liq $12.1K",
-      "link": "https://fomo.family/coin?address=tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

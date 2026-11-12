@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T17:10:36.013599Z",
+  "ts": "2026-11-12T17:11:46.599607Z",
   "mint": "6wCbd4s3nknrqB7Cc3ZcAXWLfixydVywYE4Eikkxpump",
   "name": "GTA6",
   "symbol": "GTA 6 Coin",
@@ -11,8 +11,8 @@
   "creator": "2NyF9tCzA6ofEPDxsfbm5Au4YDg86As6uSCe9KN5MPux",
   "holders": null,
   "link": "https://fomo.family/coin?address=6wCbd4s3nknrqB7Cc3ZcAXWLfixydVywYE4Eikkxpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0005302,
-  "priceTs": "2026-11-12T17:10:33.623409Z",
+  "price": 0.0005479,
+  "priceTs": "2026-11-12T17:11:44.942973Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -344,12 +344,20 @@
       "l": 0.0005302,
       "c": 0.0005302,
       "v": 182.8800000000001
+    },
+    {
+      "t": 1794503460,
+      "o": 0.0005479,
+      "h": 0.0005479,
+      "l": 0.0005479,
+      "c": 0.0005479,
+      "v": 337.24000000000024
     }
   ],
   "stats": {
-    "marketCap": 522561.0,
-    "liquidity": 53802.12,
-    "volume24h": 57963.17,
+    "marketCap": 539961.0,
+    "liquidity": 54706.51,
+    "volume24h": 59258.51,
     "holders": null
   },
   "position": null,
