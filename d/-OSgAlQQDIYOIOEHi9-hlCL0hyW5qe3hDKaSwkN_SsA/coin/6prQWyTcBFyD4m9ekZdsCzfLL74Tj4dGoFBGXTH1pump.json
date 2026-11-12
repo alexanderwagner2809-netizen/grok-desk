@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:58:12.822562Z",
+  "ts": "2026-11-12T10:08:42.135319Z",
   "mint": "6prQWyTcBFyD4m9ekZdsCzfLL74Tj4dGoFBGXTH1pump",
   "name": "TWIT",
   "symbol": "Twitter",
@@ -11,8 +11,8 @@
   "creator": "FS8NXqLRoTcx2cfixRnyL3GNn7QbzjKnJTjnoYYjqWqt",
   "holders": null,
   "link": "https://fomo.family/coin?address=6prQWyTcBFyD4m9ekZdsCzfLL74Tj4dGoFBGXTH1pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.793e-09,
-  "priceTs": "2026-11-12T09:58:11.863873Z",
+  "price": 1.561e-09,
+  "priceTs": "2026-11-12T10:08:41.219780Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1272,12 +1272,20 @@
       "l": 1.793e-09,
       "c": 1.793e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794478080,
+      "o": 1.561e-09,
+      "h": 1.561e-09,
+      "l": 1.561e-09,
+      "c": 1.561e-09,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 4.0,
-    "liquidity": 4.85,
-    "volume24h": 461.52,
+    "marketCap": 3.0,
+    "liquidity": 4.53,
+    "volume24h": 461.62,
     "holders": null
   },
   "position": null,

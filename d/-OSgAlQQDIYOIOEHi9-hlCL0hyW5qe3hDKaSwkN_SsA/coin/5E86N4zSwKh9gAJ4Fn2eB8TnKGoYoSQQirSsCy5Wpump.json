@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:58:12.794688Z",
+  "ts": "2026-11-12T10:08:42.102591Z",
   "mint": "5E86N4zSwKh9gAJ4Fn2eB8TnKGoYoSQQirSsCy5Wpump",
   "name": "MOONI",
   "symbol": "MOONI",
@@ -11,8 +11,8 @@
   "creator": "2A7xEFtB76hkfwrAASUmX1eVbSVA5TCQzDUh9QA6uLrC",
   "holders": null,
   "link": "https://fomo.family/coin?address=5E86N4zSwKh9gAJ4Fn2eB8TnKGoYoSQQirSsCy5Wpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.342e-10,
-  "priceTs": "2026-11-12T09:58:11.752558Z",
+  "price": 4.986e-10,
+  "priceTs": "2026-11-12T10:08:41.090538Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1000,12 +1000,20 @@
       "l": 5.342e-10,
       "c": 5.342e-10,
       "v": 0.0
+    },
+    {
+      "t": 1794478080,
+      "o": 4.986e-10,
+      "h": 4.986e-10,
+      "l": 4.986e-10,
+      "c": 4.986e-10,
+      "v": 0.0
     }
   ],
   "stats": {
     "marketCap": 1.0,
-    "liquidity": 2.01,
-    "volume24h": 730.3,
+    "liquidity": 1.94,
+    "volume24h": 730.34,
     "holders": null
   },
   "position": null,

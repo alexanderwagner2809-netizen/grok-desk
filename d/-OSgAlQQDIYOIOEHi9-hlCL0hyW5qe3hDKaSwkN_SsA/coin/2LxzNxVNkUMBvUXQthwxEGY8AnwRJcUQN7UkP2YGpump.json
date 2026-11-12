@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:58:12.754640Z",
+  "ts": "2026-11-12T10:08:42.061758Z",
   "mint": "2LxzNxVNkUMBvUXQthwxEGY8AnwRJcUQN7UkP2YGpump",
   "name": "VRL",
   "symbol": "vrl",
@@ -11,8 +11,8 @@
   "creator": "4Wp9PgyrsXKmW3Pzmy7vsFWvdkPo18mUneFvVV5wToiR",
   "holders": null,
   "link": "https://fomo.family/coin?address=2LxzNxVNkUMBvUXQthwxEGY8AnwRJcUQN7UkP2YGpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.094e-08,
-  "priceTs": "2026-11-12T09:58:11.656026Z",
+  "price": 1.011e-08,
+  "priceTs": "2026-11-12T10:08:40.952620Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -656,12 +656,20 @@
       "l": 1.094e-08,
       "c": 1.094e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794478080,
+      "o": 1.011e-08,
+      "h": 1.011e-08,
+      "l": 1.011e-08,
+      "c": 1.011e-08,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 22.0,
-    "liquidity": 40.35,
-    "volume24h": 398.99,
+    "marketCap": 20.0,
+    "liquidity": 38.87,
+    "volume24h": 399.52,
     "holders": null
   },
   "position": null,

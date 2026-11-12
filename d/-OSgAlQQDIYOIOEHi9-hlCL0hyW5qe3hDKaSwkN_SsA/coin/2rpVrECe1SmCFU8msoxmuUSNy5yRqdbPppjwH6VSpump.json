@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:58:12.769252Z",
+  "ts": "2026-11-12T10:08:42.072190Z",
   "mint": "2rpVrECe1SmCFU8msoxmuUSNy5yRqdbPppjwH6VSpump",
   "name": "makemerich",
   "symbol": "mmrich",
@@ -11,8 +11,8 @@
   "creator": "4w7PmQfg9JPipyqM4LboHokj7iTuRbpUxX5KpWtMQSHr",
   "holders": null,
   "link": "https://fomo.family/coin?address=2rpVrECe1SmCFU8msoxmuUSNy5yRqdbPppjwH6VSpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.729e-09,
-  "priceTs": "2026-11-12T09:58:11.656026Z",
+  "price": 1.021e-09,
+  "priceTs": "2026-11-12T10:08:40.952620Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -736,12 +736,20 @@
       "l": 1.729e-09,
       "c": 1.729e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794478080,
+      "o": 1.021e-09,
+      "h": 1.021e-09,
+      "l": 1.021e-09,
+      "c": 1.021e-09,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 3.0,
-    "liquidity": 3.28,
-    "volume24h": 87.95,
+    "marketCap": 2.0,
+    "liquidity": 2.53,
+    "volume24h": 88.38,
     "holders": null
   },
   "position": null,

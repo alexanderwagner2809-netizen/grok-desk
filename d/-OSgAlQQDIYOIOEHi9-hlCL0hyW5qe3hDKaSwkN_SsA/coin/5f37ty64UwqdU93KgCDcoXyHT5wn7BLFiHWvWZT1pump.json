@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:58:12.796397Z",
+  "ts": "2026-11-12T10:08:42.104677Z",
   "mint": "5f37ty64UwqdU93KgCDcoXyHT5wn7BLFiHWvWZT1pump",
   "name": "pump.fun",
   "symbol": "pump it",
@@ -11,8 +11,8 @@
   "creator": "BTUTSZiiGRUHrLEkNxNt917P7MHSA2eZWgTpErinDjbH",
   "holders": null,
   "link": "https://fomo.family/coin?address=5f37ty64UwqdU93KgCDcoXyHT5wn7BLFiHWvWZT1pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.766e-09,
-  "priceTs": "2026-11-12T09:58:11.752558Z",
+  "price": 2.487e-09,
+  "priceTs": "2026-11-12T10:08:41.090538Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1000,12 +1000,20 @@
       "l": 2.766e-09,
       "c": 2.766e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794478080,
+      "o": 2.487e-09,
+      "h": 2.487e-09,
+      "l": 2.487e-09,
+      "c": 2.487e-09,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 6.0,
-    "liquidity": 10.12,
-    "volume24h": 532.24,
+    "marketCap": 5.0,
+    "liquidity": 9.6,
+    "volume24h": 532.38,
     "holders": null
   },
   "position": null,

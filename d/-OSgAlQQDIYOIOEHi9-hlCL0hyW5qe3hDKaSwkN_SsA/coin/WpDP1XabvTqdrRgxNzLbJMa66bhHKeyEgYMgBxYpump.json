@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:58:13.183628Z",
+  "ts": "2026-11-12T10:08:42.528284Z",
   "mint": "WpDP1XabvTqdrRgxNzLbJMa66bhHKeyEgYMgBxYpump",
   "name": "Burn token",
   "symbol": "BT",
@@ -11,8 +11,8 @@
   "creator": "4jPcYVs6jZ2zz4kGnzaeDSeqtRziEWq91Ly6Dv3n16wW",
   "holders": null,
   "link": "https://fomo.family/coin?address=WpDP1XabvTqdrRgxNzLbJMa66bhHKeyEgYMgBxYpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.287e-09,
-  "priceTs": "2026-11-12T09:58:12.719435Z",
+  "price": 1.989e-09,
+  "priceTs": "2026-11-12T10:08:42.018427Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1568,12 +1568,20 @@
       "l": 2.287e-09,
       "c": 2.287e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794478080,
+      "o": 1.989e-09,
+      "h": 1.989e-09,
+      "l": 1.989e-09,
+      "c": 1.989e-09,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 5.0,
-    "liquidity": 8.49,
-    "volume24h": 74.18,
+    "marketCap": 4.0,
+    "liquidity": 7.77,
+    "volume24h": 74.31,
     "holders": null
   },
   "position": null,

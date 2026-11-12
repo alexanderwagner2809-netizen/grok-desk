@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:58:12.805691Z",
+  "ts": "2026-11-12T10:08:42.115669Z",
   "mint": "DvTRRxEoDRtmwvWHPYa5BG7ALEFnd5e5VwQKpziMpump",
   "name": "Hopium Mining & Refining Corp.",
   "symbol": "$HOPE",
@@ -11,8 +11,8 @@
   "creator": "Cd5hxg3FPt3obzPg7MW46QCwUwKd4YvdKCaZjZDpaVu7",
   "holders": null,
   "link": "https://fomo.family/coin?address=DvTRRxEoDRtmwvWHPYa5BG7ALEFnd5e5VwQKpziMpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.777e-09,
-  "priceTs": "2026-11-12T09:58:11.752558Z",
+  "price": 1.402e-09,
+  "priceTs": "2026-11-12T10:08:41.090538Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1064,12 +1064,20 @@
       "l": 1.777e-09,
       "c": 1.777e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794478080,
+      "o": 1.402e-09,
+      "h": 1.402e-09,
+      "l": 1.402e-09,
+      "c": 1.402e-09,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 4.0,
-    "liquidity": 4.99,
-    "volume24h": 367.54,
+    "marketCap": 3.0,
+    "liquidity": 4.45,
+    "volume24h": 367.89,
     "holders": null
   },
   "position": null,

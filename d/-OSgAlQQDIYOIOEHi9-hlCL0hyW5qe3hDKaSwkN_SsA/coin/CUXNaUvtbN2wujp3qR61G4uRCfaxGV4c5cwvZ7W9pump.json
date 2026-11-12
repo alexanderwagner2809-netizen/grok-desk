@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:58:12.792942Z",
+  "ts": "2026-11-12T10:08:42.100378Z",
   "mint": "CUXNaUvtbN2wujp3qR61G4uRCfaxGV4c5cwvZ7W9pump",
   "name": "$CHIMPSHOT",
   "symbol": "CHIMP",
@@ -11,8 +11,8 @@
   "creator": "4BJ14RY23fmST2AcMbrfHFNiPu3J4Y6ajXG3wJhTi5g4",
   "holders": null,
   "link": "https://fomo.family/coin?address=CUXNaUvtbN2wujp3qR61G4uRCfaxGV4c5cwvZ7W9pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 7.749e-09,
-  "priceTs": "2026-11-12T09:58:11.752558Z",
+  "price": 7.223e-09,
+  "priceTs": "2026-11-12T10:08:41.090538Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1000,12 +1000,20 @@
       "l": 7.749e-09,
       "c": 7.749e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794478080,
+      "o": 7.223e-09,
+      "h": 7.223e-09,
+      "l": 7.223e-09,
+      "c": 7.223e-09,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 15.0,
-    "liquidity": 27.22,
-    "volume24h": 813.82,
+    "marketCap": 14.0,
+    "liquidity": 26.32,
+    "volume24h": 814.35,
     "holders": null
   },
   "position": null,

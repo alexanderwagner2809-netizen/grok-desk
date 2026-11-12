@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T09:58:12.896500Z",
+  "ts": "2026-11-12T10:08:42.217917Z",
   "mint": "3mk8HFzaSvM8Ep317NPEtQb5ui47csEvzY7GQ7hwpump",
   "name": "Dashity Coin",
   "symbol": "DaShity",
@@ -11,8 +11,8 @@
   "creator": "5DTzerzGPPDcwZg7UkhUTwhEjruSKp22ZRE9YdAuwEXK",
   "holders": null,
   "link": "https://fomo.family/coin?address=3mk8HFzaSvM8Ep317NPEtQb5ui47csEvzY7GQ7hwpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.843e-10,
-  "priceTs": "2026-11-12T09:58:11.988648Z",
+  "price": 7.834e-10,
+  "priceTs": "2026-11-12T10:08:41.341596Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1568,12 +1568,20 @@
       "l": 8.843e-10,
       "c": 8.843e-10,
       "v": 0.0
+    },
+    {
+      "t": 1794478080,
+      "o": 7.834e-10,
+      "h": 7.834e-10,
+      "l": 7.834e-10,
+      "c": 7.834e-10,
+      "v": 0.0
     }
   ],
   "stats": {
     "marketCap": 2.0,
-    "liquidity": 3.22,
-    "volume24h": 223.53,
+    "liquidity": 3.03,
+    "volume24h": 223.58,
     "holders": null
   },
   "position": null,

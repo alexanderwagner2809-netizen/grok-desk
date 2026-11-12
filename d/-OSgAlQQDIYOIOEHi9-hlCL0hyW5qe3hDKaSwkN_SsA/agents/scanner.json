@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T09:58:13.191368Z",
+  "ts": "2026-11-12T10:08:42.534920Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T09:58:11.356161Z",
+  "heartbeat": "2026-11-12T10:08:31.555134Z",
   "paused": false,
   "status": "running",
-  "card": "195 pools",
-  "count": 195,
+  "card": "196 pools",
+  "count": 196,
   "passed": 0,
   "feed": [
+    {
+      "mint": "HtcAPprundKCcYWhd37t3tf7SBbF9p6WzZ8x2zqzpump",
+      "label": "goat coin",
+      "verdict": "kill",
+      "reason": "liq $2",
+      "subtitle": "liq $2",
+      "link": "https://fomo.family/coin?address=HtcAPprundKCcYWhd37t3tf7SBbF9p6WzZ8x2zqzpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "F6J1FrXk5jQSXZLmjA2jaEz5dGQiytDxB6zMiyRnpump",
       "label": "Dog Think",
@@ -66,19 +74,19 @@
       "reason": "liq $77",
       "subtitle": "liq $77",
       "link": "https://fomo.family/coin?address=4LLaZiqwsEM4G9G37taPTYNnqGa9g1vVuakWKn6Upump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "8sTA3v7me1CDAw6zLDTwfbeVGaFG6RiHTASF7aLpump",
-      "label": "Be Nice To Claude",
-      "verdict": "kill",
-      "reason": "+187% in 1h",
-      "subtitle": "+187% in 1h",
-      "link": "https://fomo.family/coin?address=8sTA3v7me1CDAw6zLDTwfbeVGaFG6RiHTASF7aLpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T09:58:23.648439Z",
+      "mint": "HtcAPprundKCcYWhd37t3tf7SBbF9p6WzZ8x2zqzpump",
+      "label": "goat coin",
+      "verdict": "kill",
+      "reason": "liq $2",
+      "link": "https://fomo.family/coin?address=HtcAPprundKCcYWhd37t3tf7SBbF9p6WzZ8x2zqzpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T09:52:53.659969Z",
       "mint": "F6J1FrXk5jQSXZLmjA2jaEz5dGQiytDxB6zMiyRnpump",
       "label": "Dog Think",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=8p7GCo3fWJ55LFQbhkBd8hCpw3ACk98PgK7Lsd6Upump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:54:02.217013Z",
-      "mint": "2UMho4zUPqSKb2fbJbKNPf1dU1WKD6SfbNmVkvphpump",
-      "label": "十七",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=2UMho4zUPqSKb2fbJbKNPf1dU1WKD6SfbNmVkvphpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T09:58:23.648439Z",
+      "mint": "HtcAPprundKCcYWhd37t3tf7SBbF9p6WzZ8x2zqzpump",
+      "label": "goat coin",
+      "verdict": "kill",
+      "reason": "liq $2",
+      "link": "https://fomo.family/coin?address=HtcAPprundKCcYWhd37t3tf7SBbF9p6WzZ8x2zqzpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T09:52:53.659969Z",
       "mint": "F6J1FrXk5jQSXZLmjA2jaEz5dGQiytDxB6zMiyRnpump",
       "label": "Dog Think",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=8p7GCo3fWJ55LFQbhkBd8hCpw3ACk98PgK7Lsd6Upump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:54:02.217013Z",
-      "mint": "2UMho4zUPqSKb2fbJbKNPf1dU1WKD6SfbNmVkvphpump",
-      "label": "十七",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=2UMho4zUPqSKb2fbJbKNPf1dU1WKD6SfbNmVkvphpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
