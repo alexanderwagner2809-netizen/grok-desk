@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T13:07:59.337864Z",
+  "ts": "2026-11-12T13:09:09.387527Z",
   "mint": "6RwrrJMapN5YzMJbLyN2LHxdHrnYisAWzxinQs3rpump",
   "name": "HEIRLOOM",
   "symbol": "HEIRLOOM",
@@ -11,8 +11,8 @@
   "creator": "D3n2kDyXBdGZQgtDvcCw6Xspbbd6pX7GuZDrHzon7vQU",
   "holders": null,
   "link": "https://fomo.family/coin?address=6RwrrJMapN5YzMJbLyN2LHxdHrnYisAWzxinQs3rpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.18e-06,
-  "priceTs": "2026-11-12T13:07:58.012697Z",
+  "price": 2.084e-06,
+  "priceTs": "2026-11-12T13:09:08.039537Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -400,12 +400,20 @@
       "l": 2.18e-06,
       "c": 2.18e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794488940,
+      "o": 2.084e-06,
+      "h": 2.084e-06,
+      "l": 2.084e-06,
+      "c": 2.084e-06,
+      "v": 53.65
     }
   ],
   "stats": {
-    "marketCap": 2068.0,
-    "liquidity": 2111.66,
-    "volume24h": 93921.87,
+    "marketCap": 1977.0,
+    "liquidity": 2032.23,
+    "volume24h": 93975.52,
     "holders": null
   },
   "position": null,
