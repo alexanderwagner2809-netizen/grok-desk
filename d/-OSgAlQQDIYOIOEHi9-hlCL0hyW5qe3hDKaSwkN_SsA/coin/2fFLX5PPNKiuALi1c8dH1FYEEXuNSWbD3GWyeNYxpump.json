@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:05:10.768105Z",
+  "ts": "2026-11-12T06:06:19.303225Z",
   "mint": "2fFLX5PPNKiuALi1c8dH1FYEEXuNSWbD3GWyeNYxpump",
   "name": "AudaCity",
   "symbol": "DacityCoin",
   "label": "AudaCity",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T06:03:36.937173Z",
   "pool": "EtLA6zbsTSWiQkd81e8WpkZcQqbRgye9wLSn62thMa2j",
   "creator": "7Hb1aeLjMvw75NsGhyEYA1KzczbYe2hMBXxK31Tr8KT2",
   "holders": null,
   "link": "https://fomo.family/coin?address=2fFLX5PPNKiuALi1c8dH1FYEEXuNSWbD3GWyeNYxpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001209,
-  "priceTs": "2026-11-12T06:05:10.429855Z",
+  "price": 0.0001279,
+  "priceTs": "2026-11-12T06:06:18.567151Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -32,15 +32,33 @@
       "l": 0.0001209,
       "c": 0.0001209,
       "v": 1402.4300000000003
+    },
+    {
+      "t": 1794463560,
+      "o": 0.0001279,
+      "h": 0.0001279,
+      "l": 0.0001279,
+      "c": 0.0001279,
+      "v": 1516.6099999999997
     }
   ],
   "stats": {
-    "marketCap": 120904.0,
-    "liquidity": 25091.22,
-    "volume24h": 7297.81,
+    "marketCap": 127943.0,
+    "liquidity": 25884.08,
+    "volume24h": 8814.42,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T06:05:50.717780Z",
+      "liquidity_usd": 24129.73,
+      "top10_pct": null,
+      "h1_change_pct": 225.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "+225% in 1h"
+    }
+  ]
 }
