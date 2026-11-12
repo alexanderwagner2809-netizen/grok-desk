@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T00:52:11.260682Z",
+  "ts": "2026-11-12T01:08:28.150289Z",
   "mint": "GPZt1Sh3YZme4uyRqqRcJ7DoPmiCCZifaL7P7RbSpump",
   "name": "SpaceX",
   "symbol": "SpaceX",
   "label": "SpaceX",
   "chain": "Solana",
-  "age": "3m old",
+  "age": "20m old",
   "migratedAt": "2026-11-12T00:48:22.303036Z",
   "pool": "9uoFUtscpwktLNgyGK4s8ebfgnr7D2XvmnrpfxbsmDtf",
   "creator": "A5ywLHARf249vREqPuhuVprJAwV5Y1itHpjy7XKXqzdy",
   "holders": null,
   "link": "https://fomo.family/coin?address=GPZt1Sh3YZme4uyRqqRcJ7DoPmiCCZifaL7P7RbSpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001029,
-  "priceTs": "2026-11-12T00:52:10.834197Z",
+  "price": 0.0001518,
+  "priceTs": "2026-11-12T01:08:27.729814Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -32,12 +32,20 @@
       "l": 0.0001029,
       "c": 0.0001029,
       "v": 384.52000000000044
+    },
+    {
+      "t": 1794445680,
+      "o": 0.0001518,
+      "h": 0.0001518,
+      "l": 0.0001518,
+      "c": 0.0001518,
+      "v": 350.5
     }
   ],
   "stats": {
-    "marketCap": 102903.0,
-    "liquidity": 23138.06,
-    "volume24h": 4755.39,
+    "marketCap": 151884.0,
+    "liquidity": 28394.09,
+    "volume24h": 20316.02,
     "holders": null
   },
   "position": null,
