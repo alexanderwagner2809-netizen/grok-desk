@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T17:11:46.625232Z",
+  "ts": "2026-11-12T17:38:00.078955Z",
   "mint": "ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump",
   "name": "Dickcoin",
   "symbol": "Dickcoin",
@@ -11,8 +11,8 @@
   "creator": "HqL3pnDShvccxs6CfovgQpjgtPimpC1DPBbyXq89htCH",
   "holders": null,
   "link": "https://fomo.family/coin?address=ExJnLySb5ktxBz9AXaVRmxjUTFCxeLuhvdKLkz2xpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.712e-06,
-  "priceTs": "2026-11-12T17:11:45.061590Z",
+  "price": 1.649e-06,
+  "priceTs": "2026-11-12T17:37:58.095762Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -576,12 +576,20 @@
       "l": 1.712e-06,
       "c": 1.712e-06,
       "v": 58.9
+    },
+    {
+      "t": 1794505020,
+      "o": 1.649e-06,
+      "h": 1.649e-06,
+      "l": 1.649e-06,
+      "c": 1.649e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1646.0,
-    "liquidity": 1762.07,
-    "volume24h": 156537.64,
+    "marketCap": 1585.0,
+    "liquidity": 1703.15,
+    "volume24h": 156581.65,
     "holders": null
   },
   "position": null,

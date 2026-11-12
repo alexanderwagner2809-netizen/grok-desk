@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T17:11:47.510921Z",
+  "ts": "2026-11-12T17:38:00.027490Z",
   "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
   "name": null,
   "symbol": null,
   "label": "TTWofwAg",
   "chain": "Solana",
-  "age": "3m old",
+  "age": "29m old",
   "migratedAt": "2026-11-12T17:08:47.216439Z",
   "pool": null,
   "creator": "CwWGWmE3MLyRmFiLkVsZU9oDyWhF3XtULciqTjj2bNkv",
   "holders": null,
   "link": "https://fomo.family/coin?address=TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo&chainId=1399811149&r=savipww&source=share_link",
-  "price": 225.82,
-  "priceTs": "2026-11-12T17:11:46.559756Z",
+  "price": 226.67,
+  "priceTs": "2026-11-12T17:37:57.793812Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -40,15 +40,33 @@
       "l": 225.82,
       "c": 225.82,
       "v": 6452.880000000001
+    },
+    {
+      "t": 1794505020,
+      "o": 226.67,
+      "h": 226.67,
+      "l": 226.67,
+      "c": 226.67,
+      "v": 16988.19
     }
   ],
   "stats": {
     "marketCap": 97.0,
-    "liquidity": 570488.33,
-    "volume24h": 8804323.92,
+    "liquidity": 611243.23,
+    "volume24h": 9293670.83,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T17:37:50.408538Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 29,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }

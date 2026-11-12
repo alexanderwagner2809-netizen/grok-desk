@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T17:11:47.531973Z",
+  "ts": "2026-11-12T17:38:01.011352Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T17:11:43.782253Z",
+  "heartbeat": "2026-11-12T17:37:50.144635Z",
   "paused": false,
   "status": "running",
-  "card": "283 pools",
-  "count": 283,
+  "card": "285 pools",
+  "count": 285,
   "passed": 0,
   "feed": [
+    {
+      "mint": "42u2hK7MAATde7emizLnoQ7P5JLuuwPHbkS1DC8npump",
+      "label": "AURACOIN",
+      "verdict": "kill",
+      "reason": "liq $2",
+      "subtitle": "liq $2",
+      "link": "https://fomo.family/coin?address=42u2hK7MAATde7emizLnoQ7P5JLuuwPHbkS1DC8npump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
+      "label": "TTWofwAg",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "FTsygApbDiJ8QY9heS4bapiXWiTV1YCwYT14LeDqmfRP",
       "label": "PillBoard",
@@ -58,27 +74,27 @@
       "reason": "never qualified",
       "subtitle": "never qualified",
       "link": "https://fomo.family/coin?address=EYJdXh4zdcTPbHVUd1hCY9ViRPTYEVTeST2hp6YBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "Dx3TdN7CR4knZBdfZ1X8oz4NaUQaWH92NAWNvNtqpump",
-      "label": "SPY",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=Dx3TdN7CR4knZBdfZ1X8oz4NaUQaWH92NAWNvNtqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "3mJEHbAtXuZ2oXXXY9Yk7bPM3z5Vr1x3yvc8SZXqpump",
-      "label": "TeslaAir",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=3mJEHbAtXuZ2oXXXY9Yk7bPM3z5Vr1x3yvc8SZXqpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T17:37:50.414961Z",
+      "mint": "42u2hK7MAATde7emizLnoQ7P5JLuuwPHbkS1DC8npump",
+      "label": "AURACOIN",
+      "verdict": "kill",
+      "reason": "liq $2",
+      "link": "https://fomo.family/coin?address=42u2hK7MAATde7emizLnoQ7P5JLuuwPHbkS1DC8npump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T17:37:50.408538Z",
+      "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
+      "label": "TTWofwAg",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T17:11:02.672069Z",
       "mint": "FTsygApbDiJ8QY9heS4bapiXWiTV1YCwYT14LeDqmfRP",
       "label": "PillBoard",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "+322% in 1h",
       "link": "https://fomo.family/coin?address=5ZA32FxzsxcSXZuYDbrxa9QVVvzkiLbisDb5VKmNpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:20:58.520179Z",
-      "mint": "3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump",
-      "label": "Spacesen Huang",
-      "verdict": "kill",
-      "reason": "liq $13.1K",
-      "link": "https://fomo.family/coin?address=3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:19:18.676763Z",
-      "mint": "65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump",
-      "label": "Bugles Cat",
-      "verdict": "kill",
-      "reason": "liq $12.6K",
-      "link": "https://fomo.family/coin?address=65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T17:37:50.414961Z",
+      "mint": "42u2hK7MAATde7emizLnoQ7P5JLuuwPHbkS1DC8npump",
+      "label": "AURACOIN",
+      "verdict": "kill",
+      "reason": "liq $2",
+      "link": "https://fomo.family/coin?address=42u2hK7MAATde7emizLnoQ7P5JLuuwPHbkS1DC8npump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T17:37:50.408538Z",
+      "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
+      "label": "TTWofwAg",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T17:11:02.672069Z",
       "mint": "FTsygApbDiJ8QY9heS4bapiXWiTV1YCwYT14LeDqmfRP",
       "label": "PillBoard",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "+322% in 1h",
       "link": "https://fomo.family/coin?address=5ZA32FxzsxcSXZuYDbrxa9QVVvzkiLbisDb5VKmNpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:20:58.520179Z",
-      "mint": "3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump",
-      "label": "Spacesen Huang",
-      "verdict": "kill",
-      "reason": "liq $13.1K",
-      "link": "https://fomo.family/coin?address=3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:19:18.676763Z",
-      "mint": "65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump",
-      "label": "Bugles Cat",
-      "verdict": "kill",
-      "reason": "liq $12.6K",
-      "link": "https://fomo.family/coin?address=65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
