@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T05:58:19.950888Z",
+  "ts": "2026-11-12T05:59:28.644571Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T05:58:18.337666Z",
+  "heartbeat": "2026-11-12T05:59:18.354410Z",
   "paused": false,
   "status": "running",
-  "card": "114 pools",
-  "count": 114,
+  "card": "116 pools",
+  "count": 116,
   "passed": 0,
   "feed": [
+    {
+      "mint": "2AxXaH7yux57p6ekC87uRaZ1mw3HEUG2aL6Cukgcpump",
+      "label": "CATECOIN",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=2AxXaH7yux57p6ekC87uRaZ1mw3HEUG2aL6Cukgcpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "EHqwnujJP7j49uhvfFdSJVHEC4w5du66RdwWHdbZpump",
+      "label": "maritains",
+      "verdict": "kill",
+      "reason": "liq $35",
+      "subtitle": "liq $35",
+      "link": "https://fomo.family/coin?address=EHqwnujJP7j49uhvfFdSJVHEC4w5du66RdwWHdbZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "CRdKadC7DZEFYZPRLcHUvpYur8ud4oKnb8PHFT6Wpump",
       "label": "ORGASM",
@@ -58,27 +74,27 @@
       "reason": "liq $31.9K",
       "subtitle": "liq $31.9K",
       "link": "https://fomo.family/coin?address=Eh5zz6vrPK66MHzhBLrzEFHvATE7Z1SqoALzcNu4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump",
-      "label": "green cat",
-      "verdict": "kill",
-      "reason": "liq $30",
-      "subtitle": "liq $30",
-      "link": "https://fomo.family/coin?address=EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump",
-      "label": "Anthropic official",
-      "verdict": "kill",
-      "reason": "liq $20.1K",
-      "subtitle": "liq $20.1K",
-      "link": "https://fomo.family/coin?address=EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T05:58:43.562484Z",
+      "mint": "2AxXaH7yux57p6ekC87uRaZ1mw3HEUG2aL6Cukgcpump",
+      "label": "CATECOIN",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=2AxXaH7yux57p6ekC87uRaZ1mw3HEUG2aL6Cukgcpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T05:58:43.559849Z",
+      "mint": "EHqwnujJP7j49uhvfFdSJVHEC4w5du66RdwWHdbZpump",
+      "label": "maritains",
+      "verdict": "kill",
+      "reason": "liq $35",
+      "link": "https://fomo.family/coin?address=EHqwnujJP7j49uhvfFdSJVHEC4w5du66RdwWHdbZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T05:57:43.442494Z",
       "mint": "CRdKadC7DZEFYZPRLcHUvpYur8ud4oKnb8PHFT6Wpump",
       "label": "ORGASM",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=2LTpMuucRmNE9B56Q69USDYjSm2KJynLr7zmDrgJpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T03:42:55.632466Z",
-      "mint": "5kiVCtrqoJ1T9pUZf6C91kUnVJuhgdLKtibDhJ3ppump",
-      "label": "GABOON",
-      "verdict": "kill",
-      "reason": "liq $17.6K",
-      "link": "https://fomo.family/coin?address=5kiVCtrqoJ1T9pUZf6C91kUnVJuhgdLKtibDhJ3ppump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T03:28:11.467608Z",
-      "mint": "B2FVnR9VQpQrUkVdTye8cycHHzxdwuFKiju7LJtJpump",
-      "label": "SS1 GOKU",
-      "verdict": "kill",
-      "reason": "liq $7",
-      "link": "https://fomo.family/coin?address=B2FVnR9VQpQrUkVdTye8cycHHzxdwuFKiju7LJtJpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T05:58:43.562484Z",
+      "mint": "2AxXaH7yux57p6ekC87uRaZ1mw3HEUG2aL6Cukgcpump",
+      "label": "CATECOIN",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=2AxXaH7yux57p6ekC87uRaZ1mw3HEUG2aL6Cukgcpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T05:58:43.559849Z",
+      "mint": "EHqwnujJP7j49uhvfFdSJVHEC4w5du66RdwWHdbZpump",
+      "label": "maritains",
+      "verdict": "kill",
+      "reason": "liq $35",
+      "link": "https://fomo.family/coin?address=EHqwnujJP7j49uhvfFdSJVHEC4w5du66RdwWHdbZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T05:57:43.442494Z",
       "mint": "CRdKadC7DZEFYZPRLcHUvpYur8ud4oKnb8PHFT6Wpump",
       "label": "ORGASM",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=2LTpMuucRmNE9B56Q69USDYjSm2KJynLr7zmDrgJpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T03:42:55.632466Z",
-      "mint": "5kiVCtrqoJ1T9pUZf6C91kUnVJuhgdLKtibDhJ3ppump",
-      "label": "GABOON",
-      "verdict": "kill",
-      "reason": "liq $17.6K",
-      "link": "https://fomo.family/coin?address=5kiVCtrqoJ1T9pUZf6C91kUnVJuhgdLKtibDhJ3ppump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T03:28:11.467608Z",
-      "mint": "B2FVnR9VQpQrUkVdTye8cycHHzxdwuFKiju7LJtJpump",
-      "label": "SS1 GOKU",
-      "verdict": "kill",
-      "reason": "liq $7",
-      "link": "https://fomo.family/coin?address=B2FVnR9VQpQrUkVdTye8cycHHzxdwuFKiju7LJtJpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
