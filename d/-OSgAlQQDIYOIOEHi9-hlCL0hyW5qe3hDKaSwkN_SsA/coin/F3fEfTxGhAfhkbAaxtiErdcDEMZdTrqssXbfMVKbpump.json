@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T20:58:13.258232Z",
+  "ts": "2026-11-12T20:59:23.382819Z",
   "mint": "F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump",
   "name": "Jensen Huang Coin",
   "symbol": "JENSEN",
@@ -11,8 +11,8 @@
   "creator": "GZERM7uzaVAq7u7g6uibUbqTFFzBgtr2hvgMYFCSNidW",
   "holders": null,
   "link": "https://fomo.family/coin?address=F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0004201,
-  "priceTs": "2026-11-12T20:58:13.067412Z",
+  "price": 0.0003164,
+  "priceTs": "2026-11-12T20:59:23.180338Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -448,12 +448,20 @@
       "l": 0.0004201,
       "c": 0.0004201,
       "v": 0.0
+    },
+    {
+      "t": 1794517140,
+      "o": 0.0003164,
+      "h": 0.0003164,
+      "l": 0.0003164,
+      "c": 0.0003164,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 417745.0,
-    "liquidity": 49335.7,
-    "volume24h": 719368.95,
+    "marketCap": 314641.0,
+    "liquidity": 42645.83,
+    "volume24h": 726861.5,
     "holders": null
   },
   "position": null,
