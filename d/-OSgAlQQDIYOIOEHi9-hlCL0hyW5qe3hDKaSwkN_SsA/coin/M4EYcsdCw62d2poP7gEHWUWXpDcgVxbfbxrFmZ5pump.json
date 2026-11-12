@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-12T11:55:44.546963Z",
+  "ts": "2026-11-12T11:56:53.314487Z",
   "mint": "M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump",
-  "name": null,
-  "symbol": null,
-  "label": "M4EYcsdC",
+  "name": "NATF",
+  "symbol": "NATF",
+  "label": "NATF",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T11:55:22.980670Z",
-  "pool": null,
+  "pool": "GfDkSKnXksJedDbc1hzWbZ2q5kQUr6XDV5Q9W5LTJDXm",
   "creator": "3TuquBKoEC4FCeRVCJerb39FmBPrREGn9ngph8VyBpNx",
   "holders": null,
   "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 0.005281,
+  "priceTs": "2026-11-12T11:56:52.011502Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794484560,
+      "o": 0.005251,
+      "h": 0.005281,
+      "l": 0.005251,
+      "c": 0.005281,
+      "v": 158.8799999999901
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 5281530.0,
+    "liquidity": 174283.28,
+    "volume24h": 81042.2,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T11:56:26.231872Z",
+      "liquidity_usd": 173778.64,
+      "top10_pct": null,
+      "h1_change_pct": 15118.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "+15118% in 1h"
+    }
+  ]
 }

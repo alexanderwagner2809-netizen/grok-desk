@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T11:55:44.556587Z",
+  "ts": "2026-11-12T11:56:53.934679Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T11:55:40.260809Z",
+  "heartbeat": "2026-11-12T11:56:51.721641Z",
   "paused": false,
   "status": "running",
-  "card": "211 pools",
-  "count": 211,
+  "card": "212 pools",
+  "count": 212,
   "passed": 0,
   "feed": [
+    {
+      "mint": "M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump",
+      "label": "NATF",
+      "verdict": "kill",
+      "reason": "+15118% in 1h",
+      "subtitle": "+15118% in 1h",
+      "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "Hj3iyUwYPJR5q4HSwxZ23CB32ry42ybwwDDEUbLYpump",
       "label": "Robinhood",
@@ -66,19 +74,19 @@
       "reason": "liq $6.0K",
       "subtitle": "liq $6.0K",
       "link": "https://fomo.family/coin?address=7avhD1xZgH6m49AkpJwbnVZGa72LmJGasSma6kRKpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5WX32yn4wsN2dppKhvGyz5nKLL8rTLpPfn8Xf1kopump",
-      "label": "Salute",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=5WX32yn4wsN2dppKhvGyz5nKLL8rTLpPfn8Xf1kopump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T11:56:26.231872Z",
+      "mint": "M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump",
+      "label": "NATF",
+      "verdict": "kill",
+      "reason": "+15118% in 1h",
+      "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T11:55:10.975113Z",
       "mint": "Hj3iyUwYPJR5q4HSwxZ23CB32ry42ybwwDDEUbLYpump",
       "label": "Robinhood",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=CrRbQeKKFtYT9AbWwRNJ2sP3STYmqjWGnTamo5ozKray&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T09:49:08.217564Z",
-      "mint": "Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump",
-      "label": "Shitcoin",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T11:56:26.231872Z",
+      "mint": "M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump",
+      "label": "NATF",
+      "verdict": "kill",
+      "reason": "+15118% in 1h",
+      "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T11:55:10.975113Z",
       "mint": "Hj3iyUwYPJR5q4HSwxZ23CB32ry42ybwwDDEUbLYpump",
       "label": "Robinhood",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=CrRbQeKKFtYT9AbWwRNJ2sP3STYmqjWGnTamo5ozKray&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T09:49:08.217564Z",
-      "mint": "Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump",
-      "label": "Shitcoin",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
