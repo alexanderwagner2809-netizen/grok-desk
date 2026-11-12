@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T06:46:39.305086Z",
+  "ts": "2026-11-12T06:47:47.635118Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T06:46:37.544435Z",
+      "heartbeat": "2026-11-12T06:47:42.645214Z",
       "paused": false,
       "status": "running",
-      "card": "138 pools",
-      "count": 138,
+      "card": "140 pools",
+      "count": 140,
       "passed": 0,
       "feed": [
+        {
+          "mint": "GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump",
+          "label": "dͨoͣgͭ",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "DvTRRxEoDRtmwvWHPYa5BG7ALEFnd5e5VwQKpziMpump",
+          "label": "Hopium Mining & Refining Corp.",
+          "verdict": "kill",
+          "reason": "liq $55",
+          "subtitle": "liq $55",
+          "link": "https://fomo.family/coin?address=DvTRRxEoDRtmwvWHPYa5BG7ALEFnd5e5VwQKpziMpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "DLZwryJNuqPLPtFdh6YNn8pD5xJaJ5EaoMcXCW8bpump",
           "label": "KOSHAR!",
@@ -66,22 +82,6 @@
           "reason": "liq $16.1K",
           "subtitle": "liq $16.1K",
           "link": "https://fomo.family/coin?address=DdS7pPMcMB1ZvH9JyU31wrXE49oMTdeRH9dbtGTrpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump",
-          "label": "XomoPay",
-          "verdict": "kill",
-          "reason": "liq $0",
-          "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "FX6q5T6fnRk49raPNQFKYAWebogXTq1Xj8gQUgo8pump",
-          "label": "maritains",
-          "verdict": "kill",
-          "reason": "liq $68",
-          "subtitle": "liq $68",
-          "link": "https://fomo.family/coin?address=FX6q5T6fnRk49raPNQFKYAWebogXTq1Xj8gQUgo8pump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T06:46:38.726578Z",
+      "heartbeat": "2026-11-12T06:47:46.843850Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T06:46:38.727201Z",
+      "heartbeat": "2026-11-12T06:47:46.847544Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T06:46:38.727334Z",
+      "heartbeat": "2026-11-12T06:47:46.847986Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T06:46:37.415406Z",
+      "heartbeat": "2026-11-12T06:47:42.449863Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

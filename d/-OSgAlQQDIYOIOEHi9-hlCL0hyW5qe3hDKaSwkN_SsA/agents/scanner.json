@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T06:46:39.514558Z",
+  "ts": "2026-11-12T06:47:47.875167Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T06:46:37.544435Z",
+  "heartbeat": "2026-11-12T06:47:42.645214Z",
   "paused": false,
   "status": "running",
-  "card": "138 pools",
-  "count": 138,
+  "card": "140 pools",
+  "count": 140,
   "passed": 0,
   "feed": [
+    {
+      "mint": "GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump",
+      "label": "dͨoͣgͭ",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "DvTRRxEoDRtmwvWHPYa5BG7ALEFnd5e5VwQKpziMpump",
+      "label": "Hopium Mining & Refining Corp.",
+      "verdict": "kill",
+      "reason": "liq $55",
+      "subtitle": "liq $55",
+      "link": "https://fomo.family/coin?address=DvTRRxEoDRtmwvWHPYa5BG7ALEFnd5e5VwQKpziMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "DLZwryJNuqPLPtFdh6YNn8pD5xJaJ5EaoMcXCW8bpump",
       "label": "KOSHAR!",
@@ -58,27 +74,27 @@
       "reason": "liq $16.1K",
       "subtitle": "liq $16.1K",
       "link": "https://fomo.family/coin?address=DdS7pPMcMB1ZvH9JyU31wrXE49oMTdeRH9dbtGTrpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump",
-      "label": "XomoPay",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "FX6q5T6fnRk49raPNQFKYAWebogXTq1Xj8gQUgo8pump",
-      "label": "maritains",
-      "verdict": "kill",
-      "reason": "liq $68",
-      "subtitle": "liq $68",
-      "link": "https://fomo.family/coin?address=FX6q5T6fnRk49raPNQFKYAWebogXTq1Xj8gQUgo8pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T06:46:53.032670Z",
+      "mint": "GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump",
+      "label": "dͨoͣgͭ",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T06:46:47.920277Z",
+      "mint": "DvTRRxEoDRtmwvWHPYa5BG7ALEFnd5e5VwQKpziMpump",
+      "label": "Hopium Mining & Refining Corp.",
+      "verdict": "kill",
+      "reason": "liq $55",
+      "link": "https://fomo.family/coin?address=DvTRRxEoDRtmwvWHPYa5BG7ALEFnd5e5VwQKpziMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:45:48.087887Z",
       "mint": "DLZwryJNuqPLPtFdh6YNn8pD5xJaJ5EaoMcXCW8bpump",
       "label": "KOSHAR!",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "+225% in 1h",
       "link": "https://fomo.family/coin?address=2fFLX5PPNKiuALi1c8dH1FYEEXuNSWbD3GWyeNYxpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T06:04:17.911385Z",
-      "mint": "CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump",
-      "label": "Pepe Fly Adventure",
-      "verdict": "kill",
-      "reason": "liq $54",
-      "link": "https://fomo.family/coin?address=CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T06:01:17.724182Z",
-      "mint": "9sRDQgAWDMjVLmtJfcF2dPC2YE3A3x597H8o4ketpump",
-      "label": "fine shyt cat",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=9sRDQgAWDMjVLmtJfcF2dPC2YE3A3x597H8o4ketpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T06:46:53.032670Z",
+      "mint": "GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump",
+      "label": "dͨoͣgͭ",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T06:46:47.920277Z",
+      "mint": "DvTRRxEoDRtmwvWHPYa5BG7ALEFnd5e5VwQKpziMpump",
+      "label": "Hopium Mining & Refining Corp.",
+      "verdict": "kill",
+      "reason": "liq $55",
+      "link": "https://fomo.family/coin?address=DvTRRxEoDRtmwvWHPYa5BG7ALEFnd5e5VwQKpziMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:45:48.087887Z",
       "mint": "DLZwryJNuqPLPtFdh6YNn8pD5xJaJ5EaoMcXCW8bpump",
       "label": "KOSHAR!",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "+225% in 1h",
       "link": "https://fomo.family/coin?address=2fFLX5PPNKiuALi1c8dH1FYEEXuNSWbD3GWyeNYxpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T06:04:17.911385Z",
-      "mint": "CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump",
-      "label": "Pepe Fly Adventure",
-      "verdict": "kill",
-      "reason": "liq $54",
-      "link": "https://fomo.family/coin?address=CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T06:01:17.724182Z",
-      "mint": "9sRDQgAWDMjVLmtJfcF2dPC2YE3A3x597H8o4ketpump",
-      "label": "fine shyt cat",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=9sRDQgAWDMjVLmtJfcF2dPC2YE3A3x597H8o4ketpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:46:39.488352Z",
+  "ts": "2026-11-12T06:47:47.641489Z",
   "mint": "DvTRRxEoDRtmwvWHPYa5BG7ALEFnd5e5VwQKpziMpump",
-  "name": null,
-  "symbol": null,
-  "label": "DvTRRxEo",
+  "name": "Hopium Mining & Refining Corp.",
+  "symbol": "$HOPE",
+  "label": "Hopium Mining & Refining Corp.",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T06:45:49.434634Z",
-  "pool": null,
+  "pool": "TFba8SgHdSfHypuoPhhgdmMGV6srFLMoZfFyB9sY3Y6",
   "creator": "Cd5hxg3FPt3obzPg7MW46QCwUwKd4YvdKCaZjZDpaVu7",
   "holders": null,
   "link": "https://fomo.family/coin?address=DvTRRxEoDRtmwvWHPYa5BG7ALEFnd5e5VwQKpziMpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.755e-08,
-  "priceTs": "2026-11-12T06:46:39.210402Z",
+  "price": 1.505e-07,
+  "priceTs": "2026-11-12T06:47:46.821755Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 8.755e-08,
       "c": 8.755e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794466020,
+      "o": 1.505e-07,
+      "h": 1.505e-07,
+      "l": 1.505e-07,
+      "c": 1.505e-07,
+      "v": 176.19000000000003
     }
   ],
   "stats": {
-    "marketCap": 175.0,
-    "liquidity": 55.02,
-    "volume24h": 161.53,
+    "marketCap": 301.0,
+    "liquidity": 277.81,
+    "volume24h": 337.72,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T06:46:47.920277Z",
+      "liquidity_usd": 55.02,
+      "top10_pct": null,
+      "h1_change_pct": 5.7,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $55"
+    }
+  ]
 }
