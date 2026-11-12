@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T09:43:37.090491Z",
+  "ts": "2026-11-12T09:44:46.064360Z",
   "mint": "4LLaZiqwsEM4G9G37taPTYNnqGa9g1vVuakWKn6Upump",
-  "name": null,
-  "symbol": null,
-  "label": "4LLaZiqw",
+  "name": "X Aurora",
+  "symbol": "AURAx",
+  "label": "X Aurora",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T09:43:16.215134Z",
-  "pool": null,
+  "pool": "AwKvcae7fxX7SfmBEYwr4eiixUdqbEXv8CUvzGvfpDM8",
   "creator": "7c3AX7KjwuGguyoE87XDJL2hQBNv3WTRD8NCUWKWsShi",
   "holders": null,
   "link": "https://fomo.family/coin?address=4LLaZiqwsEM4G9G37taPTYNnqGa9g1vVuakWKn6Upump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.866e-07,
-  "priceTs": "2026-11-12T09:43:36.305660Z",
+  "price": 8.117e-07,
+  "priceTs": "2026-11-12T09:44:44.970139Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 1.866e-07,
       "c": 1.866e-07,
       "v": 0.0
+    },
+    {
+      "t": 1794476640,
+      "o": 8.117e-07,
+      "h": 8.117e-07,
+      "l": 8.117e-07,
+      "c": 8.117e-07,
+      "v": 57.55
     }
   ],
   "stats": {
-    "marketCap": 373.0,
-    "liquidity": null,
-    "volume24h": 0.02,
+    "marketCap": 1623.0,
+    "liquidity": 163.03,
+    "volume24h": 57.57,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T09:43:44.497039Z",
+      "liquidity_usd": 76.69,
+      "top10_pct": null,
+      "h1_change_pct": 0.1,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $77"
+    }
+  ]
 }

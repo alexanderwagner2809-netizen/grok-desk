@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T09:43:37.352759Z",
+  "ts": "2026-11-12T09:44:46.568080Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T09:43:33.479481Z",
+  "heartbeat": "2026-11-12T09:44:45.789320Z",
   "paused": false,
   "status": "running",
-  "card": "188 pools",
-  "count": 188,
+  "card": "190 pools",
+  "count": 190,
   "passed": 0,
   "feed": [
+    {
+      "mint": "GTRpVMM2ojva65Z4jaSZWTpf6vdxPMUMJJEFLS2gpump",
+      "label": "GTA 6 Updates",
+      "verdict": "kill",
+      "reason": "+162% in 1h",
+      "subtitle": "+162% in 1h",
+      "link": "https://fomo.family/coin?address=GTRpVMM2ojva65Z4jaSZWTpf6vdxPMUMJJEFLS2gpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "4LLaZiqwsEM4G9G37taPTYNnqGa9g1vVuakWKn6Upump",
+      "label": "X Aurora",
+      "verdict": "kill",
+      "reason": "liq $77",
+      "subtitle": "liq $77",
+      "link": "https://fomo.family/coin?address=4LLaZiqwsEM4G9G37taPTYNnqGa9g1vVuakWKn6Upump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "8sTA3v7me1CDAw6zLDTwfbeVGaFG6RiHTASF7aLpump",
       "label": "Be Nice To Claude",
@@ -58,27 +74,27 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=4SKc6peHq1Je3kWyGt7CQnRjnVphuwd425kcwqPapump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump",
-      "label": "Paid",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "k7FcrVhQ4CbYPkATSuxVGZKjX2Ny545B1Pdn8uUpump",
-      "label": "Joe the bourbon connoisseur",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=k7FcrVhQ4CbYPkATSuxVGZKjX2Ny545B1Pdn8uUpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T09:44:20.326929Z",
+      "mint": "GTRpVMM2ojva65Z4jaSZWTpf6vdxPMUMJJEFLS2gpump",
+      "label": "GTA 6 Updates",
+      "verdict": "kill",
+      "reason": "+162% in 1h",
+      "link": "https://fomo.family/coin?address=GTRpVMM2ojva65Z4jaSZWTpf6vdxPMUMJJEFLS2gpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T09:43:44.497039Z",
+      "mint": "4LLaZiqwsEM4G9G37taPTYNnqGa9g1vVuakWKn6Upump",
+      "label": "X Aurora",
+      "verdict": "kill",
+      "reason": "liq $77",
+      "link": "https://fomo.family/coin?address=4LLaZiqwsEM4G9G37taPTYNnqGa9g1vVuakWKn6Upump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T09:41:12.596709Z",
       "mint": "8sTA3v7me1CDAw6zLDTwfbeVGaFG6RiHTASF7aLpump",
       "label": "Be Nice To Claude",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $15.9K",
       "link": "https://fomo.family/coin?address=2rQWxRpgpxd9a24jK829ECcwWYnonPYmPRG9gG5cpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:26:49.191861Z",
-      "mint": "2LxzNxVNkUMBvUXQthwxEGY8AnwRJcUQN7UkP2YGpump",
-      "label": "VRL",
-      "verdict": "kill",
-      "reason": "liq $69",
-      "link": "https://fomo.family/coin?address=2LxzNxVNkUMBvUXQthwxEGY8AnwRJcUQN7UkP2YGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:26:14.915630Z",
-      "mint": "APXiXy9vHoNVfxznnT9CAqjBezP3oNivAgPfoQ5jpump",
-      "label": "beer",
-      "verdict": "kill",
-      "reason": "liq $11",
-      "link": "https://fomo.family/coin?address=APXiXy9vHoNVfxznnT9CAqjBezP3oNivAgPfoQ5jpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T09:44:20.326929Z",
+      "mint": "GTRpVMM2ojva65Z4jaSZWTpf6vdxPMUMJJEFLS2gpump",
+      "label": "GTA 6 Updates",
+      "verdict": "kill",
+      "reason": "+162% in 1h",
+      "link": "https://fomo.family/coin?address=GTRpVMM2ojva65Z4jaSZWTpf6vdxPMUMJJEFLS2gpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T09:43:44.497039Z",
+      "mint": "4LLaZiqwsEM4G9G37taPTYNnqGa9g1vVuakWKn6Upump",
+      "label": "X Aurora",
+      "verdict": "kill",
+      "reason": "liq $77",
+      "link": "https://fomo.family/coin?address=4LLaZiqwsEM4G9G37taPTYNnqGa9g1vVuakWKn6Upump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T09:41:12.596709Z",
       "mint": "8sTA3v7me1CDAw6zLDTwfbeVGaFG6RiHTASF7aLpump",
       "label": "Be Nice To Claude",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $15.9K",
       "link": "https://fomo.family/coin?address=2rQWxRpgpxd9a24jK829ECcwWYnonPYmPRG9gG5cpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:26:49.191861Z",
-      "mint": "2LxzNxVNkUMBvUXQthwxEGY8AnwRJcUQN7UkP2YGpump",
-      "label": "VRL",
-      "verdict": "kill",
-      "reason": "liq $69",
-      "link": "https://fomo.family/coin?address=2LxzNxVNkUMBvUXQthwxEGY8AnwRJcUQN7UkP2YGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:26:14.915630Z",
-      "mint": "APXiXy9vHoNVfxznnT9CAqjBezP3oNivAgPfoQ5jpump",
-      "label": "beer",
-      "verdict": "kill",
-      "reason": "liq $11",
-      "link": "https://fomo.family/coin?address=APXiXy9vHoNVfxznnT9CAqjBezP3oNivAgPfoQ5jpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
