@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T12:10:35.808343Z",
+  "ts": "2026-11-12T13:05:39.406192Z",
   "mint": "3Vmrfa2npEBFmLp4q3omnrFWKSsgWoev6ZMhymZfpump",
   "name": null,
   "symbol": null,
   "label": "3Vmrfa2n",
   "chain": "Solana",
-  "age": "18m old",
+  "age": "1h old",
   "migratedAt": "2026-11-12T11:52:23.595103Z",
   "pool": null,
   "creator": "8siEixJMq2JXkDU6tdncBhG4R6J1Avnnpcb2kAXKqMMW",
   "holders": null,
   "link": "https://fomo.family/coin?address=3Vmrfa2npEBFmLp4q3omnrFWKSsgWoev6ZMhymZfpump&chainId=1399811149&r=savipww&source=share_link",
   "price": 3.385e-05,
-  "priceTs": "2026-11-12T12:10:34.677355Z",
+  "priceTs": "2026-11-12T13:05:38.075682Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -120,6 +120,14 @@
       "l": 3.385e-05,
       "c": 3.385e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794488700,
+      "o": 3.385e-05,
+      "h": 3.385e-05,
+      "l": 3.385e-05,
+      "c": 3.385e-05,
+      "v": 0.0
     }
   ],
   "stats": {
@@ -130,5 +138,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T13:04:55.546649Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 72,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }

@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T12:10:36.243995Z",
+  "ts": "2026-11-12T13:05:39.405011Z",
   "mint": "jbL44HhSdvbpL1mK5z6jTVn7QjcnhyRghE7BH3Jpump",
   "name": null,
   "symbol": null,
   "label": "jbL44HhS",
   "chain": "Solana",
-  "age": "5m old",
+  "age": "1h old",
   "migratedAt": "2026-11-12T12:04:39.532635Z",
   "pool": null,
   "creator": "361zRz929xDMBEqcGU97DJ68PR6Zu95mroXdbLRERrPx",
   "holders": null,
   "link": "https://fomo.family/coin?address=jbL44HhSdvbpL1mK5z6jTVn7QjcnhyRghE7BH3Jpump&chainId=1399811149&r=savipww&source=share_link",
   "price": 3.383e-05,
-  "priceTs": "2026-11-12T12:10:35.593517Z",
+  "priceTs": "2026-11-12T13:05:38.075682Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -40,6 +40,14 @@
       "l": 3.383e-05,
       "c": 3.383e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794488700,
+      "o": 3.383e-05,
+      "h": 3.383e-05,
+      "l": 3.383e-05,
+      "c": 3.383e-05,
+      "v": 0.0
     }
   ],
   "stats": {
@@ -50,5 +58,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T13:04:55.550667Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 60,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }
