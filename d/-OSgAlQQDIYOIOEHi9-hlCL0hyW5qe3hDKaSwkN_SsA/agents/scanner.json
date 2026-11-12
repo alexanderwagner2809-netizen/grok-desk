@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T18:09:52.773128Z",
+  "ts": "2026-11-12T18:11:04.899915Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T18:09:41.126207Z",
+  "heartbeat": "2026-11-12T18:10:59.349889Z",
   "paused": false,
   "status": "running",
-  "card": "293 pools",
-  "count": 293,
+  "card": "294 pools",
+  "count": 294,
   "passed": 0,
   "feed": [
+    {
+      "mint": "7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump",
+      "label": "MOMMY SU",
+      "verdict": "kill",
+      "reason": "liq $17.5K",
+      "subtitle": "liq $17.5K",
+      "link": "https://fomo.family/coin?address=7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump",
       "label": "HuangFu",
@@ -66,19 +74,19 @@
       "reason": "liq $10.2K",
       "subtitle": "liq $10.2K",
       "link": "https://fomo.family/coin?address=5Rg7YLbmUab42TKyuE18JxioNzofzG7n1gRWzqGXpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "3TZTcMvgST9TiMuiv1ALfU4tTBkLc6LbMjCjAaEjpump",
-      "label": "SIDOGE",
-      "verdict": "kill",
-      "reason": "liq $11.8K",
-      "subtitle": "liq $11.8K",
-      "link": "https://fomo.family/coin?address=3TZTcMvgST9TiMuiv1ALfU4tTBkLc6LbMjCjAaEjpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T18:10:59.399522Z",
+      "mint": "7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump",
+      "label": "MOMMY SU",
+      "verdict": "kill",
+      "reason": "liq $17.5K",
+      "link": "https://fomo.family/coin?address=7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T17:46:58.362421Z",
       "mint": "CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump",
       "label": "HuangFu",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "+262% in 1h",
       "link": "https://fomo.family/coin?address=5ba8HwNgio5t86aFdWJ81w5pNHjbqAKPKejTsVoDpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:41:30.003384Z",
-      "mint": "58okqXoxYh1hbSgvUjHG4iNw1PekncGvAxGFRoRDpump",
-      "label": "The Trump Files",
-      "verdict": "kill",
-      "reason": "liq $11.8K",
-      "link": "https://fomo.family/coin?address=58okqXoxYh1hbSgvUjHG4iNw1PekncGvAxGFRoRDpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T18:10:59.399522Z",
+      "mint": "7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump",
+      "label": "MOMMY SU",
+      "verdict": "kill",
+      "reason": "liq $17.5K",
+      "link": "https://fomo.family/coin?address=7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T17:46:58.362421Z",
       "mint": "CMkSLsfeiGKGf2DUkrtcG4hVHqbjM4UtcepeEB3Wpump",
       "label": "HuangFu",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "+262% in 1h",
       "link": "https://fomo.family/coin?address=5ba8HwNgio5t86aFdWJ81w5pNHjbqAKPKejTsVoDpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:41:30.003384Z",
-      "mint": "58okqXoxYh1hbSgvUjHG4iNw1PekncGvAxGFRoRDpump",
-      "label": "The Trump Files",
-      "verdict": "kill",
-      "reason": "liq $11.8K",
-      "link": "https://fomo.family/coin?address=58okqXoxYh1hbSgvUjHG4iNw1PekncGvAxGFRoRDpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
