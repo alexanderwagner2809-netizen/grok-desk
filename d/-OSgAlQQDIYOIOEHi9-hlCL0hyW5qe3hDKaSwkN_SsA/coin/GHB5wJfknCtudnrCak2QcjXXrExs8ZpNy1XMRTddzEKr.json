@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T20:08:20.669862Z",
+  "ts": "2026-11-12T20:09:31.212116Z",
   "mint": "GHB5wJfknCtudnrCak2QcjXXrExs8ZpNy1XMRTddzEKr",
-  "name": null,
-  "symbol": null,
-  "label": "GHB5wJfk",
+  "name": "Hachiko",
+  "symbol": "HACHIKO",
+  "label": "Hachiko",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T20:07:43.277439Z",
-  "pool": null,
+  "pool": "HWBAWWCj9x27PmvJCAS6zmLbFKBKnMCmmTdsNBVqrT8g",
   "creator": "HtzcmXndowEV3JpQ1nLTAZPgog2CrVym9Z6UnfNZAfqF",
   "holders": null,
   "link": "https://fomo.family/coin?address=GHB5wJfknCtudnrCak2QcjXXrExs8ZpNy1XMRTddzEKr&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.294e-05,
-  "priceTs": "2026-11-12T20:08:19.450464Z",
+  "price": 4.967e-05,
+  "priceTs": "2026-11-12T20:09:29.037788Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 5.294e-05,
       "c": 5.294e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794514140,
+      "o": 4.967e-05,
+      "h": 4.967e-05,
+      "l": 4.967e-05,
+      "c": 4.967e-05,
+      "v": 437.5799999999999
     }
   ],
   "stats": {
-    "marketCap": 52940.0,
-    "liquidity": 15994.57,
-    "volume24h": 1791.13,
+    "marketCap": 49671.0,
+    "liquidity": 15451.63,
+    "volume24h": 2228.71,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:08:46.418398Z",
+      "liquidity_usd": 15994.57,
+      "top10_pct": null,
+      "h1_change_pct": 55.98,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $16.0K"
+    }
+  ]
 }
