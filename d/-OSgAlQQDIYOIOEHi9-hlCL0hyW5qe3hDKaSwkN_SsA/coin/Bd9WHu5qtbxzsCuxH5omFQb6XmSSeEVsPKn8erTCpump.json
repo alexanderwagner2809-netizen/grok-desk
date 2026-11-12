@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T13:07:59.319932Z",
+  "mint": "Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump",
+  "name": "Paul Atreides",
+  "symbol": "PAUL",
+  "label": "Paul Atreides",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T13:07:10.721544Z",
+  "pool": "DgiQPcYLMBm6MK331kabfLpMxqUQzHnUE3gSnBbH7nHG",
+  "creator": "89PubRB6qFseWPEQb7B9ZhjmvE8oVGVCCcsc8PD2PtfX",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=Bd9WHu5qtbxzsCuxH5omFQb6XmSSeEVsPKn8erTCpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 4.19e-05,
+  "priceTs": "2026-11-12T13:07:58.012697Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794488820,
+      "o": 4.19e-05,
+      "h": 4.19e-05,
+      "l": 4.19e-05,
+      "c": 4.19e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 41855.0,
+    "liquidity": 16131.01,
+    "volume24h": 876.18,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T13:07:53.527235Z",
+      "liquidity_usd": 16131.01,
+      "top10_pct": null,
+      "h1_change_pct": -7.82,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $16.1K"
+    }
+  ]
+}
