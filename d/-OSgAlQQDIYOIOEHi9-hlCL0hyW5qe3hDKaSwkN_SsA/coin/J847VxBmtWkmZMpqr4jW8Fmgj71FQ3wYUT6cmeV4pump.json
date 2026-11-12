@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-12T21:00:34.963669Z",
+  "ts": "2026-11-12T21:01:43.427315Z",
   "mint": "J847VxBmtWkmZMpqr4jW8Fmgj71FQ3wYUT6cmeV4pump",
-  "name": null,
-  "symbol": null,
-  "label": "J847VxBm",
+  "name": "Barbie Boy",
+  "symbol": "Barbieboy",
+  "label": "Barbie Boy",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T21:00:02.869518Z",
-  "pool": null,
+  "pool": "22srmbYfE4eTZXFxptoCMKu2s9DmqRyXox2HG36tPHuW",
   "creator": "Csbv2HzfXgTuLYH637Sbk3BYH61XzcwJBVLh6yuJAGMY",
   "holders": null,
   "link": "https://fomo.family/coin?address=J847VxBmtWkmZMpqr4jW8Fmgj71FQ3wYUT6cmeV4pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.225e-08,
+  "priceTs": "2026-11-12T21:01:43.165419Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794517260,
+      "o": 7.912e-08,
+      "h": 7.912e-08,
+      "l": 2.225e-08,
+      "c": 2.225e-08,
+      "v": 33.92
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 32.0,
+    "liquidity": 30.65,
+    "volume24h": 34.14,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T21:01:08.374403Z",
+      "liquidity_usd": 32.19,
+      "top10_pct": null,
+      "h1_change_pct": 2.16,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $32"
+    }
+  ]
 }

@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-12T21:00:34.493250Z",
+  "ts": "2026-11-12T21:01:43.426623Z",
   "mint": "B5dZojsqYDdeiaYzuYfjcJQzyrfQF3jyXy5WeMs6pump",
-  "name": null,
-  "symbol": null,
-  "label": "B5dZojsq",
+  "name": "ThirdAffair",
+  "symbol": "THIAFF",
+  "label": "ThirdAffair",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T21:00:07.587866Z",
-  "pool": null,
+  "pool": "2Ue5PUfBtKtti4vE5S9E1c8nCNfE5HCFuuT1fCooZsWw",
   "creator": "CGFKCvLYNS3USLPfzBAux39sJ5mWTHSdyCs2eUVwpYvW",
   "holders": null,
   "link": "https://fomo.family/coin?address=B5dZojsqYDdeiaYzuYfjcJQzyrfQF3jyXy5WeMs6pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.181e-08,
+  "priceTs": "2026-11-12T21:01:43.165419Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794517260,
+      "o": 6.609e-09,
+      "h": 1.181e-08,
+      "l": 6.609e-09,
+      "c": 1.181e-08,
+      "v": 6.6299999999999955
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 24.0,
+    "liquidity": 14.95,
+    "volume24h": 132.16,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T21:01:08.375529Z",
+      "liquidity_usd": 11.41,
+      "top10_pct": null,
+      "h1_change_pct": -93.8,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $11"
+    }
+  ]
 }
