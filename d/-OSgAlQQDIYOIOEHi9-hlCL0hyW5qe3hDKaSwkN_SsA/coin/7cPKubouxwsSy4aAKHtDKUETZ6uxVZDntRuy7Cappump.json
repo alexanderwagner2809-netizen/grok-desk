@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T21:28:38.912826Z",
+  "ts": "2026-11-12T21:29:49.089208Z",
   "mint": "7cPKubouxwsSy4aAKHtDKUETZ6uxVZDntRuy7Cappump",
   "name": "2027 Year of the Goat",
   "symbol": "GOAT",
@@ -11,8 +11,8 @@
   "creator": "4ngVs2GKZ1jqVVzFJYfU6BCCwxEvWjFW7SBXiVkw6iQT",
   "holders": null,
   "link": "https://fomo.family/coin?address=7cPKubouxwsSy4aAKHtDKUETZ6uxVZDntRuy7Cappump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 7.262e-05,
-  "priceTs": "2026-11-12T21:28:38.805985Z",
+  "price": 7.433e-05,
+  "priceTs": "2026-11-12T21:29:48.974989Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -728,12 +728,20 @@
       "l": 7.262e-05,
       "c": 7.262e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794518940,
+      "o": 7.433e-05,
+      "h": 7.433e-05,
+      "l": 7.433e-05,
+      "c": 7.433e-05,
+      "v": 1.9000000000000057
     }
   ],
   "stats": {
-    "marketCap": 70426.0,
-    "liquidity": 19014.64,
-    "volume24h": 19868.6,
+    "marketCap": 72083.0,
+    "liquidity": 19253.9,
+    "volume24h": 19870.5,
     "holders": null
   },
   "position": null,

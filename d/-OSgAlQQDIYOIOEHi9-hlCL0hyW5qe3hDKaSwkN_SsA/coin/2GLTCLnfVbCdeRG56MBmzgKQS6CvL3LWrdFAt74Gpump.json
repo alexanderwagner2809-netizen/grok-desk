@@ -1,11 +1,11 @@
 {
-  "ts": "2026-11-12T21:28:38.940987Z",
+  "ts": "2026-11-12T21:29:48.991060Z",
   "mint": "2GLTCLnfVbCdeRG56MBmzgKQS6CvL3LWrdFAt74Gpump",
   "name": null,
   "symbol": null,
   "label": "2GLTCLnf",
   "chain": "Solana",
-  "age": "19m old",
+  "age": "20m old",
   "migratedAt": "2026-11-12T21:09:18.461430Z",
   "pool": null,
   "creator": "2ekqQ8xf8kqN1WAk6kTa168DG6qynhe7kPRas4YqKPW8",
@@ -25,5 +25,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T21:29:19.062534Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 20,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }

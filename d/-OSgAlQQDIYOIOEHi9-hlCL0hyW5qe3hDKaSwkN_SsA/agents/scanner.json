@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T21:28:39.948576Z",
+  "ts": "2026-11-12T21:29:50.300792Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T21:28:36.606968Z",
+  "heartbeat": "2026-11-12T21:29:48.910853Z",
   "paused": false,
   "status": "running",
-  "card": "372 pools",
-  "count": 372,
+  "card": "374 pools",
+  "count": 374,
   "passed": 0,
   "feed": [
+    {
+      "mint": "2GLTCLnfVbCdeRG56MBmzgKQS6CvL3LWrdFAt74Gpump",
+      "label": "2GLTCLnf",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=2GLTCLnfVbCdeRG56MBmzgKQS6CvL3LWrdFAt74Gpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "4UGp5AGdoA757kZrRq4n1HuYMzeWN73qWjEfGy2Qpump",
+      "label": "DaKitty",
+      "verdict": "kill",
+      "reason": "+101% in 1h",
+      "subtitle": "+101% in 1h",
+      "link": "https://fomo.family/coin?address=4UGp5AGdoA757kZrRq4n1HuYMzeWN73qWjEfGy2Qpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "CTpSxCgUHjTX1FG82qbH3gVCeZTUotHpmx91kuRzpump",
       "label": "Project Cortex",
@@ -58,27 +74,27 @@
       "reason": "liq $12",
       "subtitle": "liq $12",
       "link": "https://fomo.family/coin?address=DuKRcf6UdHXZPWhVj3r7fMbn1wbFgfLoiMDU7Fsypump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump",
-      "label": "Fandemonium",
-      "verdict": "kill",
-      "reason": "+295% in 1h",
-      "subtitle": "+295% in 1h",
-      "link": "https://fomo.family/coin?address=a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "7xf4P3B2qXaXWN1QnCfKA34VXp2nNVYUKinH5wGxpump",
-      "label": "fomo",
-      "verdict": "kill",
-      "reason": "+159% in 1h",
-      "subtitle": "+159% in 1h",
-      "link": "https://fomo.family/coin?address=7xf4P3B2qXaXWN1QnCfKA34VXp2nNVYUKinH5wGxpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T21:29:19.062534Z",
+      "mint": "2GLTCLnfVbCdeRG56MBmzgKQS6CvL3LWrdFAt74Gpump",
+      "label": "2GLTCLnf",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=2GLTCLnfVbCdeRG56MBmzgKQS6CvL3LWrdFAt74Gpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T21:29:12.770050Z",
+      "mint": "4UGp5AGdoA757kZrRq4n1HuYMzeWN73qWjEfGy2Qpump",
+      "label": "DaKitty",
+      "verdict": "kill",
+      "reason": "+101% in 1h",
+      "link": "https://fomo.family/coin?address=4UGp5AGdoA757kZrRq4n1HuYMzeWN73qWjEfGy2Qpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T21:25:52.270553Z",
       "mint": "CTpSxCgUHjTX1FG82qbH3gVCeZTUotHpmx91kuRzpump",
       "label": "Project Cortex",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $32",
       "link": "https://fomo.family/coin?address=J847VxBmtWkmZMpqr4jW8Fmgj71FQ3wYUT6cmeV4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:55:39.691945Z",
-      "mint": "3x7VvksJeMb2S9n7zj1wAqtS1buHyDPEnjoi4uGapump",
-      "label": "test",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=3x7VvksJeMb2S9n7zj1wAqtS1buHyDPEnjoi4uGapump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:52:09.288359Z",
-      "mint": "EGbDSk2WB4C5DUoeh27uVz7nh4UZUd9qgccqi2Dpump",
-      "label": "Jensen Huang",
-      "verdict": "kill",
-      "reason": "liq $17.3K",
-      "link": "https://fomo.family/coin?address=EGbDSk2WB4C5DUoeh27uVz7nh4UZUd9qgccqi2Dpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T21:29:19.062534Z",
+      "mint": "2GLTCLnfVbCdeRG56MBmzgKQS6CvL3LWrdFAt74Gpump",
+      "label": "2GLTCLnf",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=2GLTCLnfVbCdeRG56MBmzgKQS6CvL3LWrdFAt74Gpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T21:29:12.770050Z",
+      "mint": "4UGp5AGdoA757kZrRq4n1HuYMzeWN73qWjEfGy2Qpump",
+      "label": "DaKitty",
+      "verdict": "kill",
+      "reason": "+101% in 1h",
+      "link": "https://fomo.family/coin?address=4UGp5AGdoA757kZrRq4n1HuYMzeWN73qWjEfGy2Qpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T21:25:52.270553Z",
       "mint": "CTpSxCgUHjTX1FG82qbH3gVCeZTUotHpmx91kuRzpump",
       "label": "Project Cortex",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $32",
       "link": "https://fomo.family/coin?address=J847VxBmtWkmZMpqr4jW8Fmgj71FQ3wYUT6cmeV4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:55:39.691945Z",
-      "mint": "3x7VvksJeMb2S9n7zj1wAqtS1buHyDPEnjoi4uGapump",
-      "label": "test",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=3x7VvksJeMb2S9n7zj1wAqtS1buHyDPEnjoi4uGapump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:52:09.288359Z",
-      "mint": "EGbDSk2WB4C5DUoeh27uVz7nh4UZUd9qgccqi2Dpump",
-      "label": "Jensen Huang",
-      "verdict": "kill",
-      "reason": "liq $17.3K",
-      "link": "https://fomo.family/coin?address=EGbDSk2WB4C5DUoeh27uVz7nh4UZUd9qgccqi2Dpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

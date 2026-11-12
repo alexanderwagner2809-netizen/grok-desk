@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T21:28:39.078899Z",
+  "ts": "2026-11-12T21:29:48.991960Z",
   "mint": "4UGp5AGdoA757kZrRq4n1HuYMzeWN73qWjEfGy2Qpump",
   "name": "DaKitty",
   "symbol": "DAKITTY",
   "label": "DaKitty",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T21:27:04.008532Z",
   "pool": "FYTzpZ7vdzqgE5c6xCB5oRaL63qR246NWxHpDSNhtSZU",
   "creator": "CkEXCcEV5K8aHiRckgGNfH8bMHqjLTT1v8YGCiSH86CQ",
   "holders": null,
   "link": "https://fomo.family/coin?address=4UGp5AGdoA757kZrRq4n1HuYMzeWN73qWjEfGy2Qpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001036,
-  "priceTs": "2026-11-12T21:28:37.795307Z",
+  "price": 0.0001884,
+  "priceTs": "2026-11-12T21:29:48.741860Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 8.644e-05,
       "c": 0.0001036,
       "v": 125057.88
+    },
+    {
+      "t": 1794518940,
+      "o": 0.0001036,
+      "h": 0.0001884,
+      "l": 0.0001036,
+      "c": 0.0001884,
+      "v": 34825.21999999997
     }
   ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 188371.0,
+    "liquidity": 32409.93,
+    "volume24h": 296455.29,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T21:29:12.770050Z",
+      "liquidity_usd": 29196.63,
+      "top10_pct": null,
+      "h1_change_pct": 101.0,
+      "age_min": 2,
+      "verdict": "kill",
+      "reason": "+101% in 1h"
+    }
+  ]
 }
