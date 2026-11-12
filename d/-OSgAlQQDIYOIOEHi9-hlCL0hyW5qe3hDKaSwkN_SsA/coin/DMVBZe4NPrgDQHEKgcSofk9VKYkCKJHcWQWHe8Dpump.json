@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T09:07:54.095435Z",
+  "ts": "2026-11-12T09:09:02.824776Z",
   "mint": "DMVBZe4NPrgDQHEKgcSofk9VKYkCKJHcWQWHe8Dpump",
-  "name": null,
-  "symbol": null,
-  "label": "DMVBZe4N",
+  "name": "ZEPHYRON",
+  "symbol": "ZEPHYRON",
+  "label": "ZEPHYRON",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T09:07:09.285541Z",
-  "pool": null,
+  "pool": "FFzU2w6XmtfeSMooDJsgEivapCcbQvNWugGeN5YWXoRw",
   "creator": "417AZxPEex8Uhho5BRmEnPzLFoF5MZUNQnb64GPpFdmL",
   "holders": null,
   "link": "https://fomo.family/coin?address=DMVBZe4NPrgDQHEKgcSofk9VKYkCKJHcWQWHe8Dpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.628e-05,
-  "priceTs": "2026-11-12T09:07:53.503166Z",
+  "price": 2.301e-05,
+  "priceTs": "2026-11-12T09:09:01.773765Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,41 @@
       "l": 2.628e-05,
       "c": 2.628e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794474480,
+      "o": 2.628e-05,
+      "h": 2.628e-05,
+      "l": 2.628e-05,
+      "c": 2.628e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794474540,
+      "o": 2.301e-05,
+      "h": 2.301e-05,
+      "l": 2.301e-05,
+      "c": 2.301e-05,
+      "v": 741.5799999999999
     }
   ],
   "stats": {
-    "marketCap": 26287.0,
-    "liquidity": 10930.52,
-    "volume24h": 2159.37,
+    "marketCap": 23016.0,
+    "liquidity": 10126.55,
+    "volume24h": 2900.95,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T09:08:05.216004Z",
+      "liquidity_usd": 10952.06,
+      "top10_pct": null,
+      "h1_change_pct": -23.23,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $11.0K"
+    }
+  ]
 }

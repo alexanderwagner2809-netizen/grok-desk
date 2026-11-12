@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T09:07:54.180856Z",
+  "ts": "2026-11-12T09:09:03.218252Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T09:07:52.127817Z",
+  "heartbeat": "2026-11-12T09:09:01.584654Z",
   "paused": false,
   "status": "running",
-  "card": "177 pools",
-  "count": 177,
+  "card": "179 pools",
+  "count": 179,
   "passed": 0,
   "feed": [
+    {
+      "mint": "BiuFX7TGNjTxGmZtp1KgYiptZyUPyovdpEizd29Kpump",
+      "label": "SOLGIRL",
+      "verdict": "kill",
+      "reason": "liq $8",
+      "subtitle": "liq $8",
+      "link": "https://fomo.family/coin?address=BiuFX7TGNjTxGmZtp1KgYiptZyUPyovdpEizd29Kpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "DMVBZe4NPrgDQHEKgcSofk9VKYkCKJHcWQWHe8Dpump",
+      "label": "ZEPHYRON",
+      "verdict": "kill",
+      "reason": "liq $11.0K",
+      "subtitle": "liq $11.0K",
+      "link": "https://fomo.family/coin?address=DMVBZe4NPrgDQHEKgcSofk9VKYkCKJHcWQWHe8Dpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "8p7GCo3fWJ55LFQbhkBd8hCpw3ACk98PgK7Lsd6Upump",
       "label": "Shitcoin",
@@ -58,27 +74,27 @@
       "reason": "never qualified",
       "subtitle": "never qualified",
       "link": "https://fomo.family/coin?address=63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "2rQWxRpgpxd9a24jK829ECcwWYnonPYmPRG9gG5cpump",
-      "label": "Ian Buck",
-      "verdict": "kill",
-      "reason": "liq $15.9K",
-      "subtitle": "liq $15.9K",
-      "link": "https://fomo.family/coin?address=2rQWxRpgpxd9a24jK829ECcwWYnonPYmPRG9gG5cpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "2LxzNxVNkUMBvUXQthwxEGY8AnwRJcUQN7UkP2YGpump",
-      "label": "VRL",
-      "verdict": "kill",
-      "reason": "liq $69",
-      "subtitle": "liq $69",
-      "link": "https://fomo.family/coin?address=2LxzNxVNkUMBvUXQthwxEGY8AnwRJcUQN7UkP2YGpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T09:08:56.148488Z",
+      "mint": "BiuFX7TGNjTxGmZtp1KgYiptZyUPyovdpEizd29Kpump",
+      "label": "SOLGIRL",
+      "verdict": "kill",
+      "reason": "liq $8",
+      "link": "https://fomo.family/coin?address=BiuFX7TGNjTxGmZtp1KgYiptZyUPyovdpEizd29Kpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T09:08:05.216004Z",
+      "mint": "DMVBZe4NPrgDQHEKgcSofk9VKYkCKJHcWQWHe8Dpump",
+      "label": "ZEPHYRON",
+      "verdict": "kill",
+      "reason": "liq $11.0K",
+      "link": "https://fomo.family/coin?address=DMVBZe4NPrgDQHEKgcSofk9VKYkCKJHcWQWHe8Dpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T09:05:19.175354Z",
       "mint": "8p7GCo3fWJ55LFQbhkBd8hCpw3ACk98PgK7Lsd6Upump",
       "label": "Shitcoin",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=FyAT8ti3LqzQW5Kdkjnr2XBp35qhJqwm2m7jiR91pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:00:15.558965Z",
-      "mint": "FKd9MmNxqJaV64CBVDTPGohRASRSmbnhxiuunV8qpump",
-      "label": "FKd9MmNx",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=FKd9MmNxqJaV64CBVDTPGohRASRSmbnhxiuunV8qpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T07:58:53.992857Z",
-      "mint": "4sgwNcQB5eDMsEohmqnZUmzUetKo6LXrkZZhsqBCpump",
-      "label": "4sgwNcQB",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=4sgwNcQB5eDMsEohmqnZUmzUetKo6LXrkZZhsqBCpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T09:08:56.148488Z",
+      "mint": "BiuFX7TGNjTxGmZtp1KgYiptZyUPyovdpEizd29Kpump",
+      "label": "SOLGIRL",
+      "verdict": "kill",
+      "reason": "liq $8",
+      "link": "https://fomo.family/coin?address=BiuFX7TGNjTxGmZtp1KgYiptZyUPyovdpEizd29Kpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T09:08:05.216004Z",
+      "mint": "DMVBZe4NPrgDQHEKgcSofk9VKYkCKJHcWQWHe8Dpump",
+      "label": "ZEPHYRON",
+      "verdict": "kill",
+      "reason": "liq $11.0K",
+      "link": "https://fomo.family/coin?address=DMVBZe4NPrgDQHEKgcSofk9VKYkCKJHcWQWHe8Dpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T09:05:19.175354Z",
       "mint": "8p7GCo3fWJ55LFQbhkBd8hCpw3ACk98PgK7Lsd6Upump",
       "label": "Shitcoin",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=FyAT8ti3LqzQW5Kdkjnr2XBp35qhJqwm2m7jiR91pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:00:15.558965Z",
-      "mint": "FKd9MmNxqJaV64CBVDTPGohRASRSmbnhxiuunV8qpump",
-      "label": "FKd9MmNx",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=FKd9MmNxqJaV64CBVDTPGohRASRSmbnhxiuunV8qpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T07:58:53.992857Z",
-      "mint": "4sgwNcQB5eDMsEohmqnZUmzUetKo6LXrkZZhsqBCpump",
-      "label": "4sgwNcQB",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=4sgwNcQB5eDMsEohmqnZUmzUetKo6LXrkZZhsqBCpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
