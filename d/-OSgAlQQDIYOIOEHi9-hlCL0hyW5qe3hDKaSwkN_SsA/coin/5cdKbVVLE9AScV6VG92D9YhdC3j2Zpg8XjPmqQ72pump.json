@@ -1,11 +1,11 @@
 {
-  "ts": "2026-11-12T00:28:15.997817Z",
+  "ts": "2026-11-12T00:42:25.213092Z",
   "mint": "5cdKbVVLE9AScV6VG92D9YhdC3j2Zpg8XjPmqQ72pump",
   "name": null,
   "symbol": null,
   "label": "5cdKbVVL",
   "chain": "Solana",
-  "age": "58m old",
+  "age": "1h old",
   "migratedAt": "2026-11-11T23:29:17.432160Z",
   "pool": null,
   "creator": "D2x5YSThmJyUQCgt4NV8Y23FkH8iVrTcwjKPbjpCwbhu",
@@ -25,5 +25,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T00:41:48.292675Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 72,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }

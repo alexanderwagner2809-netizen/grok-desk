@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T00:28:15.916209Z",
+  "ts": "2026-11-12T00:42:25.203875Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T00:28:11.281667Z",
+      "heartbeat": "2026-11-12T00:42:12.420043Z",
       "paused": false,
       "status": "running",
-      "card": "67 pools",
-      "count": 67,
+      "card": "69 pools",
+      "count": 69,
       "passed": 0,
       "feed": [
+        {
+          "mint": "BQo18x16LuYdFwZHyq578qc5enqQW57LTE9Cgwzqpump",
+          "label": "CallScout",
+          "verdict": "kill",
+          "reason": "liq $8.8K",
+          "subtitle": "liq $8.8K",
+          "link": "https://fomo.family/coin?address=BQo18x16LuYdFwZHyq578qc5enqQW57LTE9Cgwzqpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "5cdKbVVLE9AScV6VG92D9YhdC3j2Zpg8XjPmqQ72pump",
+          "label": "5cdKbVVL",
+          "verdict": "kill",
+          "reason": "never qualified",
+          "subtitle": "never qualified",
+          "link": "https://fomo.family/coin?address=5cdKbVVLE9AScV6VG92D9YhdC3j2Zpg8XjPmqQ72pump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "238S5tCgJi8AG2LUskVXNCcNpYR3w9FMyTHfqgozpump",
           "label": "Big tits Coin",
@@ -66,22 +82,6 @@
           "reason": "liq $5",
           "subtitle": "liq $5",
           "link": "https://fomo.family/coin?address=DSrut5mGtugBh8fbLAke7vjxpy5ig7NyRuuF2t1qpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "Cy3bFG4L4ZjZydoV7Ak4QRihRR1PZCNBjsMqgs9upKQR",
-          "label": "ALOHA POKE FAN TOKEN",
-          "verdict": "kill",
-          "reason": "liq $14.9K",
-          "subtitle": "liq $14.9K",
-          "link": "https://fomo.family/coin?address=Cy3bFG4L4ZjZydoV7Ak4QRihRR1PZCNBjsMqgs9upKQR&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "65guphHEmT48N4F1D1sT6uNopaG94nNR1i9jLmxYpump",
-          "label": "NVIDIA",
-          "verdict": "kill",
-          "reason": "liq $22.8K",
-          "subtitle": "liq $22.8K",
-          "link": "https://fomo.family/coin?address=65guphHEmT48N4F1D1sT6uNopaG94nNR1i9jLmxYpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T00:28:14.350968Z",
+      "heartbeat": "2026-11-12T00:42:24.134959Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T00:28:14.352486Z",
+      "heartbeat": "2026-11-12T00:42:24.136081Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T00:28:14.354846Z",
+      "heartbeat": "2026-11-12T00:42:24.136578Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T00:28:11.281667Z",
+      "heartbeat": "2026-11-12T00:42:18.073702Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
