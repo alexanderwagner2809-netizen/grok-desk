@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T20:15:29.938790Z",
+  "ts": "2026-11-12T20:16:41.364126Z",
   "mint": "8aFxqZoX6DdpaYDpfM5AhtDqU7AgzseChszLAGBipump",
   "name": "TRIGON",
   "symbol": "TRI",
   "label": "TRIGON",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T20:14:51.987021Z",
   "pool": "52e3pBVefsRDsuE8HAecYdK9ogZuWwmNAoRMVfhrUKG9",
   "creator": "61sZ9zry53pAnd7XGYWkeyLhdE5weDFjGRRYRsnvvftH",
   "holders": null,
   "link": "https://fomo.family/coin?address=8aFxqZoX6DdpaYDpfM5AhtDqU7AgzseChszLAGBipump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.44e-07,
-  "priceTs": "2026-11-12T20:15:27.795611Z",
+  "price": 1.162e-06,
+  "priceTs": "2026-11-12T20:16:39.290780Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,12 +24,20 @@
       "l": 1.44e-07,
       "c": 1.44e-07,
       "v": 0.0
+    },
+    {
+      "t": 1794514560,
+      "o": 1.162e-06,
+      "h": 1.162e-06,
+      "l": 1.162e-06,
+      "c": 1.162e-06,
+      "v": 59.730000000000004
     }
   ],
   "stats": {
-    "marketCap": 288.0,
-    "liquidity": 0.0,
-    "volume24h": 2.44,
+    "marketCap": 2326.0,
+    "liquidity": 162.03,
+    "volume24h": 62.17,
     "holders": null
   },
   "position": null,

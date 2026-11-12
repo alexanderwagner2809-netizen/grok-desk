@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T20:15:30.258706Z",
+  "ts": "2026-11-12T20:16:41.363203Z",
   "mint": "56yuMwTAjQcdFXqo3FybeA5XYC3rVutykN6KAMBRpump",
-  "name": null,
-  "symbol": null,
-  "label": "56yuMwTA",
+  "name": "You guys are getting paid?",
+  "symbol": "GETPAID",
+  "label": "You guys are getting paid?",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T20:15:19.424699Z",
-  "pool": null,
+  "pool": "BV8nE1wB8Q8aYxq1uM9QQGWBNg6uksFrpQzhFoUnCqws",
   "creator": "D6heFfJP6Lid7fsznsvbN3iNBt5RZjSMzmeVgQ8qi4WA",
   "holders": null,
   "link": "https://fomo.family/coin?address=56yuMwTAjQcdFXqo3FybeA5XYC3rVutykN6KAMBRpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.333e-08,
-  "priceTs": "2026-11-12T20:15:28.694829Z",
+  "price": 5.911e-08,
+  "priceTs": "2026-11-12T20:16:39.290780Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -20,19 +20,37 @@
     {
       "t": 1794514500,
       "o": 4.333e-08,
-      "h": 4.333e-08,
+      "h": 5.081e-08,
       "l": 4.333e-08,
-      "c": 4.333e-08,
-      "v": 0.0
+      "c": 5.081e-08,
+      "v": 0.54
+    },
+    {
+      "t": 1794514560,
+      "o": 5.911e-08,
+      "h": 5.911e-08,
+      "l": 5.911e-08,
+      "c": 5.911e-08,
+      "v": 2.67
     }
   ],
   "stats": {
-    "marketCap": 43.33,
-    "liquidity": null,
-    "volume24h": 1089.42,
+    "marketCap": 118.0,
+    "liquidity": 21.47,
+    "volume24h": 3.21,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:15:52.216581Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 7.41,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
