@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T06:10:53.394747Z",
+  "ts": "2026-11-12T06:12:01.920379Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T06:10:38.498499Z",
+  "heartbeat": "2026-11-12T06:11:58.512578Z",
   "paused": false,
   "status": "running",
-  "card": "126 pools",
-  "count": 126,
+  "card": "127 pools",
+  "count": 127,
   "passed": 0,
   "feed": [
+    {
+      "mint": "BPA2AoMbUZVJhkno5ryCwFbQLX1KfXwzaCuQJETfpump",
+      "label": "GTA 6 Updates",
+      "verdict": "kill",
+      "reason": "+166% in 1h",
+      "subtitle": "+166% in 1h",
+      "link": "https://fomo.family/coin?address=BPA2AoMbUZVJhkno5ryCwFbQLX1KfXwzaCuQJETfpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "HEFE6bVyNy13ir2SKs1u2EeDXY9iJc583VdjD51Kpump",
       "label": "maritains",
@@ -66,19 +74,19 @@
       "reason": "liq $54",
       "subtitle": "liq $54",
       "link": "https://fomo.family/coin?address=CbPGbH7jzuvhz9gquHfRgsq6DpF81PHNrwkrSSHXpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "9sRDQgAWDMjVLmtJfcF2dPC2YE3A3x597H8o4ketpump",
-      "label": "fine shyt cat",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=9sRDQgAWDMjVLmtJfcF2dPC2YE3A3x597H8o4ketpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T06:11:59.156547Z",
+      "mint": "BPA2AoMbUZVJhkno5ryCwFbQLX1KfXwzaCuQJETfpump",
+      "label": "GTA 6 Updates",
+      "verdict": "kill",
+      "reason": "+166% in 1h",
+      "link": "https://fomo.family/coin?address=BPA2AoMbUZVJhkno5ryCwFbQLX1KfXwzaCuQJETfpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:09:25.371268Z",
       "mint": "HEFE6bVyNy13ir2SKs1u2EeDXY9iJc583VdjD51Kpump",
       "label": "maritains",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $30",
       "link": "https://fomo.family/coin?address=EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T05:20:27.429014Z",
-      "mint": "EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump",
-      "label": "Anthropic official",
-      "verdict": "kill",
-      "reason": "liq $20.1K",
-      "link": "https://fomo.family/coin?address=EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T06:11:59.156547Z",
+      "mint": "BPA2AoMbUZVJhkno5ryCwFbQLX1KfXwzaCuQJETfpump",
+      "label": "GTA 6 Updates",
+      "verdict": "kill",
+      "reason": "+166% in 1h",
+      "link": "https://fomo.family/coin?address=BPA2AoMbUZVJhkno5ryCwFbQLX1KfXwzaCuQJETfpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:09:25.371268Z",
       "mint": "HEFE6bVyNy13ir2SKs1u2EeDXY9iJc583VdjD51Kpump",
       "label": "maritains",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $30",
       "link": "https://fomo.family/coin?address=EiXZGxtCDczUep7zkYWRFocHejmLK2XUfG2KP93jpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T05:20:27.429014Z",
-      "mint": "EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump",
-      "label": "Anthropic official",
-      "verdict": "kill",
-      "reason": "liq $20.1K",
-      "link": "https://fomo.family/coin?address=EKgfjEbf5m6UN2ytCYUVqgMwyuSd2Am9as2VwJcCpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

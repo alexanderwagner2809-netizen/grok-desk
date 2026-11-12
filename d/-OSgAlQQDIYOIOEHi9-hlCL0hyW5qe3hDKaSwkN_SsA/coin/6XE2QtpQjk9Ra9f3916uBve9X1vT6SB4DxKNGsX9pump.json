@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T06:10:53.238801Z",
+  "ts": "2026-11-12T06:12:01.764973Z",
   "mint": "6XE2QtpQjk9Ra9f3916uBve9X1vT6SB4DxKNGsX9pump",
   "name": "would",
   "symbol": "would",
@@ -11,8 +11,8 @@
   "creator": "85LmfZXZ2Uvv6bB3gXPZcEPpvBuRJqeog99vERL4VSEQ",
   "holders": null,
   "link": "https://fomo.family/coin?address=6XE2QtpQjk9Ra9f3916uBve9X1vT6SB4DxKNGsX9pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.691e-06,
-  "priceTs": "2026-11-12T06:10:52.554366Z",
+  "price": 1.663e-06,
+  "priceTs": "2026-11-12T06:12:01.077271Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -312,12 +312,20 @@
       "l": 1.691e-06,
       "c": 1.691e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794463920,
+      "o": 1.663e-06,
+      "h": 1.663e-06,
+      "l": 1.663e-06,
+      "c": 1.663e-06,
+      "v": 0.01
     }
   ],
   "stats": {
-    "marketCap": 1671.0,
-    "liquidity": 1853.99,
-    "volume24h": 692363.84,
+    "marketCap": 1643.0,
+    "liquidity": 1826.91,
+    "volume24h": 692363.85,
     "holders": null
   },
   "position": null,
