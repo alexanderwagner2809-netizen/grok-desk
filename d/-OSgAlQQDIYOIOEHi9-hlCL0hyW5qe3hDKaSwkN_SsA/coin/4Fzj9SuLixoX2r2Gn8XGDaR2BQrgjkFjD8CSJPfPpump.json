@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T13:10:19.831336Z",
+  "ts": "2026-11-12T13:11:29.649127Z",
   "mint": "4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump",
   "name": "XomoPay",
   "symbol": "XomoPay",
@@ -11,8 +11,8 @@
   "creator": "6FkamdBWcbsK7gF7qygqvX93LUeSfXsFhqU9xCa6MgFS",
   "holders": null,
   "link": "https://fomo.family/coin?address=4Fzj9SuLixoX2r2Gn8XGDaR2BQrgjkFjD8CSJPfPpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.805e-06,
-  "priceTs": "2026-11-12T13:10:18.903896Z",
+  "price": 3.755e-06,
+  "priceTs": "2026-11-12T13:11:28.600126Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1832,12 +1832,20 @@
       "l": 3.805e-06,
       "c": 3.805e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794489060,
+      "o": 3.755e-06,
+      "h": 3.755e-06,
+      "l": 3.755e-06,
+      "c": 3.755e-06,
+      "v": 0.12
     }
   ],
   "stats": {
-    "marketCap": 3615.0,
-    "liquidity": 3286.23,
-    "volume24h": 181937.67,
+    "marketCap": 3567.0,
+    "liquidity": 3242.58,
+    "volume24h": 181937.79,
     "holders": null
   },
   "position": null,
