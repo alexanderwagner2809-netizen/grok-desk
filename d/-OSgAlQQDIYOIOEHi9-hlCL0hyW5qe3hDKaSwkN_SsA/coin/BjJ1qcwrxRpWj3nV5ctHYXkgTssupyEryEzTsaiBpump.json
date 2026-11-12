@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T14:05:38.242093Z",
+  "ts": "2026-11-12T14:06:48.489644Z",
   "mint": "BjJ1qcwrxRpWj3nV5ctHYXkgTssupyEryEzTsaiBpump",
   "name": "CHIPGATE",
   "symbol": "CGATE",
@@ -11,8 +11,8 @@
   "creator": "32QzQCMWDEw6ZKEAEb5Jpp8gkwnxPZUCYNLWuFc7bBcm",
   "holders": null,
   "link": "https://fomo.family/coin?address=BjJ1qcwrxRpWj3nV5ctHYXkgTssupyEryEzTsaiBpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 7.137e-10,
-  "priceTs": "2026-11-12T14:05:36.766656Z",
+  "price": 7.524e-10,
+  "priceTs": "2026-11-12T14:06:46.905347Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -184,12 +184,20 @@
       "l": 7.137e-10,
       "c": 7.137e-10,
       "v": 0.0
+    },
+    {
+      "t": 1794492360,
+      "o": 7.524e-10,
+      "h": 7.524e-10,
+      "l": 7.524e-10,
+      "c": 7.524e-10,
+      "v": 0.02
     }
   ],
   "stats": {
-    "marketCap": 1.0,
-    "liquidity": 1.32,
-    "volume24h": 43.39,
+    "marketCap": 2.0,
+    "liquidity": 1.36,
+    "volume24h": 43.42,
     "holders": null
   },
   "position": null,
