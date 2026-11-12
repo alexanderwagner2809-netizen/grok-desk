@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T15:21:43.689157Z",
+  "ts": "2026-11-12T15:22:54.493991Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T15:21:42.345238Z",
+  "heartbeat": "2026-11-12T15:22:53.407145Z",
   "paused": false,
   "status": "running",
-  "card": "239 pools",
-  "count": 239,
+  "card": "240 pools",
+  "count": 240,
   "passed": 0,
   "feed": [
+    {
+      "mint": "5v5zdVrnB15fCzpHmi5Zmp1a3t2BnMgDfCV6sehppump",
+      "label": "Jensen Huang",
+      "verdict": "kill",
+      "reason": "liq $12.0K",
+      "subtitle": "liq $12.0K",
+      "link": "https://fomo.family/coin?address=5v5zdVrnB15fCzpHmi5Zmp1a3t2BnMgDfCV6sehppump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump",
       "label": "AI Bubble Popper",
@@ -66,19 +74,19 @@
       "reason": "liq $13.5K",
       "subtitle": "liq $13.5K",
       "link": "https://fomo.family/coin?address=Fwx6scdrpqJNq5otjyztCaCNymNG5RiR4PBkN1D8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump",
-      "label": "🐸 Moon Frog",
-      "verdict": "kill",
-      "reason": "liq $16",
-      "subtitle": "liq $16",
-      "link": "https://fomo.family/coin?address=DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T15:22:38.198770Z",
+      "mint": "5v5zdVrnB15fCzpHmi5Zmp1a3t2BnMgDfCV6sehppump",
+      "label": "Jensen Huang",
+      "verdict": "kill",
+      "reason": "liq $12.0K",
+      "link": "https://fomo.family/coin?address=5v5zdVrnB15fCzpHmi5Zmp1a3t2BnMgDfCV6sehppump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:20:42.892993Z",
       "mint": "GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump",
       "label": "AI Bubble Popper",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $12.5K",
       "link": "https://fomo.family/coin?address=45wTiGpwQWRGdZ3pe5jPsEd8EYcaWLD7xyxm5XEJpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T13:27:25.254115Z",
-      "mint": "Fcrtn1hSxfNnAD87yahjJJhdcc2XwKFvZA5Shc4Ppump",
-      "label": "VectorKeith ",
-      "verdict": "kill",
-      "reason": "liq $31",
-      "link": "https://fomo.family/coin?address=Fcrtn1hSxfNnAD87yahjJJhdcc2XwKFvZA5Shc4Ppump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T15:22:38.198770Z",
+      "mint": "5v5zdVrnB15fCzpHmi5Zmp1a3t2BnMgDfCV6sehppump",
+      "label": "Jensen Huang",
+      "verdict": "kill",
+      "reason": "liq $12.0K",
+      "link": "https://fomo.family/coin?address=5v5zdVrnB15fCzpHmi5Zmp1a3t2BnMgDfCV6sehppump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T15:20:42.892993Z",
       "mint": "GcyEnJLRM9R7mWC1Qh6up173RVjZg2dbssdSEcbxpump",
       "label": "AI Bubble Popper",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $12.5K",
       "link": "https://fomo.family/coin?address=45wTiGpwQWRGdZ3pe5jPsEd8EYcaWLD7xyxm5XEJpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T13:27:25.254115Z",
-      "mint": "Fcrtn1hSxfNnAD87yahjJJhdcc2XwKFvZA5Shc4Ppump",
-      "label": "VectorKeith ",
-      "verdict": "kill",
-      "reason": "liq $31",
-      "link": "https://fomo.family/coin?address=Fcrtn1hSxfNnAD87yahjJJhdcc2XwKFvZA5Shc4Ppump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T15:22:53.653738Z",
+  "mint": "5v5zdVrnB15fCzpHmi5Zmp1a3t2BnMgDfCV6sehppump",
+  "name": "Jensen Huang",
+  "symbol": "HUANG",
+  "label": "Jensen Huang",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-12T15:21:44.773204Z",
+  "pool": "9e6QhzanfcwDtM85N4DudPjKR8wxWPYwjjQqnQ5bgSxL",
+  "creator": "7ov3s3dTURbJC3i58G5qvHPA11uWpDXboyiFMdGymBoX",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=5v5zdVrnB15fCzpHmi5Zmp1a3t2BnMgDfCV6sehppump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.123e-05,
+  "priceTs": "2026-11-12T15:22:52.069484Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794496920,
+      "o": 3.123e-05,
+      "h": 3.123e-05,
+      "l": 3.123e-05,
+      "c": 3.123e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 31181.0,
+    "liquidity": 11972.14,
+    "volume24h": 8101.7,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T15:22:38.198770Z",
+      "liquidity_usd": 11972.14,
+      "top10_pct": null,
+      "h1_change_pct": -4.72,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $12.0K"
+    }
+  ]
+}
