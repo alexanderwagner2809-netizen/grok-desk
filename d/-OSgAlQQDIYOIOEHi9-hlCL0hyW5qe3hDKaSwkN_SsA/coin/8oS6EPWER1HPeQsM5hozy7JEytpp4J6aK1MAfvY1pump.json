@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T07:09:32.047870Z",
+  "ts": "2026-11-12T07:31:11.104690Z",
   "mint": "8oS6EPWER1HPeQsM5hozy7JEytpp4J6aK1MAfvY1pump",
   "name": "apeonx",
   "symbol": "X",
   "label": "apeonx",
   "chain": "Solana",
-  "age": "3m old",
+  "age": "24m old",
   "migratedAt": "2026-11-12T07:06:14.758773Z",
   "pool": "7o7cpdEEEasS1woeGVCGXjUk7pdRzkiyVynXrgHKaksL",
   "creator": "BNiyxyjHHDRz5tMr4pJUpgJFcwVE4oavzrdrwjjQ7HT8",
   "holders": null,
   "link": "https://fomo.family/coin?address=8oS6EPWER1HPeQsM5hozy7JEytpp4J6aK1MAfvY1pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0003685,
-  "priceTs": "2026-11-12T07:09:31.182132Z",
+  "price": 0.000287,
+  "priceTs": "2026-11-12T07:31:10.123894Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -40,12 +40,20 @@
       "l": 0.0003685,
       "c": 0.0003685,
       "v": 144.89999999999964
+    },
+    {
+      "t": 1794468660,
+      "o": 0.000287,
+      "h": 0.000287,
+      "l": 0.000287,
+      "c": 0.000287,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 368483.0,
-    "liquidity": 44905.71,
-    "volume24h": 15795.52,
+    "marketCap": 287026.0,
+    "liquidity": 39489.07,
+    "volume24h": 26066.48,
     "holders": null
   },
   "position": null,

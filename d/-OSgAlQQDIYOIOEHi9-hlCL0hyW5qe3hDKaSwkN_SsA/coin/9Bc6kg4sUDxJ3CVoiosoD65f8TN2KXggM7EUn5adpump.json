@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T07:09:32.275252Z",
+  "ts": "2026-11-12T07:31:11.322454Z",
   "mint": "9Bc6kg4sUDxJ3CVoiosoD65f8TN2KXggM7EUn5adpump",
   "name": "xam ni hao",
   "symbol": "xam",
@@ -11,8 +11,8 @@
   "creator": "6ygoCd6XUJHKbiVca3rM3v5NUHsq4tfZiuYDpEs3adoZ",
   "holders": null,
   "link": "https://fomo.family/coin?address=9Bc6kg4sUDxJ3CVoiosoD65f8TN2KXggM7EUn5adpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.639e-06,
-  "priceTs": "2026-11-12T07:09:31.765179Z",
+  "price": 1.633e-06,
+  "priceTs": "2026-11-12T07:31:10.788670Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1392,12 +1392,20 @@
       "l": 1.639e-06,
       "c": 1.639e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794468660,
+      "o": 1.633e-06,
+      "h": 1.633e-06,
+      "l": 1.633e-06,
+      "c": 1.633e-06,
+      "v": 2.41
     }
   ],
   "stats": {
-    "marketCap": 1570.0,
-    "liquidity": 1657.61,
-    "volume24h": 97101.41,
+    "marketCap": 1563.0,
+    "liquidity": 1651.56,
+    "volume24h": 97103.82,
     "holders": null
   },
   "position": null,
