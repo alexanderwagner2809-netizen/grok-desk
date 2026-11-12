@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T02:30:48.440420Z",
+  "ts": "2026-11-12T02:31:56.513414Z",
   "mint": "HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump",
-  "name": null,
-  "symbol": null,
-  "label": "HngZXdHc",
+  "name": "Scamson Musk",
+  "symbol": "SCAMSON",
+  "label": "Scamson Musk",
   "chain": "Solana",
-  "age": "7m old",
+  "age": "8m old",
   "migratedAt": "2026-11-12T02:23:06.586351Z",
-  "pool": null,
+  "pool": "GMsktytTX8h9c9ULs8gi2K7DdXvk7Rs6k65Sy4mthdro",
   "creator": "6FqSAuhvbrzVJfASFYszRZFRGs1hCrGEPoepJ6VfbfZp",
   "holders": null,
   "link": "https://fomo.family/coin?address=HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001127,
-  "priceTs": "2026-11-12T02:30:48.310944Z",
+  "price": 0.0001268,
+  "priceTs": "2026-11-12T02:31:55.920383Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -32,15 +32,33 @@
       "l": 0.0001127,
       "c": 0.0001127,
       "v": 96071.42
+    },
+    {
+      "t": 1794450660,
+      "o": 0.0001268,
+      "h": 0.0001268,
+      "l": 0.0001268,
+      "c": 0.0001268,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 112716.0,
-    "liquidity": 25765.48,
-    "volume24h": 182254.12,
+    "marketCap": 126859.0,
+    "liquidity": 27611.61,
+    "volume24h": 215212.41,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T02:30:51.396029Z",
+      "liquidity_usd": 25717.95,
+      "top10_pct": null,
+      "h1_change_pct": 220.0,
+      "age_min": 7,
+      "verdict": "kill",
+      "reason": "liq $25.7K"
+    }
+  ]
 }

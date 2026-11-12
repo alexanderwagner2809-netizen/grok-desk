@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T02:30:48.441793Z",
+  "ts": "2026-11-12T02:31:56.618905Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T02:30:42.700745Z",
+  "heartbeat": "2026-11-12T02:31:51.399613Z",
   "paused": false,
   "status": "running",
-  "card": "90 pools",
-  "count": 90,
+  "card": "91 pools",
+  "count": 91,
   "passed": 0,
   "feed": [
+    {
+      "mint": "HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump",
+      "label": "Scamson Musk",
+      "verdict": "kill",
+      "reason": "liq $25.7K",
+      "subtitle": "liq $25.7K",
+      "link": "https://fomo.family/coin?address=HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "DdcLzJwfqFXvuPHS5mVVmCc1UvVzYxzasPt1G4Bcpump",
       "label": "HYPE",
@@ -66,19 +74,19 @@
       "reason": "liq $25.3K",
       "subtitle": "liq $25.3K",
       "link": "https://fomo.family/coin?address=AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EdpSS1dbDW8o98S4HRLzE8BZ47oUYp1R1eHTSm6Epump",
-      "label": "Wyrm",
-      "verdict": "kill",
-      "reason": "liq $13.1K",
-      "subtitle": "liq $13.1K",
-      "link": "https://fomo.family/coin?address=EdpSS1dbDW8o98S4HRLzE8BZ47oUYp1R1eHTSm6Epump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T02:30:51.396029Z",
+      "mint": "HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump",
+      "label": "Scamson Musk",
+      "verdict": "kill",
+      "reason": "liq $25.7K",
+      "link": "https://fomo.family/coin?address=HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T02:23:45.249343Z",
       "mint": "DdcLzJwfqFXvuPHS5mVVmCc1UvVzYxzasPt1G4Bcpump",
       "label": "HYPE",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $22.6K",
       "link": "https://fomo.family/coin?address=FtBmsuEgZHAo972PaEQrDdpEeMXSrUmnPavNpfBepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T00:48:55.036699Z",
-      "mint": "GPZt1Sh3YZme4uyRqqRcJ7DoPmiCCZifaL7P7RbSpump",
-      "label": "SpaceX",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=GPZt1Sh3YZme4uyRqqRcJ7DoPmiCCZifaL7P7RbSpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T02:30:51.396029Z",
+      "mint": "HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump",
+      "label": "Scamson Musk",
+      "verdict": "kill",
+      "reason": "liq $25.7K",
+      "link": "https://fomo.family/coin?address=HngZXdHcBiDEX8uhqexnFqUzHsf4y9Y8a4n1F6q8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T02:23:45.249343Z",
       "mint": "DdcLzJwfqFXvuPHS5mVVmCc1UvVzYxzasPt1G4Bcpump",
       "label": "HYPE",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $22.6K",
       "link": "https://fomo.family/coin?address=FtBmsuEgZHAo972PaEQrDdpEeMXSrUmnPavNpfBepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T00:48:55.036699Z",
-      "mint": "GPZt1Sh3YZme4uyRqqRcJ7DoPmiCCZifaL7P7RbSpump",
-      "label": "SpaceX",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=GPZt1Sh3YZme4uyRqqRcJ7DoPmiCCZifaL7P7RbSpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
