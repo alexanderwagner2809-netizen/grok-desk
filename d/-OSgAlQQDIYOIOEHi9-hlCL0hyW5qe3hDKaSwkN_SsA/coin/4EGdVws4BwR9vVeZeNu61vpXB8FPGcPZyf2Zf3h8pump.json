@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T12:02:42.620401Z",
+  "ts": "2026-11-12T12:03:52.394974Z",
   "mint": "4EGdVws4BwR9vVeZeNu61vpXB8FPGcPZyf2Zf3h8pump",
   "name": "Solana Cat",
   "symbol": "SOLCAT",
@@ -11,8 +11,8 @@
   "creator": "41q2mimSQBzSbJFvTEBu8X352jYKBEgMY1Kr6qGUgcYR",
   "holders": null,
   "link": "https://fomo.family/coin?address=4EGdVws4BwR9vVeZeNu61vpXB8FPGcPZyf2Zf3h8pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.874e-06,
-  "priceTs": "2026-11-12T12:02:41.450832Z",
+  "price": 1.856e-06,
+  "priceTs": "2026-11-12T12:03:51.339330Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -2136,12 +2136,20 @@
       "l": 1.874e-06,
       "c": 1.874e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794484980,
+      "o": 1.856e-06,
+      "h": 1.856e-06,
+      "l": 1.856e-06,
+      "c": 1.856e-06,
+      "v": 0.56
     }
   ],
   "stats": {
-    "marketCap": 1826.0,
-    "liquidity": 2098.54,
-    "volume24h": 745307.37,
+    "marketCap": 1808.0,
+    "liquidity": 2078.66,
+    "volume24h": 745307.94,
     "holders": null
   },
   "position": null,

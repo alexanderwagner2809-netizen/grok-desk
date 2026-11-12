@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T12:03:52.171647Z",
+  "mint": "BjJ1qcwrxRpWj3nV5ctHYXkgTssupyEryEzTsaiBpump",
+  "name": "CHIPGATE",
+  "symbol": "CGATE",
+  "label": "CHIPGATE",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T12:03:07.653982Z",
+  "pool": "5X8FLaEaCgcF2empGmju31MfjRgjNATMUUbJoMthX114",
+  "creator": "32QzQCMWDEw6ZKEAEb5Jpp8gkwnxPZUCYNLWuFc7bBcm",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=BjJ1qcwrxRpWj3nV5ctHYXkgTssupyEryEzTsaiBpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 6.009e-09,
+  "priceTs": "2026-11-12T12:03:50.846283Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794484980,
+      "o": 6.009e-09,
+      "h": 6.009e-09,
+      "l": 6.009e-09,
+      "c": 6.009e-09,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 12.0,
+    "liquidity": 0.0,
+    "volume24h": 33.3,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T12:03:40.933188Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -63.55,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
