@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T12:03:52.205402Z",
+  "ts": "2026-11-12T12:07:39.568495Z",
   "mint": "8sTA3v7me1CDAw6zLDTwfbeVGaFG6RiHTASF7aLpump",
   "name": "Be Nice To Claude",
   "symbol": "Claude",
@@ -11,8 +11,8 @@
   "creator": "6brpRjpCYiGHWAQ33b7nM1pnpfMWNDjSQr4vRGGCpNiH",
   "holders": null,
   "link": "https://fomo.family/coin?address=8sTA3v7me1CDAw6zLDTwfbeVGaFG6RiHTASF7aLpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.515e-06,
-  "priceTs": "2026-11-12T12:03:50.962865Z",
+  "price": 1.543e-06,
+  "priceTs": "2026-11-12T12:07:38.123309Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -656,12 +656,20 @@
       "l": 1.515e-06,
       "c": 1.515e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794485220,
+      "o": 1.543e-06,
+      "h": 1.543e-06,
+      "l": 1.543e-06,
+      "c": 1.543e-06,
+      "v": 0.39
     }
   ],
   "stats": {
-    "marketCap": 1495.0,
-    "liquidity": 1553.0,
-    "volume24h": 122162.65,
+    "marketCap": 1523.0,
+    "liquidity": 1580.43,
+    "volume24h": 122163.05,
     "holders": null
   },
   "position": null,
