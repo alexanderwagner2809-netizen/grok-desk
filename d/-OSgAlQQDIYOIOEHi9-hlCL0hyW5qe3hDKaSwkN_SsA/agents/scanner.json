@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T06:58:05.835117Z",
+  "ts": "2026-11-12T06:59:14.282431Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T06:58:04.856931Z",
+  "heartbeat": "2026-11-12T06:59:11.292926Z",
   "paused": false,
   "status": "running",
-  "card": "146 pools",
-  "count": 146,
+  "card": "147 pools",
+  "count": 147,
   "passed": 0,
   "feed": [
+    {
+      "mint": "9zNnKrckBoA88gDAWBhnHcpWaxBbAWjbDucepq1Upump",
+      "label": "PumpFun Rico",
+      "verdict": "kill",
+      "reason": "liq $11.1K",
+      "subtitle": "liq $11.1K",
+      "link": "https://fomo.family/coin?address=9zNnKrckBoA88gDAWBhnHcpWaxBbAWjbDucepq1Upump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "CUXNaUvtbN2wujp3qR61G4uRCfaxGV4c5cwvZ7W9pump",
       "label": "$CHIMPSHOT",
@@ -66,19 +74,19 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "DvTRRxEoDRtmwvWHPYa5BG7ALEFnd5e5VwQKpziMpump",
-      "label": "Hopium Mining & Refining Corp.",
-      "verdict": "kill",
-      "reason": "liq $55",
-      "subtitle": "liq $55",
-      "link": "https://fomo.family/coin?address=DvTRRxEoDRtmwvWHPYa5BG7ALEFnd5e5VwQKpziMpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T06:58:45.814776Z",
+      "mint": "9zNnKrckBoA88gDAWBhnHcpWaxBbAWjbDucepq1Upump",
+      "label": "PumpFun Rico",
+      "verdict": "kill",
+      "reason": "liq $11.1K",
+      "link": "https://fomo.family/coin?address=9zNnKrckBoA88gDAWBhnHcpWaxBbAWjbDucepq1Upump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:57:05.769473Z",
       "mint": "CUXNaUvtbN2wujp3qR61G4uRCfaxGV4c5cwvZ7W9pump",
       "label": "$CHIMPSHOT",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $15.1K",
       "link": "https://fomo.family/coin?address=HxxCe42L5d3zdacxQZHJdj33g7Pm8bJqjXVbTpoApump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T06:11:59.156547Z",
-      "mint": "BPA2AoMbUZVJhkno5ryCwFbQLX1KfXwzaCuQJETfpump",
-      "label": "GTA 6 Updates",
-      "verdict": "kill",
-      "reason": "+166% in 1h",
-      "link": "https://fomo.family/coin?address=BPA2AoMbUZVJhkno5ryCwFbQLX1KfXwzaCuQJETfpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T06:58:45.814776Z",
+      "mint": "9zNnKrckBoA88gDAWBhnHcpWaxBbAWjbDucepq1Upump",
+      "label": "PumpFun Rico",
+      "verdict": "kill",
+      "reason": "liq $11.1K",
+      "link": "https://fomo.family/coin?address=9zNnKrckBoA88gDAWBhnHcpWaxBbAWjbDucepq1Upump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:57:05.769473Z",
       "mint": "CUXNaUvtbN2wujp3qR61G4uRCfaxGV4c5cwvZ7W9pump",
       "label": "$CHIMPSHOT",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $15.1K",
       "link": "https://fomo.family/coin?address=HxxCe42L5d3zdacxQZHJdj33g7Pm8bJqjXVbTpoApump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T06:11:59.156547Z",
-      "mint": "BPA2AoMbUZVJhkno5ryCwFbQLX1KfXwzaCuQJETfpump",
-      "label": "GTA 6 Updates",
-      "verdict": "kill",
-      "reason": "+166% in 1h",
-      "link": "https://fomo.family/coin?address=BPA2AoMbUZVJhkno5ryCwFbQLX1KfXwzaCuQJETfpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
