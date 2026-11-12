@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-12T21:25:08.824752Z",
+  "ts": "2026-11-12T21:26:18.023915Z",
   "mint": "CTpSxCgUHjTX1FG82qbH3gVCeZTUotHpmx91kuRzpump",
-  "name": null,
-  "symbol": null,
-  "label": "CTpSxCgU",
+  "name": "Project Cortex",
+  "symbol": "XTX",
+  "label": "Project Cortex",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T21:23:19.067914Z",
-  "pool": null,
+  "pool": "9bb9oypzmARKYHzcxXLoLVxJCCzqvEoFv4Y6SAEnnVGe",
   "creator": "5jsLtG7SyyR2SfpAszjQGZ3RraVqXR4mWow9T68iwZLr",
   "holders": null,
   "link": "https://fomo.family/coin?address=CTpSxCgUHjTX1FG82qbH3gVCeZTUotHpmx91kuRzpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.744e-08,
+  "priceTs": "2026-11-12T21:26:17.716052Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794518700,
+      "o": 3.244e-08,
+      "h": 3.244e-08,
+      "l": 3.244e-08,
+      "c": 3.244e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794518760,
+      "o": 1.744e-08,
+      "h": 1.744e-08,
+      "l": 1.744e-08,
+      "c": 1.744e-08,
+      "v": 0.23999999999999996
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 14.0,
+    "liquidity": 3.84,
+    "volume24h": 0.47,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T21:25:52.270553Z",
+      "liquidity_usd": 5.26,
+      "top10_pct": null,
+      "h1_change_pct": 0.0,
+      "age_min": 2,
+      "verdict": "kill",
+      "reason": "liq $5"
+    }
+  ]
 }
