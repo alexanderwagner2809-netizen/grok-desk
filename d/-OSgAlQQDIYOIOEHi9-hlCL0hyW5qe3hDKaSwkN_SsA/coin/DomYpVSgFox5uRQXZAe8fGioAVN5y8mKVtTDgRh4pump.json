@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-12T14:49:14.888883Z",
+  "ts": "2026-11-12T14:50:25.093674Z",
   "mint": "DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump",
-  "name": null,
-  "symbol": null,
-  "label": "DomYpVSg",
+  "name": "🐸 Moon Frog",
+  "symbol": "$MFRG",
+  "label": "🐸 Moon Frog",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T14:49:13.917273Z",
-  "pool": null,
-  "creator": null,
+  "pool": "EXKAxZqijQphJa8Wu7deMNM6tUET4bYPqV5ALPwwoJ6D",
+  "creator": "B9V6wNHE6hm98z22FcCszaaL93wcDuibzEYqsX5x6df5",
   "holders": null,
   "link": "https://fomo.family/coin?address=DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 5.165e-08,
+  "priceTs": "2026-11-12T14:50:23.650551Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794495000,
+      "o": 4.832e-08,
+      "h": 5.165e-08,
+      "l": 4.832e-08,
+      "c": 5.165e-08,
+      "v": 0.77
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 103.0,
+    "liquidity": 16.46,
+    "volume24h": 2.48,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T14:50:01.885608Z",
+      "liquidity_usd": 15.94,
+      "top10_pct": null,
+      "h1_change_pct": 56.11,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $16"
+    }
+  ]
 }

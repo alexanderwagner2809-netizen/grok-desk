@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T14:49:15.055458Z",
+  "ts": "2026-11-12T14:50:25.872405Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T14:49:11.934403Z",
+  "heartbeat": "2026-11-12T14:50:16.889158Z",
   "paused": false,
   "status": "running",
-  "card": "230 pools",
-  "count": 230,
+  "card": "232 pools",
+  "count": 232,
   "passed": 0,
   "feed": [
+    {
+      "mint": "DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump",
+      "label": "🐸 Moon Frog",
+      "verdict": "kill",
+      "reason": "liq $16",
+      "subtitle": "liq $16",
+      "link": "https://fomo.family/coin?address=DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump",
+      "label": "The Affair Rally",
+      "verdict": "kill",
+      "reason": "liq $14.5K",
+      "subtitle": "liq $14.5K",
+      "link": "https://fomo.family/coin?address=EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump",
       "label": "Buy if you're horny",
@@ -58,27 +74,27 @@
       "reason": "liq $13.5K",
       "subtitle": "liq $13.5K",
       "link": "https://fomo.family/coin?address=EVWBXYnaNZQEZmZYwrkNhzomM6jmd6HH1Ly8cVaRpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "label": "EPjFWdd5",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "subtitle": "never qualified",
-      "link": "https://fomo.family/coin?address=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "4HeaFCvsD76751R79Edk9y8odRxDkqEsaunAqryzpump",
-      "label": "4HeaFCvs",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "subtitle": "never qualified",
-      "link": "https://fomo.family/coin?address=4HeaFCvsD76751R79Edk9y8odRxDkqEsaunAqryzpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T14:50:01.885608Z",
+      "mint": "DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump",
+      "label": "🐸 Moon Frog",
+      "verdict": "kill",
+      "reason": "liq $16",
+      "link": "https://fomo.family/coin?address=DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T14:49:15.972557Z",
+      "mint": "EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump",
+      "label": "The Affair Rally",
+      "verdict": "kill",
+      "reason": "liq $14.5K",
+      "link": "https://fomo.family/coin?address=EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T14:44:55.821787Z",
       "mint": "4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump",
       "label": "Buy if you're horny",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=BjJ1qcwrxRpWj3nV5ctHYXkgTssupyEryEzTsaiBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T11:59:40.520979Z",
-      "mint": "9bVzrsofzesaoEXbWLPSTHTWUcmcqfwkXK7Ha2bMpump",
-      "label": "XTO",
-      "verdict": "kill",
-      "reason": "+344451% in 1h",
-      "link": "https://fomo.family/coin?address=9bVzrsofzesaoEXbWLPSTHTWUcmcqfwkXK7Ha2bMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T11:56:26.231872Z",
-      "mint": "M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump",
-      "label": "NATF",
-      "verdict": "kill",
-      "reason": "+15118% in 1h",
-      "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T14:50:01.885608Z",
+      "mint": "DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump",
+      "label": "🐸 Moon Frog",
+      "verdict": "kill",
+      "reason": "liq $16",
+      "link": "https://fomo.family/coin?address=DomYpVSgFox5uRQXZAe8fGioAVN5y8mKVtTDgRh4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T14:49:15.972557Z",
+      "mint": "EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump",
+      "label": "The Affair Rally",
+      "verdict": "kill",
+      "reason": "liq $14.5K",
+      "link": "https://fomo.family/coin?address=EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T14:44:55.821787Z",
       "mint": "4J6tXKxKnduzDzWtCoxfPBnbSCqtbF7N8NAEts52pump",
       "label": "Buy if you're horny",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=BjJ1qcwrxRpWj3nV5ctHYXkgTssupyEryEzTsaiBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T11:59:40.520979Z",
-      "mint": "9bVzrsofzesaoEXbWLPSTHTWUcmcqfwkXK7Ha2bMpump",
-      "label": "XTO",
-      "verdict": "kill",
-      "reason": "+344451% in 1h",
-      "link": "https://fomo.family/coin?address=9bVzrsofzesaoEXbWLPSTHTWUcmcqfwkXK7Ha2bMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T11:56:26.231872Z",
-      "mint": "M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump",
-      "label": "NATF",
-      "verdict": "kill",
-      "reason": "+15118% in 1h",
-      "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

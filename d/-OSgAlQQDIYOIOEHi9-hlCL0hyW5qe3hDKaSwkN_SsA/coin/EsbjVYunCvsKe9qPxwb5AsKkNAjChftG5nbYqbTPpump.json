@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T14:49:14.952816Z",
+  "ts": "2026-11-12T14:50:25.094633Z",
   "mint": "EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump",
-  "name": null,
-  "symbol": null,
-  "label": "EsbjVYun",
+  "name": "The Affair Rally",
+  "symbol": "AFFAIR",
+  "label": "The Affair Rally",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T14:48:18.985519Z",
-  "pool": null,
+  "pool": "wXAEZP5AYydu7dz5CY3ikuvxTmzcLTW5tbmbTVNMgVp",
   "creator": "CNyWZBVM5MWQBYEJ4d6SGCuoJeYyJeBST4wnEexzMTaz",
   "holders": null,
   "link": "https://fomo.family/coin?address=EsbjVYunCvsKe9qPxwb5AsKkNAjChftG5nbYqbTPpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.436e-05,
-  "priceTs": "2026-11-12T14:49:14.178759Z",
+  "price": 4.943e-05,
+  "priceTs": "2026-11-12T14:50:23.650551Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 4.436e-05,
       "c": 4.436e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794495000,
+      "o": 4.943e-05,
+      "h": 4.943e-05,
+      "l": 4.943e-05,
+      "c": 4.943e-05,
+      "v": 17138.3
     }
   ],
   "stats": {
-    "marketCap": 44366.0,
-    "liquidity": 14488.69,
-    "volume24h": 3757.36,
+    "marketCap": 49430.0,
+    "liquidity": 15429.31,
+    "volume24h": 20895.66,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T14:49:15.972557Z",
+      "liquidity_usd": 14488.69,
+      "top10_pct": null,
+      "h1_change_pct": 32.13,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $14.5K"
+    }
+  ]
 }
