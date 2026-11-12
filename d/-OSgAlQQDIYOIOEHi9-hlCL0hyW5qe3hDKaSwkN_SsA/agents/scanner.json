@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T04:26:41.364566Z",
+  "ts": "2026-11-12T05:08:20.779963Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T04:26:40.271478Z",
+  "heartbeat": "2026-11-12T05:08:13.893480Z",
   "paused": false,
   "status": "running",
-  "card": "103 pools",
-  "count": 103,
+  "card": "105 pools",
+  "count": 105,
   "passed": 0,
   "feed": [
+    {
+      "mint": "3mk8HFzaSvM8Ep317NPEtQb5ui47csEvzY7GQ7hwpump",
+      "label": "Dashity Coin",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "subtitle": "liq $3",
+      "link": "https://fomo.family/coin?address=3mk8HFzaSvM8Ep317NPEtQb5ui47csEvzY7GQ7hwpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "WpDP1XabvTqdrRgxNzLbJMa66bhHKeyEgYMgBxYpump",
+      "label": "Burn token",
+      "verdict": "kill",
+      "reason": "liq $12",
+      "subtitle": "liq $12",
+      "link": "https://fomo.family/coin?address=WpDP1XabvTqdrRgxNzLbJMa66bhHKeyEgYMgBxYpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "EYgyePkh93xfNwJNPc5WswVwYnZinDY8j8qyz6A8pump",
       "label": "attention",
@@ -58,27 +74,27 @@
       "reason": "liq $21.7K",
       "subtitle": "liq $21.7K",
       "link": "https://fomo.family/coin?address=8QRe56BCJPdWqBFS5hq6fcA9bghb6mRMCKMLrHacpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "2LTpMuucRmNE9B56Q69USDYjSm2KJynLr7zmDrgJpump",
-      "label": "speedrun",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=2LTpMuucRmNE9B56Q69USDYjSm2KJynLr7zmDrgJpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5kiVCtrqoJ1T9pUZf6C91kUnVJuhgdLKtibDhJ3ppump",
-      "label": "GABOON",
-      "verdict": "kill",
-      "reason": "liq $17.6K",
-      "subtitle": "liq $17.6K",
-      "link": "https://fomo.family/coin?address=5kiVCtrqoJ1T9pUZf6C91kUnVJuhgdLKtibDhJ3ppump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T05:05:08.891987Z",
+      "mint": "3mk8HFzaSvM8Ep317NPEtQb5ui47csEvzY7GQ7hwpump",
+      "label": "Dashity Coin",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "link": "https://fomo.family/coin?address=3mk8HFzaSvM8Ep317NPEtQb5ui47csEvzY7GQ7hwpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T04:37:38.420054Z",
+      "mint": "WpDP1XabvTqdrRgxNzLbJMa66bhHKeyEgYMgBxYpump",
+      "label": "Burn token",
+      "verdict": "kill",
+      "reason": "liq $12",
+      "link": "https://fomo.family/coin?address=WpDP1XabvTqdrRgxNzLbJMa66bhHKeyEgYMgBxYpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T04:09:11.152480Z",
       "mint": "EYgyePkh93xfNwJNPc5WswVwYnZinDY8j8qyz6A8pump",
       "label": "attention",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $2",
       "link": "https://fomo.family/coin?address=Goebmkx6ewHcBvBAydCutZC5RU3KiydnpZqX6Tgpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:05:49.281188Z",
-      "mint": "GqMVxDt2qCaEbyB3s9pbWrvEtNMuch52xBuXZf3Cpump",
-      "label": "GTA6",
-      "verdict": "kill",
-      "reason": "liq $22.6K",
-      "link": "https://fomo.family/coin?address=GqMVxDt2qCaEbyB3s9pbWrvEtNMuch52xBuXZf3Cpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:05:49.278725Z",
-      "mint": "AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump",
-      "label": "Maximus",
-      "verdict": "kill",
-      "reason": "liq $25.3K",
-      "link": "https://fomo.family/coin?address=AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T05:05:08.891987Z",
+      "mint": "3mk8HFzaSvM8Ep317NPEtQb5ui47csEvzY7GQ7hwpump",
+      "label": "Dashity Coin",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "link": "https://fomo.family/coin?address=3mk8HFzaSvM8Ep317NPEtQb5ui47csEvzY7GQ7hwpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T04:37:38.420054Z",
+      "mint": "WpDP1XabvTqdrRgxNzLbJMa66bhHKeyEgYMgBxYpump",
+      "label": "Burn token",
+      "verdict": "kill",
+      "reason": "liq $12",
+      "link": "https://fomo.family/coin?address=WpDP1XabvTqdrRgxNzLbJMa66bhHKeyEgYMgBxYpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T04:09:11.152480Z",
       "mint": "EYgyePkh93xfNwJNPc5WswVwYnZinDY8j8qyz6A8pump",
       "label": "attention",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $2",
       "link": "https://fomo.family/coin?address=Goebmkx6ewHcBvBAydCutZC5RU3KiydnpZqX6Tgpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:05:49.281188Z",
-      "mint": "GqMVxDt2qCaEbyB3s9pbWrvEtNMuch52xBuXZf3Cpump",
-      "label": "GTA6",
-      "verdict": "kill",
-      "reason": "liq $22.6K",
-      "link": "https://fomo.family/coin?address=GqMVxDt2qCaEbyB3s9pbWrvEtNMuch52xBuXZf3Cpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T02:05:49.278725Z",
-      "mint": "AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump",
-      "label": "Maximus",
-      "verdict": "kill",
-      "reason": "liq $25.3K",
-      "link": "https://fomo.family/coin?address=AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

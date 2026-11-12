@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-12T05:08:20.637332Z",
+  "mint": "3mk8HFzaSvM8Ep317NPEtQb5ui47csEvzY7GQ7hwpump",
+  "name": "Dashity Coin",
+  "symbol": "DaShity",
+  "label": "Dashity Coin",
+  "chain": "Solana",
+  "age": "10m old",
+  "migratedAt": "2026-11-12T04:57:51.373924Z",
+  "pool": "J4iPfmcdTA9UdaHZ5pkrYvSsJD93MefDyZxvm5yLNiK3",
+  "creator": "5DTzerzGPPDcwZg7UkhUTwhEjruSKp22ZRE9YdAuwEXK",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=3mk8HFzaSvM8Ep317NPEtQb5ui47csEvzY7GQ7hwpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 8.843e-10,
+  "priceTs": "2026-11-12T05:08:19.968788Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794459900,
+      "o": 8.843e-10,
+      "h": 8.843e-10,
+      "l": 8.843e-10,
+      "c": 8.843e-10,
+      "v": 0.0
+    },
+    {
+      "t": 1794460080,
+      "o": 8.843e-10,
+      "h": 8.843e-10,
+      "l": 8.843e-10,
+      "c": 8.843e-10,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 2.0,
+    "liquidity": 3.22,
+    "volume24h": 223.53,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T05:05:08.891987Z",
+      "liquidity_usd": 3.22,
+      "top10_pct": null,
+      "h1_change_pct": -98.72,
+      "age_min": 7,
+      "verdict": "kill",
+      "reason": "liq $3"
+    }
+  ]
+}

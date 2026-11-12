@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T04:26:41.208236Z",
+  "ts": "2026-11-12T05:08:20.657844Z",
   "mint": "AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump",
   "name": "Maximus",
   "symbol": "MAX",
   "label": "Maximus",
   "chain": "Solana",
-  "age": "2h old",
+  "age": "3h old",
   "migratedAt": "2026-11-12T02:04:04.770492Z",
   "pool": "8JrY8TSh5bkaR87ytYgNJxipV4Mh5yzABEvJvuNPz6o7",
   "creator": "DJPpsJkwMnafRnEt5y6ARFC2ABwfpeLfd3FQYZGhKM57",
   "holders": null,
   "link": "https://fomo.family/coin?address=AitksCRn29wLXgf6AGJbcszX9maZtVg62D1bV4expump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0002355,
-  "priceTs": "2026-11-12T04:26:40.463170Z",
+  "price": 0.0001085,
+  "priceTs": "2026-11-12T05:08:20.086718Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -344,12 +344,20 @@
       "l": 0.0002355,
       "c": 0.0002355,
       "v": 0.0
+    },
+    {
+      "t": 1794460080,
+      "o": 0.0001085,
+      "h": 0.0001085,
+      "l": 0.0001085,
+      "c": 0.0001085,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 232478.0,
-    "liquidity": 36826.6,
-    "volume24h": 472660.19,
+    "marketCap": 107150.0,
+    "liquidity": 24625.95,
+    "volume24h": 539251.01,
     "holders": null
   },
   "position": null,

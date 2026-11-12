@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T04:26:41.189993Z",
+  "ts": "2026-11-12T05:08:20.644003Z",
   "mint": "2LTpMuucRmNE9B56Q69USDYjSm2KJynLr7zmDrgJpump",
   "name": "speedrun",
   "symbol": "speedrun",
   "label": "speedrun",
   "chain": "Solana",
-  "age": "43m old",
+  "age": "1h old",
   "migratedAt": "2026-11-12T03:43:27.774037Z",
   "pool": "5hyCwFxine8Zr3t4PynQXNU3WZNV3WzhMLH6HRV8qaxg",
   "creator": "7FVfSdnR9VPGjMtmBP1Hz9C2DFTpoNX8gVVRmnimnGt9",
   "holders": null,
   "link": "https://fomo.family/coin?address=2LTpMuucRmNE9B56Q69USDYjSm2KJynLr7zmDrgJpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.593e-09,
-  "priceTs": "2026-11-12T04:26:40.463170Z",
+  "price": 1.299e-09,
+  "priceTs": "2026-11-12T05:08:19.968788Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -144,12 +144,20 @@
       "l": 1.593e-09,
       "c": 1.593e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794460080,
+      "o": 1.299e-09,
+      "h": 1.299e-09,
+      "l": 1.299e-09,
+      "c": 1.299e-09,
+      "v": 0.0
     }
   ],
   "stats": {
     "marketCap": 3.0,
-    "liquidity": 5.09,
-    "volume24h": 224.2,
+    "liquidity": 4.59,
+    "volume24h": 224.5,
     "holders": null
   },
   "position": null,
