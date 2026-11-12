@@ -1,26 +1,35 @@
 {
-  "ts": "2026-11-12T16:43:32.611180Z",
+  "ts": "2026-11-12T16:44:44.564284Z",
   "mint": "3mJEHbAtXuZ2oXXXY9Yk7bPM3z5Vr1x3yvc8SZXqpump",
   "name": null,
   "symbol": null,
   "label": "3mJEHbAt",
   "chain": "Solana",
-  "age": "2m old",
+  "age": "3m old",
   "migratedAt": "2026-11-12T16:40:56.963992Z",
   "pool": null,
   "creator": "8onH1h4GvYv2vE5HUecVgJH8z6t737jUmAzA4Jb3aN2x",
   "holders": null,
   "link": "https://fomo.family/coin?address=3mJEHbAtXuZ2oXXXY9Yk7bPM3z5Vr1x3yvc8SZXqpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 6.279e-09,
+  "priceTs": "2026-11-12T16:44:43.160196Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794501840,
+      "o": 6.279e-09,
+      "h": 6.279e-09,
+      "l": 6.279e-09,
+      "c": 6.279e-09,
+      "v": 0.0
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 4.0,
+    "liquidity": 3.53,
+    "volume24h": 0.07,
     "holders": null
   },
   "position": null,
