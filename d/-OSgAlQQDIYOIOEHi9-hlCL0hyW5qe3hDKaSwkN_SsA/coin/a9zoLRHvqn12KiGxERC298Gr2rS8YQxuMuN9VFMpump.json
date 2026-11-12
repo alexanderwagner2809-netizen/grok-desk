@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T21:34:30.197108Z",
+  "ts": "2026-11-12T21:35:40.256509Z",
   "mint": "a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump",
   "name": "Fandemonium",
   "symbol": "FANDEMON",
   "label": "Fandemonium",
   "chain": "Solana",
-  "age": "18m old",
+  "age": "19m old",
   "migratedAt": "2026-11-12T21:15:47.085708Z",
   "pool": "A5kzq3M2ZdHWtXJmAvdr1CmvAvG79YFej4X4U88ZKuEg",
   "creator": "DczrtPzxmULsSXPdraAtATUNivt7tZPoEDvqjpqtY23j",
   "holders": null,
   "link": "https://fomo.family/coin?address=a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0002655,
-  "priceTs": "2026-11-12T21:34:29.918087Z",
+  "price": 0.0002403,
+  "priceTs": "2026-11-12T21:35:39.951160Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -144,12 +144,20 @@
       "l": 0.0002655,
       "c": 0.0002655,
       "v": 0.0
+    },
+    {
+      "t": 1794519300,
+      "o": 0.0002403,
+      "h": 0.0002403,
+      "l": 0.0002403,
+      "c": 0.0002403,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 265483.0,
-    "liquidity": 38537.5,
-    "volume24h": 421637.8,
+    "marketCap": 240272.0,
+    "liquidity": 36607.76,
+    "volume24h": 430054.8,
     "holders": null
   },
   "position": null,

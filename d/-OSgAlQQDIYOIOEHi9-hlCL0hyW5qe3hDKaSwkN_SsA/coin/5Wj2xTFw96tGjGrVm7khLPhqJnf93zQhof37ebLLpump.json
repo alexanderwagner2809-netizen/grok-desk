@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T21:34:30.198743Z",
+  "ts": "2026-11-12T21:35:40.258282Z",
   "mint": "5Wj2xTFw96tGjGrVm7khLPhqJnf93zQhof37ebLLpump",
   "name": "CR7 COIN",
   "symbol": "CR7",
   "label": "CR7 COIN",
   "chain": "Solana",
-  "age": "20m old",
+  "age": "21m old",
   "migratedAt": "2026-11-12T21:13:58.104290Z",
   "pool": "7yoypzopXrkT7R4VxCVnyW4Jwe9HQy6N7z1qisQJ3QBC",
   "creator": "oztoR5Q9cgWQo57uaZ8Dx5yssQmjtUCXJAXS2MGVZSm",
   "holders": null,
   "link": "https://fomo.family/coin?address=5Wj2xTFw96tGjGrVm7khLPhqJnf93zQhof37ebLLpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4e-09,
-  "priceTs": "2026-11-12T21:34:29.918087Z",
+  "price": 3.237e-09,
+  "priceTs": "2026-11-12T21:35:39.951160Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -160,12 +160,20 @@
       "l": 4e-09,
       "c": 4e-09,
       "v": 0.24
+    },
+    {
+      "t": 1794519300,
+      "o": 3.237e-09,
+      "h": 3.237e-09,
+      "l": 3.237e-09,
+      "c": 3.237e-09,
+      "v": 0.030000000000000027
     }
   ],
   "stats": {
-    "marketCap": 8.0,
-    "liquidity": 2.6,
-    "volume24h": 34.04,
+    "marketCap": 6.0,
+    "liquidity": 2.34,
+    "volume24h": 34.07,
     "holders": null
   },
   "position": null,

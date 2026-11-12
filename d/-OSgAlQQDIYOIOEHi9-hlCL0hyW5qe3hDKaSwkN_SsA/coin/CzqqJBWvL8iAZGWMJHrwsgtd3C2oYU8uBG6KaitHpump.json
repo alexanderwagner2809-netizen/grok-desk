@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T21:34:30.242721Z",
+  "ts": "2026-11-12T21:35:40.319964Z",
   "mint": "CzqqJBWvL8iAZGWMJHrwsgtd3C2oYU8uBG6KaitHpump",
   "name": "Eloncoin",
   "symbol": "Elon",
@@ -11,8 +11,8 @@
   "creator": "CifFR6QiQQKzZoeXbb7avTPPYr5oG6T41MQx22UfNxye",
   "holders": null,
   "link": "https://fomo.family/coin?address=CzqqJBWvL8iAZGWMJHrwsgtd3C2oYU8uBG6KaitHpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.246e-06,
-  "priceTs": "2026-11-12T21:34:30.051691Z",
+  "price": 2.228e-06,
+  "priceTs": "2026-11-12T21:35:40.092673Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -536,12 +536,20 @@
       "l": 2.246e-06,
       "c": 2.246e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794519300,
+      "o": 2.228e-06,
+      "h": 2.228e-06,
+      "l": 2.228e-06,
+      "c": 2.228e-06,
+      "v": 13.55
     }
   ],
   "stats": {
-    "marketCap": 1974.0,
-    "liquidity": 2159.26,
-    "volume24h": 57635.13,
+    "marketCap": 1959.0,
+    "liquidity": 2146.81,
+    "volume24h": 57648.68,
     "holders": null
   },
   "position": null,

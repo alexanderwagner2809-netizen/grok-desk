@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-12T21:34:30.554166Z",
+  "ts": "2026-11-12T21:35:40.246502Z",
   "mint": "67UzW47nNYKWw5bW6oUfVY4gTQfaEigv2UHUrp5epump",
-  "name": null,
-  "symbol": null,
-  "label": "67UzW47n",
+  "name": "NEOX COIN",
+  "symbol": "Neox",
+  "label": "NEOX COIN",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T21:34:26.567353Z",
-  "pool": null,
+  "pool": "9iDLc7GMov4CdRr8WkoUn1APWHNeiM8q9bx2QNHB2fLh",
   "creator": "32QzQCMWDEw6ZKEAEb5Jpp8gkwnxPZUCYNLWuFc7bBcm",
   "holders": null,
   "link": "https://fomo.family/coin?address=67UzW47nNYKWw5bW6oUfVY4gTQfaEigv2UHUrp5epump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.103e-09,
+  "priceTs": "2026-11-12T21:35:39.951160Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794519300,
+      "o": 2.64e-07,
+      "h": 2.64e-07,
+      "l": 3.103e-09,
+      "c": 3.103e-09,
+      "v": 170.55
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 6.0,
+    "liquidity": 5.12,
+    "volume24h": 260.48,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T21:35:38.967692Z",
+      "liquidity_usd": 41.17,
+      "top10_pct": null,
+      "h1_change_pct": 601.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $41"
+    }
+  ]
 }
