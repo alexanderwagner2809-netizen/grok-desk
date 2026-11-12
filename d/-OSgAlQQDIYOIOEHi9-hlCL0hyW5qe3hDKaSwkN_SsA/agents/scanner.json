@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T09:24:02.867164Z",
+  "ts": "2026-11-12T09:25:11.678353Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T09:24:02.449159Z",
+  "heartbeat": "2026-11-12T09:25:05.029167Z",
   "paused": false,
   "status": "running",
-  "card": "181 pools",
-  "count": 181,
+  "card": "182 pools",
+  "count": 182,
   "passed": 0,
   "feed": [
+    {
+      "mint": "BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump",
+      "label": "Paid",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "k7FcrVhQ4CbYPkATSuxVGZKjX2Ny545B1Pdn8uUpump",
       "label": "Joe the bourbon connoisseur",
@@ -66,19 +74,19 @@
       "reason": "liq $35",
       "subtitle": "liq $35",
       "link": "https://fomo.family/coin?address=HdWwHYsPUL2BAA531ELQnoxDGKk5bmyJbhFuEEuHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "pb6DzXwafqPakPLUJiw6FrixdBfKyVw5LUjx6XHpump",
-      "label": "Bugles Cat",
-      "verdict": "kill",
-      "reason": "liq $19.2K",
-      "subtitle": "liq $19.2K",
-      "link": "https://fomo.family/coin?address=pb6DzXwafqPakPLUJiw6FrixdBfKyVw5LUjx6XHpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T09:25:05.124440Z",
+      "mint": "BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump",
+      "label": "Paid",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T09:13:47.312055Z",
       "mint": "k7FcrVhQ4CbYPkATSuxVGZKjX2Ny545B1Pdn8uUpump",
       "label": "Joe the bourbon connoisseur",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $4",
       "link": "https://fomo.family/coin?address=4gqDQ8VUYgSnf9m8ryGZrrjxuaXYWBKe5iRYmY85pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:13:05.992763Z",
-      "mint": "8hCzB2xWJWTLCTVVb9uEWpQ8BWejBPprkjgEv7Tnpump",
-      "label": "GTA 6 Updates",
-      "verdict": "kill",
-      "reason": "+168% in 1h",
-      "link": "https://fomo.family/coin?address=8hCzB2xWJWTLCTVVb9uEWpQ8BWejBPprkjgEv7Tnpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T09:25:05.124440Z",
+      "mint": "BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump",
+      "label": "Paid",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=BGTDMnCg9w4gv8nVzf7kfcdnP7RYuUHAEMawwRMgpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T09:13:47.312055Z",
       "mint": "k7FcrVhQ4CbYPkATSuxVGZKjX2Ny545B1Pdn8uUpump",
       "label": "Joe the bourbon connoisseur",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $4",
       "link": "https://fomo.family/coin?address=4gqDQ8VUYgSnf9m8ryGZrrjxuaXYWBKe5iRYmY85pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T08:13:05.992763Z",
-      "mint": "8hCzB2xWJWTLCTVVb9uEWpQ8BWejBPprkjgEv7Tnpump",
-      "label": "GTA 6 Updates",
-      "verdict": "kill",
-      "reason": "+168% in 1h",
-      "link": "https://fomo.family/coin?address=8hCzB2xWJWTLCTVVb9uEWpQ8BWejBPprkjgEv7Tnpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
