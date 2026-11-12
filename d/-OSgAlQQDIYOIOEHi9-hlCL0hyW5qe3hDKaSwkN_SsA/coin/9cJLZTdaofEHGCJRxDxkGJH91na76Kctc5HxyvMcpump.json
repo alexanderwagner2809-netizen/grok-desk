@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T08:13:35.886324Z",
+  "ts": "2026-11-12T08:14:44.856203Z",
   "mint": "9cJLZTdaofEHGCJRxDxkGJH91na76Kctc5HxyvMcpump",
   "name": "Gold Chair",
   "symbol": "ch",
@@ -11,8 +11,8 @@
   "creator": "2mNbacrHdpDRStmHeZodRfB4DX46p6osuVBJzABk59Sf",
   "holders": null,
   "link": "https://fomo.family/coin?address=9cJLZTdaofEHGCJRxDxkGJH91na76Kctc5HxyvMcpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.856e-09,
-  "priceTs": "2026-11-12T08:13:35.296166Z",
+  "price": 1.657e-09,
+  "priceTs": "2026-11-12T08:14:44.292537Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1624,11 +1624,19 @@
       "l": 1.856e-09,
       "c": 1.856e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794471240,
+      "o": 1.657e-09,
+      "h": 1.657e-09,
+      "l": 1.657e-09,
+      "c": 1.657e-09,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 4.0,
-    "liquidity": 2.29,
+    "marketCap": 3.0,
+    "liquidity": 2.13,
     "volume24h": 34.46,
     "holders": null
   },
