@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-12T18:33:31.239134Z",
+  "mint": "7cPKubouxwsSy4aAKHtDKUETZ6uxVZDntRuy7Cappump",
+  "name": "2027 Year of the Goat",
+  "symbol": "GOAT",
+  "label": "2027 Year of the Goat",
+  "chain": "Solana",
+  "age": "16m old",
+  "migratedAt": "2026-11-12T18:16:47.334694Z",
+  "pool": "7wW7HdGqdG4REYFt2HuaKtafYyw1UZDX6dHkESAA47Dm",
+  "creator": "4ngVs2GKZ1jqVVzFJYfU6BCCwxEvWjFW7SBXiVkw6iQT",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=7cPKubouxwsSy4aAKHtDKUETZ6uxVZDntRuy7Cappump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 5.911e-05,
+  "priceTs": "2026-11-12T18:33:11.096903Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794507420,
+      "o": 3.894e-05,
+      "h": 3.894e-05,
+      "l": 3.894e-05,
+      "c": 3.894e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794508380,
+      "o": 5.911e-05,
+      "h": 5.911e-05,
+      "l": 5.911e-05,
+      "c": 5.911e-05,
+      "v": 985.62
+    }
+  ],
+  "stats": {
+    "marketCap": 38943.0,
+    "liquidity": 17014.9,
+    "volume24h": 515.87,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T18:33:11.098845Z",
+      "liquidity_usd": 17014.9,
+      "top10_pct": null,
+      "h1_change_pct": 74.67,
+      "age_min": 16,
+      "verdict": "kill",
+      "reason": "liq $17.0K"
+    }
+  ]
+}
