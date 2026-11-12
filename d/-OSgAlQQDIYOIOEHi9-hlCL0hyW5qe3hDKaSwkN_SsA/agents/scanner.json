@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T11:54:34.910933Z",
+  "ts": "2026-11-12T11:55:44.556587Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T11:54:33.501010Z",
+  "heartbeat": "2026-11-12T11:55:40.260809Z",
   "paused": false,
   "status": "running",
-  "card": "210 pools",
-  "count": 210,
+  "card": "211 pools",
+  "count": 211,
   "passed": 0,
   "feed": [
+    {
+      "mint": "Hj3iyUwYPJR5q4HSwxZ23CB32ry42ybwwDDEUbLYpump",
+      "label": "Robinhood",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=Hj3iyUwYPJR5q4HSwxZ23CB32ry42ybwwDDEUbLYpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "AgpGrnvV64RgvVZdwayKMQNWZzfy3o4qh1FAdY2Hpump",
       "label": "AgpGrnvV",
@@ -66,19 +74,19 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=5WX32yn4wsN2dppKhvGyz5nKLL8rTLpPfn8Xf1kopump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "7qNDfryuJEUzh6mKbeUhVSrRUih7QrhDAKUH6F9mpump",
-      "label": "Robinhood",
-      "verdict": "kill",
-      "reason": "+193% in 1h",
-      "subtitle": "+193% in 1h",
-      "link": "https://fomo.family/coin?address=7qNDfryuJEUzh6mKbeUhVSrRUih7QrhDAKUH6F9mpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T11:55:10.975113Z",
+      "mint": "Hj3iyUwYPJR5q4HSwxZ23CB32ry42ybwwDDEUbLYpump",
+      "label": "Robinhood",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=Hj3iyUwYPJR5q4HSwxZ23CB32ry42ybwwDDEUbLYpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T11:54:12.527664Z",
       "mint": "AgpGrnvV64RgvVZdwayKMQNWZzfy3o4qh1FAdY2Hpump",
       "label": "AgpGrnvV",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T09:45:44.413649Z",
-      "mint": "2ETgxCfRwJRBuMgU7T5YiCDFYFQd3sUN3cFosRCPpump",
-      "label": "Niggercoin",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=2ETgxCfRwJRBuMgU7T5YiCDFYFQd3sUN3cFosRCPpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T11:55:10.975113Z",
+      "mint": "Hj3iyUwYPJR5q4HSwxZ23CB32ry42ybwwDDEUbLYpump",
+      "label": "Robinhood",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=Hj3iyUwYPJR5q4HSwxZ23CB32ry42ybwwDDEUbLYpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T11:54:12.527664Z",
       "mint": "AgpGrnvV64RgvVZdwayKMQNWZzfy3o4qh1FAdY2Hpump",
       "label": "AgpGrnvV",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=Dcipe1FNimmVAnVfPWuhqHx4M3P9SCz647FDGWptpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T09:45:44.413649Z",
-      "mint": "2ETgxCfRwJRBuMgU7T5YiCDFYFQd3sUN3cFosRCPpump",
-      "label": "Niggercoin",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=2ETgxCfRwJRBuMgU7T5YiCDFYFQd3sUN3cFosRCPpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
