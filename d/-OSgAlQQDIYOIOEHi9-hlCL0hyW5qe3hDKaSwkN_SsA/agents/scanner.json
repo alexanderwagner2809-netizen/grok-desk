@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T06:31:29.008491Z",
+  "ts": "2026-11-12T06:32:37.310637Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T06:31:11.509139Z",
+  "heartbeat": "2026-11-12T06:32:31.536662Z",
   "paused": false,
   "status": "running",
-  "card": "133 pools",
-  "count": 133,
+  "card": "134 pools",
+  "count": 134,
   "passed": 0,
   "feed": [
+    {
+      "mint": "BpcFE5CcaezdM3uMTFkyWWUvw8Lc4MEQNqwmQwyCpump",
+      "label": "AURACOIN",
+      "verdict": "kill",
+      "reason": "liq $5",
+      "subtitle": "liq $5",
+      "link": "https://fomo.family/coin?address=BpcFE5CcaezdM3uMTFkyWWUvw8Lc4MEQNqwmQwyCpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "DdS7pPMcMB1ZvH9JyU31wrXE49oMTdeRH9dbtGTrpump",
       "label": "GTA 6 Updates",
@@ -66,19 +74,19 @@
       "reason": "+166% in 1h",
       "subtitle": "+166% in 1h",
       "link": "https://fomo.family/coin?address=BPA2AoMbUZVJhkno5ryCwFbQLX1KfXwzaCuQJETfpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "HEFE6bVyNy13ir2SKs1u2EeDXY9iJc583VdjD51Kpump",
-      "label": "maritains",
-      "verdict": "kill",
-      "reason": "liq $490",
-      "subtitle": "liq $490",
-      "link": "https://fomo.family/coin?address=HEFE6bVyNy13ir2SKs1u2EeDXY9iJc583VdjD51Kpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T06:31:29.059768Z",
+      "mint": "BpcFE5CcaezdM3uMTFkyWWUvw8Lc4MEQNqwmQwyCpump",
+      "label": "AURACOIN",
+      "verdict": "kill",
+      "reason": "liq $5",
+      "link": "https://fomo.family/coin?address=BpcFE5CcaezdM3uMTFkyWWUvw8Lc4MEQNqwmQwyCpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:28:01.383057Z",
       "mint": "DdS7pPMcMB1ZvH9JyU31wrXE49oMTdeRH9dbtGTrpump",
       "label": "GTA 6 Updates",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $35",
       "link": "https://fomo.family/coin?address=EHqwnujJP7j49uhvfFdSJVHEC4w5du66RdwWHdbZpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T05:57:43.442494Z",
-      "mint": "CRdKadC7DZEFYZPRLcHUvpYur8ud4oKnb8PHFT6Wpump",
-      "label": "ORGASM",
-      "verdict": "kill",
-      "reason": "liq $4",
-      "link": "https://fomo.family/coin?address=CRdKadC7DZEFYZPRLcHUvpYur8ud4oKnb8PHFT6Wpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T06:31:29.059768Z",
+      "mint": "BpcFE5CcaezdM3uMTFkyWWUvw8Lc4MEQNqwmQwyCpump",
+      "label": "AURACOIN",
+      "verdict": "kill",
+      "reason": "liq $5",
+      "link": "https://fomo.family/coin?address=BpcFE5CcaezdM3uMTFkyWWUvw8Lc4MEQNqwmQwyCpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T06:28:01.383057Z",
       "mint": "DdS7pPMcMB1ZvH9JyU31wrXE49oMTdeRH9dbtGTrpump",
       "label": "GTA 6 Updates",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $35",
       "link": "https://fomo.family/coin?address=EHqwnujJP7j49uhvfFdSJVHEC4w5du66RdwWHdbZpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T05:57:43.442494Z",
-      "mint": "CRdKadC7DZEFYZPRLcHUvpYur8ud4oKnb8PHFT6Wpump",
-      "label": "ORGASM",
-      "verdict": "kill",
-      "reason": "liq $4",
-      "link": "https://fomo.family/coin?address=CRdKadC7DZEFYZPRLcHUvpYur8ud4oKnb8PHFT6Wpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
