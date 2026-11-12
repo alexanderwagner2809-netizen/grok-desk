@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:39:48.379226Z",
+  "ts": "2026-11-12T06:40:57.095867Z",
   "mint": "BpcFE5CcaezdM3uMTFkyWWUvw8Lc4MEQNqwmQwyCpump",
   "name": "AURACOIN",
   "symbol": "$AURA",
   "label": "AURACOIN",
   "chain": "Solana",
-  "age": "10m old",
+  "age": "11m old",
   "migratedAt": "2026-11-12T06:29:26.856167Z",
   "pool": "8R6DQuL1cxWe9ZNxpQiPcBGMhfm9fJHtLvfKj3cqkfwE",
   "creator": "EjcwXG6ywzorxLcX7565C614LdhxiHF6uJhkYyRTDVgZ",
   "holders": null,
   "link": "https://fomo.family/coin?address=BpcFE5CcaezdM3uMTFkyWWUvw8Lc4MEQNqwmQwyCpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.112e-09,
-  "priceTs": "2026-11-12T06:39:47.469672Z",
+  "price": 1.012e-09,
+  "priceTs": "2026-11-12T06:40:56.088703Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -88,12 +88,20 @@
       "l": 1.112e-09,
       "c": 1.112e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794465600,
+      "o": 1.012e-09,
+      "h": 1.012e-09,
+      "l": 1.012e-09,
+      "c": 1.012e-09,
+      "v": 0.0
     }
   ],
   "stats": {
     "marketCap": 2.0,
-    "liquidity": 3.9,
-    "volume24h": 139.77,
+    "liquidity": 3.72,
+    "volume24h": 139.78,
     "holders": null
   },
   "position": null,

@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T06:39:48.543629Z",
+  "ts": "2026-11-12T06:40:57.094629Z",
   "mint": "CSihqXhYopkAtUu3Q3qSK7AKVacjTeRvVMvTvH7Bpump",
-  "name": null,
-  "symbol": null,
-  "label": "CSihqXhY",
+  "name": "GTA 6 Updates",
+  "symbol": "GTA 6",
+  "label": "GTA 6 Updates",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T06:39:20.726553Z",
-  "pool": null,
+  "pool": "BCMxTHkqG73dwgQY7oQjwL1BFxiNvUmH8rDpNQWzJoGb",
   "creator": "8Y3ZgZQmwkdQWr17caPFieBghoNSbxJcCubWP2MWt11m",
   "holders": null,
   "link": "https://fomo.family/coin?address=CSihqXhYopkAtUu3Q3qSK7AKVacjTeRvVMvTvH7Bpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.403e-05,
-  "priceTs": "2026-11-12T06:39:48.236780Z",
+  "price": 9.44e-05,
+  "priceTs": "2026-11-12T06:40:56.088703Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 3.403e-05,
       "c": 3.403e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794465600,
+      "o": 9.196e-05,
+      "h": 9.44e-05,
+      "l": 9.196e-05,
+      "c": 9.44e-05,
+      "v": 117.85999999999967
     }
   ],
   "stats": {
-    "marketCap": 34033.2,
-    "liquidity": null,
-    "volume24h": 7040.99,
+    "marketCap": 94350.0,
+    "liquidity": 22007.34,
+    "volume24h": 4854.15,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T06:40:23.819052Z",
+      "liquidity_usd": 21701.16,
+      "top10_pct": null,
+      "h1_change_pct": 167.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "+167% in 1h"
+    }
+  ]
 }
