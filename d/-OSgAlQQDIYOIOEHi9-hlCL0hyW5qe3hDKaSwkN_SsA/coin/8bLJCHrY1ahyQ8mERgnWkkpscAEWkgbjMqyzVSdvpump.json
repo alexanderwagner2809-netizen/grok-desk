@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T16:34:00.855532Z",
+  "ts": "2026-11-12T16:35:11.827321Z",
   "mint": "8bLJCHrY1ahyQ8mERgnWkkpscAEWkgbjMqyzVSdvpump",
   "name": "Dugecoin",
   "symbol": "DUGE",
   "label": "Dugecoin",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T16:32:31.621761Z",
   "pool": "4GZTEW7327jyDJLryaZWzC4uUYqkHznCVCPajmXovLEg",
   "creator": "7b85oxqp3AiAeQ9dxPDJ5zkAqQrtZ7Bg6Nd6d91QW7AN",
   "holders": null,
   "link": "https://fomo.family/coin?address=8bLJCHrY1ahyQ8mERgnWkkpscAEWkgbjMqyzVSdvpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.745e-05,
-  "priceTs": "2026-11-12T16:33:58.960885Z",
+  "price": 3.378e-05,
+  "priceTs": "2026-11-12T16:35:10.073741Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -32,12 +32,20 @@
       "l": 3.703e-05,
       "c": 3.745e-05,
       "v": 13563.12
+    },
+    {
+      "t": 1794501300,
+      "o": 3.378e-05,
+      "h": 3.378e-05,
+      "l": 3.378e-05,
+      "c": 3.378e-05,
+      "v": 14074.429999999998
     }
   ],
   "stats": {
-    "marketCap": 37424.0,
-    "liquidity": 13314.44,
-    "volume24h": 14245.42,
+    "marketCap": 33761.0,
+    "liquidity": 12609.71,
+    "volume24h": 28319.85,
     "holders": null
   },
   "position": null,
