@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-12T08:01:52.424385Z",
+  "ts": "2026-11-12T08:03:02.402046Z",
   "mint": "FyAT8ti3LqzQW5Kdkjnr2XBp35qhJqwm2m7jiR91pump",
-  "name": null,
-  "symbol": null,
-  "label": "FyAT8ti3",
+  "name": "Claude the Alligator",
+  "symbol": "CLAUDE",
+  "label": "Claude the Alligator",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T08:01:04.220894Z",
-  "pool": null,
+  "pool": "BiH4kEWf2iUTzZtNXP8YE3WRhP1j1ptpvkidvW6cPR9H",
   "creator": "C3TAZuZ1mDgMYUJmfpGw7SRYs7zdjUiNs5FiENfQEGgo",
   "holders": null,
   "link": "https://fomo.family/coin?address=FyAT8ti3LqzQW5Kdkjnr2XBp35qhJqwm2m7jiR91pump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T08:01:52.462686Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -16.5,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }

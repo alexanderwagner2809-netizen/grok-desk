@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T08:01:52.446225Z",
+  "ts": "2026-11-12T08:03:02.668128Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T08:01:52.063679Z",
+  "heartbeat": "2026-11-12T08:03:00.430998Z",
   "paused": false,
   "status": "running",
-  "card": "159 pools",
-  "count": 159,
+  "card": "160 pools",
+  "count": 160,
   "passed": 0,
   "feed": [
+    {
+      "mint": "FyAT8ti3LqzQW5Kdkjnr2XBp35qhJqwm2m7jiR91pump",
+      "label": "Claude the Alligator",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=FyAT8ti3LqzQW5Kdkjnr2XBp35qhJqwm2m7jiR91pump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "FKd9MmNxqJaV64CBVDTPGohRASRSmbnhxiuunV8qpump",
       "label": "FKd9MmNx",
@@ -66,19 +74,19 @@
       "reason": "liq $7",
       "subtitle": "liq $7",
       "link": "https://fomo.family/coin?address=3CWDBe7zG2oKSuuEP5YM2wvgBDE3Qhp3xZcMX7BYpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "1yXPxSzCJ2NTHcmNJQWZPDM28cvYJY2sAwEXQAkpump",
-      "label": "ㅤ",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=1yXPxSzCJ2NTHcmNJQWZPDM28cvYJY2sAwEXQAkpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T08:01:52.462686Z",
+      "mint": "FyAT8ti3LqzQW5Kdkjnr2XBp35qhJqwm2m7jiR91pump",
+      "label": "Claude the Alligator",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=FyAT8ti3LqzQW5Kdkjnr2XBp35qhJqwm2m7jiR91pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T08:00:15.558965Z",
       "mint": "FKd9MmNxqJaV64CBVDTPGohRASRSmbnhxiuunV8qpump",
       "label": "FKd9MmNx",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $21",
       "link": "https://fomo.family/coin?address=JyVaecqQDMbTQEWCvG6p8rofRMyMPUmKj3yyjxxpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T06:46:53.032670Z",
-      "mint": "GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump",
-      "label": "dͨoͣgͭ",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T08:01:52.462686Z",
+      "mint": "FyAT8ti3LqzQW5Kdkjnr2XBp35qhJqwm2m7jiR91pump",
+      "label": "Claude the Alligator",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=FyAT8ti3LqzQW5Kdkjnr2XBp35qhJqwm2m7jiR91pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T08:00:15.558965Z",
       "mint": "FKd9MmNxqJaV64CBVDTPGohRASRSmbnhxiuunV8qpump",
       "label": "FKd9MmNx",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $21",
       "link": "https://fomo.family/coin?address=JyVaecqQDMbTQEWCvG6p8rofRMyMPUmKj3yyjxxpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T06:46:53.032670Z",
-      "mint": "GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump",
-      "label": "dͨoͣgͭ",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=GcjP8sJAFgsZ3jc5Yrtxz2UssZD1PcNn8q7RgrCXpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
