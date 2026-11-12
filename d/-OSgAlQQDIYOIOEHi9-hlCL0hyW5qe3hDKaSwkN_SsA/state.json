@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T21:32:09.434805Z",
+  "ts": "2026-11-12T21:33:19.480194Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T21:32:08.534229Z",
+      "heartbeat": "2026-11-12T21:33:18.728963Z",
       "paused": false,
       "status": "running",
-      "card": "375 pools",
-      "count": 375,
+      "card": "377 pools",
+      "count": 377,
       "passed": 0,
       "feed": [
+        {
+          "mint": "GNXiYZABz8dHCuBQSNbnEuXBFnuvru8LrxmHtQsGpump",
+          "label": "La Misery",
+          "verdict": "kill",
+          "reason": "liq $5",
+          "subtitle": "liq $5",
+          "link": "https://fomo.family/coin?address=GNXiYZABz8dHCuBQSNbnEuXBFnuvru8LrxmHtQsGpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "9FmMnabharFMFeBhuBLP89NQ9DMPsjQBnR5iGRaBpump",
+          "label": "9FmMnabh",
+          "verdict": "kill",
+          "reason": "never qualified",
+          "subtitle": "never qualified",
+          "link": "https://fomo.family/coin?address=9FmMnabharFMFeBhuBLP89NQ9DMPsjQBnR5iGRaBpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "8296KBTcB7GDDpgJ8XquHoR6bGtfqdf5xfnqqzc2pump",
           "label": "Rockstar Games",
@@ -66,22 +82,6 @@
           "reason": "+243% in 1h",
           "subtitle": "+243% in 1h",
           "link": "https://fomo.family/coin?address=2s9kHmkeHU3oKwuJYV1VTiBTsZwUWUbMUVtBgoJFpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "6UmrHebxn8V1Cn4dLZFnznQ1HfaKkSzLz9DWr12Epump",
-          "label": "Leeroy Jenkins",
-          "verdict": "kill",
-          "reason": "liq $0",
-          "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=6UmrHebxn8V1Cn4dLZFnznQ1HfaKkSzLz9DWr12Epump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "149DsuyNcBG1CNubAeYqXh3YuhJNcwSyTDRvgfKDpump",
-          "label": "R1 R2 L1 × ← ↓ → ↑",
-          "verdict": "kill",
-          "reason": "+202% in 1h",
-          "subtitle": "+202% in 1h",
-          "link": "https://fomo.family/coin?address=149DsuyNcBG1CNubAeYqXh3YuhJNcwSyTDRvgfKDpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T21:32:08.523936Z",
+      "heartbeat": "2026-11-12T21:33:18.908202Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T21:32:08.525061Z",
+      "heartbeat": "2026-11-12T21:33:18.909210Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T21:32:08.525741Z",
+      "heartbeat": "2026-11-12T21:33:18.909365Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T21:31:55.002412Z",
+      "heartbeat": "2026-11-12T21:33:10.817024Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

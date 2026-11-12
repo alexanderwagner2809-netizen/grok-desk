@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T21:32:09.536954Z",
+  "ts": "2026-11-12T21:33:19.579224Z",
   "mint": "A7TmqRupSgt62Z2XbbXeZwxu7SrE7DSq5JkwLWZnpump",
   "name": "Gigabyte",
   "symbol": "GB",
@@ -11,8 +11,8 @@
   "creator": "A39XQVRkanWB9rVH9Lqdd8jngVLzNPESeJxEkw3tg4k3",
   "holders": null,
   "link": "https://fomo.family/coin?address=A7TmqRupSgt62Z2XbbXeZwxu7SrE7DSq5JkwLWZnpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.662e-09,
-  "priceTs": "2026-11-12T21:32:09.428089Z",
+  "price": 4.361e-09,
+  "priceTs": "2026-11-12T21:33:19.474041Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -696,12 +696,20 @@
       "l": 4.662e-09,
       "c": 4.662e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794519180,
+      "o": 4.361e-09,
+      "h": 4.361e-09,
+      "l": 4.361e-09,
+      "c": 4.361e-09,
+      "v": 0.26
     }
   ],
   "stats": {
     "marketCap": 9.0,
-    "liquidity": 15.24,
-    "volume24h": 161.15,
+    "liquidity": 14.75,
+    "volume24h": 161.41,
     "holders": null
   },
   "position": null,

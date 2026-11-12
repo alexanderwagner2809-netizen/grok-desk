@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T21:32:09.479774Z",
+  "ts": "2026-11-12T21:33:19.527433Z",
   "mint": "EVAAYGk58mQRHJ3ja5HgoLJ8FGzMWyHYLcvAY9GEpump",
   "name": "Screaming Vandal",
   "symbol": "SCRVAN",
   "label": "Screaming Vandal",
   "chain": "Solana",
-  "age": "52m old",
+  "age": "53m old",
   "migratedAt": "2026-11-12T20:39:46.508618Z",
   "pool": "E4PXAFNhBX4R7MzJmuF1YmuWz4KqbXZd2zRxvGnz3vsP",
   "creator": "9n1xKXgG7EpJzwEWorHh631etCTkN8E2DwQpk7wp8wbd",
   "holders": null,
   "link": "https://fomo.family/coin?address=EVAAYGk58mQRHJ3ja5HgoLJ8FGzMWyHYLcvAY9GEpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.372e-10,
-  "priceTs": "2026-11-12T21:32:09.309744Z",
+  "price": 5.234e-10,
+  "priceTs": "2026-11-12T21:33:19.346918Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -376,12 +376,20 @@
       "l": 6.372e-10,
       "c": 6.372e-10,
       "v": 0.0
+    },
+    {
+      "t": 1794519180,
+      "o": 5.234e-10,
+      "h": 5.234e-10,
+      "l": 5.234e-10,
+      "c": 5.234e-10,
+      "v": 0.03
     }
   ],
   "stats": {
     "marketCap": 1.0,
-    "liquidity": 1.53,
-    "volume24h": 93.81,
+    "liquidity": 1.39,
+    "volume24h": 93.85,
     "holders": null
   },
   "position": null,

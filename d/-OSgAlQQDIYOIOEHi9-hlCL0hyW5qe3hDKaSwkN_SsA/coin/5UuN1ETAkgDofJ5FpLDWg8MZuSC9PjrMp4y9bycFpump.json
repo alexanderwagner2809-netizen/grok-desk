@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T21:32:09.538721Z",
+  "ts": "2026-11-12T21:33:19.580929Z",
   "mint": "5UuN1ETAkgDofJ5FpLDWg8MZuSC9PjrMp4y9bycFpump",
   "name": "Pirate Coin",
   "symbol": "PIRATE",
@@ -11,8 +11,8 @@
   "creator": "B94JPmgR6xjEsJzCqRJmwhUqmx5ogpWn6UD8RDS8eoZN",
   "holders": null,
   "link": "https://fomo.family/coin?address=5UuN1ETAkgDofJ5FpLDWg8MZuSC9PjrMp4y9bycFpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.557e-10,
-  "priceTs": "2026-11-12T21:32:09.428089Z",
+  "price": 8.236e-10,
+  "priceTs": "2026-11-12T21:33:19.474041Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -696,12 +696,20 @@
       "l": 8.557e-10,
       "c": 8.557e-10,
       "v": 0.0
+    },
+    {
+      "t": 1794519180,
+      "o": 8.236e-10,
+      "h": 8.236e-10,
+      "l": 8.236e-10,
+      "c": 8.236e-10,
+      "v": 0.04
     }
   ],
   "stats": {
     "marketCap": 2.0,
-    "liquidity": 3.0,
-    "volume24h": 435.24,
+    "liquidity": 2.95,
+    "volume24h": 435.29,
     "holders": null
   },
   "position": null,

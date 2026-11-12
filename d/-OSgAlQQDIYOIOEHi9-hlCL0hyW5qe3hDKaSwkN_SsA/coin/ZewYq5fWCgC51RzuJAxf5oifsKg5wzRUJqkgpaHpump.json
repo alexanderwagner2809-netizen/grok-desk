@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T21:32:09.546103Z",
+  "ts": "2026-11-12T21:33:19.587156Z",
   "mint": "ZewYq5fWCgC51RzuJAxf5oifsKg5wzRUJqkgpaHpump",
   "name": "JHuang Cooked",
   "symbol": "JCooked",
@@ -11,8 +11,8 @@
   "creator": "HZ8RKVTRH48f5syGcfhc6xtKafm7aFEHUF7GkJmfC68R",
   "holders": null,
   "link": "https://fomo.family/coin?address=ZewYq5fWCgC51RzuJAxf5oifsKg5wzRUJqkgpaHpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.044e-09,
-  "priceTs": "2026-11-12T21:32:09.428089Z",
+  "price": 3.627e-09,
+  "priceTs": "2026-11-12T21:33:19.474041Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -736,12 +736,20 @@
       "l": 4.044e-09,
       "c": 4.044e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794519180,
+      "o": 3.627e-09,
+      "h": 3.627e-09,
+      "l": 3.627e-09,
+      "c": 3.627e-09,
+      "v": 0.33
     }
   ],
   "stats": {
-    "marketCap": 8.0,
-    "liquidity": 10.15,
-    "volume24h": 303.86,
+    "marketCap": 7.0,
+    "liquidity": 9.61,
+    "volume24h": 304.2,
     "holders": null
   },
   "position": null,
