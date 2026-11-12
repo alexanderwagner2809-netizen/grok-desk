@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T16:39:57.073317Z",
+  "mint": "9nKwU4ym71UGDMEV54MtJ8v8Gea2LMYiYCY3eDJnpump",
+  "name": "JEFFERY HUANG",
+  "symbol": "HUANG",
+  "label": "JEFFERY HUANG",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-12T16:38:55.682962Z",
+  "pool": "7HFtDjCcXzJ5dfcDv73FjdKyyeno5skBepv4BRqMJrGW",
+  "creator": "Ds8fiw8ECD6y3MvLWrbA7e8ACfe6eNpAWvYd4bz2UUEm",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=9nKwU4ym71UGDMEV54MtJ8v8Gea2LMYiYCY3eDJnpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 1.664e-08,
+  "priceTs": "2026-11-12T16:39:55.276674Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794501540,
+      "o": 1.105e-08,
+      "h": 1.664e-08,
+      "l": 1.105e-08,
+      "c": 1.664e-08,
+      "v": 69.29
+    }
+  ],
+  "stats": {
+    "marketCap": 33.0,
+    "liquidity": 10.87,
+    "volume24h": 118.12,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T16:39:29.175126Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -63.29,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}

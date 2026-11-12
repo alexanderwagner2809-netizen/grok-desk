@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T16:38:46.651117Z",
+  "ts": "2026-11-12T16:39:58.155251Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T16:38:44.649824Z",
+  "heartbeat": "2026-11-12T16:39:54.614440Z",
   "paused": false,
   "status": "running",
-  "card": "272 pools",
-  "count": 272,
+  "card": "273 pools",
+  "count": 273,
   "passed": 0,
   "feed": [
+    {
+      "mint": "9nKwU4ym71UGDMEV54MtJ8v8Gea2LMYiYCY3eDJnpump",
+      "label": "JEFFERY HUANG",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=9nKwU4ym71UGDMEV54MtJ8v8Gea2LMYiYCY3eDJnpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "7P6NTos913CsZDJeCZYmZjcicevKR3vpQM7Rmrvrpump",
       "label": "SLING",
@@ -66,19 +74,19 @@
       "reason": "+322% in 1h",
       "subtitle": "+322% in 1h",
       "link": "https://fomo.family/coin?address=5ZA32FxzsxcSXZuYDbrxa9QVVvzkiLbisDb5VKmNpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump",
-      "label": "Spacesen Huang",
-      "verdict": "kill",
-      "reason": "liq $13.1K",
-      "subtitle": "liq $13.1K",
-      "link": "https://fomo.family/coin?address=3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T16:39:29.175126Z",
+      "mint": "9nKwU4ym71UGDMEV54MtJ8v8Gea2LMYiYCY3eDJnpump",
+      "label": "JEFFERY HUANG",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=9nKwU4ym71UGDMEV54MtJ8v8Gea2LMYiYCY3eDJnpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:35:59.468502Z",
       "mint": "7P6NTos913CsZDJeCZYmZjcicevKR3vpQM7Rmrvrpump",
       "label": "SLING",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $6",
       "link": "https://fomo.family/coin?address=9PBHFENP2nyY4LGetF8bfgBot1waByfXuag72i28pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:43:21.245704Z",
-      "mint": "7z3QB6D8xge7GzKZCsajvnLt8zqT1SvFonY9vZZmpump",
-      "label": "Jensen Huang",
-      "verdict": "kill",
-      "reason": "liq $18.4K",
-      "link": "https://fomo.family/coin?address=7z3QB6D8xge7GzKZCsajvnLt8zqT1SvFonY9vZZmpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T16:39:29.175126Z",
+      "mint": "9nKwU4ym71UGDMEV54MtJ8v8Gea2LMYiYCY3eDJnpump",
+      "label": "JEFFERY HUANG",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=9nKwU4ym71UGDMEV54MtJ8v8Gea2LMYiYCY3eDJnpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:35:59.468502Z",
       "mint": "7P6NTos913CsZDJeCZYmZjcicevKR3vpQM7Rmrvrpump",
       "label": "SLING",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $6",
       "link": "https://fomo.family/coin?address=9PBHFENP2nyY4LGetF8bfgBot1waByfXuag72i28pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:43:21.245704Z",
-      "mint": "7z3QB6D8xge7GzKZCsajvnLt8zqT1SvFonY9vZZmpump",
-      "label": "Jensen Huang",
-      "verdict": "kill",
-      "reason": "liq $18.4K",
-      "link": "https://fomo.family/coin?address=7z3QB6D8xge7GzKZCsajvnLt8zqT1SvFonY9vZZmpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
