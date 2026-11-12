@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T18:14:39.646255Z",
+  "ts": "2026-11-12T18:15:50.394999Z",
   "mint": "GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump",
-  "name": null,
-  "symbol": null,
-  "label": "GxbPRyta",
+  "name": "Maply",
+  "symbol": "MAPLY",
+  "label": "Maply",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T18:13:45.924798Z",
-  "pool": null,
+  "pool": "6rApgTngfoqTN78pmtoe4zuKRfLAB6MmBm31hHj6TQXy",
   "creator": "9gQURtSGQGYcCbfndm11TYU1uPQ8Ka3eGhZSbe7z7aRP",
   "holders": null,
   "link": "https://fomo.family/coin?address=GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.308e-05,
-  "priceTs": "2026-11-12T18:14:38.460553Z",
+  "price": 6.03e-05,
+  "priceTs": "2026-11-12T18:15:48.263210Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 4.308e-05,
       "c": 4.308e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794507300,
+      "o": 6.03e-05,
+      "h": 6.03e-05,
+      "l": 6.03e-05,
+      "c": 6.03e-05,
+      "v": 26239.34
     }
   ],
   "stats": {
-    "marketCap": 43084.0,
-    "liquidity": 14412.74,
-    "volume24h": 23711.69,
+    "marketCap": 60310.0,
+    "liquidity": 17515.99,
+    "volume24h": 49951.03,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T18:14:50.384388Z",
+      "liquidity_usd": 14548.7,
+      "top10_pct": null,
+      "h1_change_pct": 26.7,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $14.5K"
+    }
+  ]
 }

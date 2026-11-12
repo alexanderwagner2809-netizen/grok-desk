@@ -1,16 +1,40 @@
 {
-  "ts": "2026-11-12T18:14:39.741256Z",
+  "ts": "2026-11-12T18:15:51.850949Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T18:14:37.712699Z",
+  "heartbeat": "2026-11-12T18:15:40.818401Z",
   "paused": false,
   "status": "running",
-  "card": "295 pools",
-  "count": 295,
+  "card": "298 pools",
+  "count": 298,
   "passed": 0,
   "feed": [
+    {
+      "mint": "2csAvpzH4Y7jRUiVVK6D3Cv5AQ4tmx9sCh2Ygs73pump",
+      "label": "goku coin",
+      "verdict": "kill",
+      "reason": "liq $65",
+      "subtitle": "liq $65",
+      "link": "https://fomo.family/coin?address=2csAvpzH4Y7jRUiVVK6D3Cv5AQ4tmx9sCh2Ygs73pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "Dk9DQ1GMYuk4Zng5btkAE67zUHGWRhnfwaUD86CSpump",
+      "label": "GTA 6 Updates",
+      "verdict": "kill",
+      "reason": "+186% in 1h",
+      "subtitle": "+186% in 1h",
+      "link": "https://fomo.family/coin?address=Dk9DQ1GMYuk4Zng5btkAE67zUHGWRhnfwaUD86CSpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump",
+      "label": "Maply",
+      "verdict": "kill",
+      "reason": "liq $14.5K",
+      "subtitle": "liq $14.5K",
+      "link": "https://fomo.family/coin?address=GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "BcTQ8pDmEZhiPXaDHZ4Chtvt7HEZzDf3LNFSacJHcXjP",
       "label": "Cyberinu",
@@ -50,35 +74,35 @@
       "reason": "liq $12.9K",
       "subtitle": "liq $12.9K",
       "link": "https://fomo.family/coin?address=G6utrxUY8Nu9xqSkFZkKyvQPwdTZKrtMiaJNY1DFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "9tmoXR86yfdJLf3R41XrhWqj6VPdzmn6X21cnVHDpump",
-      "label": "Fear Of Missing Out",
-      "verdict": "kill",
-      "reason": "liq $54",
-      "subtitle": "liq $54",
-      "link": "https://fomo.family/coin?address=9tmoXR86yfdJLf3R41XrhWqj6VPdzmn6X21cnVHDpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump",
-      "label": "DaCity Coin",
-      "verdict": "kill",
-      "reason": "liq $549",
-      "subtitle": "liq $549",
-      "link": "https://fomo.family/coin?address=EkYjCFPLL3UFDDjPoGF6FuZ5aSZUjkbCF2YJ3zYopump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "4rVHPGrXHkEv97Tf1S6Gg8KmSAvLKUHxzt7ppzfwpump",
-      "label": "Robinhood",
-      "verdict": "kill",
-      "reason": "+192% in 1h",
-      "subtitle": "+192% in 1h",
-      "link": "https://fomo.family/coin?address=4rVHPGrXHkEv97Tf1S6Gg8KmSAvLKUHxzt7ppzfwpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T18:15:10.813103Z",
+      "mint": "2csAvpzH4Y7jRUiVVK6D3Cv5AQ4tmx9sCh2Ygs73pump",
+      "label": "goku coin",
+      "verdict": "kill",
+      "reason": "liq $65",
+      "link": "https://fomo.family/coin?address=2csAvpzH4Y7jRUiVVK6D3Cv5AQ4tmx9sCh2Ygs73pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T18:14:50.385433Z",
+      "mint": "Dk9DQ1GMYuk4Zng5btkAE67zUHGWRhnfwaUD86CSpump",
+      "label": "GTA 6 Updates",
+      "verdict": "kill",
+      "reason": "+186% in 1h",
+      "link": "https://fomo.family/coin?address=Dk9DQ1GMYuk4Zng5btkAE67zUHGWRhnfwaUD86CSpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T18:14:50.384388Z",
+      "mint": "GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump",
+      "label": "Maply",
+      "verdict": "kill",
+      "reason": "liq $14.5K",
+      "link": "https://fomo.family/coin?address=GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T18:11:35.718041Z",
       "mint": "BcTQ8pDmEZhiPXaDHZ4Chtvt7HEZzDf3LNFSacJHcXjP",
       "label": "Cyberinu",
@@ -213,34 +237,34 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=Eto8ZAfU1VnGwnugSAoxKre2U23vsM27z1wfMQsepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:05:06.997413Z",
-      "mint": "EYJdXh4zdcTPbHVUd1hCY9ViRPTYEVTeST2hp6YBpump",
-      "label": "EYJdXh4z",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=EYJdXh4zdcTPbHVUd1hCY9ViRPTYEVTeST2hp6YBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:48:07.034468Z",
-      "mint": "Dx3TdN7CR4knZBdfZ1X8oz4NaUQaWH92NAWNvNtqpump",
-      "label": "SPY",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=Dx3TdN7CR4knZBdfZ1X8oz4NaUQaWH92NAWNvNtqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:45:23.681978Z",
-      "mint": "3mJEHbAtXuZ2oXXXY9Yk7bPM3z5Vr1x3yvc8SZXqpump",
-      "label": "TeslaAir",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=3mJEHbAtXuZ2oXXXY9Yk7bPM3z5Vr1x3yvc8SZXqpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T18:15:10.813103Z",
+      "mint": "2csAvpzH4Y7jRUiVVK6D3Cv5AQ4tmx9sCh2Ygs73pump",
+      "label": "goku coin",
+      "verdict": "kill",
+      "reason": "liq $65",
+      "link": "https://fomo.family/coin?address=2csAvpzH4Y7jRUiVVK6D3Cv5AQ4tmx9sCh2Ygs73pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T18:14:50.385433Z",
+      "mint": "Dk9DQ1GMYuk4Zng5btkAE67zUHGWRhnfwaUD86CSpump",
+      "label": "GTA 6 Updates",
+      "verdict": "kill",
+      "reason": "+186% in 1h",
+      "link": "https://fomo.family/coin?address=Dk9DQ1GMYuk4Zng5btkAE67zUHGWRhnfwaUD86CSpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T18:14:50.384388Z",
+      "mint": "GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump",
+      "label": "Maply",
+      "verdict": "kill",
+      "reason": "liq $14.5K",
+      "link": "https://fomo.family/coin?address=GxbPRyta6AUHNZnohPg14tD5YcCeLbphV4ovVprgpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T18:11:35.718041Z",
       "mint": "BcTQ8pDmEZhiPXaDHZ4Chtvt7HEZzDf3LNFSacJHcXjP",
       "label": "Cyberinu",
@@ -375,30 +399,6 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=Eto8ZAfU1VnGwnugSAoxKre2U23vsM27z1wfMQsepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T17:05:06.997413Z",
-      "mint": "EYJdXh4zdcTPbHVUd1hCY9ViRPTYEVTeST2hp6YBpump",
-      "label": "EYJdXh4z",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=EYJdXh4zdcTPbHVUd1hCY9ViRPTYEVTeST2hp6YBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:48:07.034468Z",
-      "mint": "Dx3TdN7CR4knZBdfZ1X8oz4NaUQaWH92NAWNvNtqpump",
-      "label": "SPY",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=Dx3TdN7CR4knZBdfZ1X8oz4NaUQaWH92NAWNvNtqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T16:45:23.681978Z",
-      "mint": "3mJEHbAtXuZ2oXXXY9Yk7bPM3z5Vr1x3yvc8SZXqpump",
-      "label": "TeslaAir",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=3mJEHbAtXuZ2oXXXY9Yk7bPM3z5Vr1x3yvc8SZXqpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
