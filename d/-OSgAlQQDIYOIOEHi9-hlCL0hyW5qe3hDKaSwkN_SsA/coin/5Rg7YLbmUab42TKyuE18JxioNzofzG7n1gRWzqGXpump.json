@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T17:40:25.009714Z",
+  "ts": "2026-11-12T17:41:36.741188Z",
   "mint": "5Rg7YLbmUab42TKyuE18JxioNzofzG7n1gRWzqGXpump",
-  "name": null,
-  "symbol": null,
-  "label": "5Rg7YLbm",
+  "name": "STOCKHOLM",
+  "symbol": "STOCKHOLM",
+  "label": "STOCKHOLM",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T17:40:17.801871Z",
-  "pool": null,
+  "pool": "MDLGuEjwMtedMoq4i5PLfEAM1cESt4m3YxFw7qBTGgv",
   "creator": "5oHohdzA6KVHxAUP4F2ppgmYxkkobiJm99253izGw9Gd",
   "holders": null,
   "link": "https://fomo.family/coin?address=5Rg7YLbmUab42TKyuE18JxioNzofzG7n1gRWzqGXpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.524e-05,
-  "priceTs": "2026-11-12T17:40:23.545013Z",
+  "price": 2.103e-05,
+  "priceTs": "2026-11-12T17:41:34.977570Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 2.524e-05,
       "c": 2.524e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794505260,
+      "o": 2.337e-05,
+      "h": 2.337e-05,
+      "l": 2.103e-05,
+      "c": 2.103e-05,
+      "v": 4809.549999999999
     }
   ],
   "stats": {
-    "marketCap": 25245.13,
-    "liquidity": null,
-    "volume24h": 19035.0,
+    "marketCap": 21032.0,
+    "liquidity": 9569.52,
+    "volume24h": 13466.82,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T17:41:11.828141Z",
+      "liquidity_usd": 10160.22,
+      "top10_pct": null,
+      "h1_change_pct": -30.69,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $10.2K"
+    }
+  ]
 }
