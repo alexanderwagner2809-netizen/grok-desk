@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-12T21:20:27.482967Z",
+  "ts": "2026-11-12T21:21:37.674242Z",
   "mint": "6UmrHebxn8V1Cn4dLZFnznQ1HfaKkSzLz9DWr12Epump",
-  "name": null,
-  "symbol": null,
-  "label": "6UmrHebx",
+  "name": "Leeroy Jenkins",
+  "symbol": "Leeroy",
+  "label": "Leeroy Jenkins",
   "chain": "Solana",
-  "age": "3m old",
+  "age": "4m old",
   "migratedAt": "2026-11-12T21:17:22.550982Z",
-  "pool": null,
+  "pool": "Ecko1MFbgPkLUVwSZdM2aTZoyrytxpbdUK3NVUWA1gqW",
   "creator": "6UWszfbMRgjXcfhjRdp2EB8skmpfcVNnTjeU6ZKU3wkD",
   "holders": null,
   "link": "https://fomo.family/coin?address=6UmrHebxn8V1Cn4dLZFnznQ1HfaKkSzLz9DWr12Epump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T21:20:34.549712Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -42.39,
+      "age_min": 3,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }

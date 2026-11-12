@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T21:20:27.045364Z",
+  "ts": "2026-11-12T21:21:37.666625Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,37 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T21:20:25.971984Z",
+      "heartbeat": "2026-11-12T21:21:37.006119Z",
       "paused": false,
       "status": "running",
-      "card": "368 pools",
-      "count": 368,
+      "card": "371 pools",
+      "count": 371,
       "passed": 0,
       "feed": [
+        {
+          "mint": "5r4QZwpEyg7JQPTk77uode225uyFcbfrvk1z1DeCpump",
+          "label": "GTA 6 Updates",
+          "verdict": "kill",
+          "reason": "+192% in 1h",
+          "subtitle": "+192% in 1h",
+          "link": "https://fomo.family/coin?address=5r4QZwpEyg7JQPTk77uode225uyFcbfrvk1z1DeCpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "2s9kHmkeHU3oKwuJYV1VTiBTsZwUWUbMUVtBgoJFpump",
+          "label": "Affair Inu",
+          "verdict": "kill",
+          "reason": "+243% in 1h",
+          "subtitle": "+243% in 1h",
+          "link": "https://fomo.family/coin?address=2s9kHmkeHU3oKwuJYV1VTiBTsZwUWUbMUVtBgoJFpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "6UmrHebxn8V1Cn4dLZFnznQ1HfaKkSzLz9DWr12Epump",
+          "label": "Leeroy Jenkins",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=6UmrHebxn8V1Cn4dLZFnznQ1HfaKkSzLz9DWr12Epump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "149DsuyNcBG1CNubAeYqXh3YuhJNcwSyTDRvgfKDpump",
           "label": "R1 R2 L1 × ← ↓ → ↑",
@@ -58,30 +82,6 @@
           "reason": "liq $9",
           "subtitle": "liq $9",
           "link": "https://fomo.family/coin?address=5Wj2xTFw96tGjGrVm7khLPhqJnf93zQhof37ebLLpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "9nQ1kmKPcWLWibRmJVk13HLGSVqtdiTHHtiCgsiYzeus",
-          "label": "Pepes Dog",
-          "verdict": "kill",
-          "reason": "+229% in 1h",
-          "subtitle": "+229% in 1h",
-          "link": "https://fomo.family/coin?address=9nQ1kmKPcWLWibRmJVk13HLGSVqtdiTHHtiCgsiYzeus&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-          "label": "EPjFWdd5",
-          "verdict": "kill",
-          "reason": "never qualified",
-          "subtitle": "never qualified",
-          "link": "https://fomo.family/coin?address=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "6YVJmtWrAmA5UZHHTcPZirx7AF3YfqP3szDkVUgLpump",
-          "label": "OIL",
-          "verdict": "kill",
-          "reason": "liq $0",
-          "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=6YVJmtWrAmA5UZHHTcPZirx7AF3YfqP3szDkVUgLpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T21:20:26.276772Z",
+      "heartbeat": "2026-11-12T21:21:36.420448Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T21:20:26.278358Z",
+      "heartbeat": "2026-11-12T21:21:36.421998Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T21:20:26.278850Z",
+      "heartbeat": "2026-11-12T21:21:36.422288Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T21:20:23.029383Z",
+      "heartbeat": "2026-11-12T21:21:23.039647Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
