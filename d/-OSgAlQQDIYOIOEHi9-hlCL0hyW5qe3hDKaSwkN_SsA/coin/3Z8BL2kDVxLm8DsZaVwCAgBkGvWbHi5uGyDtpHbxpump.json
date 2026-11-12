@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T21:35:40.310944Z",
+  "ts": "2026-11-12T22:06:31.344557Z",
   "mint": "3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump",
   "name": "Boop Cash",
   "symbol": "BOOP",
@@ -11,8 +11,8 @@
   "creator": "55HApt3JdaYDvWt1rfdoi6muqZeh1JtLFZc7cQVhnN1t",
   "holders": null,
   "link": "https://fomo.family/coin?address=3Z8BL2kDVxLm8DsZaVwCAgBkGvWbHi5uGyDtpHbxpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.541e-06,
-  "priceTs": "2026-11-12T21:35:40.092673Z",
+  "price": 2.469e-06,
+  "priceTs": "2026-11-12T22:06:31.076636Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -480,12 +480,20 @@
       "l": 2.541e-06,
       "c": 2.541e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794521160,
+      "o": 2.469e-06,
+      "h": 2.469e-06,
+      "l": 2.469e-06,
+      "c": 2.469e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 2251.0,
-    "liquidity": 2397.91,
-    "volume24h": 87845.1,
+    "marketCap": 2187.0,
+    "liquidity": 2343.22,
+    "volume24h": 87908.69,
     "holders": null
   },
   "position": null,

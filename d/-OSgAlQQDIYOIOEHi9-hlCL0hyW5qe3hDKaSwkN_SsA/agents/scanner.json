@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-12T21:35:41.422804Z",
+  "ts": "2026-11-12T22:06:32.719410Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T21:35:39.199943Z",
+  "heartbeat": "2026-11-12T22:06:30.873018Z",
   "paused": false,
   "status": "running",
-  "card": "378 pools",
-  "count": 378,
+  "card": "380 pools",
+  "count": 380,
   "passed": 0,
   "feed": [
+    {
+      "mint": "3uZCVKJWnuKrEnmwWHviwJXWNbS2TZdttjW4jNyVpump",
+      "label": "4",
+      "verdict": "kill",
+      "reason": "liq $1.8K",
+      "subtitle": "liq $1.8K",
+      "link": "https://fomo.family/coin?address=3uZCVKJWnuKrEnmwWHviwJXWNbS2TZdttjW4jNyVpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "9snJNL6pPp94GXHNG8MLcYAmkUrRyYHmqRoLWYRNpump",
+      "label": "9snJNL6p",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=9snJNL6pPp94GXHNG8MLcYAmkUrRyYHmqRoLWYRNpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "67UzW47nNYKWw5bW6oUfVY4gTQfaEigv2UHUrp5epump",
       "label": "NEOX COIN",
@@ -58,27 +74,27 @@
       "reason": "+101% in 1h",
       "subtitle": "+101% in 1h",
       "link": "https://fomo.family/coin?address=4UGp5AGdoA757kZrRq4n1HuYMzeWN73qWjEfGy2Qpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "CTpSxCgUHjTX1FG82qbH3gVCeZTUotHpmx91kuRzpump",
-      "label": "Project Cortex",
-      "verdict": "kill",
-      "reason": "liq $5",
-      "subtitle": "liq $5",
-      "link": "https://fomo.family/coin?address=CTpSxCgUHjTX1FG82qbH3gVCeZTUotHpmx91kuRzpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5r4QZwpEyg7JQPTk77uode225uyFcbfrvk1z1DeCpump",
-      "label": "GTA 6 Updates",
-      "verdict": "kill",
-      "reason": "+192% in 1h",
-      "subtitle": "+192% in 1h",
-      "link": "https://fomo.family/coin?address=5r4QZwpEyg7JQPTk77uode225uyFcbfrvk1z1DeCpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T22:05:57.770558Z",
+      "mint": "3uZCVKJWnuKrEnmwWHviwJXWNbS2TZdttjW4jNyVpump",
+      "label": "4",
+      "verdict": "kill",
+      "reason": "liq $1.8K",
+      "link": "https://fomo.family/coin?address=3uZCVKJWnuKrEnmwWHviwJXWNbS2TZdttjW4jNyVpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T22:05:57.765296Z",
+      "mint": "9snJNL6pPp94GXHNG8MLcYAmkUrRyYHmqRoLWYRNpump",
+      "label": "9snJNL6p",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=9snJNL6pPp94GXHNG8MLcYAmkUrRyYHmqRoLWYRNpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T21:35:38.967692Z",
       "mint": "67UzW47nNYKWw5bW6oUfVY4gTQfaEigv2UHUrp5epump",
       "label": "NEOX COIN",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=6YVJmtWrAmA5UZHHTcPZirx7AF3YfqP3szDkVUgLpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T21:07:08.195313Z",
-      "mint": "sERDgp8uo4bP2MFPpxre6YsfEukLgQrgcnFDso6pump",
-      "label": "Nullmask",
-      "verdict": "kill",
-      "reason": "+198% in 1h",
-      "link": "https://fomo.family/coin?address=sERDgp8uo4bP2MFPpxre6YsfEukLgQrgcnFDso6pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T21:03:40.114320Z",
-      "mint": "3japHvr6xozFrp97EGGT791LwA59nd9W73EWcCFopump",
-      "label": "3japHvr6",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=3japHvr6xozFrp97EGGT791LwA59nd9W73EWcCFopump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T22:05:57.770558Z",
+      "mint": "3uZCVKJWnuKrEnmwWHviwJXWNbS2TZdttjW4jNyVpump",
+      "label": "4",
+      "verdict": "kill",
+      "reason": "liq $1.8K",
+      "link": "https://fomo.family/coin?address=3uZCVKJWnuKrEnmwWHviwJXWNbS2TZdttjW4jNyVpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-12T22:05:57.765296Z",
+      "mint": "9snJNL6pPp94GXHNG8MLcYAmkUrRyYHmqRoLWYRNpump",
+      "label": "9snJNL6p",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=9snJNL6pPp94GXHNG8MLcYAmkUrRyYHmqRoLWYRNpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T21:35:38.967692Z",
       "mint": "67UzW47nNYKWw5bW6oUfVY4gTQfaEigv2UHUrp5epump",
       "label": "NEOX COIN",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=6YVJmtWrAmA5UZHHTcPZirx7AF3YfqP3szDkVUgLpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T21:07:08.195313Z",
-      "mint": "sERDgp8uo4bP2MFPpxre6YsfEukLgQrgcnFDso6pump",
-      "label": "Nullmask",
-      "verdict": "kill",
-      "reason": "+198% in 1h",
-      "link": "https://fomo.family/coin?address=sERDgp8uo4bP2MFPpxre6YsfEukLgQrgcnFDso6pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T21:03:40.114320Z",
-      "mint": "3japHvr6xozFrp97EGGT791LwA59nd9W73EWcCFopump",
-      "label": "3japHvr6",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=3japHvr6xozFrp97EGGT791LwA59nd9W73EWcCFopump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

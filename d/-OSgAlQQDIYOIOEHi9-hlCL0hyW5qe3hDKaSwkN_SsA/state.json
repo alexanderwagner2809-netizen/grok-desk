@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T21:35:40.239124Z",
+  "ts": "2026-11-12T22:06:31.273402Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-12T21:35:39.199943Z",
+      "heartbeat": "2026-11-12T22:06:30.873018Z",
       "paused": false,
       "status": "running",
-      "card": "378 pools",
-      "count": 378,
+      "card": "380 pools",
+      "count": 380,
       "passed": 0,
       "feed": [
+        {
+          "mint": "3uZCVKJWnuKrEnmwWHviwJXWNbS2TZdttjW4jNyVpump",
+          "label": "4",
+          "verdict": "kill",
+          "reason": "liq $1.8K",
+          "subtitle": "liq $1.8K",
+          "link": "https://fomo.family/coin?address=3uZCVKJWnuKrEnmwWHviwJXWNbS2TZdttjW4jNyVpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "9snJNL6pPp94GXHNG8MLcYAmkUrRyYHmqRoLWYRNpump",
+          "label": "9snJNL6p",
+          "verdict": "kill",
+          "reason": "never qualified",
+          "subtitle": "never qualified",
+          "link": "https://fomo.family/coin?address=9snJNL6pPp94GXHNG8MLcYAmkUrRyYHmqRoLWYRNpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "67UzW47nNYKWw5bW6oUfVY4gTQfaEigv2UHUrp5epump",
           "label": "NEOX COIN",
@@ -66,22 +82,6 @@
           "reason": "+101% in 1h",
           "subtitle": "+101% in 1h",
           "link": "https://fomo.family/coin?address=4UGp5AGdoA757kZrRq4n1HuYMzeWN73qWjEfGy2Qpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "CTpSxCgUHjTX1FG82qbH3gVCeZTUotHpmx91kuRzpump",
-          "label": "Project Cortex",
-          "verdict": "kill",
-          "reason": "liq $5",
-          "subtitle": "liq $5",
-          "link": "https://fomo.family/coin?address=CTpSxCgUHjTX1FG82qbH3gVCeZTUotHpmx91kuRzpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "5r4QZwpEyg7JQPTk77uode225uyFcbfrvk1z1DeCpump",
-          "label": "GTA 6 Updates",
-          "verdict": "kill",
-          "reason": "+192% in 1h",
-          "subtitle": "+192% in 1h",
-          "link": "https://fomo.family/coin?address=5r4QZwpEyg7JQPTk77uode225uyFcbfrvk1z1DeCpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-12T21:35:38.860945Z",
+      "heartbeat": "2026-11-12T22:06:30.293697Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-12T21:35:38.861571Z",
+      "heartbeat": "2026-11-12T22:06:30.386102Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-12T21:35:38.861739Z",
+      "heartbeat": "2026-11-12T22:06:30.386851Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-12T21:35:38.861960Z",
+      "heartbeat": "2026-11-12T22:06:20.250544Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

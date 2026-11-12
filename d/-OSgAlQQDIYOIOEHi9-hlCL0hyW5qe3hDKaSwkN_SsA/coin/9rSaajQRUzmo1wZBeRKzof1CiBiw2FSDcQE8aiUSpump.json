@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T21:35:40.316114Z",
+  "ts": "2026-11-12T22:06:31.350319Z",
   "mint": "9rSaajQRUzmo1wZBeRKzof1CiBiw2FSDcQE8aiUSpump",
   "name": "DID",
   "symbol": "DID",
@@ -11,8 +11,8 @@
   "creator": "AjdWWp6WzeNFCReTg6452H3DFbd8fkLZcReUT6BTGsaG",
   "holders": null,
   "link": "https://fomo.family/coin?address=9rSaajQRUzmo1wZBeRKzof1CiBiw2FSDcQE8aiUSpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.51e-06,
-  "priceTs": "2026-11-12T21:35:40.092673Z",
+  "price": 1.509e-06,
+  "priceTs": "2026-11-12T22:06:31.076636Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -504,12 +504,20 @@
       "l": 1.51e-06,
       "c": 1.51e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794521160,
+      "o": 1.509e-06,
+      "h": 1.509e-06,
+      "l": 1.509e-06,
+      "c": 1.509e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1510.0,
-    "liquidity": 1565.72,
-    "volume24h": 272372.64,
+    "marketCap": 1496.0,
+    "liquidity": 1560.13,
+    "volume24h": 272442.59,
     "holders": null
   },
   "position": null,
