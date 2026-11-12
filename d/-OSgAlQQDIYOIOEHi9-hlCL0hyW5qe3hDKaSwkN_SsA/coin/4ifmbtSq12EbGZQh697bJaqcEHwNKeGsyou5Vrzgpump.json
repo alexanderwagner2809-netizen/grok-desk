@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-12T02:22:26.183598Z",
+  "mint": "4ifmbtSq12EbGZQh697bJaqcEHwNKeGsyou5Vrzgpump",
+  "name": "Hornycoin",
+  "symbol": "Hornycoin",
+  "label": "Hornycoin",
+  "chain": "Solana",
+  "age": "14m old",
+  "migratedAt": "2026-11-12T02:08:11.986170Z",
+  "pool": "m38JwemsRt3955qYhak8uKTmoUNibcqqbKYuymdUtQr",
+  "creator": "ERY61Fh4UsKNNR28neLbKLUbsZ6aJNGh4Y1sfepaavrc",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=4ifmbtSq12EbGZQh697bJaqcEHwNKeGsyou5Vrzgpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 5.26e-06,
+  "priceTs": "2026-11-12T02:22:25.675823Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794450060,
+      "o": 6.26e-06,
+      "h": 6.26e-06,
+      "l": 6.26e-06,
+      "c": 6.26e-06,
+      "v": 0.0
+    },
+    {
+      "t": 1794450120,
+      "o": 5.26e-06,
+      "h": 5.26e-06,
+      "l": 5.26e-06,
+      "c": 5.26e-06,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 5255.0,
+    "liquidity": 4198.33,
+    "volume24h": 110826.52,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T02:21:45.052469Z",
+      "liquidity_usd": 4703.04,
+      "top10_pct": null,
+      "h1_change_pct": -81.32,
+      "age_min": 13,
+      "verdict": "kill",
+      "reason": "liq $4.7K"
+    }
+  ]
+}

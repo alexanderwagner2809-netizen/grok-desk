@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T02:08:09.117469Z",
+  "ts": "2026-11-12T02:22:26.213840Z",
   "mint": "D2xYkMmtVYqNTJnc5zZPeQ6BSjEwwmd6c3BMfj2Npump",
   "name": "Firework Cat",
   "symbol": "FIRE",
   "label": "Firework Cat",
   "chain": "Solana",
-  "age": "2h old",
+  "age": "3h old",
   "migratedAt": "2026-11-11T23:19:29.430831Z",
   "pool": "54w5ezsUhP3dAu5jUUUPU2CTMvd2NfgkhreSnoMrye7t",
   "creator": "JBmGydk5hbgkDBzhKYLQcY8QjtMtnEa8Eg54mVBwThWh",
   "holders": null,
   "link": "https://fomo.family/coin?address=D2xYkMmtVYqNTJnc5zZPeQ6BSjEwwmd6c3BMfj2Npump&chainId=1399811149&r=savipww&source=share_link",
   "price": 2.357e-05,
-  "priceTs": "2026-11-12T02:08:08.731003Z",
+  "priceTs": "2026-11-12T02:22:25.810700Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -264,11 +264,19 @@
       "l": 2.357e-05,
       "c": 2.357e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794450120,
+      "o": 2.357e-05,
+      "h": 2.357e-05,
+      "l": 2.357e-05,
+      "c": 2.357e-05,
+      "v": 0.0
     }
   ],
   "stats": {
     "marketCap": 22654.0,
-    "liquidity": 10281.26,
+    "liquidity": 10280.84,
     "volume24h": 11947.81,
     "holders": null
   },
