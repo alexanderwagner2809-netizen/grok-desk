@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-12T20:33:07.064429Z",
+  "ts": "2026-11-12T20:34:24.029773Z",
   "mint": "7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump",
   "name": "MOMMY SU",
   "symbol": "SU",
@@ -11,8 +11,8 @@
   "creator": "2susjhp9aPKEkXEKPfQeabruxQX8TdfXxCxa7KiuqxLJ",
   "holders": null,
   "link": "https://fomo.family/coin?address=7bDmtuPveztGXYW5uB2GvUKdNWWFdxNtbc6gCRUxpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.727e-06,
-  "priceTs": "2026-11-12T20:33:06.882328Z",
+  "price": 6.118e-06,
+  "priceTs": "2026-11-12T20:34:23.937606Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -392,12 +392,20 @@
       "l": 6.727e-06,
       "c": 6.727e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794515640,
+      "o": 6.118e-06,
+      "h": 6.118e-06,
+      "l": 6.118e-06,
+      "c": 6.118e-06,
+      "v": 170.45
     }
   ],
   "stats": {
-    "marketCap": 6255.0,
-    "liquidity": 5561.04,
-    "volume24h": 85038.01,
+    "marketCap": 5689.0,
+    "liquidity": 5202.99,
+    "volume24h": 85208.46,
     "holders": null
   },
   "position": null,

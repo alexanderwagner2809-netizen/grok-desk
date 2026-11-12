@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-12T20:33:07.629833Z",
+  "ts": "2026-11-12T20:34:23.983091Z",
   "mint": "9vfZ84h7qzCNipP852ETEuM6LfAiPGApLKDusKJqpump",
-  "name": null,
-  "symbol": null,
-  "label": "9vfZ84h7",
+  "name": "habitat conservation efforts ",
+  "symbol": "buck",
+  "label": "habitat conservation efforts ",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-12T20:32:43.239492Z",
-  "pool": null,
+  "pool": "2wrquoC1vN4oaXq7gb4yHQDpc8irwSq2V6MinXKbGTer",
   "creator": "FfJmj8q3nz8TVfkEDmv4yhTzNG9S48wewq5N6xWKdYiA",
   "holders": null,
   "link": "https://fomo.family/coin?address=9vfZ84h7qzCNipP852ETEuM6LfAiPGApLKDusKJqpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 7.197e-09,
+  "priceTs": "2026-11-12T20:34:23.878968Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794515580,
+      "o": 2.756e-08,
+      "h": 2.756e-08,
+      "l": 2.756e-08,
+      "c": 2.756e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794515640,
+      "o": 7.197e-09,
+      "h": 7.197e-09,
+      "l": 7.197e-09,
+      "c": 7.197e-09,
+      "v": 143.60000000000002
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 14.0,
+    "liquidity": 15.08,
+    "volume24h": 541.1,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T20:33:46.907552Z",
+      "liquidity_usd": 27.09,
+      "top10_pct": null,
+      "h1_change_pct": -78.67,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $27"
+    }
+  ]
 }

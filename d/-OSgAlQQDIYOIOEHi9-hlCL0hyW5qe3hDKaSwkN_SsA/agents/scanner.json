@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T20:33:08.267239Z",
+  "ts": "2026-11-12T20:34:25.349150Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T20:33:05.835849Z",
+  "heartbeat": "2026-11-12T20:34:23.756504Z",
   "paused": false,
   "status": "running",
-  "card": "342 pools",
-  "count": 342,
+  "card": "343 pools",
+  "count": 343,
   "passed": 0,
   "feed": [
+    {
+      "mint": "9vfZ84h7qzCNipP852ETEuM6LfAiPGApLKDusKJqpump",
+      "label": "habitat conservation efforts ",
+      "verdict": "kill",
+      "reason": "liq $27",
+      "subtitle": "liq $27",
+      "link": "https://fomo.family/coin?address=9vfZ84h7qzCNipP852ETEuM6LfAiPGApLKDusKJqpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "39dfEJhEPL8wyAuYorzQPRFggFHxuTgUehBWchKPpump",
       "label": "salam aleikum",
@@ -66,19 +74,19 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=AQDUsVwgb5htjF4V7uwaAq5NLh16veRR1d6WjBE8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "9rSaajQRUzmo1wZBeRKzof1CiBiw2FSDcQE8aiUSpump",
-      "label": "DID",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=9rSaajQRUzmo1wZBeRKzof1CiBiw2FSDcQE8aiUSpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T20:33:46.907552Z",
+      "mint": "9vfZ84h7qzCNipP852ETEuM6LfAiPGApLKDusKJqpump",
+      "label": "habitat conservation efforts ",
+      "verdict": "kill",
+      "reason": "liq $27",
+      "link": "https://fomo.family/coin?address=9vfZ84h7qzCNipP852ETEuM6LfAiPGApLKDusKJqpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:31:42.468401Z",
       "mint": "39dfEJhEPL8wyAuYorzQPRFggFHxuTgUehBWchKPpump",
       "label": "salam aleikum",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "+164% in 1h",
       "link": "https://fomo.family/coin?address=4cyPWVPcPBo5j5JWfp8Qhgo8ijfmzv1xQJvz3RCxpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:12:47.227175Z",
-      "mint": "91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump",
-      "label": "Father",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T20:33:46.907552Z",
+      "mint": "9vfZ84h7qzCNipP852ETEuM6LfAiPGApLKDusKJqpump",
+      "label": "habitat conservation efforts ",
+      "verdict": "kill",
+      "reason": "liq $27",
+      "link": "https://fomo.family/coin?address=9vfZ84h7qzCNipP852ETEuM6LfAiPGApLKDusKJqpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T20:31:42.468401Z",
       "mint": "39dfEJhEPL8wyAuYorzQPRFggFHxuTgUehBWchKPpump",
       "label": "salam aleikum",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "+164% in 1h",
       "link": "https://fomo.family/coin?address=4cyPWVPcPBo5j5JWfp8Qhgo8ijfmzv1xQJvz3RCxpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T20:12:47.227175Z",
-      "mint": "91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump",
-      "label": "Father",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
