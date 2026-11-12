@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-12T16:20:57.461733Z",
+  "ts": "2026-11-12T16:22:09.294729Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-12T16:20:53.338962Z",
+  "heartbeat": "2026-11-12T16:21:58.533526Z",
   "paused": false,
   "status": "running",
-  "card": "264 pools",
-  "count": 264,
+  "card": "265 pools",
+  "count": 265,
   "passed": 0,
   "feed": [
+    {
+      "mint": "3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump",
+      "label": "Spacesen Huang",
+      "verdict": "kill",
+      "reason": "liq $13.1K",
+      "subtitle": "liq $13.1K",
+      "link": "https://fomo.family/coin?address=3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump",
       "label": "Bugles Cat",
@@ -66,19 +74,19 @@
       "reason": "liq $10.7K",
       "subtitle": "liq $10.7K",
       "link": "https://fomo.family/coin?address=EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "H6Z16MWrRQsaVLJGxWbsnUjk7FBt1JdHHjYaUhXypump",
-      "label": "Rockstar Games",
-      "verdict": "kill",
-      "reason": "+185% in 1h",
-      "subtitle": "+185% in 1h",
-      "link": "https://fomo.family/coin?address=H6Z16MWrRQsaVLJGxWbsnUjk7FBt1JdHHjYaUhXypump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-12T16:20:58.520179Z",
+      "mint": "3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump",
+      "label": "Spacesen Huang",
+      "verdict": "kill",
+      "reason": "liq $13.1K",
+      "link": "https://fomo.family/coin?address=3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:19:18.676763Z",
       "mint": "65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump",
       "label": "Bugles Cat",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $12.9K",
       "link": "https://fomo.family/coin?address=EPPBbiS1uqDVGgB4xdZ4SpxuVUWuSapT4T68wFGcpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:28:40.492791Z",
-      "mint": "A1D74fA9RqeQcxdJNC67pzanVaiySyJPwcTUoyPBpump",
-      "label": "Jensen Huang Coin",
-      "verdict": "kill",
-      "reason": "liq $13.3K",
-      "link": "https://fomo.family/coin?address=A1D74fA9RqeQcxdJNC67pzanVaiySyJPwcTUoyPBpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-12T16:20:58.520179Z",
+      "mint": "3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump",
+      "label": "Spacesen Huang",
+      "verdict": "kill",
+      "reason": "liq $13.1K",
+      "link": "https://fomo.family/coin?address=3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-12T16:19:18.676763Z",
       "mint": "65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump",
       "label": "Bugles Cat",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $12.9K",
       "link": "https://fomo.family/coin?address=EPPBbiS1uqDVGgB4xdZ4SpxuVUWuSapT4T68wFGcpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T15:28:40.492791Z",
-      "mint": "A1D74fA9RqeQcxdJNC67pzanVaiySyJPwcTUoyPBpump",
-      "label": "Jensen Huang Coin",
-      "verdict": "kill",
-      "reason": "liq $13.3K",
-      "link": "https://fomo.family/coin?address=A1D74fA9RqeQcxdJNC67pzanVaiySyJPwcTUoyPBpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

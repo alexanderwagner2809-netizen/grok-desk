@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-12T16:20:56.753568Z",
+  "ts": "2026-11-12T16:22:08.251393Z",
   "mint": "3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump",
-  "name": null,
-  "symbol": null,
-  "label": "3kuCcqds",
+  "name": "Spacesen Huang",
+  "symbol": "Spacesen",
+  "label": "Spacesen Huang",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T16:20:05.416917Z",
-  "pool": null,
+  "pool": "2Z6FBcnAhKxwM9eC5aSKr6gw2cUqGAZF4fBi65d6ahGe",
   "creator": "4dA3UrZWHsDCfyntGXHbjvDq4TqtGuYt3TcsJKWYU97L",
   "holders": null,
   "link": "https://fomo.family/coin?address=3kuCcqdsHxwm9ykGbiar8mhADtint5xfLzsUixEApump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.665e-05,
-  "priceTs": "2026-11-12T16:20:55.382498Z",
+  "price": 4.077e-05,
+  "priceTs": "2026-11-12T16:22:06.394318Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,15 +24,33 @@
       "l": 3.665e-05,
       "c": 3.665e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794500520,
+      "o": 4.077e-05,
+      "h": 4.077e-05,
+      "l": 4.077e-05,
+      "c": 4.077e-05,
+      "v": 19274.11
     }
   ],
   "stats": {
-    "marketCap": 36591.0,
-    "liquidity": 13096.67,
-    "volume24h": 6969.08,
+    "marketCap": 40702.0,
+    "liquidity": 13980.63,
+    "volume24h": 26243.19,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T16:20:58.520179Z",
+      "liquidity_usd": 13096.67,
+      "top10_pct": null,
+      "h1_change_pct": 7.04,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $13.1K"
+    }
+  ]
 }
