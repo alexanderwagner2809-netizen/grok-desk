@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-12T06:37:30.983516Z",
+  "ts": "2026-11-12T06:38:39.538812Z",
   "mint": "Bdos43bFy1W4crNBKjRgPmWsmnMeiLMbi9jrpzeqpump",
-  "name": null,
-  "symbol": null,
-  "label": "Bdos43bF",
+  "name": "ㅤ",
+  "symbol": "ㅤ",
+  "label": "ㅤ",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-12T06:36:05.390725Z",
-  "pool": null,
+  "pool": "HTpZauy9v1Xjz6isckiMm8qss27fMJZEMGUK6qJsNTAa",
   "creator": "GQPKqpfEm3SmqGVJCyFjd5icjyFuBSD84EbaUzky2ksi",
   "holders": null,
   "link": "https://fomo.family/coin?address=Bdos43bFy1W4crNBKjRgPmWsmnMeiLMbi9jrpzeqpump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-12T06:37:38.986822Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 0.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
