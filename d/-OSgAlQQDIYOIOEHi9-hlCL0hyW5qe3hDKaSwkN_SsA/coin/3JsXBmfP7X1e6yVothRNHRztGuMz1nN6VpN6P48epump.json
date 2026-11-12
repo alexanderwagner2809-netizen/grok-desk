@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-12T20:21:28.611055Z",
+  "mint": "3JsXBmfP7X1e6yVothRNHRztGuMz1nN6VpN6P48epump",
+  "name": "Marscoin",
+  "symbol": "MARS",
+  "label": "Marscoin",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-12T20:20:29.866519Z",
+  "pool": "6KQaWx2LYuepciB1Qx6GAVY833kVJdNvaAtsnYceDb8p",
+  "creator": "B32QbbdDAyhvUQzjcaM5j6ZVKwjCxAwGH5Xgvb9SJqnC",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=3JsXBmfP7X1e6yVothRNHRztGuMz1nN6VpN6P48epump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 6.369e-05,
+  "priceTs": "2026-11-12T20:21:26.428778Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794514860,
+      "o": 5.039e-05,
+      "h": 6.369e-05,
+      "l": 5.039e-05,
+      "c": 6.369e-05,
+      "v": 4878.29
+    }
+  ],
+  "stats": {
+    "marketCap": 63640.0,
+    "liquidity": 17798.8,
+    "volume24h": 7792.55,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T20:21:02.944004Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -11.25,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
