@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:17:34.645090Z",
+  "ts": "2026-11-13T11:18:45.675039Z",
   "mint": "Fk8uavaf8k4NBimTXYHYFJReqs9uV8owB9DhBJyFpump",
   "name": "TOYCOIN",
   "symbol": "TOY",
@@ -11,8 +11,8 @@
   "creator": "3foEe2E2jMy5PfamGLtfRUcMfiTHvgVipX2vgJAeZPGr",
   "holders": null,
   "link": "https://fomo.family/coin?address=Fk8uavaf8k4NBimTXYHYFJReqs9uV8owB9DhBJyFpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.254e-06,
-  "priceTs": "2026-11-13T11:17:34.431016Z",
+  "price": 2.167e-06,
+  "priceTs": "2026-11-13T11:18:45.421642Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -176,12 +176,20 @@
       "l": 2.254e-06,
       "c": 2.254e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794568680,
+      "o": 2.167e-06,
+      "h": 2.167e-06,
+      "l": 2.167e-06,
+      "c": 2.167e-06,
+      "v": 63.78
     }
   ],
   "stats": {
-    "marketCap": 2137.0,
-    "liquidity": 2163.54,
-    "volume24h": 56248.98,
+    "marketCap": 2055.0,
+    "liquidity": 2092.07,
+    "volume24h": 56312.76,
     "holders": null
   },
   "position": null,
