@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-13T06:17:12.870691Z",
+  "mint": "CPqXNk8RCmh4mKbcKzBSiYbFdQgC7xzHPUziJPQBpump",
+  "name": "grokbot",
+  "symbol": "sol",
+  "label": "grokbot",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-13T06:16:09.820855Z",
+  "pool": "uibjaTWNuVMpCBDF6fwYEEGVwrrv9RzaxiakyTPdCyz",
+  "creator": "2F7uJ9gLz3gycdwo4JQ9UxgFXyPU5woRMq34T4om2RCj",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=CPqXNk8RCmh4mKbcKzBSiYbFdQgC7xzHPUziJPQBpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.195e-08,
+  "priceTs": "2026-11-13T06:17:12.642287Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794550560,
+      "o": 1.707e-07,
+      "h": 1.707e-07,
+      "l": 1.707e-07,
+      "c": 1.707e-07,
+      "v": 0.0
+    },
+    {
+      "t": 1794550620,
+      "o": 2.195e-08,
+      "h": 2.195e-08,
+      "l": 2.195e-08,
+      "c": 2.195e-08,
+      "v": 524.6
+    }
+  ],
+  "stats": {
+    "marketCap": 44.0,
+    "liquidity": 24.67,
+    "volume24h": 598.09,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T06:16:40.798191Z",
+      "liquidity_usd": 62.73,
+      "top10_pct": null,
+      "h1_change_pct": 25.9,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $63"
+    }
+  ]
+}
