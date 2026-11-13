@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T07:24:55.886860Z",
+  "mint": "7zuP5YyQ2DZgwKZY9xUK7Em4mFjBKhwQaR9BpRJFpump",
+  "name": "FreakHouse",
+  "symbol": "FHC",
+  "label": "FreakHouse",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-13T07:24:04.317987Z",
+  "pool": "2rcZMjtbkHeDSvTU942m8hWxAQEeP1hYr4kddMywvP4a",
+  "creator": "GZTWXKdJYLqdSiMAqBGiRSEH3xx5GC6wDCBq7KPWt18s",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=7zuP5YyQ2DZgwKZY9xUK7Em4mFjBKhwQaR9BpRJFpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 1.697e-09,
+  "priceTs": "2026-11-13T07:24:55.630644Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794554640,
+      "o": 1.697e-09,
+      "h": 1.697e-09,
+      "l": 1.697e-09,
+      "c": 1.697e-09,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 3.0,
+    "liquidity": 4.29,
+    "volume24h": 45.11,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T07:24:50.534843Z",
+      "liquidity_usd": 4.35,
+      "top10_pct": null,
+      "h1_change_pct": -97.31,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $4"
+    }
+  ]
+}
