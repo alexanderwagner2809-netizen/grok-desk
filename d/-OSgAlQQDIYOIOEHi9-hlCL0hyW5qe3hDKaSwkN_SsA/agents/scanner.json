@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-13T11:57:58.040742Z",
+  "ts": "2026-11-13T11:59:09.178531Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T11:57:55.750424Z",
+  "heartbeat": "2026-11-13T11:59:07.310377Z",
   "paused": false,
   "status": "running",
-  "card": "531 pools",
-  "count": 531,
+  "card": "533 pools",
+  "count": 533,
   "passed": 0,
   "feed": [
+    {
+      "mint": "3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump",
+      "label": "Alien Shiba Inux",
+      "verdict": "kill",
+      "reason": "liq $15",
+      "subtitle": "liq $15",
+      "link": "https://fomo.family/coin?address=3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "12B5GT5CzCJhZaA2ciTUrjw32xG7vYLmq8SFhPzrpump",
+      "label": "UNITED CRYPTO INTELLIGENCE",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=12B5GT5CzCJhZaA2ciTUrjw32xG7vYLmq8SFhPzrpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "DoxK6AycGY4dsTiMqrVuVtNehis2RuAJddXpxP3Lpump",
       "label": "FreakHouse",
@@ -58,27 +74,27 @@
       "reason": "never qualified",
       "subtitle": "never qualified",
       "link": "https://fomo.family/coin?address=3UA4zUQN66yeYvoHLSXrJq7CBHT7R8itp1iLt8papump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "6GUeMAARASwY4kC8tXUA3PGY8s2jTZEZPks178idpump",
-      "label": "HANS",
-      "verdict": "kill",
-      "reason": "liq $2.2K",
-      "subtitle": "liq $2.2K",
-      "link": "https://fomo.family/coin?address=6GUeMAARASwY4kC8tXUA3PGY8s2jTZEZPks178idpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "xbZK8o3v3KXVsRWxdaWMRHnzR4ix71mdvwJnhLZpump",
-      "label": "OLONGJOHNSON",
-      "verdict": "kill",
-      "reason": "liq $16",
-      "subtitle": "liq $16",
-      "link": "https://fomo.family/coin?address=xbZK8o3v3KXVsRWxdaWMRHnzR4ix71mdvwJnhLZpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T11:59:04.302954Z",
+      "mint": "3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump",
+      "label": "Alien Shiba Inux",
+      "verdict": "kill",
+      "reason": "liq $15",
+      "link": "https://fomo.family/coin?address=3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T11:59:04.300018Z",
+      "mint": "12B5GT5CzCJhZaA2ciTUrjw32xG7vYLmq8SFhPzrpump",
+      "label": "UNITED CRYPTO INTELLIGENCE",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=12B5GT5CzCJhZaA2ciTUrjw32xG7vYLmq8SFhPzrpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T11:53:57.258736Z",
       "mint": "DoxK6AycGY4dsTiMqrVuVtNehis2RuAJddXpxP3Lpump",
       "label": "FreakHouse",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $4",
       "link": "https://fomo.family/coin?address=5M1yNWHeAxjWkFCkgPy9Scgayan24mumH7vx1TPDpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T10:05:05.719911Z",
-      "mint": "ChAwq4m32NsVdgsJqfJRzqvFtyjp9Wo3hKK1Tdujpump",
-      "label": "Max",
-      "verdict": "kill",
-      "reason": "liq $15.0K",
-      "link": "https://fomo.family/coin?address=ChAwq4m32NsVdgsJqfJRzqvFtyjp9Wo3hKK1Tdujpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T10:04:35.901110Z",
-      "mint": "DH3DaqxYisSHX9nV91vwUB8T3o55WLxtf84h6uhapump",
-      "label": "PUMP SI",
-      "verdict": "kill",
-      "reason": "liq $402",
-      "link": "https://fomo.family/coin?address=DH3DaqxYisSHX9nV91vwUB8T3o55WLxtf84h6uhapump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T11:59:04.302954Z",
+      "mint": "3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump",
+      "label": "Alien Shiba Inux",
+      "verdict": "kill",
+      "reason": "liq $15",
+      "link": "https://fomo.family/coin?address=3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T11:59:04.300018Z",
+      "mint": "12B5GT5CzCJhZaA2ciTUrjw32xG7vYLmq8SFhPzrpump",
+      "label": "UNITED CRYPTO INTELLIGENCE",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=12B5GT5CzCJhZaA2ciTUrjw32xG7vYLmq8SFhPzrpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T11:53:57.258736Z",
       "mint": "DoxK6AycGY4dsTiMqrVuVtNehis2RuAJddXpxP3Lpump",
       "label": "FreakHouse",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $4",
       "link": "https://fomo.family/coin?address=5M1yNWHeAxjWkFCkgPy9Scgayan24mumH7vx1TPDpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T10:05:05.719911Z",
-      "mint": "ChAwq4m32NsVdgsJqfJRzqvFtyjp9Wo3hKK1Tdujpump",
-      "label": "Max",
-      "verdict": "kill",
-      "reason": "liq $15.0K",
-      "link": "https://fomo.family/coin?address=ChAwq4m32NsVdgsJqfJRzqvFtyjp9Wo3hKK1Tdujpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T10:04:35.901110Z",
-      "mint": "DH3DaqxYisSHX9nV91vwUB8T3o55WLxtf84h6uhapump",
-      "label": "PUMP SI",
-      "verdict": "kill",
-      "reason": "liq $402",
-      "link": "https://fomo.family/coin?address=DH3DaqxYisSHX9nV91vwUB8T3o55WLxtf84h6uhapump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

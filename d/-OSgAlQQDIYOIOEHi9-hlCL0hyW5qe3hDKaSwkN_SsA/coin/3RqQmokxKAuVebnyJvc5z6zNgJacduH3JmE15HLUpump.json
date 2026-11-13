@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T11:59:07.641928Z",
+  "mint": "3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump",
+  "name": "Alien Shiba Inux",
+  "symbol": "INUX",
+  "label": "Alien Shiba Inux",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-13T11:58:33.241144Z",
+  "pool": "EbowcFVKMPbh4k6BGjBBuFwiTDWDq3QrL14MVDVXH52m",
+  "creator": "7B2cUxRYn8dyykdiJ6J4eBVWbgvG18Tab67pPd7z5zzQ",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 9.035e-09,
+  "priceTs": "2026-11-13T11:59:07.376318Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794571140,
+      "o": 9.035e-09,
+      "h": 9.035e-09,
+      "l": 9.035e-09,
+      "c": 9.035e-09,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 18.0,
+    "liquidity": 15.19,
+    "volume24h": 67.1,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T11:59:04.302954Z",
+      "liquidity_usd": 15.19,
+      "top10_pct": null,
+      "h1_change_pct": -93.57,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $15"
+    }
+  ]
+}
