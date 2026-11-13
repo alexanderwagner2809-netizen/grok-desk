@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T20:01:17.684998Z",
+  "ts": "2026-11-13T20:02:28.686752Z",
   "mint": "BPoGXKyvgtVFW5UBwUDE97nyUEefYDbMScHPfzhZpump",
-  "name": null,
-  "symbol": null,
-  "label": "BPoGXKyv",
+  "name": "credibility coin",
+  "symbol": "CRED",
+  "label": "credibility coin",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T20:00:47.120106Z",
-  "pool": null,
+  "pool": "26kUg3pTzSuZ8PHr2iyiFLuVM9QG7dbBxKyEbUtPbfjZ",
   "creator": "ADFD97E3EEuPAMyMj4mN6ys4f7oy69dCfznmKYK8P7wA",
   "holders": null,
   "link": "https://fomo.family/coin?address=BPoGXKyvgtVFW5UBwUDE97nyUEefYDbMScHPfzhZpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.72e-05,
+  "priceTs": "2026-11-13T20:02:28.454779Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794600060,
+      "o": 3.4e-05,
+      "h": 3.4e-05,
+      "l": 3.4e-05,
+      "c": 3.4e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794600120,
+      "o": 3.72e-05,
+      "h": 3.72e-05,
+      "l": 3.72e-05,
+      "c": 3.72e-05,
+      "v": 10930.86
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 37209.0,
+    "liquidity": 13136.59,
+    "volume24h": 14200.16,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T20:01:28.715642Z",
+      "liquidity_usd": 12438.34,
+      "top10_pct": null,
+      "h1_change_pct": -0.35,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $12.4K"
+    }
+  ]
 }

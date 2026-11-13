@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T20:01:16.696920Z",
+  "ts": "2026-11-13T20:02:28.733841Z",
   "mint": "2QCcwbZL7YgovUqvXmxoKJR8AZoHeGMtt4vj2YGSpump",
   "name": "FASTMOON",
   "symbol": "FASTMOON",
@@ -11,8 +11,8 @@
   "creator": "59S6GjdKBm453DBs5p3G2ZKrksBPmZCGvD2zvdVLdRv2",
   "holders": null,
   "link": "https://fomo.family/coin?address=2QCcwbZL7YgovUqvXmxoKJR8AZoHeGMtt4vj2YGSpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.047e-05,
-  "priceTs": "2026-11-13T20:01:16.495612Z",
+  "price": 1.041e-05,
+  "priceTs": "2026-11-13T20:02:28.569449Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -552,12 +552,20 @@
       "l": 1.047e-05,
       "c": 1.047e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794600120,
+      "o": 1.041e-05,
+      "h": 1.041e-05,
+      "l": 1.041e-05,
+      "c": 1.041e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 10385.0,
-    "liquidity": 6620.83,
-    "volume24h": 832725.63,
+    "marketCap": 10327.0,
+    "liquidity": 6595.38,
+    "volume24h": 832734.36,
     "holders": null
   },
   "position": null,
