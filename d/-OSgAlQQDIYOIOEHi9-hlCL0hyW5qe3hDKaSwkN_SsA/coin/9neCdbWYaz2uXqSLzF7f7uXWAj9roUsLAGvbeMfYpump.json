@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-13T06:25:25.692102Z",
+  "mint": "9neCdbWYaz2uXqSLzF7f7uXWAj9roUsLAGvbeMfYpump",
+  "name": "APPLE",
+  "symbol": "APPLE",
+  "label": "APPLE",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-13T06:24:21.955128Z",
+  "pool": "6ciLmJszNymYWgpVnDQgtVebWrEV1UKM1CwYYCDdYwfU",
+  "creator": "BPbabdkxDrweEgBMyG9Fx1UuBaL9A8jnNjUhtnn1juWX",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=9neCdbWYaz2uXqSLzF7f7uXWAj9roUsLAGvbeMfYpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.201e-09,
+  "priceTs": "2026-11-13T06:25:25.461251Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794551040,
+      "o": 3.164e-09,
+      "h": 3.164e-09,
+      "l": 3.164e-09,
+      "c": 3.164e-09,
+      "v": 0.0
+    },
+    {
+      "t": 1794551100,
+      "o": 2.201e-09,
+      "h": 2.201e-09,
+      "l": 2.201e-09,
+      "c": 2.201e-09,
+      "v": 10.740000000000002
+    }
+  ],
+  "stats": {
+    "marketCap": 4.0,
+    "liquidity": 5.31,
+    "volume24h": 34.81,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T06:24:56.141734Z",
+      "liquidity_usd": 6.66,
+      "top10_pct": null,
+      "h1_change_pct": -95.81,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $7"
+    }
+  ]
+}

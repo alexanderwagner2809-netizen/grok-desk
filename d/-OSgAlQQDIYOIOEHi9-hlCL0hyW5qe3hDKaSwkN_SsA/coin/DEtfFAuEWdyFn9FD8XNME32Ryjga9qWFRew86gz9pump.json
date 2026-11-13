@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T06:24:16.400487Z",
+  "ts": "2026-11-13T06:25:25.691338Z",
   "mint": "DEtfFAuEWdyFn9FD8XNME32Ryjga9qWFRew86gz9pump",
   "name": null,
   "symbol": null,
   "label": "DEtfFAuE",
   "chain": "Solana",
-  "age": "18m old",
+  "age": "20m old",
   "migratedAt": "2026-11-13T06:05:17.061319Z",
   "pool": null,
   "creator": "9znSDajZSLGawCAqDL5CNT6JXkdXfdZzzTnZX8YwZMnw",
   "holders": null,
   "link": "https://fomo.family/coin?address=DEtfFAuEWdyFn9FD8XNME32Ryjga9qWFRew86gz9pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.222e-05,
+  "priceTs": "2026-11-13T06:25:25.461251Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794551100,
+      "o": 3.222e-05,
+      "h": 3.222e-05,
+      "l": 3.222e-05,
+      "c": 3.222e-05,
+      "v": 0.0
+    }
+  ],
   "stats": {
-    "marketCap": null,
+    "marketCap": 32229.44,
     "liquidity": null,
-    "volume24h": null,
+    "volume24h": 50002.98,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T06:25:17.634940Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 20,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }

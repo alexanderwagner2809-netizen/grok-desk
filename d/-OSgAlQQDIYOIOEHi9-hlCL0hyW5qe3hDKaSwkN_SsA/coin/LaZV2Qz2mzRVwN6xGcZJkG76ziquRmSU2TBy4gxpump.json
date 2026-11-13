@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T06:24:16.752592Z",
+  "ts": "2026-11-13T06:25:25.693282Z",
   "mint": "LaZV2Qz2mzRVwN6xGcZJkG76ziquRmSU2TBy4gxpump",
-  "name": null,
-  "symbol": null,
-  "label": "LaZV2Qz2",
+  "name": "Autism Coin",
+  "symbol": "AUTISM",
+  "label": "Autism Coin",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T06:23:56.342146Z",
-  "pool": null,
+  "pool": "DWP8DXn6ZooBJyFD1bTRuEWgtHVvpGLjiwokkix1kafE",
   "creator": "HEX3ywCdVECyvv4zNE8xTbUAU5tb6yuFzSUc2VEdW2ke",
   "holders": null,
   "link": "https://fomo.family/coin?address=LaZV2Qz2mzRVwN6xGcZJkG76ziquRmSU2TBy4gxpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.273e-05,
+  "priceTs": "2026-11-13T06:25:25.461251Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794551040,
+      "o": 2.948e-05,
+      "h": 2.948e-05,
+      "l": 2.948e-05,
+      "c": 2.948e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794551100,
+      "o": 3.273e-05,
+      "h": 3.273e-05,
+      "l": 3.273e-05,
+      "c": 3.273e-05,
+      "v": 23311.05
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 32688.0,
+    "liquidity": 12296.97,
+    "volume24h": 27283.18,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T06:24:22.264060Z",
+      "liquidity_usd": 11440.45,
+      "top10_pct": null,
+      "h1_change_pct": -19.33,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $11.4K"
+    }
+  ]
 }
