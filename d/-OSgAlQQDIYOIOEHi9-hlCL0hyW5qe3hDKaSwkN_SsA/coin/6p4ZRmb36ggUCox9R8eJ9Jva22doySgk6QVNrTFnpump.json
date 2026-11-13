@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T06:37:24.334843Z",
+  "ts": "2026-11-13T06:38:35.247288Z",
   "mint": "6p4ZRmb36ggUCox9R8eJ9Jva22doySgk6QVNrTFnpump",
   "name": "Microsoft 364",
   "symbol": "364",
   "label": "Microsoft 364",
   "chain": "Solana",
-  "age": "50m old",
+  "age": "51m old",
   "migratedAt": "2026-11-13T05:47:14.779926Z",
   "pool": "7a5itSdNU31mZzvvDj8p67MiGJiy5t56nfYnVEqqmfMH",
   "creator": "9eojqVtvw8T1W8feBTT3XLjCx5DtMtgieFFDub15ZkpV",
   "holders": null,
   "link": "https://fomo.family/coin?address=6p4ZRmb36ggUCox9R8eJ9Jva22doySgk6QVNrTFnpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.000161,
-  "priceTs": "2026-11-13T06:37:24.011347Z",
+  "price": 0.0001461,
+  "priceTs": "2026-11-13T06:38:34.930005Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -360,12 +360,20 @@
       "l": 0.000161,
       "c": 0.000161,
       "v": 2922.8600000000006
+    },
+    {
+      "t": 1794551880,
+      "o": 0.0001461,
+      "h": 0.0001461,
+      "l": 0.0001461,
+      "c": 0.0001461,
+      "v": 3794.790000000001
     }
   ],
   "stats": {
-    "marketCap": 156225.0,
-    "liquidity": 34864.66,
-    "volume24h": 465438.64,
+    "marketCap": 141817.0,
+    "liquidity": 33196.08,
+    "volume24h": 475465.29,
     "holders": null
   },
   "position": null,
