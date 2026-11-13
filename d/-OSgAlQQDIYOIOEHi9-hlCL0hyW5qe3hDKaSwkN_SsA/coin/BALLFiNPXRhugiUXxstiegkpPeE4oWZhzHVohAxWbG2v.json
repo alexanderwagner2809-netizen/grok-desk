@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-13T19:33:18.134826Z",
+  "mint": "BALLFiNPXRhugiUXxstiegkpPeE4oWZhzHVohAxWbG2v",
+  "name": "GTA 6 Lottery",
+  "symbol": "Ballfin",
+  "label": "GTA 6 Lottery",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-13T19:32:24.524153Z",
+  "pool": "2LaF6D47ymUGNBUWqqCbE481t54pQSg5FdCdifzWF9F8",
+  "creator": "H8xogsYChzkK1rVDsaKC5Cs4cGhaHWWvZq2bnfEdqTGD",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=BALLFiNPXRhugiUXxstiegkpPeE4oWZhzHVohAxWbG2v&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.798e-05,
+  "priceTs": "2026-11-13T19:33:17.801963Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794598320,
+      "o": 4.135e-05,
+      "h": 4.135e-05,
+      "l": 4.135e-05,
+      "c": 4.135e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794598380,
+      "o": 3.798e-05,
+      "h": 3.798e-05,
+      "l": 3.798e-05,
+      "c": 3.798e-05,
+      "v": 26109.429999999997
+    }
+  ],
+  "stats": {
+    "marketCap": 37939.0,
+    "liquidity": 16421.81,
+    "volume24h": 33310.59,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T19:32:55.583710Z",
+      "liquidity_usd": 16798.16,
+      "top10_pct": null,
+      "h1_change_pct": -15.37,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $16.8K"
+    }
+  ]
+}
