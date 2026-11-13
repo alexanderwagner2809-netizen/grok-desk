@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T04:09:01.703734Z",
+  "ts": "2026-11-13T04:10:10.731904Z",
   "mint": "JAWtSUV7eLqiw9YD2V1zggW7D9DD15gjw4fMARfWpump",
-  "name": null,
-  "symbol": null,
-  "label": "JAWtSUV7",
+  "name": "SPACE X",
+  "symbol": "Space X",
+  "label": "SPACE X",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T04:08:22.505039Z",
-  "pool": null,
+  "pool": "8jrvPCnAyu763E3zWmbkAHFepR7JMghp8gr7Xdq6FWBC",
   "creator": "BPbabdkxDrweEgBMyG9Fx1UuBaL9A8jnNjUhtnn1juWX",
   "holders": null,
   "link": "https://fomo.family/coin?address=JAWtSUV7eLqiw9YD2V1zggW7D9DD15gjw4fMARfWpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.931e-09,
+  "priceTs": "2026-11-13T04:10:10.399200Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794542940,
+      "o": 2.146e-08,
+      "h": 2.146e-08,
+      "l": 2.146e-08,
+      "c": 2.146e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794543000,
+      "o": 1.931e-09,
+      "h": 1.931e-09,
+      "l": 1.931e-09,
+      "c": 1.931e-09,
+      "v": 168.57
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 4.0,
+    "liquidity": 3.0,
+    "volume24h": 174.7,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T04:09:11.022446Z",
+      "liquidity_usd": 8.91,
+      "top10_pct": null,
+      "h1_change_pct": -1.54,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $9"
+    }
+  ]
 }

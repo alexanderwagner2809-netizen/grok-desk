@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T04:09:00.616302Z",
+  "ts": "2026-11-13T04:10:10.734297Z",
   "mint": "8H5quX18d5wy8Lfj9q9shLdeZwcYKcCQySbwWW6Cpump",
   "name": "schrodinger's cat",
   "symbol": "SCHRODI",
   "label": "schrodinger's cat",
   "chain": "Solana",
-  "age": "3m old",
+  "age": "4m old",
   "migratedAt": "2026-11-13T04:05:41.113925Z",
   "pool": "14mYezfp63jrpTRA519TGzJht2d9CBriB17aBpYWG9jA",
   "creator": "HWUnfRdrzFfyPpVcmZHr9FdenUP1hjP1C7jUSyzYP1FH",
   "holders": null,
   "link": "https://fomo.family/coin?address=8H5quX18d5wy8Lfj9q9shLdeZwcYKcCQySbwWW6Cpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.24e-10,
-  "priceTs": "2026-11-13T04:09:00.323974Z",
+  "price": 8.561e-10,
+  "priceTs": "2026-11-13T04:10:10.399200Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -40,12 +40,20 @@
       "l": 8.24e-10,
       "c": 8.24e-10,
       "v": 0.5
+    },
+    {
+      "t": 1794543000,
+      "o": 8.561e-10,
+      "h": 8.561e-10,
+      "l": 8.561e-10,
+      "c": 8.561e-10,
+      "v": 0.03999999999996362
     }
   ],
   "stats": {
     "marketCap": 2.0,
-    "liquidity": 3.89,
-    "volume24h": 298.3,
+    "liquidity": 3.95,
+    "volume24h": 298.34,
     "holders": null
   },
   "position": null,

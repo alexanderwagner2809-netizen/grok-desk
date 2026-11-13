@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T04:09:00.675585Z",
+  "ts": "2026-11-13T04:10:10.800161Z",
   "mint": "FoXx43VNR4oYegZWNHrCRdE5UFPhVmCbcCWtGcUDpump",
   "name": "Cheeseburger Coin",
   "symbol": "CHEESE",
@@ -11,8 +11,8 @@
   "creator": "9vL2pT6tnkmCDesiq4Sp3jKHNkaPcAMpwEuJNENdCJVd",
   "holders": null,
   "link": "https://fomo.family/coin?address=FoXx43VNR4oYegZWNHrCRdE5UFPhVmCbcCWtGcUDpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.183e-06,
-  "priceTs": "2026-11-13T04:09:00.458839Z",
+  "price": 2.107e-06,
+  "priceTs": "2026-11-13T04:10:10.554917Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -688,11 +688,19 @@
       "l": 2.183e-06,
       "c": 2.183e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794543000,
+      "o": 2.107e-06,
+      "h": 2.107e-06,
+      "l": 2.107e-06,
+      "c": 2.107e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 1774.0,
-    "liquidity": 2120.59,
+    "marketCap": 1712.0,
+    "liquidity": 2046.53,
     "volume24h": 65560.3,
     "holders": null
   },
