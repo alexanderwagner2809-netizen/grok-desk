@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T08:58:04.875294Z",
+  "ts": "2026-11-13T08:59:15.154040Z",
   "mint": "9jVR7y8c3sYKGAqgmGFj9FL7HdfQWTmjs84Pf5vQpump",
-  "name": null,
-  "symbol": null,
-  "label": "9jVR7y8c",
+  "name": "JENOVA",
+  "symbol": "JENOVA",
+  "label": "JENOVA",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T08:57:42.966513Z",
-  "pool": null,
+  "pool": "7vxAVSbgi9wH3AfFHL8b8dHaUHBgaSsEFZ77yFEYzDbc",
   "creator": "6KQsw5qRzqibArB3n39VhJUCMCKj7d6WiH5pjxRjHYay",
   "holders": null,
   "link": "https://fomo.family/coin?address=9jVR7y8c3sYKGAqgmGFj9FL7HdfQWTmjs84Pf5vQpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.641e-05,
+  "priceTs": "2026-11-13T08:59:14.911136Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794560280,
+      "o": 3.476e-05,
+      "h": 3.476e-05,
+      "l": 3.476e-05,
+      "c": 3.476e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794560340,
+      "o": 3.641e-05,
+      "h": 3.641e-05,
+      "l": 3.641e-05,
+      "c": 3.641e-05,
+      "v": 134.81999999999996
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 36367.0,
+    "liquidity": 12898.22,
+    "volume24h": 384.09,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T08:58:12.831109Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 5.16,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }

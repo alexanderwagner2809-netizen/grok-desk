@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T08:58:05.683350Z",
+  "ts": "2026-11-13T08:59:16.540595Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T08:58:03.596220Z",
+  "heartbeat": "2026-11-13T08:59:14.998734Z",
   "paused": false,
   "status": "running",
-  "card": "483 pools",
-  "count": 483,
+  "card": "484 pools",
+  "count": 484,
   "passed": 0,
   "feed": [
+    {
+      "mint": "9jVR7y8c3sYKGAqgmGFj9FL7HdfQWTmjs84Pf5vQpump",
+      "label": "JENOVA",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=9jVR7y8c3sYKGAqgmGFj9FL7HdfQWTmjs84Pf5vQpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "vR2xYgjK1s9bXj7uDuh7nEwiKFUTeAxwcG4ub7Jpump",
       "label": "Global Oil Dividend Fund",
@@ -66,19 +74,19 @@
       "reason": "liq $431",
       "subtitle": "liq $431",
       "link": "https://fomo.family/coin?address=dfodvXbnGSQwZTdLUgXug6dXNL22nMabeuS23TBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GZUHiXsT6aKNdjgDEY25pzKusrcqyVyvwTWieEGepump",
-      "label": "USOE",
-      "verdict": "kill",
-      "reason": "+344647% in 1h",
-      "subtitle": "+344647% in 1h",
-      "link": "https://fomo.family/coin?address=GZUHiXsT6aKNdjgDEY25pzKusrcqyVyvwTWieEGepump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T08:58:12.831109Z",
+      "mint": "9jVR7y8c3sYKGAqgmGFj9FL7HdfQWTmjs84Pf5vQpump",
+      "label": "JENOVA",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=9jVR7y8c3sYKGAqgmGFj9FL7HdfQWTmjs84Pf5vQpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T08:56:52.232082Z",
       "mint": "vR2xYgjK1s9bXj7uDuh7nEwiKFUTeAxwcG4ub7Jpump",
       "label": "Global Oil Dividend Fund",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $12.5K",
       "link": "https://fomo.family/coin?address=CmsVQy7fDFAEn9GnXWGUfUwQeZHbVs9JPP6WcaBDpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T08:05:31.179721Z",
-      "mint": "FiyjB5MkfxfePDgw9gAsmbArWpuTbkCMyoMvVFQJpump",
-      "label": "Friendsgiving",
-      "verdict": "kill",
-      "reason": "liq $2.8K",
-      "link": "https://fomo.family/coin?address=FiyjB5MkfxfePDgw9gAsmbArWpuTbkCMyoMvVFQJpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T08:58:12.831109Z",
+      "mint": "9jVR7y8c3sYKGAqgmGFj9FL7HdfQWTmjs84Pf5vQpump",
+      "label": "JENOVA",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=9jVR7y8c3sYKGAqgmGFj9FL7HdfQWTmjs84Pf5vQpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T08:56:52.232082Z",
       "mint": "vR2xYgjK1s9bXj7uDuh7nEwiKFUTeAxwcG4ub7Jpump",
       "label": "Global Oil Dividend Fund",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $12.5K",
       "link": "https://fomo.family/coin?address=CmsVQy7fDFAEn9GnXWGUfUwQeZHbVs9JPP6WcaBDpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T08:05:31.179721Z",
-      "mint": "FiyjB5MkfxfePDgw9gAsmbArWpuTbkCMyoMvVFQJpump",
-      "label": "Friendsgiving",
-      "verdict": "kill",
-      "reason": "liq $2.8K",
-      "link": "https://fomo.family/coin?address=FiyjB5MkfxfePDgw9gAsmbArWpuTbkCMyoMvVFQJpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T08:58:04.186381Z",
+  "ts": "2026-11-13T08:59:15.177183Z",
   "mint": "BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump",
   "name": "Hugh Janus",
   "symbol": "Hugh",
@@ -11,8 +11,8 @@
   "creator": "4HDbnhs9w4PLP8KfGMEaXgWEcxWRAuLhzdQAMihhyMft",
   "holders": null,
   "link": "https://fomo.family/coin?address=BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.521e-06,
-  "priceTs": "2026-11-13T08:58:03.885528Z",
+  "price": 3.531e-06,
+  "priceTs": "2026-11-13T08:59:14.911136Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -432,12 +432,20 @@
       "l": 3.521e-06,
       "c": 3.521e-06,
       "v": 176.08999999999992
+    },
+    {
+      "t": 1794560340,
+      "o": 3.531e-06,
+      "h": 3.531e-06,
+      "l": 3.531e-06,
+      "c": 3.531e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 3366.0,
-    "liquidity": 3107.27,
-    "volume24h": 164204.87,
+    "marketCap": 3375.0,
+    "liquidity": 3111.05,
+    "volume24h": 164466.25,
     "holders": null
   },
   "position": null,
