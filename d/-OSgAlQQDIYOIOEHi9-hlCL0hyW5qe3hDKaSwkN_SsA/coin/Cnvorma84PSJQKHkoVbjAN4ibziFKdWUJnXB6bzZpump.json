@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T19:49:07.590105Z",
+  "ts": "2026-11-13T19:50:19.990512Z",
   "mint": "Cnvorma84PSJQKHkoVbjAN4ibziFKdWUJnXB6bzZpump",
-  "name": null,
-  "symbol": null,
-  "label": "Cnvorma8",
+  "name": "The Bull",
+  "symbol": "Bull",
+  "label": "The Bull",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T19:48:51.725933Z",
-  "pool": null,
+  "pool": "6xAWVs2X4HKLaFtVNAN4qPYajPZ9E1166yfareDU3n24",
   "creator": "5ZuV8eqkvzYFVEKbLvGBdexL2tFv7E5BCd2HZpjqbdg",
   "holders": null,
   "link": "https://fomo.family/coin?address=Cnvorma84PSJQKHkoVbjAN4ibziFKdWUJnXB6bzZpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.131e-05,
+  "priceTs": "2026-11-13T19:50:19.607823Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794599340,
+      "o": 2.984e-05,
+      "h": 2.984e-05,
+      "l": 2.984e-05,
+      "c": 2.984e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794599400,
+      "o": 3.131e-05,
+      "h": 3.131e-05,
+      "l": 3.131e-05,
+      "c": 3.131e-05,
+      "v": 5949.639999999999
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 31279.0,
+    "liquidity": 11885.34,
+    "volume24h": 6494.16,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T19:49:22.822161Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -1.95,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
