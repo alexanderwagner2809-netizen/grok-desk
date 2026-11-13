@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T19:50:19.982035Z",
+  "ts": "2026-11-13T19:51:32.492362Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-13T19:50:19.931529Z",
+      "heartbeat": "2026-11-13T19:51:31.820091Z",
       "paused": false,
       "status": "running",
-      "card": "549 pools",
-      "count": 549,
+      "card": "551 pools",
+      "count": 551,
       "passed": 0,
       "feed": [
+        {
+          "mint": "Hidkn2P7CSt2nM28f585mUs6DQB7LvGjGB3PjvqTpump",
+          "label": "999",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=Hidkn2P7CSt2nM28f585mUs6DQB7LvGjGB3PjvqTpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "CD7ZmfdkA7noZ3cB8kk1qyUS9uiWWr2AikcJdF4npump",
+          "label": "Daniela The Immigrant",
+          "verdict": "kill",
+          "reason": "liq $11.4K",
+          "subtitle": "liq $11.4K",
+          "link": "https://fomo.family/coin?address=CD7ZmfdkA7noZ3cB8kk1qyUS9uiWWr2AikcJdF4npump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "Cnvorma84PSJQKHkoVbjAN4ibziFKdWUJnXB6bzZpump",
           "label": "The Bull",
@@ -66,22 +82,6 @@
           "reason": "liq $5",
           "subtitle": "liq $5",
           "link": "https://fomo.family/coin?address=9CkadiL8YThA3shWv11Vrc5W8dTEP9LtTUQSVRjBpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "Gta6uoekEj831ppDPD4EiX3Xj9tW8SxR5rzCsF7cLeEk",
-          "label": "Grand Theft Auto VI",
-          "verdict": "kill",
-          "reason": "liq $12.3K",
-          "subtitle": "liq $12.3K",
-          "link": "https://fomo.family/coin?address=Gta6uoekEj831ppDPD4EiX3Xj9tW8SxR5rzCsF7cLeEk&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "GXbhJB9Vx1n5JZ74ghk18UT59oNqKJKfLNPzKmhzpump",
-          "label": "Zelda",
-          "verdict": "kill",
-          "reason": "liq $12.6K",
-          "subtitle": "liq $12.6K",
-          "link": "https://fomo.family/coin?address=GXbhJB9Vx1n5JZ74ghk18UT59oNqKJKfLNPzKmhzpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-13T19:50:18.322050Z",
+      "heartbeat": "2026-11-13T19:51:31.826403Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-13T19:50:18.324406Z",
+      "heartbeat": "2026-11-13T19:51:31.828349Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-13T19:50:18.324883Z",
+      "heartbeat": "2026-11-13T19:51:31.828804Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-13T19:50:15.117559Z",
+      "heartbeat": "2026-11-13T19:51:30.132481Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
