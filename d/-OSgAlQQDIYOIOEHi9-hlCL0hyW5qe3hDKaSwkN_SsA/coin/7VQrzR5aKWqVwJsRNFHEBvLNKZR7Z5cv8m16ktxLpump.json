@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T08:39:10.327458Z",
+  "ts": "2026-11-13T08:40:20.861688Z",
   "mint": "7VQrzR5aKWqVwJsRNFHEBvLNKZR7Z5cv8m16ktxLpump",
   "name": "squishy",
   "symbol": "SQUISHY",
   "label": "squishy",
   "chain": "Solana",
-  "age": "30m old",
+  "age": "31m old",
   "migratedAt": "2026-11-13T08:09:07.820398Z",
   "pool": "3W8Xi6gXEL8fHiFFHMGqJ3fUiqRXSXH4vXRVJ6sXB2WK",
   "creator": "2pCJmG2nAEr9TennPSN2rEQwY4DJyAybCxbhC97YSSb8",
   "holders": null,
   "link": "https://fomo.family/coin?address=7VQrzR5aKWqVwJsRNFHEBvLNKZR7Z5cv8m16ktxLpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.87e-05,
-  "priceTs": "2026-11-13T08:39:10.005807Z",
+  "price": 5.814e-05,
+  "priceTs": "2026-11-13T08:40:20.602071Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -224,12 +224,20 @@
       "l": 5.87e-05,
       "c": 5.87e-05,
       "v": 203.07999999999993
+    },
+    {
+      "t": 1794559200,
+      "o": 5.814e-05,
+      "h": 5.814e-05,
+      "l": 5.814e-05,
+      "c": 5.814e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 58703.0,
-    "liquidity": 16783.59,
-    "volume24h": 10080.75,
+    "marketCap": 58148.0,
+    "liquidity": 16697.78,
+    "volume24h": 10092.72,
     "holders": null
   },
   "position": null,
