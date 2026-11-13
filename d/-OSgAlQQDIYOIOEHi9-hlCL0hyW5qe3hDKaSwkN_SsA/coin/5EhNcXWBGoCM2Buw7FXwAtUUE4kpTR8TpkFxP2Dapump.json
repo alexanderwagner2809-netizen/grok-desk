@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T06:19:33.149438Z",
+  "ts": "2026-11-13T06:20:43.325483Z",
   "mint": "5EhNcXWBGoCM2Buw7FXwAtUUE4kpTR8TpkFxP2Dapump",
   "name": "UODF",
   "symbol": "UODF",
@@ -11,8 +11,8 @@
   "creator": "Eem6XFJQpNzC6JMgT5fNvEk71ao64br3JT46KERmk4fw",
   "holders": null,
   "link": "https://fomo.family/coin?address=5EhNcXWBGoCM2Buw7FXwAtUUE4kpTR8TpkFxP2Dapump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.08862,
-  "priceTs": "2026-11-13T06:19:32.860575Z",
+  "price": 0.08871,
+  "priceTs": "2026-11-13T06:20:43.042188Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -288,12 +288,20 @@
       "l": 0.08862,
       "c": 0.08862,
       "v": 1.1900000000000546
+    },
+    {
+      "t": 1794550800,
+      "o": 0.08871,
+      "h": 0.08871,
+      "l": 0.08871,
+      "c": 0.08871,
+      "v": 30.25
     }
   ],
   "stats": {
-    "marketCap": 88621373.0,
-    "liquidity": 702840.98,
-    "volume24h": 769125.88,
+    "marketCap": 88707111.0,
+    "liquidity": 703182.13,
+    "volume24h": 769412.91,
     "holders": null
   },
   "position": null,
