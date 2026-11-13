@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T08:14:26.131265Z",
+  "ts": "2026-11-13T08:15:37.033504Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T08:14:24.397539Z",
+  "heartbeat": "2026-11-13T08:15:34.778709Z",
   "paused": false,
   "status": "running",
-  "card": "467 pools",
-  "count": 467,
+  "card": "468 pools",
+  "count": 468,
   "passed": 0,
   "feed": [
+    {
+      "mint": "DskPMTCPtsioxuCAsYbszbKBAJy6EifApwQbNGbQpump",
+      "label": "PUMP SI",
+      "verdict": "kill",
+      "reason": "liq $137",
+      "subtitle": "liq $137",
+      "link": "https://fomo.family/coin?address=DskPMTCPtsioxuCAsYbszbKBAJy6EifApwQbNGbQpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "9sFGCTjEsBk78uC2bCdxtwuUM1aartbBhe8WQXwRpump",
       "label": "サクラ",
@@ -66,19 +74,19 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=4bV59bUWHCqBgerEQYzHPbX4SPCL2douS2SpHPz4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "cuQhcWLpVL1t4Kjn5G5TGokVnZxdLEmSotLN5EEpump",
-      "label": "ultra positive",
-      "verdict": "kill",
-      "reason": "liq $2",
-      "subtitle": "liq $2",
-      "link": "https://fomo.family/coin?address=cuQhcWLpVL1t4Kjn5G5TGokVnZxdLEmSotLN5EEpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T08:14:53.619869Z",
+      "mint": "DskPMTCPtsioxuCAsYbszbKBAJy6EifApwQbNGbQpump",
+      "label": "PUMP SI",
+      "verdict": "kill",
+      "reason": "liq $137",
+      "link": "https://fomo.family/coin?address=DskPMTCPtsioxuCAsYbszbKBAJy6EifApwQbNGbQpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T08:11:21.889351Z",
       "mint": "9sFGCTjEsBk78uC2bCdxtwuUM1aartbBhe8WQXwRpump",
       "label": "サクラ",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $6",
       "link": "https://fomo.family/coin?address=ErqK5g2ES4VN86anNfpeAdkVouqPTW4haDDhgWWHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T07:27:35.471940Z",
-      "mint": "AQYgj12DRwSU2WHfumbDbQWreGrxGXF6J5AzZBdmpump",
-      "label": "buy and forget",
-      "verdict": "kill",
-      "reason": "liq $11.9K",
-      "link": "https://fomo.family/coin?address=AQYgj12DRwSU2WHfumbDbQWreGrxGXF6J5AzZBdmpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T08:14:53.619869Z",
+      "mint": "DskPMTCPtsioxuCAsYbszbKBAJy6EifApwQbNGbQpump",
+      "label": "PUMP SI",
+      "verdict": "kill",
+      "reason": "liq $137",
+      "link": "https://fomo.family/coin?address=DskPMTCPtsioxuCAsYbszbKBAJy6EifApwQbNGbQpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T08:11:21.889351Z",
       "mint": "9sFGCTjEsBk78uC2bCdxtwuUM1aartbBhe8WQXwRpump",
       "label": "サクラ",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $6",
       "link": "https://fomo.family/coin?address=ErqK5g2ES4VN86anNfpeAdkVouqPTW4haDDhgWWHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T07:27:35.471940Z",
-      "mint": "AQYgj12DRwSU2WHfumbDbQWreGrxGXF6J5AzZBdmpump",
-      "label": "buy and forget",
-      "verdict": "kill",
-      "reason": "liq $11.9K",
-      "link": "https://fomo.family/coin?address=AQYgj12DRwSU2WHfumbDbQWreGrxGXF6J5AzZBdmpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

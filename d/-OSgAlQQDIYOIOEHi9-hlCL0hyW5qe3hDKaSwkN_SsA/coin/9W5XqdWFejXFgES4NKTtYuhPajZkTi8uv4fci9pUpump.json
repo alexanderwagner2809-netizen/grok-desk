@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T08:14:24.752303Z",
+  "ts": "2026-11-13T08:15:35.741411Z",
   "mint": "9W5XqdWFejXFgES4NKTtYuhPajZkTi8uv4fci9pUpump",
   "name": "GTA",
   "symbol": "GTA VI",
   "label": "GTA",
   "chain": "Solana",
-  "age": "30m old",
+  "age": "31m old",
   "migratedAt": "2026-11-13T07:44:05.284197Z",
   "pool": "4BMu1xKzJwWMVjYDVKNB2Z4J5RP8GbqkAQy5SMcpQpqG",
   "creator": "6URhFXh2o7VS7vpkNyTo3bGEUcL3GSRGYDFQCzSzUXrv",
   "holders": null,
   "link": "https://fomo.family/coin?address=9W5XqdWFejXFgES4NKTtYuhPajZkTi8uv4fci9pUpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.441e-09,
-  "priceTs": "2026-11-13T08:14:24.474371Z",
+  "price": 1.309e-09,
+  "priceTs": "2026-11-13T08:15:35.457431Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -224,12 +224,20 @@
       "l": 1.441e-09,
       "c": 1.441e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794557700,
+      "o": 1.309e-09,
+      "h": 1.309e-09,
+      "l": 1.309e-09,
+      "c": 1.309e-09,
+      "v": 0.01
     }
   ],
   "stats": {
     "marketCap": 3.0,
-    "liquidity": 4.06,
-    "volume24h": 99.99,
+    "liquidity": 3.88,
+    "volume24h": 100.0,
     "holders": null
   },
   "position": null,
