@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T07:27:17.719290Z",
+  "ts": "2026-11-13T07:28:28.274611Z",
   "mint": "2ooUNQcFZPBFTaGWNCcZRcWY72TbSaAJ1ZTdUSWjpump",
   "name": "ALL IN",
   "symbol": "ALL",
@@ -11,8 +11,8 @@
   "creator": "2t5qNXMCxMJxgcXQ9WM8yf4atj2rwvXZrsNx7y7bGsKn",
   "holders": null,
   "link": "https://fomo.family/coin?address=2ooUNQcFZPBFTaGWNCcZRcWY72TbSaAJ1ZTdUSWjpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.18e-09,
-  "priceTs": "2026-11-13T07:27:17.515814Z",
+  "price": 1.193e-09,
+  "priceTs": "2026-11-13T07:28:28.067986Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -608,12 +608,20 @@
       "l": 1.18e-09,
       "c": 1.18e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794554880,
+      "o": 1.193e-09,
+      "h": 1.193e-09,
+      "l": 1.193e-09,
+      "c": 1.193e-09,
+      "v": 2.46
     }
   ],
   "stats": {
     "marketCap": 2.0,
-    "liquidity": 4.64,
-    "volume24h": 130.57,
+    "liquidity": 4.35,
+    "volume24h": 133.04,
     "holders": null
   },
   "position": null,

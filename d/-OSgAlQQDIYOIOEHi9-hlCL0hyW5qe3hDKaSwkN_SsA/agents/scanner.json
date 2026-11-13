@@ -1,16 +1,40 @@
 {
-  "ts": "2026-11-13T07:27:19.007631Z",
+  "ts": "2026-11-13T07:28:29.494663Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T07:27:17.527706Z",
+  "heartbeat": "2026-11-13T07:28:27.692060Z",
   "paused": false,
   "status": "running",
-  "card": "447 pools",
-  "count": 447,
+  "card": "450 pools",
+  "count": 450,
   "passed": 0,
   "feed": [
+    {
+      "mint": "Aatkj7qDHaat1fs2gMmFQDLdfUzJmVKBjJJEzAK1pump",
+      "label": "AURACOIN",
+      "verdict": "kill",
+      "reason": "liq $9",
+      "subtitle": "liq $9",
+      "link": "https://fomo.family/coin?address=Aatkj7qDHaat1fs2gMmFQDLdfUzJmVKBjJJEzAK1pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "ErqK5g2ES4VN86anNfpeAdkVouqPTW4haDDhgWWHpump",
+      "label": "Mecha Pepe 3000",
+      "verdict": "kill",
+      "reason": "liq $6",
+      "subtitle": "liq $6",
+      "link": "https://fomo.family/coin?address=ErqK5g2ES4VN86anNfpeAdkVouqPTW4haDDhgWWHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "AQYgj12DRwSU2WHfumbDbQWreGrxGXF6J5AzZBdmpump",
+      "label": "buy and forget",
+      "verdict": "kill",
+      "reason": "liq $11.9K",
+      "subtitle": "liq $11.9K",
+      "link": "https://fomo.family/coin?address=AQYgj12DRwSU2WHfumbDbQWreGrxGXF6J5AzZBdmpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "4TuNDgnTP1yrfdWD2A5aVMpiLaXEBSTLRN7aj94Hpump",
       "label": "Looksmax CATE",
@@ -50,35 +74,35 @@
       "reason": "liq $11.8K",
       "subtitle": "liq $11.8K",
       "link": "https://fomo.family/coin?address=GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump",
-      "label": "APPLE",
-      "verdict": "kill",
-      "reason": "liq $24",
-      "subtitle": "liq $24",
-      "link": "https://fomo.family/coin?address=EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "6LKcoavgjvWSk5JakZV3TFbK2j3ykzqxaa8eqbBMpump",
-      "label": "$Ansbull",
-      "verdict": "kill",
-      "reason": "liq $15",
-      "subtitle": "liq $15",
-      "link": "https://fomo.family/coin?address=6LKcoavgjvWSk5JakZV3TFbK2j3ykzqxaa8eqbBMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump",
-      "label": "4chanpad",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T07:28:22.595504Z",
+      "mint": "Aatkj7qDHaat1fs2gMmFQDLdfUzJmVKBjJJEzAK1pump",
+      "label": "AURACOIN",
+      "verdict": "kill",
+      "reason": "liq $9",
+      "link": "https://fomo.family/coin?address=Aatkj7qDHaat1fs2gMmFQDLdfUzJmVKBjJJEzAK1pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T07:28:22.594345Z",
+      "mint": "ErqK5g2ES4VN86anNfpeAdkVouqPTW4haDDhgWWHpump",
+      "label": "Mecha Pepe 3000",
+      "verdict": "kill",
+      "reason": "liq $6",
+      "link": "https://fomo.family/coin?address=ErqK5g2ES4VN86anNfpeAdkVouqPTW4haDDhgWWHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T07:27:35.471940Z",
+      "mint": "AQYgj12DRwSU2WHfumbDbQWreGrxGXF6J5AzZBdmpump",
+      "label": "buy and forget",
+      "verdict": "kill",
+      "reason": "liq $11.9K",
+      "link": "https://fomo.family/coin?address=AQYgj12DRwSU2WHfumbDbQWreGrxGXF6J5AzZBdmpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:25:49.433427Z",
       "mint": "4TuNDgnTP1yrfdWD2A5aVMpiLaXEBSTLRN7aj94Hpump",
       "label": "Looksmax CATE",
@@ -213,34 +237,34 @@
       "verdict": "kill",
       "reason": "liq $1.6K",
       "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:27:41.936305Z",
-      "mint": "CLmsxz3ibZoeRSxaEfVL2cg3ziWNcdpnKANgArjipump",
-      "label": "goku coin",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=CLmsxz3ibZoeRSxaEfVL2cg3ziWNcdpnKANgArjipump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:25:58.748876Z",
-      "mint": "BC9bUeVgnwYwjxzze65wxamRpjJEN1qH2T9rpuqmpump",
-      "label": "APPLE",
-      "verdict": "kill",
-      "reason": "liq $4",
-      "link": "https://fomo.family/coin?address=BC9bUeVgnwYwjxzze65wxamRpjJEN1qH2T9rpuqmpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:25:17.634940Z",
-      "mint": "DEtfFAuEWdyFn9FD8XNME32Ryjga9qWFRew86gz9pump",
-      "label": "DEtfFAuE",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=DEtfFAuEWdyFn9FD8XNME32Ryjga9qWFRew86gz9pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T07:28:22.595504Z",
+      "mint": "Aatkj7qDHaat1fs2gMmFQDLdfUzJmVKBjJJEzAK1pump",
+      "label": "AURACOIN",
+      "verdict": "kill",
+      "reason": "liq $9",
+      "link": "https://fomo.family/coin?address=Aatkj7qDHaat1fs2gMmFQDLdfUzJmVKBjJJEzAK1pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T07:28:22.594345Z",
+      "mint": "ErqK5g2ES4VN86anNfpeAdkVouqPTW4haDDhgWWHpump",
+      "label": "Mecha Pepe 3000",
+      "verdict": "kill",
+      "reason": "liq $6",
+      "link": "https://fomo.family/coin?address=ErqK5g2ES4VN86anNfpeAdkVouqPTW4haDDhgWWHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T07:27:35.471940Z",
+      "mint": "AQYgj12DRwSU2WHfumbDbQWreGrxGXF6J5AzZBdmpump",
+      "label": "buy and forget",
+      "verdict": "kill",
+      "reason": "liq $11.9K",
+      "link": "https://fomo.family/coin?address=AQYgj12DRwSU2WHfumbDbQWreGrxGXF6J5AzZBdmpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:25:49.433427Z",
       "mint": "4TuNDgnTP1yrfdWD2A5aVMpiLaXEBSTLRN7aj94Hpump",
       "label": "Looksmax CATE",
@@ -375,30 +399,6 @@
       "verdict": "kill",
       "reason": "liq $1.6K",
       "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:27:41.936305Z",
-      "mint": "CLmsxz3ibZoeRSxaEfVL2cg3ziWNcdpnKANgArjipump",
-      "label": "goku coin",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=CLmsxz3ibZoeRSxaEfVL2cg3ziWNcdpnKANgArjipump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:25:58.748876Z",
-      "mint": "BC9bUeVgnwYwjxzze65wxamRpjJEN1qH2T9rpuqmpump",
-      "label": "APPLE",
-      "verdict": "kill",
-      "reason": "liq $4",
-      "link": "https://fomo.family/coin?address=BC9bUeVgnwYwjxzze65wxamRpjJEN1qH2T9rpuqmpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:25:17.634940Z",
-      "mint": "DEtfFAuEWdyFn9FD8XNME32Ryjga9qWFRew86gz9pump",
-      "label": "DEtfFAuE",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=DEtfFAuEWdyFn9FD8XNME32Ryjga9qWFRew86gz9pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
