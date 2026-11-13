@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T07:02:49.195795Z",
+  "ts": "2026-11-13T07:03:59.496689Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T07:02:46.994546Z",
+  "heartbeat": "2026-11-13T07:03:57.758936Z",
   "paused": false,
   "status": "running",
-  "card": "441 pools",
-  "count": 441,
+  "card": "442 pools",
+  "count": 442,
   "passed": 0,
   "feed": [
+    {
+      "mint": "EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump",
+      "label": "APPLE",
+      "verdict": "kill",
+      "reason": "liq $24",
+      "subtitle": "liq $24",
+      "link": "https://fomo.family/coin?address=EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "6LKcoavgjvWSk5JakZV3TFbK2j3ykzqxaa8eqbBMpump",
       "label": "$Ansbull",
@@ -66,19 +74,19 @@
       "reason": "liq $4",
       "subtitle": "liq $4",
       "link": "https://fomo.family/coin?address=7L1hABSHh6GofDqVhFtMPFhW5K2sHQ9UQrp6SC8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump",
-      "label": "Max coin",
-      "verdict": "kill",
-      "reason": "liq $1.4K",
-      "subtitle": "liq $1.4K",
-      "link": "https://fomo.family/coin?address=GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T07:03:06.605005Z",
+      "mint": "EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump",
+      "label": "APPLE",
+      "verdict": "kill",
+      "reason": "liq $24",
+      "link": "https://fomo.family/coin?address=EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:02:37.823074Z",
       "mint": "6LKcoavgjvWSk5JakZV3TFbK2j3ykzqxaa8eqbBMpump",
       "label": "$Ansbull",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=9PafCN69CoEShD58NSnftynTEmbeGUXpdicW7ehVpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:17:44.858120Z",
-      "mint": "HMeUhWCSjvbP5jiZJWXMiHAavvaG5i36UmRdcCftpump",
-      "label": "banana bread",
-      "verdict": "kill",
-      "reason": "liq $26",
-      "link": "https://fomo.family/coin?address=HMeUhWCSjvbP5jiZJWXMiHAavvaG5i36UmRdcCftpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T07:03:06.605005Z",
+      "mint": "EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump",
+      "label": "APPLE",
+      "verdict": "kill",
+      "reason": "liq $24",
+      "link": "https://fomo.family/coin?address=EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:02:37.823074Z",
       "mint": "6LKcoavgjvWSk5JakZV3TFbK2j3ykzqxaa8eqbBMpump",
       "label": "$Ansbull",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=9PafCN69CoEShD58NSnftynTEmbeGUXpdicW7ehVpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:17:44.858120Z",
-      "mint": "HMeUhWCSjvbP5jiZJWXMiHAavvaG5i36UmRdcCftpump",
-      "label": "banana bread",
-      "verdict": "kill",
-      "reason": "liq $26",
-      "link": "https://fomo.family/coin?address=HMeUhWCSjvbP5jiZJWXMiHAavvaG5i36UmRdcCftpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
