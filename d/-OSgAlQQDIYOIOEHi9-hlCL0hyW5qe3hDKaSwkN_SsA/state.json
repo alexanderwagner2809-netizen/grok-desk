@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T20:16:47.214526Z",
+  "ts": "2026-11-13T20:17:58.582669Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-13T20:16:46.182849Z",
+      "heartbeat": "2026-11-13T20:17:57.554705Z",
       "paused": false,
       "status": "running",
-      "card": "567 pools",
-      "count": 567,
+      "card": "569 pools",
+      "count": 569,
       "passed": 0,
       "feed": [
+        {
+          "mint": "EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt",
+          "label": "Cult",
+          "verdict": "kill",
+          "reason": "liq $3.3K",
+          "subtitle": "liq $3.3K",
+          "link": "https://fomo.family/coin?address=EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "2wt4B6hskQxSEPevuoxTwSoJPv3R7xqRYoCkXUkNpump",
+          "label": "Solana Inu",
+          "verdict": "kill",
+          "reason": "liq $15.3K",
+          "subtitle": "liq $15.3K",
+          "link": "https://fomo.family/coin?address=2wt4B6hskQxSEPevuoxTwSoJPv3R7xqRYoCkXUkNpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "5E6UjGDbuvquFnkvuuyaxFXwKKe4BaLzgxLEiHnTpump",
           "label": "DISCO",
@@ -66,22 +82,6 @@
           "reason": "liq $12.4K",
           "subtitle": "liq $12.4K",
           "link": "https://fomo.family/coin?address=BPoGXKyvgtVFW5UBwUDE97nyUEefYDbMScHPfzhZpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "AEiq5qgDmHbbmCvoGYfrxkFLivcnst4BUsXhqbyepump",
-          "label": "Greatest Memecoin Ever",
-          "verdict": "kill",
-          "reason": "liq $19.2K",
-          "subtitle": "liq $19.2K",
-          "link": "https://fomo.family/coin?address=AEiq5qgDmHbbmCvoGYfrxkFLivcnst4BUsXhqbyepump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "bSU2Zy75MJiF25Y1VcV9ARhJv2hfai9w38vW1q6pump",
-          "label": "Fede The Flamingo",
-          "verdict": "kill",
-          "reason": "liq $17.4K",
-          "subtitle": "liq $17.4K",
-          "link": "https://fomo.family/coin?address=bSU2Zy75MJiF25Y1VcV9ARhJv2hfai9w38vW1q6pump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-13T20:16:45.412988Z",
+      "heartbeat": "2026-11-13T20:17:56.885010Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-13T20:16:45.414560Z",
+      "heartbeat": "2026-11-13T20:17:56.886063Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-13T20:16:45.414727Z",
+      "heartbeat": "2026-11-13T20:17:56.886187Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-13T20:16:33.054744Z",
+      "heartbeat": "2026-11-13T20:17:48.803658Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T20:17:58.588751Z",
+  "mint": "EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt",
+  "name": "Cult",
+  "symbol": "CULT",
+  "label": "Cult",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-13T20:17:24.171545Z",
+  "pool": "DQXrxhqMVUzGQfRnyHgrnM4BeYgS6VCE34zmvfMkB3ee",
+  "creator": "HpcU9jgwvRsTDTmbEYa1ZUUYWvN68HAqM3NENjm3fJXY",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.756e-06,
+  "priceTs": "2026-11-13T20:17:58.114327Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794601020,
+      "o": 3.369e-06,
+      "h": 3.756e-06,
+      "l": 3.369e-06,
+      "c": 3.756e-06,
+      "v": 20.43
+    }
+  ],
+  "stats": {
+    "marketCap": 3605.0,
+    "liquidity": 3595.77,
+    "volume24h": 411.94,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T20:17:24.528899Z",
+      "liquidity_usd": 3303.75,
+      "top10_pct": null,
+      "h1_change_pct": 14.58,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $3.3K"
+    }
+  ]
+}

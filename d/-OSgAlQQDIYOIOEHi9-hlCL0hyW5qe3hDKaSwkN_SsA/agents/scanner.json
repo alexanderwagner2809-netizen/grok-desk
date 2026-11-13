@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-13T20:16:48.784272Z",
+  "ts": "2026-11-13T20:18:00.163272Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T20:16:46.182849Z",
+  "heartbeat": "2026-11-13T20:17:57.554705Z",
   "paused": false,
   "status": "running",
-  "card": "567 pools",
-  "count": 567,
+  "card": "569 pools",
+  "count": 569,
   "passed": 0,
   "feed": [
+    {
+      "mint": "EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt",
+      "label": "Cult",
+      "verdict": "kill",
+      "reason": "liq $3.3K",
+      "subtitle": "liq $3.3K",
+      "link": "https://fomo.family/coin?address=EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "2wt4B6hskQxSEPevuoxTwSoJPv3R7xqRYoCkXUkNpump",
+      "label": "Solana Inu",
+      "verdict": "kill",
+      "reason": "liq $15.3K",
+      "subtitle": "liq $15.3K",
+      "link": "https://fomo.family/coin?address=2wt4B6hskQxSEPevuoxTwSoJPv3R7xqRYoCkXUkNpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "5E6UjGDbuvquFnkvuuyaxFXwKKe4BaLzgxLEiHnTpump",
       "label": "DISCO",
@@ -58,27 +74,27 @@
       "reason": "liq $12.4K",
       "subtitle": "liq $12.4K",
       "link": "https://fomo.family/coin?address=BPoGXKyvgtVFW5UBwUDE97nyUEefYDbMScHPfzhZpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "AEiq5qgDmHbbmCvoGYfrxkFLivcnst4BUsXhqbyepump",
-      "label": "Greatest Memecoin Ever",
-      "verdict": "kill",
-      "reason": "liq $19.2K",
-      "subtitle": "liq $19.2K",
-      "link": "https://fomo.family/coin?address=AEiq5qgDmHbbmCvoGYfrxkFLivcnst4BUsXhqbyepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "bSU2Zy75MJiF25Y1VcV9ARhJv2hfai9w38vW1q6pump",
-      "label": "Fede The Flamingo",
-      "verdict": "kill",
-      "reason": "liq $17.4K",
-      "subtitle": "liq $17.4K",
-      "link": "https://fomo.family/coin?address=bSU2Zy75MJiF25Y1VcV9ARhJv2hfai9w38vW1q6pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T20:17:24.528899Z",
+      "mint": "EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt",
+      "label": "Cult",
+      "verdict": "kill",
+      "reason": "liq $3.3K",
+      "link": "https://fomo.family/coin?address=EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T20:17:11.389441Z",
+      "mint": "2wt4B6hskQxSEPevuoxTwSoJPv3R7xqRYoCkXUkNpump",
+      "label": "Solana Inu",
+      "verdict": "kill",
+      "reason": "liq $15.3K",
+      "link": "https://fomo.family/coin?address=2wt4B6hskQxSEPevuoxTwSoJPv3R7xqRYoCkXUkNpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T20:14:50.488343Z",
       "mint": "5E6UjGDbuvquFnkvuuyaxFXwKKe4BaLzgxLEiHnTpump",
       "label": "DISCO",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=Hidkn2P7CSt2nM28f585mUs6DQB7LvGjGB3PjvqTpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T19:51:07.091321Z",
-      "mint": "CD7ZmfdkA7noZ3cB8kk1qyUS9uiWWr2AikcJdF4npump",
-      "label": "Daniela The Immigrant",
-      "verdict": "kill",
-      "reason": "liq $11.4K",
-      "link": "https://fomo.family/coin?address=CD7ZmfdkA7noZ3cB8kk1qyUS9uiWWr2AikcJdF4npump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T19:49:22.822161Z",
-      "mint": "Cnvorma84PSJQKHkoVbjAN4ibziFKdWUJnXB6bzZpump",
-      "label": "The Bull",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=Cnvorma84PSJQKHkoVbjAN4ibziFKdWUJnXB6bzZpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T20:17:24.528899Z",
+      "mint": "EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt",
+      "label": "Cult",
+      "verdict": "kill",
+      "reason": "liq $3.3K",
+      "link": "https://fomo.family/coin?address=EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T20:17:11.389441Z",
+      "mint": "2wt4B6hskQxSEPevuoxTwSoJPv3R7xqRYoCkXUkNpump",
+      "label": "Solana Inu",
+      "verdict": "kill",
+      "reason": "liq $15.3K",
+      "link": "https://fomo.family/coin?address=2wt4B6hskQxSEPevuoxTwSoJPv3R7xqRYoCkXUkNpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T20:14:50.488343Z",
       "mint": "5E6UjGDbuvquFnkvuuyaxFXwKKe4BaLzgxLEiHnTpump",
       "label": "DISCO",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=Hidkn2P7CSt2nM28f585mUs6DQB7LvGjGB3PjvqTpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T19:51:07.091321Z",
-      "mint": "CD7ZmfdkA7noZ3cB8kk1qyUS9uiWWr2AikcJdF4npump",
-      "label": "Daniela The Immigrant",
-      "verdict": "kill",
-      "reason": "liq $11.4K",
-      "link": "https://fomo.family/coin?address=CD7ZmfdkA7noZ3cB8kk1qyUS9uiWWr2AikcJdF4npump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T19:49:22.822161Z",
-      "mint": "Cnvorma84PSJQKHkoVbjAN4ibziFKdWUJnXB6bzZpump",
-      "label": "The Bull",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=Cnvorma84PSJQKHkoVbjAN4ibziFKdWUJnXB6bzZpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
