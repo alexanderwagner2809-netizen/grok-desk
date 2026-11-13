@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T20:09:38.119795Z",
+  "ts": "2026-11-13T20:10:50.024252Z",
   "mint": "HcJGYDM5bS19fDSMUHNcH6wKP68kmHksNmXsTW2Wpump",
   "name": "Togo",
   "symbol": "TOGO",
   "label": "Togo",
   "chain": "Solana",
-  "age": "4m old",
+  "age": "5m old",
   "migratedAt": "2026-11-13T20:05:23.860632Z",
   "pool": "AeV3q7n6bHcSmWuf4vfKSTPtWbn59y5wNnqLQCvNwnaF",
   "creator": "DT1Lmy92SFarJzbixW9x2FyaP3K1UyHrGUjyJfJTaVHZ",
   "holders": null,
   "link": "https://fomo.family/coin?address=HcJGYDM5bS19fDSMUHNcH6wKP68kmHksNmXsTW2Wpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001575,
-  "priceTs": "2026-11-13T20:09:37.756420Z",
+  "price": 0.0001342,
+  "priceTs": "2026-11-13T20:10:49.705760Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -48,12 +48,20 @@
       "l": 0.0001575,
       "c": 0.0001575,
       "v": 24280.869999999995
+    },
+    {
+      "t": 1794600600,
+      "o": 0.0001342,
+      "h": 0.0001342,
+      "l": 0.0001342,
+      "c": 0.0001342,
+      "v": 19121.380000000005
     }
   ],
   "stats": {
-    "marketCap": 157426.0,
-    "liquidity": 28634.88,
-    "volume24h": 73086.7,
+    "marketCap": 134197.0,
+    "liquidity": 26542.24,
+    "volume24h": 102094.05,
     "holders": null
   },
   "position": null,

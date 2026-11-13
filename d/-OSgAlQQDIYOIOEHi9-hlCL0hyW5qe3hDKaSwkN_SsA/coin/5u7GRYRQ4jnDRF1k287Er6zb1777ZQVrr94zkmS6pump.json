@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T20:09:38.153262Z",
+  "ts": "2026-11-13T20:10:50.055934Z",
   "mint": "5u7GRYRQ4jnDRF1k287Er6zb1777ZQVrr94zkmS6pump",
   "name": "Wokerea",
   "symbol": "Wokerea",
@@ -11,8 +11,8 @@
   "creator": "FPCqMigMh4m6fWJ9SuJAnpKD4pLxrvhpAT7137ATo7vs",
   "holders": null,
   "link": "https://fomo.family/coin?address=5u7GRYRQ4jnDRF1k287Er6zb1777ZQVrr94zkmS6pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.596e-06,
-  "priceTs": "2026-11-13T20:09:37.889133Z",
+  "price": 3.641e-06,
+  "priceTs": "2026-11-13T20:10:49.845782Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -400,12 +400,20 @@
       "l": 3.596e-06,
       "c": 3.596e-06,
       "v": 100.63
+    },
+    {
+      "t": 1794600600,
+      "o": 3.641e-06,
+      "h": 3.641e-06,
+      "l": 3.641e-06,
+      "c": 3.641e-06,
+      "v": 4.13000000000001
     }
   ],
   "stats": {
-    "marketCap": 3368.0,
-    "liquidity": 3112.3,
-    "volume24h": 119262.06,
+    "marketCap": 3411.0,
+    "liquidity": 3140.9,
+    "volume24h": 119266.2,
     "holders": null
   },
   "position": null,
