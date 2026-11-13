@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T11:31:50.495072Z",
+  "ts": "2026-11-13T11:33:00.145501Z",
   "mint": "GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump",
-  "name": null,
-  "symbol": null,
-  "label": "GFKUWxJe",
+  "name": "DERPCAT",
+  "symbol": "DERP",
+  "label": "DERPCAT",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T11:31:22.982667Z",
-  "pool": null,
+  "pool": "3dM2aAsVRM5zJcEoerWcvQpQcxYNqmDASmdsc86zfiK1",
   "creator": "DNsHNtg8RrVyyXrthmHzuoi1czhAbYMNs7NCvFt8GEu3",
   "holders": null,
   "link": "https://fomo.family/coin?address=GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.919e-08,
+  "priceTs": "2026-11-13T11:32:59.892534Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794569460,
+      "o": 4.607e-06,
+      "h": 4.607e-06,
+      "l": 4.607e-06,
+      "c": 4.607e-06,
+      "v": 0.0
+    },
+    {
+      "t": 1794569520,
+      "o": 3.919e-08,
+      "h": 3.919e-08,
+      "l": 3.919e-08,
+      "c": 3.919e-08,
+      "v": 9166.429999999998
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 78.0,
+    "liquidity": 147.65,
+    "volume24h": 9447.05,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T11:31:53.970033Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 130.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }

@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T11:31:50.773171Z",
+  "ts": "2026-11-13T11:33:01.642279Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T11:31:48.927923Z",
+  "heartbeat": "2026-11-13T11:32:59.937064Z",
   "paused": false,
   "status": "running",
-  "card": "521 pools",
-  "count": 521,
+  "card": "522 pools",
+  "count": 522,
   "passed": 0,
   "feed": [
+    {
+      "mint": "GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump",
+      "label": "DERPCAT",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "3FhxQhUnU5XWpBf4wBvnaCis7aVq33rEcSJDXoT3pump",
       "label": "PUMP FARM",
@@ -66,19 +74,19 @@
       "reason": "liq $9",
       "subtitle": "liq $9",
       "link": "https://fomo.family/coin?address=98nXyGXUX6T7364SBJ5vJAAixgF6Rxrc4StoHHTopump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5M1yNWHeAxjWkFCkgPy9Scgayan24mumH7vx1TPDpump",
-      "label": "Doomed Rocket",
-      "verdict": "kill",
-      "reason": "liq $4",
-      "subtitle": "liq $4",
-      "link": "https://fomo.family/coin?address=5M1yNWHeAxjWkFCkgPy9Scgayan24mumH7vx1TPDpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T11:31:53.970033Z",
+      "mint": "GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump",
+      "label": "DERPCAT",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T11:31:08.035948Z",
       "mint": "3FhxQhUnU5XWpBf4wBvnaCis7aVq33rEcSJDXoT3pump",
       "label": "PUMP FARM",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $11.7K",
       "link": "https://fomo.family/coin?address=6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:39:00.771078Z",
-      "mint": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
-      "label": "he1iusmf",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T11:31:53.970033Z",
+      "mint": "GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump",
+      "label": "DERPCAT",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T11:31:08.035948Z",
       "mint": "3FhxQhUnU5XWpBf4wBvnaCis7aVq33rEcSJDXoT3pump",
       "label": "PUMP FARM",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $11.7K",
       "link": "https://fomo.family/coin?address=6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:39:00.771078Z",
-      "mint": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
-      "label": "he1iusmf",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
