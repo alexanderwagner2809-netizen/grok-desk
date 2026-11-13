@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-13T07:53:13.898215Z",
+  "ts": "2026-11-13T07:54:24.655858Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T07:53:11.614549Z",
+  "heartbeat": "2026-11-13T07:54:22.963529Z",
   "paused": false,
   "status": "running",
-  "card": "459 pools",
-  "count": 459,
+  "card": "461 pools",
+  "count": 461,
   "passed": 0,
   "feed": [
+    {
+      "mint": "4bV59bUWHCqBgerEQYzHPbX4SPCL2douS2SpHPz4pump",
+      "label": "DEGEN KING",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=4bV59bUWHCqBgerEQYzHPbX4SPCL2douS2SpHPz4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "cuQhcWLpVL1t4Kjn5G5TGokVnZxdLEmSotLN5EEpump",
+      "label": "ultra positive",
+      "verdict": "kill",
+      "reason": "liq $2",
+      "subtitle": "liq $2",
+      "link": "https://fomo.family/coin?address=cuQhcWLpVL1t4Kjn5G5TGokVnZxdLEmSotLN5EEpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump",
       "label": "Rockstar Games",
@@ -58,27 +74,27 @@
       "reason": "liq $9.9K",
       "subtitle": "liq $9.9K",
       "link": "https://fomo.family/coin?address=85SVu9JSmXBER6WP3SEVh4wBq6DtPgGHCZqzngeWpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump",
-      "label": "The Drunk Raccoon",
-      "verdict": "kill",
-      "reason": "liq $11.5K",
-      "subtitle": "liq $11.5K",
-      "link": "https://fomo.family/coin?address=3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EQVHqWcxMQ66s6Cm6Cj6Q8AKYixZiBxEPC5m3qm6pump",
-      "label": "JENOVA",
-      "verdict": "kill",
-      "reason": "liq $12.5K",
-      "subtitle": "liq $12.5K",
-      "link": "https://fomo.family/coin?address=EQVHqWcxMQ66s6Cm6Cj6Q8AKYixZiBxEPC5m3qm6pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T07:54:10.920808Z",
+      "mint": "4bV59bUWHCqBgerEQYzHPbX4SPCL2douS2SpHPz4pump",
+      "label": "DEGEN KING",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=4bV59bUWHCqBgerEQYzHPbX4SPCL2douS2SpHPz4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T07:54:10.919446Z",
+      "mint": "cuQhcWLpVL1t4Kjn5G5TGokVnZxdLEmSotLN5EEpump",
+      "label": "ultra positive",
+      "verdict": "kill",
+      "reason": "liq $2",
+      "link": "https://fomo.family/coin?address=cuQhcWLpVL1t4Kjn5G5TGokVnZxdLEmSotLN5EEpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:52:52.473887Z",
       "mint": "GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump",
       "label": "Rockstar Games",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $24",
       "link": "https://fomo.family/coin?address=EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T07:02:37.823074Z",
-      "mint": "6LKcoavgjvWSk5JakZV3TFbK2j3ykzqxaa8eqbBMpump",
-      "label": "$Ansbull",
-      "verdict": "kill",
-      "reason": "liq $15",
-      "link": "https://fomo.family/coin?address=6LKcoavgjvWSk5JakZV3TFbK2j3ykzqxaa8eqbBMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:50:45.206880Z",
-      "mint": "Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump",
-      "label": "4chanpad",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T07:54:10.920808Z",
+      "mint": "4bV59bUWHCqBgerEQYzHPbX4SPCL2douS2SpHPz4pump",
+      "label": "DEGEN KING",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=4bV59bUWHCqBgerEQYzHPbX4SPCL2douS2SpHPz4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T07:54:10.919446Z",
+      "mint": "cuQhcWLpVL1t4Kjn5G5TGokVnZxdLEmSotLN5EEpump",
+      "label": "ultra positive",
+      "verdict": "kill",
+      "reason": "liq $2",
+      "link": "https://fomo.family/coin?address=cuQhcWLpVL1t4Kjn5G5TGokVnZxdLEmSotLN5EEpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:52:52.473887Z",
       "mint": "GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump",
       "label": "Rockstar Games",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $24",
       "link": "https://fomo.family/coin?address=EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T07:02:37.823074Z",
-      "mint": "6LKcoavgjvWSk5JakZV3TFbK2j3ykzqxaa8eqbBMpump",
-      "label": "$Ansbull",
-      "verdict": "kill",
-      "reason": "liq $15",
-      "link": "https://fomo.family/coin?address=6LKcoavgjvWSk5JakZV3TFbK2j3ykzqxaa8eqbBMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:50:45.206880Z",
-      "mint": "Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump",
-      "label": "4chanpad",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T07:53:12.593609Z",
+  "ts": "2026-11-13T07:54:23.261452Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-13T07:53:11.614549Z",
+      "heartbeat": "2026-11-13T07:54:22.963529Z",
       "paused": false,
       "status": "running",
-      "card": "459 pools",
-      "count": 459,
+      "card": "461 pools",
+      "count": 461,
       "passed": 0,
       "feed": [
+        {
+          "mint": "4bV59bUWHCqBgerEQYzHPbX4SPCL2douS2SpHPz4pump",
+          "label": "DEGEN KING",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=4bV59bUWHCqBgerEQYzHPbX4SPCL2douS2SpHPz4pump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "cuQhcWLpVL1t4Kjn5G5TGokVnZxdLEmSotLN5EEpump",
+          "label": "ultra positive",
+          "verdict": "kill",
+          "reason": "liq $2",
+          "subtitle": "liq $2",
+          "link": "https://fomo.family/coin?address=cuQhcWLpVL1t4Kjn5G5TGokVnZxdLEmSotLN5EEpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump",
           "label": "Rockstar Games",
@@ -66,22 +82,6 @@
           "reason": "liq $9.9K",
           "subtitle": "liq $9.9K",
           "link": "https://fomo.family/coin?address=85SVu9JSmXBER6WP3SEVh4wBq6DtPgGHCZqzngeWpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump",
-          "label": "The Drunk Raccoon",
-          "verdict": "kill",
-          "reason": "liq $11.5K",
-          "subtitle": "liq $11.5K",
-          "link": "https://fomo.family/coin?address=3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "EQVHqWcxMQ66s6Cm6Cj6Q8AKYixZiBxEPC5m3qm6pump",
-          "label": "JENOVA",
-          "verdict": "kill",
-          "reason": "liq $12.5K",
-          "subtitle": "liq $12.5K",
-          "link": "https://fomo.family/coin?address=EQVHqWcxMQ66s6Cm6Cj6Q8AKYixZiBxEPC5m3qm6pump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-13T07:53:11.399554Z",
+      "heartbeat": "2026-11-13T07:54:21.990083Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-13T07:53:11.401743Z",
+      "heartbeat": "2026-11-13T07:54:21.990747Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-13T07:53:11.402978Z",
+      "heartbeat": "2026-11-13T07:54:21.990899Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-13T07:53:07.603835Z",
+      "heartbeat": "2026-11-13T07:54:22.624400Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

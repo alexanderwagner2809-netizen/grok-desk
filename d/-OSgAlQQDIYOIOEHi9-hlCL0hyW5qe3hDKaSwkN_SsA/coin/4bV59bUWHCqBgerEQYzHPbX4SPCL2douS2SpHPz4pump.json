@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T07:54:23.268153Z",
+  "mint": "4bV59bUWHCqBgerEQYzHPbX4SPCL2douS2SpHPz4pump",
+  "name": "DEGEN KING",
+  "symbol": "DEGEN",
+  "label": "DEGEN KING",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-13T07:53:40.104292Z",
+  "pool": "2d8J9kK7MRU3AdWz1aYh14XdnKtehqzdL3mXBC31LAvc",
+  "creator": "7FVfSdnR9VPGjMtmBP1Hz9C2DFTpoNX8gVVRmnimnGt9",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=4bV59bUWHCqBgerEQYzHPbX4SPCL2douS2SpHPz4pump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.51e-08,
+  "priceTs": "2026-11-13T07:54:23.006738Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794556440,
+      "o": 3.51e-08,
+      "h": 3.51e-08,
+      "l": 3.51e-08,
+      "c": 3.51e-08,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 70.0,
+    "liquidity": 17.99,
+    "volume24h": 35.72,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T07:54:10.920808Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -28.46,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
