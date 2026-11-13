@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T11:27:05.484623Z",
+  "ts": "2026-11-13T11:28:15.774813Z",
   "mint": "7bKQHk8y8EbLGM8c79GbjgHSXDbG4nYmJE8EprYspump",
-  "name": null,
-  "symbol": null,
-  "label": "7bKQHk8y",
+  "name": "🍌 BANANA WIZARD",
+  "symbol": "$BWIZ",
+  "label": "🍌 BANANA WIZARD",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T11:26:43.644290Z",
-  "pool": null,
+  "pool": "2KnXwQuzEUPcyBX27enEhVoVLutmdxZNphc2pNPNqLYJ",
   "creator": "K6Eh9fwKkrhVNq6SpRtJn7F4Myi3HUst5QP8x5BKHnR",
   "holders": null,
   "link": "https://fomo.family/coin?address=7bKQHk8y8EbLGM8c79GbjgHSXDbG4nYmJE8EprYspump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 6.794e-07,
+  "priceTs": "2026-11-13T11:28:15.478901Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794569220,
+      "o": 5.573e-07,
+      "h": 5.573e-07,
+      "l": 5.573e-07,
+      "c": 5.573e-07,
+      "v": 0.0
+    },
+    {
+      "t": 1794569280,
+      "o": 6.794e-07,
+      "h": 6.794e-07,
+      "l": 6.794e-07,
+      "c": 6.794e-07,
+      "v": 2628.0
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 1359.0,
+    "liquidity": 844.05,
+    "volume24h": 5654.96,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T11:27:44.629805Z",
+      "liquidity_usd": 333.3,
+      "top10_pct": null,
+      "h1_change_pct": -45.74,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $333"
+    }
+  ]
 }
