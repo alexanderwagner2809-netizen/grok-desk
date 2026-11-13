@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T07:56:44.671972Z",
+  "ts": "2026-11-13T07:57:55.254859Z",
   "mint": "ByCUjGx4FkhK7ac8Vdqzb41yScUtvG78GBYSXKsMpump",
   "name": "don't care anymore",
   "symbol": "dca",
@@ -11,8 +11,8 @@
   "creator": "GjbmxmVohwxUAWu43zbGGfTSxMjeaGba7SUHnkcPhjgw",
   "holders": null,
   "link": "https://fomo.family/coin?address=ByCUjGx4FkhK7ac8Vdqzb41yScUtvG78GBYSXKsMpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.934e-05,
-  "priceTs": "2026-11-13T07:56:44.577040Z",
+  "price": 5.375e-05,
+  "priceTs": "2026-11-13T07:57:55.156846Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -880,12 +880,20 @@
       "l": 4.934e-05,
       "c": 4.934e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794556620,
+      "o": 5.375e-05,
+      "h": 5.375e-05,
+      "l": 5.375e-05,
+      "c": 5.375e-05,
+      "v": 343.57000000000005
     }
   ],
   "stats": {
-    "marketCap": 45418.0,
-    "liquidity": 16423.9,
-    "volume24h": 870542.68,
+    "marketCap": 49478.0,
+    "liquidity": 17196.67,
+    "volume24h": 870889.89,
     "holders": null
   },
   "position": null,
