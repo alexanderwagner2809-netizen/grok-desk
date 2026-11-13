@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T09:24:03.185230Z",
+  "ts": "2026-11-13T09:25:13.292296Z",
   "mint": "LaZV2Qz2mzRVwN6xGcZJkG76ziquRmSU2TBy4gxpump",
   "name": "Autism Coin",
   "symbol": "AUTISM",
@@ -11,8 +11,8 @@
   "creator": "HEX3ywCdVECyvv4zNE8xTbUAU5tb6yuFzSUc2VEdW2ke",
   "holders": null,
   "link": "https://fomo.family/coin?address=LaZV2Qz2mzRVwN6xGcZJkG76ziquRmSU2TBy4gxpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.981e-05,
-  "priceTs": "2026-11-13T09:24:03.023193Z",
+  "price": 2.933e-05,
+  "priceTs": "2026-11-13T09:25:13.173820Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1160,12 +1160,20 @@
       "l": 2.981e-05,
       "c": 2.981e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794561900,
+      "o": 2.933e-05,
+      "h": 2.933e-05,
+      "l": 2.933e-05,
+      "c": 2.933e-05,
+      "v": 122.18000000000006
     }
   ],
   "stats": {
-    "marketCap": 28721.0,
-    "liquidity": 12819.17,
-    "volume24h": 1232224.87,
+    "marketCap": 28263.0,
+    "liquidity": 12708.31,
+    "volume24h": 1232375.65,
     "holders": null
   },
   "position": null,
