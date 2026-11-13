@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T20:06:04.892431Z",
+  "ts": "2026-11-13T20:07:15.201293Z",
   "mint": "HcJGYDM5bS19fDSMUHNcH6wKP68kmHksNmXsTW2Wpump",
-  "name": null,
-  "symbol": null,
-  "label": "HcJGYDM5",
+  "name": "Togo",
+  "symbol": "TOGO",
+  "label": "Togo",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T20:05:23.860632Z",
-  "pool": null,
+  "pool": "AeV3q7n6bHcSmWuf4vfKSTPtWbn59y5wNnqLQCvNwnaF",
   "creator": "DT1Lmy92SFarJzbixW9x2FyaP3K1UyHrGUjyJfJTaVHZ",
   "holders": null,
   "link": "https://fomo.family/coin?address=HcJGYDM5bS19fDSMUHNcH6wKP68kmHksNmXsTW2Wpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 8.336e-05,
+  "priceTs": "2026-11-13T20:07:14.913953Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794600360,
+      "o": 9.852e-05,
+      "h": 9.852e-05,
+      "l": 9.852e-05,
+      "c": 9.852e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794600420,
+      "o": 8.336e-05,
+      "h": 8.336e-05,
+      "l": 8.336e-05,
+      "c": 8.336e-05,
+      "v": 26864.33
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 83321.0,
+    "liquidity": 20412.31,
+    "volume24h": 31769.65,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T20:06:24.500251Z",
+      "liquidity_usd": 22239.51,
+      "top10_pct": null,
+      "h1_change_pct": 145.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "+145% in 1h"
+    }
+  ]
 }
