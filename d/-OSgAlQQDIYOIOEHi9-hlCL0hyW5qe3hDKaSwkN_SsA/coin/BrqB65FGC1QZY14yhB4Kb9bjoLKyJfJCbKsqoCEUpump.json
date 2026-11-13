@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-13T20:27:31.257666Z",
+  "mint": "BrqB65FGC1QZY14yhB4Kb9bjoLKyJfJCbKsqoCEUpump",
+  "name": "Probably Nothing",
+  "symbol": "PROB",
+  "label": "Probably Nothing",
+  "chain": "Solana",
+  "age": "2m old",
+  "migratedAt": "2026-11-13T20:25:15.012523Z",
+  "pool": "BRwcadQHt6ALr8VmQmEv45Tyb9wFKaLHiC4mVV5vLdH1",
+  "creator": "4V9rPaF6poBdoMgczEtG9a9TJUj3FkrhgLLhWeusGQok",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=BrqB65FGC1QZY14yhB4Kb9bjoLKyJfJCbKsqoCEUpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 6.026e-05,
+  "priceTs": "2026-11-13T20:27:30.960353Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794601500,
+      "o": 3.765e-05,
+      "h": 3.765e-05,
+      "l": 3.765e-05,
+      "c": 3.765e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794601620,
+      "o": 6.026e-05,
+      "h": 6.026e-05,
+      "l": 6.026e-05,
+      "c": 6.026e-05,
+      "v": 51182.15
+    }
+  ],
+  "stats": {
+    "marketCap": 60262.0,
+    "liquidity": 17383.87,
+    "volume24h": 54832.79,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T20:25:45.985288Z",
+      "liquidity_usd": 13189.37,
+      "top10_pct": null,
+      "h1_change_pct": 12.88,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $13.2K"
+    }
+  ]
+}

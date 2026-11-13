@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T20:25:08.410228Z",
+  "ts": "2026-11-13T20:27:31.269513Z",
   "mint": "GcgdY59EMCYm9ChQeAJmWChYGMLE7jF8YYYec89ypump",
   "name": "buckme",
   "symbol": "b",
   "label": "buckme",
   "chain": "Solana",
-  "age": "28m old",
+  "age": "31m old",
   "migratedAt": "2026-11-13T19:56:15.232399Z",
   "pool": "DqibqE5zo45Xyp7vJjHi9eGSHp2tvSwisXkBv9BvGBWW",
   "creator": "F55uSK8dQZ4vRX2YSP2mxyjMk4fE14q2xtmgZT2taPNE",
   "holders": null,
   "link": "https://fomo.family/coin?address=GcgdY59EMCYm9ChQeAJmWChYGMLE7jF8YYYec89ypump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.558e-06,
-  "priceTs": "2026-11-13T20:25:08.104855Z",
+  "price": 6.324e-06,
+  "priceTs": "2026-11-13T20:27:30.960353Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -208,12 +208,20 @@
       "l": 6.558e-06,
       "c": 6.558e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794601620,
+      "o": 6.324e-06,
+      "h": 6.324e-06,
+      "l": 6.324e-06,
+      "c": 6.324e-06,
+      "v": 195.52000000000004
     }
   ],
   "stats": {
-    "marketCap": 6548.0,
-    "liquidity": 5310.27,
-    "volume24h": 130373.5,
+    "marketCap": 6314.0,
+    "liquidity": 5182.23,
+    "volume24h": 130711.63,
     "holders": null
   },
   "position": null,
