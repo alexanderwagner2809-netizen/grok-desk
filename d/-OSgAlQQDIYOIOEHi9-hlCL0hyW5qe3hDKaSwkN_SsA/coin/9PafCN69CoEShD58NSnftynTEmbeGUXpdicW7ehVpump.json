@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T06:20:43.925124Z",
+  "ts": "2026-11-13T06:21:53.823916Z",
   "mint": "9PafCN69CoEShD58NSnftynTEmbeGUXpdicW7ehVpump",
-  "name": null,
-  "symbol": null,
-  "label": "9PafCN69",
+  "name": "I believe in crypto",
+  "symbol": "believe",
+  "label": "I believe in crypto",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T06:20:32.773547Z",
-  "pool": null,
+  "pool": "ERGViTvHoYvy6RKnpZYMpgbKMX1vvmR8e4yHZr9JT7im",
   "creator": "HgP9dk8VqYv9qV3wPV6HSZxfekqxAyPtc222jwMWibQa",
   "holders": null,
   "link": "https://fomo.family/coin?address=9PafCN69CoEShD58NSnftynTEmbeGUXpdicW7ehVpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.376e-05,
+  "priceTs": "2026-11-13T06:21:53.541020Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794550860,
+      "o": 2.975e-05,
+      "h": 3.376e-05,
+      "l": 2.975e-05,
+      "c": 3.376e-05,
+      "v": 20137.239999999998
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 33760.0,
+    "liquidity": 12495.27,
+    "volume24h": 21200.46,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T06:21:07.199909Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -3.66,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }

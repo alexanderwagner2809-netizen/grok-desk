@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T06:20:43.298835Z",
+  "ts": "2026-11-13T06:21:53.817166Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-13T06:20:43.185436Z",
+      "heartbeat": "2026-11-13T06:21:53.230577Z",
       "paused": false,
       "status": "running",
-      "card": "424 pools",
-      "count": 424,
+      "card": "426 pools",
+      "count": 426,
       "passed": 0,
       "feed": [
+        {
+          "mint": "8fFEtUfiwxRFF2KVTQ1QFDfZ11KTiohppjVMdi7dpump",
+          "label": "green cat",
+          "verdict": "kill",
+          "reason": "liq $13",
+          "subtitle": "liq $13",
+          "link": "https://fomo.family/coin?address=8fFEtUfiwxRFF2KVTQ1QFDfZ11KTiohppjVMdi7dpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "9PafCN69CoEShD58NSnftynTEmbeGUXpdicW7ehVpump",
+          "label": "I believe in crypto",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=9PafCN69CoEShD58NSnftynTEmbeGUXpdicW7ehVpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "HMeUhWCSjvbP5jiZJWXMiHAavvaG5i36UmRdcCftpump",
           "label": "banana bread",
@@ -66,22 +82,6 @@
           "reason": "liq $10",
           "subtitle": "liq $10",
           "link": "https://fomo.family/coin?address=GQsZaWaWVYN3KQZn7L9uSseb6AYkycKqZVnkD7kopump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "7KLrJCCQVvwvrb3pfRQLXehfueJM47z2FoRoUtrUpump",
-          "label": "BigPussyCoin",
-          "verdict": "kill",
-          "reason": "liq $83",
-          "subtitle": "liq $83",
-          "link": "https://fomo.family/coin?address=7KLrJCCQVvwvrb3pfRQLXehfueJM47z2FoRoUtrUpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "GnLCeNuXWcQWM4jn2TBzN1haUskD4DJ4GC4U4Zsspump",
-          "label": "ELON'S NEW HIRE",
-          "verdict": "kill",
-          "reason": "liq $4",
-          "subtitle": "liq $4",
-          "link": "https://fomo.family/coin?address=GnLCeNuXWcQWM4jn2TBzN1haUskD4DJ4GC4U4Zsspump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-13T06:20:42.475712Z",
+      "heartbeat": "2026-11-13T06:21:52.686948Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-13T06:20:42.477731Z",
+      "heartbeat": "2026-11-13T06:21:52.687995Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-13T06:20:42.478600Z",
+      "heartbeat": "2026-11-13T06:21:52.688177Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-13T06:20:42.862416Z",
+      "heartbeat": "2026-11-13T06:21:42.893412Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

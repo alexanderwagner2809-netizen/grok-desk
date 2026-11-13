@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T06:20:43.871353Z",
+  "ts": "2026-11-13T06:21:53.823168Z",
   "mint": "8fFEtUfiwxRFF2KVTQ1QFDfZ11KTiohppjVMdi7dpump",
-  "name": null,
-  "symbol": null,
-  "label": "8fFEtUfi",
+  "name": "green cat",
+  "symbol": "GrenCAT",
+  "label": "green cat",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T06:20:36.656632Z",
-  "pool": null,
+  "pool": "2rbHLJXws8HivFVfGbDLWUNXZzd8rLmoes1fWk1NPnbk",
   "creator": "5TrauL8zUHHoJyZb4Uy6SXQUkuPygL26cNKc5JjAhjsV",
   "holders": null,
   "link": "https://fomo.family/coin?address=8fFEtUfiwxRFF2KVTQ1QFDfZ11KTiohppjVMdi7dpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 4.5e-09,
+  "priceTs": "2026-11-13T06:21:53.541020Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794550860,
+      "o": 4.5e-09,
+      "h": 4.5e-09,
+      "l": 4.5e-09,
+      "c": 4.5e-09,
+      "v": 0.0
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 9.0,
+    "liquidity": 13.44,
+    "volume24h": 277.98,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T06:21:38.868703Z",
+      "liquidity_usd": 13.44,
+      "top10_pct": null,
+      "h1_change_pct": -98.02,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $13"
+    }
+  ]
 }
