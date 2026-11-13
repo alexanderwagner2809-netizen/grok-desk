@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T08:03:48.995967Z",
+  "ts": "2026-11-13T08:04:59.537032Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T08:03:46.529517Z",
+  "heartbeat": "2026-11-13T08:04:57.135043Z",
   "paused": false,
   "status": "running",
-  "card": "462 pools",
-  "count": 462,
+  "card": "463 pools",
+  "count": 463,
   "passed": 0,
   "feed": [
+    {
+      "mint": "4CbHDFfz3jc2BsVSrtQJHav6twH8TFWwc5CeaCRspump",
+      "label": "OVER9K",
+      "verdict": "kill",
+      "reason": "liq $9",
+      "subtitle": "liq $9",
+      "link": "https://fomo.family/coin?address=4CbHDFfz3jc2BsVSrtQJHav6twH8TFWwc5CeaCRspump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump",
       "label": "Hugh Janus",
@@ -66,19 +74,19 @@
       "reason": "liq $10.9K",
       "subtitle": "liq $10.9K",
       "link": "https://fomo.family/coin?address=D5Mvk9PiehtdWDVrhB8d9wr8Q73csDJ3Akovuwfqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EHaaMUkR2aPqF59wcugzxyTcbtc88824oPY7mE18pump",
-      "label": "Win Coin",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "subtitle": "liq $3",
-      "link": "https://fomo.family/coin?address=EHaaMUkR2aPqF59wcugzxyTcbtc88824oPY7mE18pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T08:03:52.066768Z",
+      "mint": "4CbHDFfz3jc2BsVSrtQJHav6twH8TFWwc5CeaCRspump",
+      "label": "OVER9K",
+      "verdict": "kill",
+      "reason": "liq $9",
+      "link": "https://fomo.family/coin?address=4CbHDFfz3jc2BsVSrtQJHav6twH8TFWwc5CeaCRspump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:58:12.743705Z",
       "mint": "BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump",
       "label": "Hugh Janus",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $2",
       "link": "https://fomo.family/coin?address=7VtWtKQsV6cJRuhfc8xcSG59JFuE35z492scaiokpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T07:21:27.746438Z",
-      "mint": "GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump",
-      "label": "Cult of the Party Parrot",
-      "verdict": "kill",
-      "reason": "liq $11.8K",
-      "link": "https://fomo.family/coin?address=GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T08:03:52.066768Z",
+      "mint": "4CbHDFfz3jc2BsVSrtQJHav6twH8TFWwc5CeaCRspump",
+      "label": "OVER9K",
+      "verdict": "kill",
+      "reason": "liq $9",
+      "link": "https://fomo.family/coin?address=4CbHDFfz3jc2BsVSrtQJHav6twH8TFWwc5CeaCRspump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:58:12.743705Z",
       "mint": "BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump",
       "label": "Hugh Janus",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $2",
       "link": "https://fomo.family/coin?address=7VtWtKQsV6cJRuhfc8xcSG59JFuE35z492scaiokpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T07:21:27.746438Z",
-      "mint": "GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump",
-      "label": "Cult of the Party Parrot",
-      "verdict": "kill",
-      "reason": "liq $11.8K",
-      "link": "https://fomo.family/coin?address=GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
