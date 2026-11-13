@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T08:30:55.219829Z",
+  "ts": "2026-11-13T08:32:06.017433Z",
   "mint": "9sFGCTjEsBk78uC2bCdxtwuUM1aartbBhe8WQXwRpump",
   "name": "サクラ",
   "symbol": "Sakura",
   "label": "サクラ",
   "chain": "Solana",
-  "age": "20m old",
+  "age": "21m old",
   "migratedAt": "2026-11-13T08:10:37.613317Z",
   "pool": "FbR7WmU8WAAzSLsgwthiqAivzifdsW381FW3p4Vkmiru",
   "creator": "6QchwPfuTMry2YftFodZQSP1GWfN8dh4GscBSNCN62Ty",
   "holders": null,
   "link": "https://fomo.family/coin?address=9sFGCTjEsBk78uC2bCdxtwuUM1aartbBhe8WQXwRpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001179,
-  "priceTs": "2026-11-13T08:30:54.967762Z",
+  "price": 0.0001645,
+  "priceTs": "2026-11-13T08:32:05.748470Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -160,12 +160,20 @@
       "l": 0.0001179,
       "c": 0.0001179,
       "v": 0.0
+    },
+    {
+      "t": 1794558720,
+      "o": 0.0001645,
+      "h": 0.0001645,
+      "l": 0.0001645,
+      "c": 0.0001645,
+      "v": 19647.769999999997
     }
   ],
   "stats": {
-    "marketCap": 117819.0,
-    "liquidity": 26959.41,
-    "volume24h": 355484.85,
+    "marketCap": 164409.0,
+    "liquidity": 32101.92,
+    "volume24h": 387150.31,
     "holders": null
   },
   "position": null,

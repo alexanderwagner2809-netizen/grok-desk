@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T08:30:55.237570Z",
+  "ts": "2026-11-13T08:32:06.036394Z",
   "mint": "ErqK5g2ES4VN86anNfpeAdkVouqPTW4haDDhgWWHpump",
   "name": "Mecha Pepe 3000",
   "symbol": "$MECHAPEP",
@@ -11,8 +11,8 @@
   "creator": "8rsoFrkpaku5FzpshFvQa6ngbqSFbKo9n9s2e7ZzYTwg",
   "holders": null,
   "link": "https://fomo.family/coin?address=ErqK5g2ES4VN86anNfpeAdkVouqPTW4haDDhgWWHpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.48e-08,
-  "priceTs": "2026-11-13T08:30:55.063208Z",
+  "price": 1.348e-09,
+  "priceTs": "2026-11-13T08:32:05.856124Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -448,12 +448,20 @@
       "l": 1.48e-08,
       "c": 1.48e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794558720,
+      "o": 1.348e-09,
+      "h": 1.348e-09,
+      "l": 1.348e-09,
+      "c": 1.348e-09,
+      "v": 2.09
     }
   ],
   "stats": {
-    "marketCap": 23.0,
-    "liquidity": 5.27,
-    "volume24h": 1.28,
+    "marketCap": 2.0,
+    "liquidity": 1.65,
+    "volume24h": 3.38,
     "holders": null
   },
   "position": null,
