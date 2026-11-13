@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T11:41:17.053233Z",
+  "mint": "xbZK8o3v3KXVsRWxdaWMRHnzR4ix71mdvwJnhLZpump",
+  "name": "OLONGJOHNSON",
+  "symbol": "LONGJOHN",
+  "label": "OLONGJOHNSON",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-13T11:40:09.821278Z",
+  "pool": "5ZgVj2GY56PhKY693gQYC9aVEWM3yQH1zXL7kLqTGSPj",
+  "creator": "BKKiPfjbx5Nn3pMDifa8Yyazr8osahcHCHNW71oRfZin",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=xbZK8o3v3KXVsRWxdaWMRHnzR4ix71mdvwJnhLZpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.628e-07,
+  "priceTs": "2026-11-13T11:41:16.772346Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794570060,
+      "o": 3.066e-08,
+      "h": 2.628e-07,
+      "l": 3.066e-08,
+      "c": 2.628e-07,
+      "v": 272.86
+    }
+  ],
+  "stats": {
+    "marketCap": 526.0,
+    "liquidity": 47.79,
+    "volume24h": 349.41,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T11:41:08.038525Z",
+      "liquidity_usd": 16.25,
+      "top10_pct": null,
+      "h1_change_pct": -22.3,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $16"
+    }
+  ]
+}

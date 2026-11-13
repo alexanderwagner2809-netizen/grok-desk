@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-13T11:40:07.804180Z",
+  "ts": "2026-11-13T11:41:18.630288Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T11:40:06.169316Z",
+  "heartbeat": "2026-11-13T11:41:16.262286Z",
   "paused": false,
   "status": "running",
-  "card": "522 pools",
-  "count": 522,
+  "card": "524 pools",
+  "count": 524,
   "passed": 0,
   "feed": [
+    {
+      "mint": "xbZK8o3v3KXVsRWxdaWMRHnzR4ix71mdvwJnhLZpump",
+      "label": "OLONGJOHNSON",
+      "verdict": "kill",
+      "reason": "liq $16",
+      "subtitle": "liq $16",
+      "link": "https://fomo.family/coin?address=xbZK8o3v3KXVsRWxdaWMRHnzR4ix71mdvwJnhLZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "AtFG76LDeX52EGzDLqFpBGkVcXfbaktr8mUtUgNfpump",
+      "label": "Viceification",
+      "verdict": "kill",
+      "reason": "liq $17.7K",
+      "subtitle": "liq $17.7K",
+      "link": "https://fomo.family/coin?address=AtFG76LDeX52EGzDLqFpBGkVcXfbaktr8mUtUgNfpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump",
       "label": "DERPCAT",
@@ -58,27 +74,27 @@
       "reason": "liq $294",
       "subtitle": "liq $294",
       "link": "https://fomo.family/coin?address=GEvZU1zuHZmTE6xXuTW2enMVF3dxP8Gkmbt4bYZHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "6zhQUjZU7ndW5RiQUwJcrnktsB7QS3rehTbaxVN5pump",
-      "label": "SENDER BITCHES KEEP PUSHING ",
-      "verdict": "kill",
-      "reason": "liq $701",
-      "subtitle": "liq $701",
-      "link": "https://fomo.family/coin?address=6zhQUjZU7ndW5RiQUwJcrnktsB7QS3rehTbaxVN5pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "98nXyGXUX6T7364SBJ5vJAAixgF6Rxrc4StoHHTopump",
-      "label": "ANGRY CAR",
-      "verdict": "kill",
-      "reason": "liq $9",
-      "subtitle": "liq $9",
-      "link": "https://fomo.family/coin?address=98nXyGXUX6T7364SBJ5vJAAixgF6Rxrc4StoHHTopump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T11:41:08.038525Z",
+      "mint": "xbZK8o3v3KXVsRWxdaWMRHnzR4ix71mdvwJnhLZpump",
+      "label": "OLONGJOHNSON",
+      "verdict": "kill",
+      "reason": "liq $16",
+      "link": "https://fomo.family/coin?address=xbZK8o3v3KXVsRWxdaWMRHnzR4ix71mdvwJnhLZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T11:40:41.129342Z",
+      "mint": "AtFG76LDeX52EGzDLqFpBGkVcXfbaktr8mUtUgNfpump",
+      "label": "Viceification",
+      "verdict": "kill",
+      "reason": "liq $17.7K",
+      "link": "https://fomo.family/coin?address=AtFG76LDeX52EGzDLqFpBGkVcXfbaktr8mUtUgNfpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T11:31:53.970033Z",
       "mint": "GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump",
       "label": "DERPCAT",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=8xzJdNto4KoAsYVrozzc18UrqnwCF414nnpQYcXpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:41:35.735287Z",
-      "mint": "Dp2NqsV7KCwnbcVAbuEJiuhJs7kGsT5KwD8PbT5Upump",
-      "label": "ULTRAPAID",
-      "verdict": "kill",
-      "reason": "liq $214",
-      "link": "https://fomo.family/coin?address=Dp2NqsV7KCwnbcVAbuEJiuhJs7kGsT5KwD8PbT5Upump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:40:24.355274Z",
-      "mint": "6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE",
-      "label": "Solana OS",
-      "verdict": "kill",
-      "reason": "liq $11.7K",
-      "link": "https://fomo.family/coin?address=6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T11:41:08.038525Z",
+      "mint": "xbZK8o3v3KXVsRWxdaWMRHnzR4ix71mdvwJnhLZpump",
+      "label": "OLONGJOHNSON",
+      "verdict": "kill",
+      "reason": "liq $16",
+      "link": "https://fomo.family/coin?address=xbZK8o3v3KXVsRWxdaWMRHnzR4ix71mdvwJnhLZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T11:40:41.129342Z",
+      "mint": "AtFG76LDeX52EGzDLqFpBGkVcXfbaktr8mUtUgNfpump",
+      "label": "Viceification",
+      "verdict": "kill",
+      "reason": "liq $17.7K",
+      "link": "https://fomo.family/coin?address=AtFG76LDeX52EGzDLqFpBGkVcXfbaktr8mUtUgNfpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T11:31:53.970033Z",
       "mint": "GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump",
       "label": "DERPCAT",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=8xzJdNto4KoAsYVrozzc18UrqnwCF414nnpQYcXpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:41:35.735287Z",
-      "mint": "Dp2NqsV7KCwnbcVAbuEJiuhJs7kGsT5KwD8PbT5Upump",
-      "label": "ULTRAPAID",
-      "verdict": "kill",
-      "reason": "liq $214",
-      "link": "https://fomo.family/coin?address=Dp2NqsV7KCwnbcVAbuEJiuhJs7kGsT5KwD8PbT5Upump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:40:24.355274Z",
-      "mint": "6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE",
-      "label": "Solana OS",
-      "verdict": "kill",
-      "reason": "liq $11.7K",
-      "link": "https://fomo.family/coin?address=6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
