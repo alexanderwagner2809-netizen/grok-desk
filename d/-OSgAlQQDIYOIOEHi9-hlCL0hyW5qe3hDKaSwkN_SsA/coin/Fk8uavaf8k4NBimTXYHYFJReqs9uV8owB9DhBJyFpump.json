@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T10:01:51.256331Z",
+  "ts": "2026-11-13T10:03:02.315053Z",
   "mint": "Fk8uavaf8k4NBimTXYHYFJReqs9uV8owB9DhBJyFpump",
   "name": "TOYCOIN",
   "symbol": "TOY",
   "label": "TOYCOIN",
   "chain": "Solana",
-  "age": "5m old",
+  "age": "6m old",
   "migratedAt": "2026-11-13T09:56:15.789029Z",
   "pool": "5kujds3euiZVnaAoGpyTyE62Fcv4NtZamUxaYW5dLC7e",
   "creator": "3foEe2E2jMy5PfamGLtfRUcMfiTHvgVipX2vgJAeZPGr",
   "holders": null,
   "link": "https://fomo.family/coin?address=Fk8uavaf8k4NBimTXYHYFJReqs9uV8owB9DhBJyFpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.818e-05,
-  "priceTs": "2026-11-13T10:01:50.992329Z",
+  "price": 2.583e-05,
+  "priceTs": "2026-11-13T10:03:01.996223Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -56,12 +56,20 @@
       "l": 2.818e-05,
       "c": 2.818e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794564180,
+      "o": 2.583e-05,
+      "h": 2.583e-05,
+      "l": 2.583e-05,
+      "c": 2.583e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 28145.0,
-    "liquidity": 11309.04,
-    "volume24h": 23999.28,
+    "marketCap": 25795.0,
+    "liquidity": 10671.28,
+    "volume24h": 26824.12,
     "holders": null
   },
   "position": null,

@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T10:01:51.277603Z",
+  "ts": "2026-11-13T10:03:02.335077Z",
   "mint": "22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump",
   "name": "MEMBUY",
   "symbol": "$MBUY",
   "label": "MEMBUY",
   "chain": "Solana",
-  "age": "29m old",
+  "age": "30m old",
   "migratedAt": "2026-11-13T09:32:19.588932Z",
   "pool": "3w93zEyNzQg7zUrMxfeQcR2SFGmWCafw2A9g67msEctJ",
   "creator": "Eqj1iaJxesZczFAatoqwxBfCG5cRAAPn8qqeJrYxNPAd",
   "holders": null,
   "link": "https://fomo.family/coin?address=22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.513e-08,
-  "priceTs": "2026-11-13T10:01:50.992329Z",
+  "price": 8.239e-08,
+  "priceTs": "2026-11-13T10:03:01.996223Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -224,12 +224,20 @@
       "l": 8.513e-08,
       "c": 8.513e-08,
       "v": 6.4
+    },
+    {
+      "t": 1794564180,
+      "o": 8.239e-08,
+      "h": 8.239e-08,
+      "l": 8.239e-08,
+      "c": 8.239e-08,
+      "v": 24.23
     }
   ],
   "stats": {
-    "marketCap": 170.0,
-    "liquidity": 90.24,
-    "volume24h": 493.16,
+    "marketCap": 165.0,
+    "liquidity": 88.18,
+    "volume24h": 517.39,
     "holders": null
   },
   "position": null,
