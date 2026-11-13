@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:43:39.647359Z",
+  "ts": "2026-11-13T11:44:50.856926Z",
   "mint": "D5Mvk9PiehtdWDVrhB8d9wr8Q73csDJ3Akovuwfqpump",
   "name": "Trashed Panda",
   "symbol": "Cole",
@@ -11,8 +11,8 @@
   "creator": "2agtAvvAAqpsPPpNfqbkLUgHEZ4bps5X2ShpYkDRNcyH",
   "holders": null,
   "link": "https://fomo.family/coin?address=D5Mvk9PiehtdWDVrhB8d9wr8Q73csDJ3Akovuwfqpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.09e-05,
-  "priceTs": "2026-11-13T11:43:39.511156Z",
+  "price": 1.078e-05,
+  "priceTs": "2026-11-13T11:44:50.723343Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1256,12 +1256,20 @@
       "l": 1.09e-05,
       "c": 1.09e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794570240,
+      "o": 1.078e-05,
+      "h": 1.078e-05,
+      "l": 1.078e-05,
+      "c": 1.078e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 10569.0,
-    "liquidity": 6735.92,
-    "volume24h": 416876.33,
+    "marketCap": 10457.0,
+    "liquidity": 6692.46,
+    "volume24h": 416877.9,
     "holders": null
   },
   "position": null,

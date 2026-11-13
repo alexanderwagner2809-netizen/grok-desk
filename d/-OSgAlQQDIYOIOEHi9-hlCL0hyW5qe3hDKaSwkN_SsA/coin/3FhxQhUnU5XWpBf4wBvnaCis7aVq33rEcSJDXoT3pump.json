@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T11:43:39.534317Z",
+  "ts": "2026-11-13T11:44:50.745569Z",
   "mint": "3FhxQhUnU5XWpBf4wBvnaCis7aVq33rEcSJDXoT3pump",
   "name": "PUMP FARM",
   "symbol": "PUMP FARM",
   "label": "PUMP FARM",
   "chain": "Solana",
-  "age": "13m old",
+  "age": "14m old",
   "migratedAt": "2026-11-13T11:30:07.426280Z",
   "pool": "4d5GKiZrX5G4TeX8ZkdPVSEq4KwxhV8LBBCHAtrLaeYG",
   "creator": "AqW7LvUzUcHmdy4uZ7mCH3oHb5iJPdzGkfMVZG9x7YP5",
   "holders": null,
   "link": "https://fomo.family/coin?address=3FhxQhUnU5XWpBf4wBvnaCis7aVq33rEcSJDXoT3pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.572e-10,
-  "priceTs": "2026-11-13T11:43:39.256781Z",
+  "price": 5.502e-10,
+  "priceTs": "2026-11-13T11:44:50.472716Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -104,12 +104,20 @@
       "l": 5.572e-10,
       "c": 5.572e-10,
       "v": 0.31
+    },
+    {
+      "t": 1794570240,
+      "o": 5.502e-10,
+      "h": 5.502e-10,
+      "l": 5.502e-10,
+      "c": 5.502e-10,
+      "v": 0.12
     }
   ],
   "stats": {
     "marketCap": 1.0,
-    "liquidity": 1.52,
-    "volume24h": 46.35,
+    "liquidity": 1.51,
+    "volume24h": 46.47,
     "holders": null
   },
   "position": null,
