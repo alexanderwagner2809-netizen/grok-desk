@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T04:10:10.741979Z",
+  "ts": "2026-11-13T05:06:47.777588Z",
   "mint": "31V1aw3R4vG3jL41imUX13FEaW6U5LCV3UiL9P64pump",
   "name": "UCI",
   "symbol": "UCI",
@@ -11,8 +11,8 @@
   "creator": "FHYMJAfKaQWYm1B8GG7bUD8GdCDZQaPHAPodoqS2FBSx",
   "holders": null,
   "link": "https://fomo.family/coin?address=31V1aw3R4vG3jL41imUX13FEaW6U5LCV3UiL9P64pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.1171,
-  "priceTs": "2026-11-13T04:10:10.399200Z",
+  "price": 1.374e-06,
+  "priceTs": "2026-11-13T05:06:47.464407Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -184,12 +184,20 @@
       "l": 0.1171,
       "c": 0.1171,
       "v": 0.0
+    },
+    {
+      "t": 1794546360,
+      "o": 1.374e-06,
+      "h": 1.374e-06,
+      "l": 1.374e-06,
+      "c": 1.374e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 117173852.0,
-    "liquidity": 804754.59,
-    "volume24h": 436050.83,
+    "marketCap": 1375.0,
+    "liquidity": 1389.63,
+    "volume24h": 846399.84,
     "holders": null
   },
   "position": null,
