@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T10:04:13.782139Z",
+  "ts": "2026-11-13T10:05:23.614976Z",
   "mint": "DH3DaqxYisSHX9nV91vwUB8T3o55WLxtf84h6uhapump",
-  "name": null,
-  "symbol": null,
-  "label": "DH3DaqxY",
+  "name": "PUMP SI",
+  "symbol": "PSI",
+  "label": "PUMP SI",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T10:03:44.094832Z",
-  "pool": null,
+  "pool": "9pGAo6jvbYL266aEfF5NC2zFasJBLv33dSTeWRsqqhgV",
   "creator": "93JtxYeaLkgdWYPVGgfJ8oSsMMMFZuBryrYi6zqQxUfa",
   "holders": null,
   "link": "https://fomo.family/coin?address=DH3DaqxYisSHX9nV91vwUB8T3o55WLxtf84h6uhapump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.936e-08,
+  "priceTs": "2026-11-13T10:05:23.360078Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794564240,
+      "o": 2.069e-06,
+      "h": 2.069e-06,
+      "l": 2.069e-06,
+      "c": 2.069e-06,
+      "v": 0.0
+    },
+    {
+      "t": 1794564300,
+      "o": 3.936e-08,
+      "h": 3.936e-08,
+      "l": 3.936e-08,
+      "c": 3.936e-08,
+      "v": 1292.96
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 79.0,
+    "liquidity": 42.79,
+    "volume24h": 1668.57,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T10:04:35.901110Z",
+      "liquidity_usd": 402.12,
+      "top10_pct": null,
+      "h1_change_pct": 1048.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $402"
+    }
+  ]
 }

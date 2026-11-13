@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T10:04:13.748994Z",
+  "ts": "2026-11-13T10:05:23.614186Z",
   "mint": "ChAwq4m32NsVdgsJqfJRzqvFtyjp9Wo3hKK1Tdujpump",
-  "name": null,
-  "symbol": null,
-  "label": "ChAwq4m3",
+  "name": "Max",
+  "symbol": "Maxcoin",
+  "label": "Max",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T10:04:05.455893Z",
-  "pool": null,
+  "pool": "2G7bvcKNrExiLkLnoeJKnN5LUkS9BeyrrmJgmiVckBQs",
   "creator": "GxW3WwH6q972xwT6fYAR8Xg7vMTfxAShZrMc6YyfhqSz",
   "holders": null,
   "link": "https://fomo.family/coin?address=ChAwq4m32NsVdgsJqfJRzqvFtyjp9Wo3hKK1Tdujpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 5.015e-05,
+  "priceTs": "2026-11-13T10:05:23.360078Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794564300,
+      "o": 4.739e-05,
+      "h": 5.015e-05,
+      "l": 4.739e-05,
+      "c": 5.015e-05,
+      "v": 4130.97
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 50159.0,
+    "liquidity": 15454.53,
+    "volume24h": 7701.1,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T10:05:05.719911Z",
+      "liquidity_usd": 14950.33,
+      "top10_pct": null,
+      "h1_change_pct": 40.47,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $15.0K"
+    }
+  ]
 }
