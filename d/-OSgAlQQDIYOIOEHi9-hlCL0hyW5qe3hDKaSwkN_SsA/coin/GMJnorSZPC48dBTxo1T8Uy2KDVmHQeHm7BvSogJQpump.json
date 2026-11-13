@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T08:25:02.120118Z",
+  "ts": "2026-11-13T08:26:12.452720Z",
   "mint": "GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump",
   "name": "Cult of the Party Parrot",
   "symbol": "PARROT",
@@ -11,8 +11,8 @@
   "creator": "CFQrDFiiT1Nyj3186sWJpWgu4fn8ydk2gcW3okbwhrQX",
   "holders": null,
   "link": "https://fomo.family/coin?address=GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.02e-06,
-  "priceTs": "2026-11-13T08:25:01.945015Z",
+  "price": 2.011e-06,
+  "priceTs": "2026-11-13T08:26:12.272384Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -456,12 +456,20 @@
       "l": 2.02e-06,
       "c": 2.02e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794558360,
+      "o": 2.011e-06,
+      "h": 2.011e-06,
+      "l": 2.011e-06,
+      "c": 2.011e-06,
+      "v": 5.19
     }
   ],
   "stats": {
-    "marketCap": 1880.0,
-    "liquidity": 1970.12,
-    "volume24h": 58951.64,
+    "marketCap": 1872.0,
+    "liquidity": 1962.38,
+    "volume24h": 58956.83,
     "holders": null
   },
   "position": null,

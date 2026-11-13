@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T08:25:02.093878Z",
+  "ts": "2026-11-13T08:26:12.426497Z",
   "mint": "DskPMTCPtsioxuCAsYbszbKBAJy6EifApwQbNGbQpump",
   "name": "PUMP SI",
   "symbol": "PSI",
   "label": "PUMP SI",
   "chain": "Solana",
-  "age": "10m old",
+  "age": "11m old",
   "migratedAt": "2026-11-13T08:14:24.107731Z",
   "pool": "u1wtvwRKWWi9CpsJ9EPxxaqFkF1Dzj1TT6xy4r6y1Nt",
   "creator": "93JtxYeaLkgdWYPVGgfJ8oSsMMMFZuBryrYi6zqQxUfa",
   "holders": null,
   "link": "https://fomo.family/coin?address=DskPMTCPtsioxuCAsYbszbKBAJy6EifApwQbNGbQpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.986e-09,
-  "priceTs": "2026-11-13T08:25:01.796210Z",
+  "price": 3.586e-09,
+  "priceTs": "2026-11-13T08:26:12.132258Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -96,12 +96,20 @@
       "l": 3.986e-09,
       "c": 3.986e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794558360,
+      "o": 3.586e-09,
+      "h": 3.586e-09,
+      "l": 3.586e-09,
+      "c": 3.586e-09,
+      "v": 0.46
     }
   ],
   "stats": {
-    "marketCap": 8.0,
-    "liquidity": 13.81,
-    "volume24h": 429.4,
+    "marketCap": 7.0,
+    "liquidity": 13.09,
+    "volume24h": 429.86,
     "holders": null
   },
   "position": null,

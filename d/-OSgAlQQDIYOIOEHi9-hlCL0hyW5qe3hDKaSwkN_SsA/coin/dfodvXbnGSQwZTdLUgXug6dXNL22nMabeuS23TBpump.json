@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T08:25:03.414668Z",
+  "ts": "2026-11-13T08:26:12.419624Z",
   "mint": "dfodvXbnGSQwZTdLUgXug6dXNL22nMabeuS23TBpump",
-  "name": null,
-  "symbol": null,
-  "label": "dfodvXbn",
+  "name": "BRAINROT COIN",
+  "symbol": "BRAINROT",
+  "label": "BRAINROT COIN",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T08:24:45.266231Z",
-  "pool": null,
+  "pool": "3MRRHVwzKGLtUp1kJDYutsk1QS5j9ibmG7iX17KpeE5Z",
   "creator": "AckteTrEnLKPvsTqE6CbZ3XLthfVAEnBMc5o4CGaNK5x",
   "holders": null,
   "link": "https://fomo.family/coin?address=dfodvXbnGSQwZTdLUgXug6dXNL22nMabeuS23TBpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.199e-08,
+  "priceTs": "2026-11-13T08:26:12.132258Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794558300,
+      "o": 8.12e-07,
+      "h": 8.12e-07,
+      "l": 8.12e-07,
+      "c": 8.12e-07,
+      "v": 0.0
+    },
+    {
+      "t": 1794558360,
+      "o": 3.199e-08,
+      "h": 3.199e-08,
+      "l": 3.199e-08,
+      "c": 3.199e-08,
+      "v": 944.7100000000003
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 64.0,
+    "liquidity": 91.15,
+    "volume24h": 2318.05,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T08:25:14.779644Z",
+      "liquidity_usd": 431.28,
+      "top10_pct": null,
+      "h1_change_pct": -38.87,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $431"
+    }
+  ]
 }
