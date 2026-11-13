@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T02:13:43.898601Z",
+  "ts": "2026-11-13T02:59:38.517457Z",
   "mint": "6Pn4yN4vYBfxSTzgv8ro97tTWHHTpUTE2JbjCjLtpump",
   "name": "JUMP COIN",
   "symbol": "JUMP",
@@ -11,8 +11,8 @@
   "creator": "2XQQibSTtwETtfbANvQhfN1NUCKgBV5JkEATq778sUx9",
   "holders": null,
   "link": "https://fomo.family/coin?address=6Pn4yN4vYBfxSTzgv8ro97tTWHHTpUTE2JbjCjLtpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.794e-08,
-  "priceTs": "2026-11-13T02:13:43.641973Z",
+  "price": 1.843e-08,
+  "priceTs": "2026-11-13T02:59:38.154254Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -144,12 +144,20 @@
       "l": 1.794e-08,
       "c": 1.794e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794538740,
+      "o": 1.843e-08,
+      "h": 1.843e-08,
+      "l": 1.843e-08,
+      "c": 1.843e-08,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 36.0,
-    "liquidity": 15.65,
-    "volume24h": 241.82,
+    "marketCap": 37.0,
+    "liquidity": 15.86,
+    "volume24h": 241.92,
     "holders": null
   },
   "position": null,

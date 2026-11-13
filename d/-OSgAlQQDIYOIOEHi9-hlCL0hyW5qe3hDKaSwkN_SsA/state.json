@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T02:13:43.889960Z",
+  "ts": "2026-11-13T02:59:38.502962Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-13T02:13:43.400757Z",
+      "heartbeat": "2026-11-13T02:59:38.484015Z",
       "paused": false,
       "status": "running",
-      "card": "391 pools",
-      "count": 391,
+      "card": "393 pools",
+      "count": 393,
       "passed": 0,
       "feed": [
+        {
+          "mint": "BE3LZxrrYSmwKdrPttBGD9RXY5UNWzFLep8r2Ycipump",
+          "label": "Blueface Official Coin",
+          "verdict": "kill",
+          "reason": "liq $1.9K",
+          "subtitle": "liq $1.9K",
+          "link": "https://fomo.family/coin?address=BE3LZxrrYSmwKdrPttBGD9RXY5UNWzFLep8r2Ycipump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "EZ5VwEKryrLFuvATMTX2VcZ4AtPsKZsgsDeHf8u5pump",
+          "label": "Honey Badger Don't Care",
+          "verdict": "kill",
+          "reason": "liq $3",
+          "subtitle": "liq $3",
+          "link": "https://fomo.family/coin?address=EZ5VwEKryrLFuvATMTX2VcZ4AtPsKZsgsDeHf8u5pump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "31V1aw3R4vG3jL41imUX13FEaW6U5LCV3UiL9P64pump",
           "label": "UCI",
@@ -66,22 +82,6 @@
           "reason": "liq $0",
           "subtitle": "liq $0",
           "link": "https://fomo.family/coin?address=GKJCDugL2YXbo67wNSCC4jqfAzpyZfRosBtdBjRBpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "5AsGJm59grcLSKg2mkNoxiwxEtaA6ijbvSo7STppump",
-          "label": "FOTF",
-          "verdict": "kill",
-          "reason": "+43770% in 1h",
-          "subtitle": "+43770% in 1h",
-          "link": "https://fomo.family/coin?address=5AsGJm59grcLSKg2mkNoxiwxEtaA6ijbvSo7STppump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "GdPu5KPUeka8RJje6wjZ3o45wNDpHaSivoe6ydYhpump",
-          "label": "Yetzer Hara Trap ",
-          "verdict": "kill",
-          "reason": "liq $0",
-          "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=GdPu5KPUeka8RJje6wjZ3o45wNDpHaSivoe6ydYhpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-13T02:13:43.468015Z",
+      "heartbeat": "2026-11-13T02:59:38.195145Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-13T02:13:43.468836Z",
+      "heartbeat": "2026-11-13T02:59:38.195872Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-13T02:13:43.468995Z",
+      "heartbeat": "2026-11-13T02:59:38.197101Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-13T02:13:38.053199Z",
+      "heartbeat": "2026-11-13T02:59:24.175948Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

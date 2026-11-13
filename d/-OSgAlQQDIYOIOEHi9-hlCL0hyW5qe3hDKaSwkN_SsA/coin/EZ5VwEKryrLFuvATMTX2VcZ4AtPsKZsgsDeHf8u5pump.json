@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T02:59:38.513768Z",
+  "mint": "EZ5VwEKryrLFuvATMTX2VcZ4AtPsKZsgsDeHf8u5pump",
+  "name": "Honey Badger Don't Care",
+  "symbol": "NOFEAR",
+  "label": "Honey Badger Don't Care",
+  "chain": "Solana",
+  "age": "45m old",
+  "migratedAt": "2026-11-13T02:14:16.821850Z",
+  "pool": "FJY61AZmfyjCW84WgqmW2iTN3J2ziaZUrywEYHAaPtAa",
+  "creator": "HWUnfRdrzFfyPpVcmZHr9FdenUP1hjP1C7jUSyzYP1FH",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=EZ5VwEKryrLFuvATMTX2VcZ4AtPsKZsgsDeHf8u5pump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 1.37e-09,
+  "priceTs": "2026-11-13T02:59:38.154254Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794538740,
+      "o": 1.37e-09,
+      "h": 1.37e-09,
+      "l": 1.37e-09,
+      "c": 1.37e-09,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 3.0,
+    "liquidity": 3.48,
+    "volume24h": 1178.98,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T02:59:24.433667Z",
+      "liquidity_usd": 3.48,
+      "top10_pct": null,
+      "h1_change_pct": -97.28,
+      "age_min": 45,
+      "verdict": "kill",
+      "reason": "liq $3"
+    }
+  ]
+}

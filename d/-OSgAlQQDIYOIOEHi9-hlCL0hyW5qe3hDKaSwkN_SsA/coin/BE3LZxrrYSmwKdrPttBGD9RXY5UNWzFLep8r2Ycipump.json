@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T02:59:38.512536Z",
+  "mint": "BE3LZxrrYSmwKdrPttBGD9RXY5UNWzFLep8r2Ycipump",
+  "name": "Blueface Official Coin",
+  "symbol": "Blueface",
+  "label": "Blueface Official Coin",
+  "chain": "Solana",
+  "age": "45m old",
+  "migratedAt": "2026-11-13T02:14:30.836816Z",
+  "pool": "5tH7DEW6Ajh4c3ncpMChc2PZtzK8XnXcmAHKsUgJ8kxm",
+  "creator": "8PJWeaNtGVjt4Nx8RnZvdGb22o9KTAGLcoVEwTLw2MnR",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=BE3LZxrrYSmwKdrPttBGD9RXY5UNWzFLep8r2Ycipump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 1.884e-06,
+  "priceTs": "2026-11-13T02:59:38.154254Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794538740,
+      "o": 1.884e-06,
+      "h": 1.884e-06,
+      "l": 1.884e-06,
+      "c": 1.884e-06,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 1883.0,
+    "liquidity": 1919.51,
+    "volume24h": 234144.71,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T02:59:24.438452Z",
+      "liquidity_usd": 1919.51,
+      "top10_pct": null,
+      "h1_change_pct": -94.39,
+      "age_min": 44,
+      "verdict": "kill",
+      "reason": "liq $1.9K"
+    }
+  ]
+}

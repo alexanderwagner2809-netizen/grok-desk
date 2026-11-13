@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T02:13:44.001830Z",
+  "ts": "2026-11-13T02:59:38.641935Z",
   "mint": "GHB5wJfknCtudnrCak2QcjXXrExs8ZpNy1XMRTddzEKr",
   "name": "Hachiko",
   "symbol": "HACHIKO",
@@ -11,8 +11,8 @@
   "creator": "HtzcmXndowEV3JpQ1nLTAZPgog2CrVym9Z6UnfNZAfqF",
   "holders": null,
   "link": "https://fomo.family/coin?address=GHB5wJfknCtudnrCak2QcjXXrExs8ZpNy1XMRTddzEKr&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.69e-06,
-  "priceTs": "2026-11-13T02:13:43.880823Z",
+  "price": 2.609e-06,
+  "priceTs": "2026-11-13T02:59:38.494359Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -856,12 +856,20 @@
       "l": 2.69e-06,
       "c": 2.69e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794538740,
+      "o": 2.609e-06,
+      "h": 2.609e-06,
+      "l": 2.609e-06,
+      "c": 2.609e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 2574.0,
-    "liquidity": 2502.28,
-    "volume24h": 19841.34,
+    "marketCap": 2497.0,
+    "liquidity": 2436.63,
+    "volume24h": 19842.42,
     "holders": null
   },
   "position": null,
