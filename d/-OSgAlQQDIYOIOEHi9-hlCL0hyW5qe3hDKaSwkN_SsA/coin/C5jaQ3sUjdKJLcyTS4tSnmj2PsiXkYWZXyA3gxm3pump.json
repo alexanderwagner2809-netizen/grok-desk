@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T19:53:59.892354Z",
+  "ts": "2026-11-13T19:55:16.994392Z",
   "mint": "C5jaQ3sUjdKJLcyTS4tSnmj2PsiXkYWZXyA3gxm3pump",
-  "name": null,
-  "symbol": null,
-  "label": "C5jaQ3sU",
+  "name": "你好パンチ",
+  "symbol": "punchhao",
+  "label": "你好パンチ",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "2m old",
   "migratedAt": "2026-11-13T19:53:16.101361Z",
-  "pool": null,
+  "pool": "FFULb1XxYwfWnq3APdh6FaJG5BBQtSfPa8Rv17FAhwLC",
   "creator": "5NvF8PUMHm6CpiDQXSnbJFHEkmgBJCe6VujtpQmkQV5f",
   "holders": null,
   "link": "https://fomo.family/coin?address=C5jaQ3sUjdKJLcyTS4tSnmj2PsiXkYWZXyA3gxm3pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 6.88e-05,
+  "priceTs": "2026-11-13T19:55:16.698143Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794599640,
+      "o": 9.464e-05,
+      "h": 9.464e-05,
+      "l": 9.464e-05,
+      "c": 9.464e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794599700,
+      "o": 6.88e-05,
+      "h": 6.88e-05,
+      "l": 6.88e-05,
+      "c": 6.88e-05,
+      "v": 26058.14
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 68775.0,
+    "liquidity": 18384.51,
+    "volume24h": 30741.96,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T19:54:14.518270Z",
+      "liquidity_usd": 21719.03,
+      "top10_pct": null,
+      "h1_change_pct": 136.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "+136% in 1h"
+    }
+  ]
 }

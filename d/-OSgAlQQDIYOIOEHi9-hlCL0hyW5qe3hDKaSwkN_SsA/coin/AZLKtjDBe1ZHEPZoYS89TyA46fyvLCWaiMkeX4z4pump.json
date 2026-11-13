@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T19:53:59.770230Z",
+  "ts": "2026-11-13T19:55:16.993612Z",
   "mint": "AZLKtjDBe1ZHEPZoYS89TyA46fyvLCWaiMkeX4z4pump",
-  "name": null,
-  "symbol": null,
-  "label": "AZLKtjDB",
+  "name": "Diumpad",
+  "symbol": "DIUMPAD",
+  "label": "Diumpad",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T19:53:40.347270Z",
-  "pool": null,
+  "pool": "4rQGYNhbTdu8HXAGJwUCJfqb2MncUpvG7wRGnku3ETyR",
   "creator": "6jnpTs6TYkd8w1PYqRVkQaYpPfzyGN9Vxz63AZr7wtoy",
   "holders": null,
   "link": "https://fomo.family/coin?address=AZLKtjDBe1ZHEPZoYS89TyA46fyvLCWaiMkeX4z4pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.27e-05,
+  "priceTs": "2026-11-13T19:55:16.698143Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794599640,
+      "o": 2.357e-05,
+      "h": 2.357e-05,
+      "l": 2.357e-05,
+      "c": 2.357e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794599700,
+      "o": 2.27e-05,
+      "h": 2.27e-05,
+      "l": 2.27e-05,
+      "c": 2.27e-05,
+      "v": 13711.229999999996
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 22667.0,
+    "liquidity": 10099.55,
+    "volume24h": 43787.13,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T19:54:57.665654Z",
+      "liquidity_usd": 10232.16,
+      "top10_pct": null,
+      "h1_change_pct": -29.66,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $10.2K"
+    }
+  ]
 }
