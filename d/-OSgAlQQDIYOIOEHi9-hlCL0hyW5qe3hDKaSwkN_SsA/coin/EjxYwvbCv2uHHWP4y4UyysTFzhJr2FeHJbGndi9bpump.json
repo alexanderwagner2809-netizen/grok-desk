@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T06:12:31.730376Z",
+  "ts": "2026-11-13T06:13:41.507235Z",
   "mint": "EjxYwvbCv2uHHWP4y4UyysTFzhJr2FeHJbGndi9bpump",
-  "name": null,
-  "symbol": null,
-  "label": "EjxYwvbC",
+  "name": "cig",
+  "symbol": "cig",
+  "label": "cig",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T06:12:16.931242Z",
-  "pool": null,
+  "pool": "2RZK8y2MrwAp6E6mHzjW8wX6YHzhq3fX8pxJjzwp6Jth",
   "creator": "5i2aqky3ZUDkkhriAyhPBLLxSR8bZKvwEXPS2mT4Wvse",
   "holders": null,
   "link": "https://fomo.family/coin?address=EjxYwvbCv2uHHWP4y4UyysTFzhJr2FeHJbGndi9bpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.513e-05,
+  "priceTs": "2026-11-13T06:13:41.247415Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794550320,
+      "o": 2.934e-05,
+      "h": 2.934e-05,
+      "l": 2.934e-05,
+      "c": 2.934e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794550380,
+      "o": 3.513e-05,
+      "h": 3.513e-05,
+      "l": 3.513e-05,
+      "c": 3.513e-05,
+      "v": 17616.27
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 35133.0,
+    "liquidity": 12682.12,
+    "volume24h": 21628.86,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T06:12:48.387291Z",
+      "liquidity_usd": 11373.46,
+      "top10_pct": null,
+      "h1_change_pct": -4.49,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $11.4K"
+    }
+  ]
 }
