@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T08:49:48.696998Z",
+  "ts": "2026-11-13T08:50:59.520154Z",
   "mint": "Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump",
   "name": "4chanpad",
   "symbol": "4CHANPAD",
   "label": "4chanpad",
   "chain": "Solana",
-  "age": "1h old",
+  "age": "2h old",
   "migratedAt": "2026-11-13T06:50:14.470081Z",
   "pool": "HoGEKbvVNEu5WC4xq7mq5szyvCcKy9vLTdbYWqzHmHp",
   "creator": "CQxPzD2VRgeBsb85f3SdnzzzmTBKgLJX1QNmVRR4T3Qx",
   "holders": null,
   "link": "https://fomo.family/coin?address=Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.03e-06,
-  "priceTs": "2026-11-13T08:49:48.487169Z",
+  "price": 6.077e-06,
+  "priceTs": "2026-11-13T08:50:59.305770Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -752,12 +752,20 @@
       "l": 6.03e-06,
       "c": 6.03e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794559800,
+      "o": 6.077e-06,
+      "h": 6.077e-06,
+      "l": 6.077e-06,
+      "c": 6.077e-06,
+      "v": 14.7
     }
   ],
   "stats": {
-    "marketCap": 5722.0,
-    "liquidity": 4913.91,
-    "volume24h": 36923.46,
+    "marketCap": 5766.0,
+    "liquidity": 4944.6,
+    "volume24h": 36939.41,
     "holders": null
   },
   "position": null,
