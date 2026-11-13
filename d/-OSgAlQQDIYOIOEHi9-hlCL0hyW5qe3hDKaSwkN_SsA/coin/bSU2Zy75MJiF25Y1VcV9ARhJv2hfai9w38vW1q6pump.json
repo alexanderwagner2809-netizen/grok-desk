@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T19:58:54.733520Z",
+  "ts": "2026-11-13T20:00:04.680270Z",
   "mint": "bSU2Zy75MJiF25Y1VcV9ARhJv2hfai9w38vW1q6pump",
-  "name": null,
-  "symbol": null,
-  "label": "bSU2Zy75",
+  "name": "Fede The Flamingo",
+  "symbol": "Fede",
+  "label": "Fede The Flamingo",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "2m old",
   "migratedAt": "2026-11-13T19:58:03.989147Z",
-  "pool": null,
+  "pool": "H5wDbdKAkxmJmREXw4hbFz6GAPBytkCn4BiohxAk9p9N",
   "creator": "23xvGj6Y3tMaJLbx2XfCnAoakNvgntNaH9VvcuqQeNdG",
   "holders": null,
   "link": "https://fomo.family/coin?address=bSU2Zy75MJiF25Y1VcV9ARhJv2hfai9w38vW1q6pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 4.516e-05,
+  "priceTs": "2026-11-13T20:00:04.377359Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794599940,
+      "o": 4.868e-05,
+      "h": 4.868e-05,
+      "l": 4.868e-05,
+      "c": 4.868e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794600000,
+      "o": 4.516e-05,
+      "h": 4.516e-05,
+      "l": 4.516e-05,
+      "c": 4.516e-05,
+      "v": 3200.3
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 45104.0,
+    "liquidity": 16674.91,
+    "volume24h": 5944.38,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T19:59:00.016955Z",
+      "liquidity_usd": 17377.04,
+      "top10_pct": null,
+      "h1_change_pct": 5.85,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $17.4K"
+    }
+  ]
 }

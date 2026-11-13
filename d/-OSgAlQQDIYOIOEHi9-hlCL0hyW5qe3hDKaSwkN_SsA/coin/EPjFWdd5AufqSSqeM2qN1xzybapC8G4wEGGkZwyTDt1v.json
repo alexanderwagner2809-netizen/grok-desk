@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T19:58:53.107213Z",
+  "ts": "2026-11-13T20:00:04.754665Z",
   "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
   "name": "Autism Coin",
   "symbol": "ORANGE ",
@@ -11,8 +11,8 @@
   "creator": "2wmVCSfPxGPjrnMMn7rchp4uaeoTqN39mXFC2zhPdri9",
   "holders": null,
   "link": "https://fomo.family/coin?address=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.998,
-  "priceTs": "2026-11-13T19:58:52.883687Z",
+  "price": 1.324e-09,
+  "priceTs": "2026-11-13T20:00:04.667145Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -5560,12 +5560,20 @@
       "l": 0.998,
       "c": 0.998,
       "v": 31710.92
+    },
+    {
+      "t": 1794600000,
+      "o": 1.324e-09,
+      "h": 1.324e-09,
+      "l": 1.324e-09,
+      "c": 1.324e-09,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 68993938326.0,
-    "liquidity": 2097256.1,
-    "volume24h": 26720942.86,
+    "marketCap": 3.0,
+    "liquidity": 4.96,
+    "volume24h": 102.66,
     "holders": null
   },
   "position": null,

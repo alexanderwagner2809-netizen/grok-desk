@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T19:58:53.043918Z",
+  "ts": "2026-11-13T20:00:04.694689Z",
   "mint": "3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump",
   "name": "Dog Coin",
   "symbol": "DOG",
   "label": "Dog Coin",
   "chain": "Solana",
-  "age": "12m old",
+  "age": "13m old",
   "migratedAt": "2026-11-13T19:46:41.315636Z",
   "pool": "63nSSoEfR47Si1NTKuyrbscPPTYxqvfrLjAyfmww2WPp",
   "creator": "GHVpB3WLdwLZfjKQJixP7uFDQvrHzDGihmtGdEEgkZXk",
   "holders": null,
   "link": "https://fomo.family/coin?address=3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.056e-06,
-  "priceTs": "2026-11-13T19:58:52.749801Z",
+  "price": 2.022e-06,
+  "priceTs": "2026-11-13T20:00:04.377359Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -96,12 +96,20 @@
       "l": 2.056e-06,
       "c": 2.056e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794600000,
+      "o": 2.022e-06,
+      "h": 2.022e-06,
+      "l": 2.022e-06,
+      "c": 2.022e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 2053.0,
-    "liquidity": 2143.07,
-    "volume24h": 23745.89,
+    "marketCap": 2019.0,
+    "liquidity": 2115.12,
+    "volume24h": 23758.59,
     "holders": null
   },
   "position": null,
