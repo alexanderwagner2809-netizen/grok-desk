@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T04:06:40.835880Z",
+  "ts": "2026-11-13T04:07:50.554987Z",
   "mint": "8H5quX18d5wy8Lfj9q9shLdeZwcYKcCQySbwWW6Cpump",
-  "name": null,
-  "symbol": null,
-  "label": "8H5quX18",
+  "name": "schrodinger's cat",
+  "symbol": "SCHRODI",
+  "label": "schrodinger's cat",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "2m old",
   "migratedAt": "2026-11-13T04:05:41.113925Z",
-  "pool": null,
+  "pool": "14mYezfp63jrpTRA519TGzJht2d9CBriB17aBpYWG9jA",
   "creator": "HWUnfRdrzFfyPpVcmZHr9FdenUP1hjP1C7jUSyzYP1FH",
   "holders": null,
   "link": "https://fomo.family/coin?address=8H5quX18d5wy8Lfj9q9shLdeZwcYKcCQySbwWW6Cpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.45e-09,
+  "priceTs": "2026-11-13T04:07:50.244437Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794542760,
+      "o": 2.324e-08,
+      "h": 2.324e-08,
+      "l": 2.324e-08,
+      "c": 2.324e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794542820,
+      "o": 1.45e-09,
+      "h": 1.45e-09,
+      "l": 1.45e-09,
+      "c": 1.45e-09,
+      "v": 63.99000000000001
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 3.0,
+    "liquidity": 4.9,
+    "volume24h": 297.8,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T04:06:46.736300Z",
+      "liquidity_usd": 17.09,
+      "top10_pct": null,
+      "h1_change_pct": -65.53,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $17"
+    }
+  ]
 }

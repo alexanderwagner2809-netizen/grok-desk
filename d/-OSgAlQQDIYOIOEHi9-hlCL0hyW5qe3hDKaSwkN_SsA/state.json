@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T04:06:40.345891Z",
+  "ts": "2026-11-13T04:07:50.548453Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-13T04:06:39.501350Z",
+      "heartbeat": "2026-11-13T04:07:49.948101Z",
       "paused": false,
       "status": "running",
-      "card": "399 pools",
-      "count": 399,
+      "card": "401 pools",
+      "count": 401,
       "passed": 0,
       "feed": [
+        {
+          "mint": "6VWCdBnZtCGkGK3QbAyDqPoRW3sZHshTvj5VnMMfpump",
+          "label": "🐸 Moon Frog",
+          "verdict": "kill",
+          "reason": "liq $4",
+          "subtitle": "liq $4",
+          "link": "https://fomo.family/coin?address=6VWCdBnZtCGkGK3QbAyDqPoRW3sZHshTvj5VnMMfpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "8H5quX18d5wy8Lfj9q9shLdeZwcYKcCQySbwWW6Cpump",
+          "label": "schrodinger's cat",
+          "verdict": "kill",
+          "reason": "liq $17",
+          "subtitle": "liq $17",
+          "link": "https://fomo.family/coin?address=8H5quX18d5wy8Lfj9q9shLdeZwcYKcCQySbwWW6Cpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "Dbph5PMm2YMbzFp8AEbEQ4vyh65SayUVWQzCEjMypump",
           "label": "SPACE X",
@@ -66,22 +82,6 @@
           "reason": "+375282% in 1h",
           "subtitle": "+375282% in 1h",
           "link": "https://fomo.family/coin?address=C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "BE3LZxrrYSmwKdrPttBGD9RXY5UNWzFLep8r2Ycipump",
-          "label": "Blueface Official Coin",
-          "verdict": "kill",
-          "reason": "liq $1.9K",
-          "subtitle": "liq $1.9K",
-          "link": "https://fomo.family/coin?address=BE3LZxrrYSmwKdrPttBGD9RXY5UNWzFLep8r2Ycipump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "EZ5VwEKryrLFuvATMTX2VcZ4AtPsKZsgsDeHf8u5pump",
-          "label": "Honey Badger Don't Care",
-          "verdict": "kill",
-          "reason": "liq $3",
-          "subtitle": "liq $3",
-          "link": "https://fomo.family/coin?address=EZ5VwEKryrLFuvATMTX2VcZ4AtPsKZsgsDeHf8u5pump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-13T04:06:39.598052Z",
+      "heartbeat": "2026-11-13T04:07:49.715445Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-13T04:06:39.600687Z",
+      "heartbeat": "2026-11-13T04:07:49.716952Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-13T04:06:39.602444Z",
+      "heartbeat": "2026-11-13T04:07:49.717313Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-13T04:06:34.417905Z",
+      "heartbeat": "2026-11-13T04:07:49.433068Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
