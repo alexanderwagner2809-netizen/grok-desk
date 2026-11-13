@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T08:04:58.069775Z",
+  "ts": "2026-11-13T08:06:09.101116Z",
   "mint": "cuQhcWLpVL1t4Kjn5G5TGokVnZxdLEmSotLN5EEpump",
   "name": "ultra positive",
   "symbol": "up",
   "label": "ultra positive",
   "chain": "Solana",
-  "age": "12m old",
+  "age": "13m old",
   "migratedAt": "2026-11-13T07:52:57.156748Z",
   "pool": "AyYUWZD9VdC72thfrebTWBp8coiJgLbsTHRh9hP1vKYe",
   "creator": "7FVfSdnR9VPGjMtmBP1Hz9C2DFTpoNX8gVVRmnimnGt9",
   "holders": null,
   "link": "https://fomo.family/coin?address=cuQhcWLpVL1t4Kjn5G5TGokVnZxdLEmSotLN5EEpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.186e-10,
-  "priceTs": "2026-11-13T08:04:57.788159Z",
+  "price": 7.365e-10,
+  "priceTs": "2026-11-13T08:06:08.803703Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -96,12 +96,20 @@
       "l": 5.186e-10,
       "c": 5.186e-10,
       "v": 0.0
+    },
+    {
+      "t": 1794557160,
+      "o": 7.365e-10,
+      "h": 7.365e-10,
+      "l": 7.365e-10,
+      "c": 7.365e-10,
+      "v": 0.020000000000000018
     }
   ],
   "stats": {
     "marketCap": 1.0,
-    "liquidity": 1.26,
-    "volume24h": 109.53,
+    "liquidity": 1.48,
+    "volume24h": 109.55,
     "holders": null
   },
   "position": null,

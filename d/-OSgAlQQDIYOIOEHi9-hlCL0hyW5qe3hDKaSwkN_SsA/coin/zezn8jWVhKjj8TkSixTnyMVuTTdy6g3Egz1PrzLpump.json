@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T08:04:58.139999Z",
+  "ts": "2026-11-13T08:06:09.166621Z",
   "mint": "zezn8jWVhKjj8TkSixTnyMVuTTdy6g3Egz1PrzLpump",
   "name": "UDTF",
   "symbol": "UDTF",
@@ -11,8 +11,8 @@
   "creator": "FfwbXScAkKmNNM5yYqLWMVdQETibtzgNHEpso8ruWfSE",
   "holders": null,
   "link": "https://fomo.family/coin?address=zezn8jWVhKjj8TkSixTnyMVuTTdy6g3Egz1PrzLpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.03455,
-  "priceTs": "2026-11-13T08:04:57.925485Z",
+  "price": 0.03446,
+  "priceTs": "2026-11-13T08:06:08.991474Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -848,12 +848,20 @@
       "l": 0.03455,
       "c": 0.03455,
       "v": 0.0
+    },
+    {
+      "t": 1794557160,
+      "o": 0.03446,
+      "h": 0.03446,
+      "l": 0.03446,
+      "c": 0.03446,
+      "v": 346.9499999999998
     }
   ],
   "stats": {
-    "marketCap": 34541903.0,
-    "liquidity": 439971.92,
-    "volume24h": 259403.29,
+    "marketCap": 34457203.0,
+    "liquidity": 439431.88,
+    "volume24h": 260204.54,
     "holders": null
   },
   "position": null,
