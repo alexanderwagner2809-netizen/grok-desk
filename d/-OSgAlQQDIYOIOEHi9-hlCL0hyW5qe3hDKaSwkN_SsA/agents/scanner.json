@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T09:38:14.294507Z",
+  "ts": "2026-11-13T09:39:25.294569Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T09:38:12.650290Z",
+  "heartbeat": "2026-11-13T09:39:23.733991Z",
   "paused": false,
   "status": "running",
   "card": "502 pools",
   "count": 502,
   "passed": 0,
   "feed": [
+    {
+      "mint": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
+      "label": "he1iusmf",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "label": "Autism Coin",
@@ -66,19 +74,19 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "8D3tFBENjTjtio9EpGyCeXg4AQ4YjRzeiyawXMHpump",
-      "label": "UODF",
-      "verdict": "kill",
-      "reason": "+344779% in 1h",
-      "subtitle": "+344779% in 1h",
-      "link": "https://fomo.family/coin?address=8D3tFBENjTjtio9EpGyCeXg4AQ4YjRzeiyawXMHpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T09:39:00.771078Z",
+      "mint": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
+      "label": "he1iusmf",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T09:37:55.774610Z",
       "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "label": "Autism Coin",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $12.0K",
       "link": "https://fomo.family/coin?address=BKn5Lbn8thpk4LKwBWFYfCQtDepGF1evjrro73oupump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T08:58:12.831109Z",
-      "mint": "9jVR7y8c3sYKGAqgmGFj9FL7HdfQWTmjs84Pf5vQpump",
-      "label": "JENOVA",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=9jVR7y8c3sYKGAqgmGFj9FL7HdfQWTmjs84Pf5vQpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T09:39:00.771078Z",
+      "mint": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
+      "label": "he1iusmf",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T09:37:55.774610Z",
       "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "label": "Autism Coin",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $12.0K",
       "link": "https://fomo.family/coin?address=BKn5Lbn8thpk4LKwBWFYfCQtDepGF1evjrro73oupump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T08:58:12.831109Z",
-      "mint": "9jVR7y8c3sYKGAqgmGFj9FL7HdfQWTmjs84Pf5vQpump",
-      "label": "JENOVA",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=9jVR7y8c3sYKGAqgmGFj9FL7HdfQWTmjs84Pf5vQpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
