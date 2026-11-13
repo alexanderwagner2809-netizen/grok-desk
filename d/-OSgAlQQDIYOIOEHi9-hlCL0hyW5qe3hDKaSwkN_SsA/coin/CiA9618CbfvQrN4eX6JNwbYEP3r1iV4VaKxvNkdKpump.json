@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T09:54:46.618552Z",
+  "ts": "2026-11-13T09:55:56.748299Z",
   "mint": "CiA9618CbfvQrN4eX6JNwbYEP3r1iV4VaKxvNkdKpump",
-  "name": null,
-  "symbol": null,
-  "label": "CiA9618C",
+  "name": "King of Petty",
+  "symbol": "Petty",
+  "label": "King of Petty",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "2m old",
   "migratedAt": "2026-11-13T09:53:50.624075Z",
-  "pool": null,
+  "pool": "EuBABHi2rpZksiBYmaqWXE4BQ7LJdiULLVpnCkAZw9N5",
   "creator": "GXUpTQ2U6Egnq2dCnaBdeyFxzWirN7jo2kz91GLJgQBm",
   "holders": null,
   "link": "https://fomo.family/coin?address=CiA9618CbfvQrN4eX6JNwbYEP3r1iV4VaKxvNkdKpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.313e-08,
+  "priceTs": "2026-11-13T09:55:56.496299Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794563640,
+      "o": 6.12e-08,
+      "h": 6.12e-08,
+      "l": 6.12e-08,
+      "c": 6.12e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794563700,
+      "o": 1.313e-08,
+      "h": 1.313e-08,
+      "l": 1.313e-08,
+      "c": 1.313e-08,
+      "v": 213.18
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 26.0,
+    "liquidity": 17.16,
+    "volume24h": 687.12,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T09:54:47.101208Z",
+      "liquidity_usd": 30.35,
+      "top10_pct": null,
+      "h1_change_pct": -27.33,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $30"
+    }
+  ]
 }
