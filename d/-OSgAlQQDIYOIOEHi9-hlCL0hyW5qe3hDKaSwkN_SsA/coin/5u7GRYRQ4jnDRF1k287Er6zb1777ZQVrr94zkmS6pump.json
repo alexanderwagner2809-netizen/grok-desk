@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T11:50:49.549409Z",
+  "ts": "2026-11-13T11:52:00.138354Z",
   "mint": "5u7GRYRQ4jnDRF1k287Er6zb1777ZQVrr94zkmS6pump",
-  "name": null,
-  "symbol": null,
-  "label": "5u7GRYRQ",
+  "name": "Wokerea",
+  "symbol": "Wokerea",
+  "label": "Wokerea",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T11:50:01.103789Z",
-  "pool": null,
+  "pool": "2BG5obPDLxrSQxvhzuBjHytbgCRmq5hD2tyZo3H6dfWL",
   "creator": "FPCqMigMh4m6fWJ9SuJAnpKD4pLxrvhpAT7137ATo7vs",
   "holders": null,
   "link": "https://fomo.family/coin?address=5u7GRYRQ4jnDRF1k287Er6zb1777ZQVrr94zkmS6pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.775e-05,
+  "priceTs": "2026-11-13T11:51:59.883217Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794570660,
+      "o": 3.194e-05,
+      "h": 3.194e-05,
+      "l": 2.775e-05,
+      "c": 2.775e-05,
+      "v": 5365.99
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 27759.0,
+    "liquidity": 11257.71,
+    "volume24h": 21600.73,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T11:51:14.314875Z",
+      "liquidity_usd": 12152.7,
+      "top10_pct": null,
+      "h1_change_pct": -5.3,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $12.2K"
+    }
+  ]
 }
