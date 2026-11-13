@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-13T11:04:30.485468Z",
+  "mint": "5M1yNWHeAxjWkFCkgPy9Scgayan24mumH7vx1TPDpump",
+  "name": "Doomed Rocket",
+  "symbol": "DOOROC",
+  "label": "Doomed Rocket",
+  "chain": "Solana",
+  "age": "58m old",
+  "migratedAt": "2026-11-13T10:05:40.553061Z",
+  "pool": "5RiSwEmUb4hU1DSGqqjY5DS8Ae5vJDCr3NLr2RUdrXbs",
+  "creator": "9f64fk21GKBVwwWmmT4BGB2zFum5Dj4tNQpzkxQcMMFV",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=5M1yNWHeAxjWkFCkgPy9Scgayan24mumH7vx1TPDpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 1.41e-09,
+  "priceTs": "2026-11-13T11:04:30.168219Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794567780,
+      "o": 1.41e-09,
+      "h": 1.41e-09,
+      "l": 1.41e-09,
+      "c": 1.41e-09,
+      "v": 0.0
+    },
+    {
+      "t": 1794567840,
+      "o": 1.41e-09,
+      "h": 1.41e-09,
+      "l": 1.41e-09,
+      "c": 1.41e-09,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 3.0,
+    "liquidity": 4.17,
+    "volume24h": 58.5,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T11:03:47.664950Z",
+      "liquidity_usd": 4.17,
+      "top10_pct": null,
+      "h1_change_pct": -97.86,
+      "age_min": 58,
+      "verdict": "kill",
+      "reason": "liq $4"
+    }
+  ]
+}

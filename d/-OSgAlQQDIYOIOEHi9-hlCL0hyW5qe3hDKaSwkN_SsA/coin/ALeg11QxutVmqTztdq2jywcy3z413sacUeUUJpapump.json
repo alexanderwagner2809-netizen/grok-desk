@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T10:05:23.649770Z",
+  "ts": "2026-11-13T11:04:30.589966Z",
   "mint": "ALeg11QxutVmqTztdq2jywcy3z413sacUeUUJpapump",
   "name": "CLOCKED OUT",
   "symbol": "CLOCKED",
   "label": "CLOCKED OUT",
   "chain": "Solana",
-  "age": "1h old",
+  "age": "2h old",
   "migratedAt": "2026-11-13T09:02:50.831162Z",
   "pool": "FZsBejP9HMVPRKQ7JpJzSbACYqHxUnxii9Ht4ViM49sf",
   "creator": "2g6WuviWaNsT6xqANvoJdjtBgR6Zheh6DE2dXWhog5UL",
   "holders": null,
   "link": "https://fomo.family/coin?address=ALeg11QxutVmqTztdq2jywcy3z413sacUeUUJpapump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001049,
-  "priceTs": "2026-11-13T10:05:23.360078Z",
+  "price": 0.0001401,
+  "priceTs": "2026-11-13T11:04:30.168219Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -440,12 +440,20 @@
       "l": 0.0001049,
       "c": 0.0001049,
       "v": 2839.6600000000008
+    },
+    {
+      "t": 1794567840,
+      "o": 0.0001401,
+      "h": 0.0001401,
+      "l": 0.0001401,
+      "c": 0.0001401,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 102517.0,
-    "liquidity": 23071.57,
-    "volume24h": 73004.74,
+    "marketCap": 136871.0,
+    "liquidity": 27059.23,
+    "volume24h": 126367.63,
     "holders": null
   },
   "position": null,
