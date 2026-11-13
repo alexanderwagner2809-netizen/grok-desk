@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-13T19:32:06.499080Z",
+  "mint": "9wt2hpKxy3rVAtpELTkVYgKRNYqdMgAEmd2S3EZipump",
+  "name": "GOOP HEAD",
+  "symbol": "GOOPER",
+  "label": "GOOP HEAD",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-13T19:31:05.149233Z",
+  "pool": "2mxogVa7oiG4zGGutyfg5FPegMsPvMTvEgFNYXhQH9tp",
+  "creator": "3yCqEtoLEFGLGMmF5fQvQAVTSPmcNRzG2zZhSDfXYC2E",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=9wt2hpKxy3rVAtpELTkVYgKRNYqdMgAEmd2S3EZipump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 8.531e-09,
+  "priceTs": "2026-11-13T19:32:05.802418Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794598260,
+      "o": 3.633e-08,
+      "h": 3.633e-08,
+      "l": 3.633e-08,
+      "c": 3.633e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794598320,
+      "o": 8.531e-09,
+      "h": 8.531e-09,
+      "l": 8.531e-09,
+      "c": 8.531e-09,
+      "v": 194.79999999999998
+    }
+  ],
+  "stats": {
+    "marketCap": 17.0,
+    "liquidity": 19.76,
+    "volume24h": 332.15,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T19:31:31.609302Z",
+      "liquidity_usd": 38.21,
+      "top10_pct": null,
+      "h1_change_pct": -84.31,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $38"
+    }
+  ]
+}
