@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T20:17:58.665455Z",
+  "ts": "2026-11-13T20:19:10.377423Z",
   "mint": "Dp2NqsV7KCwnbcVAbuEJiuhJs7kGsT5KwD8PbT5Upump",
   "name": "ULTRAPAID",
   "symbol": "ULTRA",
@@ -11,8 +11,8 @@
   "creator": "K6Eh9fwKkrhVNq6SpRtJn7F4Myi3HUst5QP8x5BKHnR",
   "holders": null,
   "link": "https://fomo.family/coin?address=Dp2NqsV7KCwnbcVAbuEJiuhJs7kGsT5KwD8PbT5Upump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.485e-09,
-  "priceTs": "2026-11-13T20:17:58.574319Z",
+  "price": 4.926e-09,
+  "priceTs": "2026-11-13T20:19:10.286912Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -944,12 +944,20 @@
       "l": 5.485e-09,
       "c": 5.485e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794601140,
+      "o": 4.926e-09,
+      "h": 4.926e-09,
+      "l": 4.926e-09,
+      "c": 4.926e-09,
+      "v": 0.56
     }
   ],
   "stats": {
-    "marketCap": 11.0,
-    "liquidity": 19.37,
-    "volume24h": 1463.77,
+    "marketCap": 10.0,
+    "liquidity": 18.3,
+    "volume24h": 1464.34,
     "holders": null
   },
   "position": null,

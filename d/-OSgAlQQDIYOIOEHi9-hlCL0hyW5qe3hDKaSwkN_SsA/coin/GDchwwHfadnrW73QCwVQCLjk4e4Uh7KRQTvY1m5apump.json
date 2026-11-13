@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T20:17:58.653808Z",
+  "ts": "2026-11-13T20:19:10.366820Z",
   "mint": "GDchwwHfadnrW73QCwVQCLjk4e4Uh7KRQTvY1m5apump",
   "name": "GPU GUN",
   "symbol": "GPU",
@@ -11,8 +11,8 @@
   "creator": "3cvFL7rDzrBpWaAj3x1R5PfpMibVegGBSgQVJvKGQLgx",
   "holders": null,
   "link": "https://fomo.family/coin?address=GDchwwHfadnrW73QCwVQCLjk4e4Uh7KRQTvY1m5apump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 7.123e-10,
-  "priceTs": "2026-11-13T20:17:58.439174Z",
+  "price": 6.063e-10,
+  "priceTs": "2026-11-13T20:19:10.286912Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -832,12 +832,20 @@
       "l": 7.123e-10,
       "c": 7.123e-10,
       "v": 0.0
+    },
+    {
+      "t": 1794601140,
+      "o": 6.063e-10,
+      "h": 6.063e-10,
+      "l": 6.063e-10,
+      "c": 6.063e-10,
+      "v": 0.02
     }
   ],
   "stats": {
     "marketCap": 1.0,
-    "liquidity": 1.72,
-    "volume24h": 90.14,
+    "liquidity": 1.59,
+    "volume24h": 90.17,
     "holders": null
   },
   "position": null,

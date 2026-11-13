@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T20:17:58.657486Z",
+  "ts": "2026-11-13T20:19:10.370188Z",
   "mint": "CiA9618CbfvQrN4eX6JNwbYEP3r1iV4VaKxvNkdKpump",
   "name": "King of Petty",
   "symbol": "Petty",
@@ -11,8 +11,8 @@
   "creator": "GXUpTQ2U6Egnq2dCnaBdeyFxzWirN7jo2kz91GLJgQBm",
   "holders": null,
   "link": "https://fomo.family/coin?address=CiA9618CbfvQrN4eX6JNwbYEP3r1iV4VaKxvNkdKpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.19e-09,
-  "priceTs": "2026-11-13T20:17:58.574319Z",
+  "price": 1.009e-09,
+  "priceTs": "2026-11-13T20:19:10.286912Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -856,12 +856,20 @@
       "l": 1.19e-09,
       "c": 1.19e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794601140,
+      "o": 1.009e-09,
+      "h": 1.009e-09,
+      "l": 1.009e-09,
+      "c": 1.009e-09,
+      "v": 0.06
     }
   ],
   "stats": {
     "marketCap": 2.0,
-    "liquidity": 4.13,
-    "volume24h": 913.68,
+    "liquidity": 3.81,
+    "volume24h": 913.75,
     "holders": null
   },
   "position": null,

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T20:17:58.659124Z",
+  "ts": "2026-11-13T20:19:10.371780Z",
   "mint": "5j8PvQTY31dcVSjm31P2XCALxUsiEkq22aqeZam4pump",
   "name": "MoonChacha",
   "symbol": "MCH",
@@ -11,8 +11,8 @@
   "creator": "w49pEgjS8G4FxSzcb6ckAxNAPN4GbN7WwTjVQs7B8Fg",
   "holders": null,
   "link": "https://fomo.family/coin?address=5j8PvQTY31dcVSjm31P2XCALxUsiEkq22aqeZam4pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.515e-08,
-  "priceTs": "2026-11-13T20:17:58.574319Z",
+  "price": 1.444e-08,
+  "priceTs": "2026-11-13T20:19:10.286912Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -880,12 +880,20 @@
       "l": 1.515e-08,
       "c": 1.515e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794601140,
+      "o": 1.444e-08,
+      "h": 1.444e-08,
+      "l": 1.444e-08,
+      "c": 1.444e-08,
+      "v": 0.27
     }
   ],
   "stats": {
-    "marketCap": 30.0,
-    "liquidity": 58.6,
-    "volume24h": 1250.51,
+    "marketCap": 29.0,
+    "liquidity": 57.12,
+    "volume24h": 1250.78,
     "holders": null
   },
   "position": null,

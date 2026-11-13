@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T20:17:58.685800Z",
+  "ts": "2026-11-13T20:19:10.397273Z",
   "mint": "HjFQ24RtJKrP9gLgofNkupdjM5Z91iT62yhMmA5dpump",
   "name": "Rexton Coin",
   "symbol": "$REXTON",
@@ -11,8 +11,8 @@
   "creator": "13XfHNQTeQ4yMkk7SX5rWTdfW8PDkYCB7hgkGCxJrZ8N",
   "holders": null,
   "link": "https://fomo.family/coin?address=HjFQ24RtJKrP9gLgofNkupdjM5Z91iT62yhMmA5dpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.069e-08,
-  "priceTs": "2026-11-13T20:17:58.574319Z",
+  "price": 1.022e-08,
+  "priceTs": "2026-11-13T20:19:10.286912Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -984,12 +984,20 @@
       "l": 1.069e-08,
       "c": 1.069e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794601140,
+      "o": 1.022e-08,
+      "h": 1.022e-08,
+      "l": 1.022e-08,
+      "c": 1.022e-08,
+      "v": 0.53
     }
   ],
   "stats": {
-    "marketCap": 21.0,
-    "liquidity": 39.76,
-    "volume24h": 1551.3,
+    "marketCap": 20.0,
+    "liquidity": 38.87,
+    "volume24h": 1551.83,
     "holders": null
   },
   "position": null,

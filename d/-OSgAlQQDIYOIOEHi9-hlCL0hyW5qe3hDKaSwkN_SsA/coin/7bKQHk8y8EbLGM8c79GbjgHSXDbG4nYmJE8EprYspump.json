@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T20:17:58.640054Z",
+  "ts": "2026-11-13T20:19:10.353060Z",
   "mint": "7bKQHk8y8EbLGM8c79GbjgHSXDbG4nYmJE8EprYspump",
   "name": "🍌 BANANA WIZARD",
   "symbol": "$BWIZ",
@@ -11,8 +11,8 @@
   "creator": "K6Eh9fwKkrhVNq6SpRtJn7F4Myi3HUst5QP8x5BKHnR",
   "holders": null,
   "link": "https://fomo.family/coin?address=7bKQHk8y8EbLGM8c79GbjgHSXDbG4nYmJE8EprYspump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.83e-08,
-  "priceTs": "2026-11-13T20:17:58.439174Z",
+  "price": 1.766e-08,
+  "priceTs": "2026-11-13T20:19:10.161533Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -624,12 +624,20 @@
       "l": 1.83e-08,
       "c": 1.83e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794601140,
+      "o": 1.766e-08,
+      "h": 1.766e-08,
+      "l": 1.766e-08,
+      "c": 1.766e-08,
+      "v": 0.39
     }
   ],
   "stats": {
-    "marketCap": 37.0,
-    "liquidity": 56.53,
-    "volume24h": 6396.55,
+    "marketCap": 35.0,
+    "liquidity": 55.47,
+    "volume24h": 6396.94,
     "holders": null
   },
   "position": null,

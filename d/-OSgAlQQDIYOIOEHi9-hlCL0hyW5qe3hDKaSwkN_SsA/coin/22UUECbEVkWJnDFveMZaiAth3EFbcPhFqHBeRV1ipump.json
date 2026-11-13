@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T20:17:58.691519Z",
+  "ts": "2026-11-13T20:19:10.402713Z",
   "mint": "22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump",
   "name": "MEMBUY",
   "symbol": "$MBUY",
@@ -11,8 +11,8 @@
   "creator": "Eqj1iaJxesZczFAatoqwxBfCG5cRAAPn8qqeJrYxNPAd",
   "holders": null,
   "link": "https://fomo.family/coin?address=22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.453e-08,
-  "priceTs": "2026-11-13T20:17:58.574319Z",
+  "price": 1.138e-08,
+  "priceTs": "2026-11-13T20:19:10.286912Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1008,12 +1008,20 @@
       "l": 1.453e-08,
       "c": 1.453e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794601140,
+      "o": 1.138e-08,
+      "h": 1.138e-08,
+      "l": 1.138e-08,
+      "c": 1.138e-08,
+      "v": 4.54
     }
   ],
   "stats": {
-    "marketCap": 29.0,
-    "liquidity": 37.2,
-    "volume24h": 601.6,
+    "marketCap": 23.0,
+    "liquidity": 32.9,
+    "volume24h": 606.14,
     "holders": null
   },
   "position": null,
