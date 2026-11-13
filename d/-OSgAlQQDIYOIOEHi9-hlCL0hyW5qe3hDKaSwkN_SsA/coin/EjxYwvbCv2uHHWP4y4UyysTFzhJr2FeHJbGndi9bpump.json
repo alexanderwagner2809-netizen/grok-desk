@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T06:49:17.816485Z",
+  "ts": "2026-11-13T06:50:28.539745Z",
   "mint": "EjxYwvbCv2uHHWP4y4UyysTFzhJr2FeHJbGndi9bpump",
   "name": "cig",
   "symbol": "cig",
   "label": "cig",
   "chain": "Solana",
-  "age": "37m old",
+  "age": "38m old",
   "migratedAt": "2026-11-13T06:12:16.931242Z",
   "pool": "2RZK8y2MrwAp6E6mHzjW8wX6YHzhq3fX8pxJjzwp6Jth",
   "creator": "5i2aqky3ZUDkkhriAyhPBLLxSR8bZKvwEXPS2mT4Wvse",
   "holders": null,
   "link": "https://fomo.family/coin?address=EjxYwvbCv2uHHWP4y4UyysTFzhJr2FeHJbGndi9bpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.51e-06,
-  "priceTs": "2026-11-13T06:49:17.500910Z",
+  "price": 2.488e-06,
+  "priceTs": "2026-11-13T06:50:28.283257Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -272,12 +272,20 @@
       "l": 2.51e-06,
       "c": 2.51e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794552600,
+      "o": 2.488e-06,
+      "h": 2.488e-06,
+      "l": 2.488e-06,
+      "c": 2.488e-06,
+      "v": 40.96
     }
   ],
   "stats": {
-    "marketCap": 2292.0,
-    "liquidity": 2358.73,
-    "volume24h": 67663.65,
+    "marketCap": 2271.0,
+    "liquidity": 2342.0,
+    "volume24h": 67707.86,
     "holders": null
   },
   "position": null,

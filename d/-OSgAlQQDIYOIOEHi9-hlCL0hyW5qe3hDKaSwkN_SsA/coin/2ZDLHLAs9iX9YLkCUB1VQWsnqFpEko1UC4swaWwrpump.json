@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T06:49:17.959082Z",
+  "ts": "2026-11-13T06:50:28.516989Z",
   "mint": "2ZDLHLAs9iX9YLkCUB1VQWsnqFpEko1UC4swaWwrpump",
-  "name": null,
-  "symbol": null,
-  "label": "2ZDLHLAs",
+  "name": "Frozen Cat",
+  "symbol": "BRR",
+  "label": "Frozen Cat",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T06:48:54.016398Z",
-  "pool": null,
+  "pool": "2Nx2JwViHj6ZwtMjP2mCZamPFhXXv2MjXcQ5Qf1n4Cex",
   "creator": "DHvDE4oWxWFbEWyCSZ9BkYbjCmoL5dF71BuVyJqkBeL5",
   "holders": null,
   "link": "https://fomo.family/coin?address=2ZDLHLAs9iX9YLkCUB1VQWsnqFpEko1UC4swaWwrpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.134e-10,
+  "priceTs": "2026-11-13T06:50:28.283257Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794552540,
+      "o": 3.715e-09,
+      "h": 3.715e-09,
+      "l": 3.715e-09,
+      "c": 3.715e-09,
+      "v": 0.0
+    },
+    {
+      "t": 1794552600,
+      "o": 2.134e-10,
+      "h": 2.134e-10,
+      "l": 2.134e-10,
+      "c": 2.134e-10,
+      "v": 1.240000000000002
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 0.0,
+    "liquidity": 0.89,
+    "volume24h": 50.02,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T06:49:45.800940Z",
+      "liquidity_usd": 3.4,
+      "top10_pct": null,
+      "h1_change_pct": -80.63,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $3"
+    }
+  ]
 }

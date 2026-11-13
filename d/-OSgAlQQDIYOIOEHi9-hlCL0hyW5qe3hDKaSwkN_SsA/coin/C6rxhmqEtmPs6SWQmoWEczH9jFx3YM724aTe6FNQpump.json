@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T06:49:17.845644Z",
+  "ts": "2026-11-13T06:50:28.570894Z",
   "mint": "C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump",
   "name": "FOTF",
   "symbol": "FOTF",
@@ -11,8 +11,8 @@
   "creator": "4YBTG49uj2CA1255GGCvBK6E83VtLbLrSAA2v1vdExLH",
   "holders": null,
   "link": "https://fomo.family/coin?address=C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.147,
-  "priceTs": "2026-11-13T06:49:17.626887Z",
+  "price": 0.1463,
+  "priceTs": "2026-11-13T06:50:28.397561Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -600,12 +600,20 @@
       "l": 0.147,
       "c": 0.147,
       "v": 0.0
+    },
+    {
+      "t": 1794552600,
+      "o": 0.1463,
+      "h": 0.1463,
+      "l": 0.1463,
+      "c": 0.1463,
+      "v": 26.399999999999977
     }
   ],
   "stats": {
-    "marketCap": 147020453.0,
-    "liquidity": 908330.27,
-    "volume24h": 475685.94,
+    "marketCap": 146366096.0,
+    "liquidity": 906304.32,
+    "volume24h": 475838.99,
     "holders": null
   },
   "position": null,
