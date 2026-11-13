@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T06:28:00.677023Z",
+  "mint": "CLmsxz3ibZoeRSxaEfVL2cg3ziWNcdpnKANgArjipump",
+  "name": "goku coin",
+  "symbol": "sol",
+  "label": "goku coin",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-13T06:27:01.972054Z",
+  "pool": "7wmH99QYMVWymXMfCyR9FTdnwGH4r7ue3XbeaHYQs3vV",
+  "creator": "BVTetcq9FN7xdTGAVp8ByzxqEyT7fxSdzSNV4dkFv4Sg",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=CLmsxz3ibZoeRSxaEfVL2cg3ziWNcdpnKANgArjipump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 1.669e-08,
+  "priceTs": "2026-11-13T06:27:52.027378Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794551220,
+      "o": 2.869e-07,
+      "h": 2.869e-07,
+      "l": 1.669e-08,
+      "c": 1.669e-08,
+      "v": 136.54000000000002
+    }
+  ],
+  "stats": {
+    "marketCap": 33.0,
+    "liquidity": 28.92,
+    "volume24h": 136.55,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T06:27:41.936305Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 0.02,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
