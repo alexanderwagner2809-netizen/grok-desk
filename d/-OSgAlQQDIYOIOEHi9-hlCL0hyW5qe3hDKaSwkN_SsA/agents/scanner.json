@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T09:34:41.173667Z",
+  "ts": "2026-11-13T09:35:51.762341Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T09:34:39.289747Z",
+  "heartbeat": "2026-11-13T09:35:49.784248Z",
   "paused": false,
   "status": "running",
-  "card": "498 pools",
-  "count": 498,
+  "card": "499 pools",
+  "count": 499,
   "passed": 0,
   "feed": [
+    {
+      "mint": "5o8uhwxMZeRWHhcML5oy5jQ6EyyTRJ8beTBdVBKGpump",
+      "label": "Auda city",
+      "verdict": "kill",
+      "reason": "liq $35",
+      "subtitle": "liq $35",
+      "link": "https://fomo.family/coin?address=5o8uhwxMZeRWHhcML5oy5jQ6EyyTRJ8beTBdVBKGpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump",
       "label": "BORK GOLD DOG",
@@ -66,19 +74,19 @@
       "reason": "liq $5",
       "subtitle": "liq $5",
       "link": "https://fomo.family/coin?address=4EZXUidH3wQG11FGzTyPMeN2aSf9vBdJoepbyUVdpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "2iN5dW335agxuq8xHZ7WnsfYyH5dTyjiy52NCSEEpump",
-      "label": "Watched",
-      "verdict": "kill",
-      "reason": "liq $11.2K",
-      "subtitle": "liq $11.2K",
-      "link": "https://fomo.family/coin?address=2iN5dW335agxuq8xHZ7WnsfYyH5dTyjiy52NCSEEpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T09:35:07.469876Z",
+      "mint": "5o8uhwxMZeRWHhcML5oy5jQ6EyyTRJ8beTBdVBKGpump",
+      "label": "Auda city",
+      "verdict": "kill",
+      "reason": "liq $35",
+      "link": "https://fomo.family/coin?address=5o8uhwxMZeRWHhcML5oy5jQ6EyyTRJ8beTBdVBKGpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T09:33:16.470707Z",
       "mint": "5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump",
       "label": "BORK GOLD DOG",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $9",
       "link": "https://fomo.family/coin?address=6fi1Mgvb2howncx8UaynK6CJuXWpLatjm2FLhxWwpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T08:26:40.296144Z",
-      "mint": "BigjvNL6Ngaff9WZD1EA24FmZiHGtzTYvfCq5PwLpump",
-      "label": "dizzy turd",
-      "verdict": "kill",
-      "reason": "liq $17",
-      "link": "https://fomo.family/coin?address=BigjvNL6Ngaff9WZD1EA24FmZiHGtzTYvfCq5PwLpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T09:35:07.469876Z",
+      "mint": "5o8uhwxMZeRWHhcML5oy5jQ6EyyTRJ8beTBdVBKGpump",
+      "label": "Auda city",
+      "verdict": "kill",
+      "reason": "liq $35",
+      "link": "https://fomo.family/coin?address=5o8uhwxMZeRWHhcML5oy5jQ6EyyTRJ8beTBdVBKGpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T09:33:16.470707Z",
       "mint": "5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump",
       "label": "BORK GOLD DOG",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $9",
       "link": "https://fomo.family/coin?address=6fi1Mgvb2howncx8UaynK6CJuXWpLatjm2FLhxWwpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T08:26:40.296144Z",
-      "mint": "BigjvNL6Ngaff9WZD1EA24FmZiHGtzTYvfCq5PwLpump",
-      "label": "dizzy turd",
-      "verdict": "kill",
-      "reason": "liq $17",
-      "link": "https://fomo.family/coin?address=BigjvNL6Ngaff9WZD1EA24FmZiHGtzTYvfCq5PwLpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T09:34:40.202649Z",
+  "ts": "2026-11-13T09:35:50.393551Z",
   "mint": "5o8uhwxMZeRWHhcML5oy5jQ6EyyTRJ8beTBdVBKGpump",
-  "name": null,
-  "symbol": null,
-  "label": "5o8uhwxM",
+  "name": "Auda city",
+  "symbol": "Auda",
+  "label": "Auda city",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T09:34:06.413334Z",
-  "pool": null,
+  "pool": "9t7f9vriTupja8DA91khfJyECRqAv32JDkinGjWSxwHC",
   "creator": "7J7pG2EuXhrYBSweh4PRPcGUmW1jPgRjgv1MTd337Fja",
   "holders": null,
   "link": "https://fomo.family/coin?address=5o8uhwxMZeRWHhcML5oy5jQ6EyyTRJ8beTBdVBKGpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 6.977e-09,
+  "priceTs": "2026-11-13T09:35:50.106926Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794562500,
+      "o": 1.114e-08,
+      "h": 1.114e-08,
+      "l": 6.977e-09,
+      "c": 6.977e-09,
+      "v": 4.190000000000055
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 14.0,
+    "liquidity": 27.76,
+    "volume24h": 733.25,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T09:35:07.469876Z",
+      "liquidity_usd": 34.92,
+      "top10_pct": null,
+      "h1_change_pct": -97.79,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $35"
+    }
+  ]
 }
