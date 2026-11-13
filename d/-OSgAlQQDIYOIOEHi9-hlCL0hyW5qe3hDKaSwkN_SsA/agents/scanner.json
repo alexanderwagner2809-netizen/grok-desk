@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T19:39:24.338225Z",
+  "ts": "2026-11-13T19:40:39.439324Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T19:39:22.472500Z",
+  "heartbeat": "2026-11-13T19:40:37.526772Z",
   "paused": false,
   "status": "running",
-  "card": "539 pools",
-  "count": 539,
+  "card": "540 pools",
+  "count": 540,
   "passed": 0,
   "feed": [
+    {
+      "mint": "AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump",
+      "label": "Theranoses",
+      "verdict": "kill",
+      "reason": "liq $11.1K",
+      "subtitle": "liq $11.1K",
+      "link": "https://fomo.family/coin?address=AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "BALLFiNPXRhugiUXxstiegkpPeE4oWZhzHVohAxWbG2v",
       "label": "GTA 6 Lottery",
@@ -66,19 +74,19 @@
       "reason": "liq $15",
       "subtitle": "liq $15",
       "link": "https://fomo.family/coin?address=3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "12B5GT5CzCJhZaA2ciTUrjw32xG7vYLmq8SFhPzrpump",
-      "label": "UNITED CRYPTO INTELLIGENCE",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=12B5GT5CzCJhZaA2ciTUrjw32xG7vYLmq8SFhPzrpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T19:39:24.468231Z",
+      "mint": "AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump",
+      "label": "Theranoses",
+      "verdict": "kill",
+      "reason": "liq $11.1K",
+      "link": "https://fomo.family/coin?address=AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:32:55.583710Z",
       "mint": "BALLFiNPXRhugiUXxstiegkpPeE4oWZhzHVohAxWbG2v",
       "label": "GTA 6 Lottery",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $3",
       "link": "https://fomo.family/coin?address=3FhxQhUnU5XWpBf4wBvnaCis7aVq33rEcSJDXoT3pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:27:44.629805Z",
-      "mint": "7bKQHk8y8EbLGM8c79GbjgHSXDbG4nYmJE8EprYspump",
-      "label": "🍌 BANANA WIZARD",
-      "verdict": "kill",
-      "reason": "liq $333",
-      "link": "https://fomo.family/coin?address=7bKQHk8y8EbLGM8c79GbjgHSXDbG4nYmJE8EprYspump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T19:39:24.468231Z",
+      "mint": "AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump",
+      "label": "Theranoses",
+      "verdict": "kill",
+      "reason": "liq $11.1K",
+      "link": "https://fomo.family/coin?address=AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:32:55.583710Z",
       "mint": "BALLFiNPXRhugiUXxstiegkpPeE4oWZhzHVohAxWbG2v",
       "label": "GTA 6 Lottery",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $3",
       "link": "https://fomo.family/coin?address=3FhxQhUnU5XWpBf4wBvnaCis7aVq33rEcSJDXoT3pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:27:44.629805Z",
-      "mint": "7bKQHk8y8EbLGM8c79GbjgHSXDbG4nYmJE8EprYspump",
-      "label": "🍌 BANANA WIZARD",
-      "verdict": "kill",
-      "reason": "liq $333",
-      "link": "https://fomo.family/coin?address=7bKQHk8y8EbLGM8c79GbjgHSXDbG4nYmJE8EprYspump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
