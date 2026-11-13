@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-13T19:44:15.368800Z",
+  "mint": "5Aa7NLxGQMdNVSsGYdWrwfvbDWaYFrsWo3M4Wp52pump",
+  "name": "THIS IS GRINCH ",
+  "symbol": "GRINCH ",
+  "label": "THIS IS GRINCH ",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-13T19:43:09.248085Z",
+  "pool": "BAtc87DeGgwpZGALtp4J5UGELM1Abn9aEfeXrMCsDLZV",
+  "creator": "4kzA9PEdasnB7ttWw2CkjUE7fSsQHxc26fFpwuW9dcjf",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=5Aa7NLxGQMdNVSsGYdWrwfvbDWaYFrsWo3M4Wp52pump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 6.818e-10,
+  "priceTs": "2026-11-13T19:44:13.607409Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794598980,
+      "o": 2.463e-09,
+      "h": 2.463e-09,
+      "l": 2.463e-09,
+      "c": 2.463e-09,
+      "v": 0.0
+    },
+    {
+      "t": 1794599040,
+      "o": 6.818e-10,
+      "h": 6.818e-10,
+      "l": 6.818e-10,
+      "c": 6.818e-10,
+      "v": 0.7300000000000004
+    }
+  ],
+  "stats": {
+    "marketCap": 1.0,
+    "liquidity": 1.51,
+    "volume24h": 12.01,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T19:43:41.739518Z",
+      "liquidity_usd": 3.76,
+      "top10_pct": null,
+      "h1_change_pct": -88.49,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $4"
+    }
+  ]
+}

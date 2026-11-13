@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T19:43:02.462307Z",
+  "ts": "2026-11-13T19:44:15.369624Z",
   "mint": "9CkadiL8YThA3shWv11Vrc5W8dTEP9LtTUQSVRjBpump",
-  "name": null,
-  "symbol": null,
-  "label": "9CkadiL8",
+  "name": "9$",
+  "symbol": "Lets go",
+  "label": "9$",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T19:42:43.103251Z",
-  "pool": null,
+  "pool": "6hBhraBG8hf32SMXVf725iGwXZbnSD486aGb4ovtySdM",
   "creator": "3Mg9WFwRLJA4uyoBCKYJEfoq14y3z4t9uo4tW6kZ2M3P",
   "holders": null,
   "link": "https://fomo.family/coin?address=9CkadiL8YThA3shWv11Vrc5W8dTEP9LtTUQSVRjBpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 4.476e-10,
+  "priceTs": "2026-11-13T19:44:13.607409Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794598980,
+      "o": 7.253e-09,
+      "h": 7.253e-09,
+      "l": 7.253e-09,
+      "c": 7.253e-09,
+      "v": 0.0
+    },
+    {
+      "t": 1794599040,
+      "o": 4.476e-10,
+      "h": 4.476e-10,
+      "l": 4.476e-10,
+      "c": 4.476e-10,
+      "v": 2.2199999999999998
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 1.0,
+    "liquidity": 1.2,
+    "volume24h": 6.58,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T19:43:09.582096Z",
+      "liquidity_usd": 5.23,
+      "top10_pct": null,
+      "h1_change_pct": -61.26,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $5"
+    }
+  ]
 }
