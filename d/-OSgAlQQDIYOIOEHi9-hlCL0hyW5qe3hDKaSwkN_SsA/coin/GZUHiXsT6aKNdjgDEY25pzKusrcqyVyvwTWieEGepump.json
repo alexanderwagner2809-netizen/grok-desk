@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T09:06:20.700138Z",
+  "ts": "2026-11-13T09:07:31.218390Z",
   "mint": "GZUHiXsT6aKNdjgDEY25pzKusrcqyVyvwTWieEGepump",
   "name": "USOE",
   "symbol": "USOE",
   "label": "USOE",
   "chain": "Solana",
-  "age": "43m old",
+  "age": "44m old",
   "migratedAt": "2026-11-13T08:22:38.893128Z",
   "pool": "DRts11rzw1qx2MHBjN2Sh1MWXshyRLPdpdgKbAtvJ9mz",
   "creator": "9TiKR9Togyrc9a26cPjDkeTLT2qz4Vjkm6VSSzrqrnGC",
   "holders": null,
   "link": "https://fomo.family/coin?address=GZUHiXsT6aKNdjgDEY25pzKusrcqyVyvwTWieEGepump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.1145,
-  "priceTs": "2026-11-13T09:06:20.410581Z",
+  "price": 0.1149,
+  "priceTs": "2026-11-13T09:07:30.931298Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -312,12 +312,20 @@
       "l": 0.1145,
       "c": 0.1145,
       "v": 0.0
+    },
+    {
+      "t": 1794560820,
+      "o": 0.1149,
+      "h": 0.1149,
+      "l": 0.1149,
+      "c": 0.1149,
+      "v": 1.84
     }
   ],
   "stats": {
-    "marketCap": 114576958.0,
-    "liquidity": 801783.42,
-    "volume24h": 392284.47,
+    "marketCap": 114933602.0,
+    "liquidity": 802284.01,
+    "volume24h": 392286.31,
     "holders": null
   },
   "position": null,
