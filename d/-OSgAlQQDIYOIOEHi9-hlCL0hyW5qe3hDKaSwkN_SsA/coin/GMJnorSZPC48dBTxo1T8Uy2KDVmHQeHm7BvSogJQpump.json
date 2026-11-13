@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T07:21:25.398977Z",
+  "ts": "2026-11-13T07:22:34.222242Z",
   "mint": "GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump",
-  "name": null,
-  "symbol": null,
-  "label": "GMJnorSZ",
+  "name": "Cult of the Party Parrot",
+  "symbol": "PARROT",
+  "label": "Cult of the Party Parrot",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T07:20:36.465869Z",
-  "pool": null,
+  "pool": "6aSnRTyPF69FteqMtXog2QdmxNUoiwmQ8tXgc25zSW9L",
   "creator": "CFQrDFiiT1Nyj3186sWJpWgu4fn8ydk2gcW3okbwhrQX",
   "holders": null,
   "link": "https://fomo.family/coin?address=GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.351e-05,
+  "priceTs": "2026-11-13T07:22:33.925414Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794554460,
+      "o": 3.067e-05,
+      "h": 3.067e-05,
+      "l": 3.067e-05,
+      "c": 3.067e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794554520,
+      "o": 3.351e-05,
+      "h": 3.351e-05,
+      "l": 3.351e-05,
+      "c": 3.351e-05,
+      "v": 16946.82
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 33486.0,
+    "liquidity": 12497.72,
+    "volume24h": 24593.16,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T07:21:27.746438Z",
+      "liquidity_usd": 11816.85,
+      "top10_pct": null,
+      "h1_change_pct": -3.16,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $11.8K"
+    }
+  ]
 }

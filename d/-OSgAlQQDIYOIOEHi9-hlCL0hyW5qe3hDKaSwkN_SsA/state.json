@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T07:21:24.264573Z",
+  "ts": "2026-11-13T07:22:34.215504Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-13T07:21:23.602754Z",
+      "heartbeat": "2026-11-13T07:22:33.989065Z",
       "paused": false,
       "status": "running",
-      "card": "442 pools",
-      "count": 442,
+      "card": "444 pools",
+      "count": 444,
       "passed": 0,
       "feed": [
+        {
+          "mint": "7VtWtKQsV6cJRuhfc8xcSG59JFuE35z492scaiokpump",
+          "label": "banana bread",
+          "verdict": "kill",
+          "reason": "liq $2",
+          "subtitle": "liq $2",
+          "link": "https://fomo.family/coin?address=7VtWtKQsV6cJRuhfc8xcSG59JFuE35z492scaiokpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump",
+          "label": "Cult of the Party Parrot",
+          "verdict": "kill",
+          "reason": "liq $11.8K",
+          "subtitle": "liq $11.8K",
+          "link": "https://fomo.family/coin?address=GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump",
           "label": "APPLE",
@@ -66,22 +82,6 @@
           "reason": "liq $3",
           "subtitle": "liq $3",
           "link": "https://fomo.family/coin?address=2ZDLHLAs9iX9YLkCUB1VQWsnqFpEko1UC4swaWwrpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "24hDgTPcE7WDExRE5xmnW6BCbjnusNKviN8t8UEUpump",
-          "label": "Puppy",
-          "verdict": "kill",
-          "reason": "liq $0",
-          "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=24hDgTPcE7WDExRE5xmnW6BCbjnusNKviN8t8UEUpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "7L1hABSHh6GofDqVhFtMPFhW5K2sHQ9UQrp6SC8pump",
-          "label": "Alien Shiba Inux",
-          "verdict": "kill",
-          "reason": "liq $4",
-          "subtitle": "liq $4",
-          "link": "https://fomo.family/coin?address=7L1hABSHh6GofDqVhFtMPFhW5K2sHQ9UQrp6SC8pump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-13T07:21:23.529750Z",
+      "heartbeat": "2026-11-13T07:22:33.708104Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-13T07:21:23.531766Z",
+      "heartbeat": "2026-11-13T07:22:33.709881Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-13T07:21:23.532509Z",
+      "heartbeat": "2026-11-13T07:22:33.710219Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-13T07:21:20.237467Z",
+      "heartbeat": "2026-11-13T07:22:20.251498Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
