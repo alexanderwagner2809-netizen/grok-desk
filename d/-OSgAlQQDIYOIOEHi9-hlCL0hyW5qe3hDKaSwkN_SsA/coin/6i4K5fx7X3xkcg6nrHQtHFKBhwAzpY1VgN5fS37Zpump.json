@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T11:48:26.570563Z",
+  "ts": "2026-11-13T11:49:37.838623Z",
   "mint": "6i4K5fx7X3xkcg6nrHQtHFKBhwAzpY1VgN5fS37Zpump",
-  "name": null,
-  "symbol": null,
-  "label": "6i4K5fx7",
+  "name": "Alcapone",
+  "symbol": "Alcapone",
+  "label": "Alcapone",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T11:47:53.151548Z",
-  "pool": null,
+  "pool": "J2aiGDi8nHe2DVqT3TNaXfqj2B9xuZnSipAHZZGJEzAQ",
   "creator": "5nqpAoaFL6rTHH7TVFnjzWernz5VvFh2Z9WhQXzrb4S8",
   "holders": null,
   "link": "https://fomo.family/coin?address=6i4K5fx7X3xkcg6nrHQtHFKBhwAzpY1VgN5fS37Zpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 9.719e-08,
+  "priceTs": "2026-11-13T11:49:37.558512Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794570480,
+      "o": 1.571e-08,
+      "h": 1.571e-08,
+      "l": 1.571e-08,
+      "c": 1.571e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794570540,
+      "o": 9.719e-08,
+      "h": 9.719e-08,
+      "l": 9.719e-08,
+      "c": 9.719e-08,
+      "v": 57.20999999999998
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 194.0,
+    "liquidity": 100.97,
+    "volume24h": 558.37,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T11:48:33.792114Z",
+      "liquidity_usd": 71.05,
+      "top10_pct": null,
+      "h1_change_pct": -97.35,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $71"
+    }
+  ]
 }

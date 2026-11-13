@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:48:26.049105Z",
+  "ts": "2026-11-13T11:49:37.862369Z",
   "mint": "6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE",
   "name": "Solana OS",
   "symbol": "SolanaOS",
@@ -11,8 +11,8 @@
   "creator": "HTGMM9anZj72a82g3sQbJ4tvQKLMsvcYCz9MDmWerNFd",
   "holders": null,
   "link": "https://fomo.family/coin?address=6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.518e-06,
-  "priceTs": "2026-11-13T11:48:25.768476Z",
+  "price": 3.389e-06,
+  "priceTs": "2026-11-13T11:49:37.558512Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -496,12 +496,20 @@
       "l": 3.518e-06,
       "c": 3.518e-06,
       "v": 81.65
+    },
+    {
+      "t": 1794570540,
+      "o": 3.389e-06,
+      "h": 3.389e-06,
+      "l": 3.389e-06,
+      "c": 3.389e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 3372.0,
-    "liquidity": 3091.02,
-    "volume24h": 141167.71,
+    "marketCap": 3249.0,
+    "liquidity": 3007.62,
+    "volume24h": 141172.07,
     "holders": null
   },
   "position": null,
