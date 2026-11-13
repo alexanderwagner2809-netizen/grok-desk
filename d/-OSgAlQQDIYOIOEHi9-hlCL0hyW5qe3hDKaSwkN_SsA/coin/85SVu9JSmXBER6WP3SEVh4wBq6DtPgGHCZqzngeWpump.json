@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:37:44.251463Z",
+  "ts": "2026-11-13T11:38:54.898693Z",
   "mint": "85SVu9JSmXBER6WP3SEVh4wBq6DtPgGHCZqzngeWpump",
   "name": "Chad On Puter",
   "symbol": "CHAD",
@@ -11,8 +11,8 @@
   "creator": "7ts9Ey7cAUuHpgzqFzH1ZBkGa5XoEnBJWqPFo22CGh79",
   "holders": null,
   "link": "https://fomo.family/coin?address=85SVu9JSmXBER6WP3SEVh4wBq6DtPgGHCZqzngeWpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.229e-06,
-  "priceTs": "2026-11-13T11:37:44.123303Z",
+  "price": 6.143e-06,
+  "priceTs": "2026-11-13T11:38:54.770884Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1264,12 +1264,20 @@
       "l": 6.229e-06,
       "c": 6.229e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794569880,
+      "o": 6.143e-06,
+      "h": 6.143e-06,
+      "l": 6.143e-06,
+      "c": 6.143e-06,
+      "v": 7.39
     }
   ],
   "stats": {
-    "marketCap": 5503.0,
-    "liquidity": 4533.3,
-    "volume24h": 31857.64,
+    "marketCap": 5427.0,
+    "liquidity": 4484.82,
+    "volume24h": 31865.03,
     "holders": null
   },
   "position": null,
