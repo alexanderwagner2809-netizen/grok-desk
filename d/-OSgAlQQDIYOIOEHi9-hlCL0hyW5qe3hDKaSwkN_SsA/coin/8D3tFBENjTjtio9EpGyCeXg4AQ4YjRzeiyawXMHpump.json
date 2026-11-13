@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T09:31:07.798152Z",
+  "ts": "2026-11-13T09:32:18.201614Z",
   "mint": "8D3tFBENjTjtio9EpGyCeXg4AQ4YjRzeiyawXMHpump",
-  "name": null,
-  "symbol": null,
-  "label": "8D3tFBEN",
+  "name": "UODF",
+  "symbol": "UODF",
+  "label": "UODF",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "2m old",
   "migratedAt": "2026-11-13T09:30:15.693829Z",
-  "pool": null,
+  "pool": "5WrsXARW6W1ecJbnDF4VZ2s4ccLKywwWe5iBUbJ7DRCj",
   "creator": "7CebXsWjm9jeW52LzXtEPwvHDVtZFE7PEfpRDuiQbGmD",
   "holders": null,
   "link": "https://fomo.family/coin?address=8D3tFBENjTjtio9EpGyCeXg4AQ4YjRzeiyawXMHpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 0.1144,
+  "priceTs": "2026-11-13T09:32:17.892140Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794562260,
+      "o": 0.115,
+      "h": 0.115,
+      "l": 0.115,
+      "c": 0.115,
+      "v": 0.0
+    },
+    {
+      "t": 1794562320,
+      "o": 0.1144,
+      "h": 0.1144,
+      "l": 0.1144,
+      "c": 0.1144,
+      "v": 23.53000000002794
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 114470422.0,
+    "liquidity": 803943.93,
+    "volume24h": 398199.9,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T09:31:17.225184Z",
+      "liquidity_usd": 805858.91,
+      "top10_pct": null,
+      "h1_change_pct": 344779.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "+344779% in 1h"
+    }
+  ]
 }
