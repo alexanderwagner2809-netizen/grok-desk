@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:16:22.997969Z",
+  "ts": "2026-11-13T11:17:34.683252Z",
   "mint": "BKn5Lbn8thpk4LKwBWFYfCQtDepGF1evjrro73oupump",
   "name": "サクラ",
   "symbol": "Sakura",
@@ -11,8 +11,8 @@
   "creator": "74VnZRjARgNrz3gVvXTzH3ND34ryFkuvcz5CMs5tpBFi",
   "holders": null,
   "link": "https://fomo.family/coin?address=BKn5Lbn8thpk4LKwBWFYfCQtDepGF1evjrro73oupump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.834e-05,
-  "priceTs": "2026-11-13T11:16:22.795690Z",
+  "price": 2.001e-05,
+  "priceTs": "2026-11-13T11:17:34.510152Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -536,12 +536,20 @@
       "l": 1.834e-05,
       "c": 1.834e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794568620,
+      "o": 2.001e-05,
+      "h": 2.001e-05,
+      "l": 2.001e-05,
+      "c": 2.001e-05,
+      "v": 242.44000000000005
     }
   ],
   "stats": {
-    "marketCap": 17584.0,
-    "liquidity": 8892.56,
-    "volume24h": 148578.92,
+    "marketCap": 19186.0,
+    "liquidity": 9352.13,
+    "volume24h": 148821.36,
     "holders": null
   },
   "position": null,

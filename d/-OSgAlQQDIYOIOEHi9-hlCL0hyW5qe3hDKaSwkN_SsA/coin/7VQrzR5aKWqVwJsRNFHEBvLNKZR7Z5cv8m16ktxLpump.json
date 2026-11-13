@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:16:23.029882Z",
+  "ts": "2026-11-13T11:17:34.712868Z",
   "mint": "7VQrzR5aKWqVwJsRNFHEBvLNKZR7Z5cv8m16ktxLpump",
   "name": "squishy",
   "symbol": "SQUISHY",
@@ -11,8 +11,8 @@
   "creator": "2pCJmG2nAEr9TennPSN2rEQwY4DJyAybCxbhC97YSSb8",
   "holders": null,
   "link": "https://fomo.family/coin?address=7VQrzR5aKWqVwJsRNFHEBvLNKZR7Z5cv8m16ktxLpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.441e-05,
-  "priceTs": "2026-11-13T11:16:22.795690Z",
+  "price": 6.579e-05,
+  "priceTs": "2026-11-13T11:17:34.510152Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -896,12 +896,20 @@
       "l": 6.441e-05,
       "c": 6.441e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794568620,
+      "o": 6.579e-05,
+      "h": 6.579e-05,
+      "l": 6.579e-05,
+      "c": 6.579e-05,
+      "v": 3.84
     }
   ],
   "stats": {
-    "marketCap": 60762.0,
-    "liquidity": 17684.0,
-    "volume24h": 12657.84,
+    "marketCap": 62064.0,
+    "liquidity": 17899.63,
+    "volume24h": 12661.68,
     "holders": null
   },
   "position": null,
