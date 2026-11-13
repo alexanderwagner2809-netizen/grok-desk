@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T20:10:50.028640Z",
+  "ts": "2026-11-13T20:12:01.340345Z",
   "mint": "BGWZHbRT6PekFcevoVGyxrDTwVqBBVFdjkxBi9znpump",
   "name": "Yuna",
   "symbol": "YUNA",
   "label": "Yuna",
   "chain": "Solana",
-  "age": "13m old",
+  "age": "14m old",
   "migratedAt": "2026-11-13T19:57:46.238788Z",
   "pool": "C6fr3YgY8E6ysLZREr6GXD7Lw3WquFMBN8FRdzqmFctC",
   "creator": "FDhAnCaxxzN8une9K1qjNBUvLcjbVd3J2SsvUZC3UiaM",
   "holders": null,
   "link": "https://fomo.family/coin?address=BGWZHbRT6PekFcevoVGyxrDTwVqBBVFdjkxBi9znpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.283e-06,
-  "priceTs": "2026-11-13T20:10:49.705760Z",
+  "price": 3.245e-06,
+  "priceTs": "2026-11-13T20:12:01.010209Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -104,12 +104,20 @@
       "l": 3.283e-06,
       "c": 3.283e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794600720,
+      "o": 3.245e-06,
+      "h": 3.245e-06,
+      "l": 3.245e-06,
+      "c": 3.245e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 3279.0,
-    "liquidity": 2939.59,
-    "volume24h": 47494.95,
+    "marketCap": 3242.0,
+    "liquidity": 2914.83,
+    "volume24h": 47506.44,
     "holders": null
   },
   "position": null,
