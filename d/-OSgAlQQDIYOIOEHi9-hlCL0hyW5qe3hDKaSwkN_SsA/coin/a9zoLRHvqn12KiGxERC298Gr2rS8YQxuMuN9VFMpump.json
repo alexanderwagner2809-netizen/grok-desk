@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T05:09:08.808337Z",
+  "ts": "2026-11-13T05:10:19.001078Z",
   "mint": "a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump",
   "name": "Fandemonium",
   "symbol": "FANDEMON",
@@ -11,8 +11,8 @@
   "creator": "DczrtPzxmULsSXPdraAtATUNivt7tZPoEDvqjpqtY23j",
   "holders": null,
   "link": "https://fomo.family/coin?address=a9zoLRHvqn12KiGxERC298Gr2rS8YQxuMuN9VFMpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.56e-06,
-  "priceTs": "2026-11-13T05:09:08.644933Z",
+  "price": 1.546e-06,
+  "priceTs": "2026-11-13T05:10:18.817888Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -528,12 +528,20 @@
       "l": 1.56e-06,
       "c": 1.56e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794546600,
+      "o": 1.546e-06,
+      "h": 1.546e-06,
+      "l": 1.546e-06,
+      "c": 1.546e-06,
+      "v": 0.33
     }
   ],
   "stats": {
-    "marketCap": 1548.0,
-    "liquidity": 1677.24,
-    "volume24h": 775592.0,
+    "marketCap": 1534.0,
+    "liquidity": 1658.93,
+    "volume24h": 775592.33,
     "holders": null
   },
   "position": null,
