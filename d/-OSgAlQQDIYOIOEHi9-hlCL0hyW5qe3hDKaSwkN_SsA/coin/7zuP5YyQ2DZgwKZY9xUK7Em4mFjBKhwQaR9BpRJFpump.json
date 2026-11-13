@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T09:51:12.551430Z",
+  "ts": "2026-11-13T09:52:23.782584Z",
   "mint": "7zuP5YyQ2DZgwKZY9xUK7Em4mFjBKhwQaR9BpRJFpump",
   "name": "FreakHouse",
   "symbol": "FHC",
@@ -11,8 +11,8 @@
   "creator": "GZTWXKdJYLqdSiMAqBGiRSEH3xx5GC6wDCBq7KPWt18s",
   "holders": null,
   "link": "https://fomo.family/coin?address=7zuP5YyQ2DZgwKZY9xUK7Em4mFjBKhwQaR9BpRJFpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.909e-09,
-  "priceTs": "2026-11-13T09:51:12.454526Z",
+  "price": 4.104e-09,
+  "priceTs": "2026-11-13T09:52:23.684941Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1016,12 +1016,20 @@
       "l": 3.909e-09,
       "c": 3.909e-09,
       "v": 0.08000000000000002
+    },
+    {
+      "t": 1794563520,
+      "o": 4.104e-09,
+      "h": 4.104e-09,
+      "l": 4.104e-09,
+      "c": 4.104e-09,
+      "v": 0.07999999999999996
     }
   ],
   "stats": {
     "marketCap": 8.0,
-    "liquidity": 6.45,
-    "volume24h": 56.97,
+    "liquidity": 6.61,
+    "volume24h": 57.05,
     "holders": null
   },
   "position": null,
