@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T20:00:05.542462Z",
+  "ts": "2026-11-13T20:01:16.648068Z",
   "mint": "AEiq5qgDmHbbmCvoGYfrxkFLivcnst4BUsXhqbyepump",
-  "name": null,
-  "symbol": null,
-  "label": "AEiq5qgD",
+  "name": "Greatest Memecoin Ever",
+  "symbol": "GME",
+  "label": "Greatest Memecoin Ever",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T19:59:27.578791Z",
-  "pool": null,
+  "pool": "3VZn4JsfCsyUCctiNjbWNhSMwHbe4pFE7VLyPdAejsyq",
   "creator": "5n8TF2L7cBVSWa5rwKXNPyPXjPMaVRNUaLWDyqZu6nrP",
   "holders": null,
   "link": "https://fomo.family/coin?address=AEiq5qgDmHbbmCvoGYfrxkFLivcnst4BUsXhqbyepump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.704e-05,
+  "priceTs": "2026-11-13T20:01:16.347627Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794600000,
+      "o": 5.399e-05,
+      "h": 5.399e-05,
+      "l": 5.399e-05,
+      "c": 5.399e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794600060,
+      "o": 3.704e-05,
+      "h": 3.704e-05,
+      "l": 3.704e-05,
+      "c": 3.704e-05,
+      "v": 7515.550000000001
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 37010.0,
+    "liquidity": 15637.28,
+    "volume24h": 9562.7,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T20:00:19.745528Z",
+      "liquidity_usd": 19246.99,
+      "top10_pct": null,
+      "h1_change_pct": 7.25,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $19.2K"
+    }
+  ]
 }

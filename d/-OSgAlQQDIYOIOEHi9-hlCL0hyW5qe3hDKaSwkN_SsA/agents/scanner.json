@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T20:00:06.420605Z",
+  "ts": "2026-11-13T20:01:18.466926Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T20:00:03.677592Z",
+  "heartbeat": "2026-11-13T20:01:16.065055Z",
   "paused": false,
   "status": "running",
-  "card": "560 pools",
-  "count": 560,
+  "card": "561 pools",
+  "count": 561,
   "passed": 0,
   "feed": [
+    {
+      "mint": "AEiq5qgDmHbbmCvoGYfrxkFLivcnst4BUsXhqbyepump",
+      "label": "Greatest Memecoin Ever",
+      "verdict": "kill",
+      "reason": "liq $19.2K",
+      "subtitle": "liq $19.2K",
+      "link": "https://fomo.family/coin?address=AEiq5qgDmHbbmCvoGYfrxkFLivcnst4BUsXhqbyepump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "bSU2Zy75MJiF25Y1VcV9ARhJv2hfai9w38vW1q6pump",
       "label": "Fede The Flamingo",
@@ -66,19 +74,19 @@
       "reason": "+136% in 1h",
       "subtitle": "+136% in 1h",
       "link": "https://fomo.family/coin?address=C5jaQ3sUjdKJLcyTS4tSnmj2PsiXkYWZXyA3gxm3pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "23ta8hgrBRnHKHVaXoTtERGKV8ec8XFd4Ut2btSVpump",
-      "label": "ELONCAT",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=23ta8hgrBRnHKHVaXoTtERGKV8ec8XFd4Ut2btSVpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T20:00:19.745528Z",
+      "mint": "AEiq5qgDmHbbmCvoGYfrxkFLivcnst4BUsXhqbyepump",
+      "label": "Greatest Memecoin Ever",
+      "verdict": "kill",
+      "reason": "liq $19.2K",
+      "link": "https://fomo.family/coin?address=AEiq5qgDmHbbmCvoGYfrxkFLivcnst4BUsXhqbyepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:59:00.016955Z",
       "mint": "bSU2Zy75MJiF25Y1VcV9ARhJv2hfai9w38vW1q6pump",
       "label": "Fede The Flamingo",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $12.3K",
       "link": "https://fomo.family/coin?address=Gta6uoekEj831ppDPD4EiX3Xj9tW8SxR5rzCsF7cLeEk&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T19:42:05.100923Z",
-      "mint": "GXbhJB9Vx1n5JZ74ghk18UT59oNqKJKfLNPzKmhzpump",
-      "label": "Zelda",
-      "verdict": "kill",
-      "reason": "liq $12.6K",
-      "link": "https://fomo.family/coin?address=GXbhJB9Vx1n5JZ74ghk18UT59oNqKJKfLNPzKmhzpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T20:00:19.745528Z",
+      "mint": "AEiq5qgDmHbbmCvoGYfrxkFLivcnst4BUsXhqbyepump",
+      "label": "Greatest Memecoin Ever",
+      "verdict": "kill",
+      "reason": "liq $19.2K",
+      "link": "https://fomo.family/coin?address=AEiq5qgDmHbbmCvoGYfrxkFLivcnst4BUsXhqbyepump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:59:00.016955Z",
       "mint": "bSU2Zy75MJiF25Y1VcV9ARhJv2hfai9w38vW1q6pump",
       "label": "Fede The Flamingo",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $12.3K",
       "link": "https://fomo.family/coin?address=Gta6uoekEj831ppDPD4EiX3Xj9tW8SxR5rzCsF7cLeEk&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T19:42:05.100923Z",
-      "mint": "GXbhJB9Vx1n5JZ74ghk18UT59oNqKJKfLNPzKmhzpump",
-      "label": "Zelda",
-      "verdict": "kill",
-      "reason": "liq $12.6K",
-      "link": "https://fomo.family/coin?address=GXbhJB9Vx1n5JZ74ghk18UT59oNqKJKfLNPzKmhzpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
