@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T09:53:34.625539Z",
+  "ts": "2026-11-13T09:54:45.755499Z",
   "mint": "FiyjB5MkfxfePDgw9gAsmbArWpuTbkCMyoMvVFQJpump",
   "name": "Friendsgiving",
   "symbol": "FRIEND",
@@ -11,8 +11,8 @@
   "creator": "2FZ8uexMUxzC3weMS78CsF1hvUiZdeJjU1KaEtgUUBcr",
   "holders": null,
   "link": "https://fomo.family/coin?address=FiyjB5MkfxfePDgw9gAsmbArWpuTbkCMyoMvVFQJpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.146e-05,
-  "priceTs": "2026-11-13T09:53:34.344485Z",
+  "price": 1.133e-05,
+  "priceTs": "2026-11-13T09:54:45.491291Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -760,12 +760,20 @@
       "l": 1.146e-05,
       "c": 1.146e-05,
       "v": 15.64
+    },
+    {
+      "t": 1794563640,
+      "o": 1.133e-05,
+      "h": 1.133e-05,
+      "l": 1.133e-05,
+      "c": 1.133e-05,
+      "v": 5.349999999999998
     }
   ],
   "stats": {
-    "marketCap": 12216.0,
-    "liquidity": 3662.19,
-    "volume24h": 1798.62,
+    "marketCap": 12076.0,
+    "liquidity": 3641.2,
+    "volume24h": 1803.96,
     "holders": null
   },
   "position": null,
