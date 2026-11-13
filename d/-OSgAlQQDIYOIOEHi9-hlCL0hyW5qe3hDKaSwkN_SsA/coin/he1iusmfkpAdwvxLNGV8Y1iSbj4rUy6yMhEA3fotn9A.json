@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T12:03:52.354531Z",
+  "ts": "2026-11-13T19:26:06.945090Z",
   "mint": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
   "name": null,
   "symbol": null,
   "label": "he1iusmf",
   "chain": "Solana",
-  "age": "2h old",
+  "age": "10h old",
   "migratedAt": "2026-11-13T09:18:59.907078Z",
   "pool": null,
   "creator": null,
   "holders": null,
   "link": "https://fomo.family/coin?address=he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A&chainId=1399811149&r=savipww&source=share_link",
   "price": 478657.015,
-  "priceTs": "2026-11-13T12:03:52.171622Z",
+  "priceTs": "2026-11-13T19:26:06.713097Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1376,12 +1376,20 @@
       "l": 478657.015,
       "c": 478657.015,
       "v": 0.0
+    },
+    {
+      "t": 1794597960,
+      "o": 478657.015,
+      "h": 478657.015,
+      "l": 478657.015,
+      "c": 478657.015,
+      "v": 0.0
     }
   ],
   "stats": {
     "marketCap": 235815332195.0,
-    "liquidity": 40533.43,
-    "volume24h": 32.91,
+    "liquidity": 32973.62,
+    "volume24h": 32.9,
     "holders": null
   },
   "position": null,

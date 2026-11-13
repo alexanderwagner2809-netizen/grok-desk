@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T12:03:52.398261Z",
+  "ts": "2026-11-13T19:26:07.015630Z",
   "mint": "vR2xYgjK1s9bXj7uDuh7nEwiKFUTeAxwcG4ub7Jpump",
   "name": "Global Oil Dividend Fund",
   "symbol": "GODF",
   "label": "Global Oil Dividend Fund",
   "chain": "Solana",
-  "age": "3h old",
+  "age": "10h old",
   "migratedAt": "2026-11-13T08:56:22.358750Z",
   "pool": "FoWnNsYivnH7iPtNAcf1Fbp3hPv1PpEYxRziW2ro11pw",
   "creator": "j7Ki7x6oByAQhGS281ePooxAPGWUxV5HY8GriKxdA4b",
   "holders": null,
   "link": "https://fomo.family/coin?address=vR2xYgjK1s9bXj7uDuh7nEwiKFUTeAxwcG4ub7Jpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.1127,
-  "priceTs": "2026-11-13T12:03:52.171622Z",
+  "price": 1.44e-06,
+  "priceTs": "2026-11-13T19:26:06.713097Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -896,12 +896,20 @@
       "l": 0.1127,
       "c": 0.1127,
       "v": 6.870000000000001
+    },
+    {
+      "t": 1794597960,
+      "o": 1.44e-06,
+      "h": 1.44e-06,
+      "l": 1.44e-06,
+      "c": 1.44e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 112720024.0,
-    "liquidity": 798921.63,
-    "volume24h": 391700.52,
+    "marketCap": 1441.0,
+    "liquidity": 1455.7,
+    "volume24h": 790854.5,
     "holders": null
   },
   "position": null,

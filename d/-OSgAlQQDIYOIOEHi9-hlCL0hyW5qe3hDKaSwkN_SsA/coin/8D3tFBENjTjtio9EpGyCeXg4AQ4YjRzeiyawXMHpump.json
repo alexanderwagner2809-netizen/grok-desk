@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T12:03:52.375337Z",
+  "ts": "2026-11-13T19:26:06.983071Z",
   "mint": "8D3tFBENjTjtio9EpGyCeXg4AQ4YjRzeiyawXMHpump",
   "name": "UODF",
   "symbol": "UODF",
   "label": "UODF",
   "chain": "Solana",
-  "age": "2h old",
+  "age": "9h old",
   "migratedAt": "2026-11-13T09:30:15.693829Z",
   "pool": "5WrsXARW6W1ecJbnDF4VZ2s4ccLKywwWe5iBUbJ7DRCj",
   "creator": "7CebXsWjm9jeW52LzXtEPwvHDVtZFE7PEfpRDuiQbGmD",
   "holders": null,
   "link": "https://fomo.family/coin?address=8D3tFBENjTjtio9EpGyCeXg4AQ4YjRzeiyawXMHpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.1172,
-  "priceTs": "2026-11-13T12:03:52.171622Z",
+  "price": 2.061e-06,
+  "priceTs": "2026-11-13T19:26:06.713097Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -664,12 +664,20 @@
       "l": 0.1172,
       "c": 0.1172,
       "v": 2.4800000000000004
+    },
+    {
+      "t": 1794597960,
+      "o": 2.061e-06,
+      "h": 2.061e-06,
+      "l": 2.061e-06,
+      "c": 2.061e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 117201021.0,
-    "liquidity": 814674.4,
-    "volume24h": 398449.79,
+    "marketCap": 2062.0,
+    "liquidity": 2089.55,
+    "volume24h": 806353.65,
     "holders": null
   },
   "position": null,
