@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T07:37:54.337451Z",
+  "ts": "2026-11-13T07:39:04.177527Z",
   "mint": "EHaaMUkR2aPqF59wcugzxyTcbtc88824oPY7mE18pump",
-  "name": null,
-  "symbol": null,
-  "label": "EHaaMUkR",
+  "name": "Win Coin",
+  "symbol": "WinCoin",
+  "label": "Win Coin",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T07:37:27.850570Z",
-  "pool": null,
+  "pool": "FDNN1sm24WenLMqYhNeADPUa8v1LL1RT8xftKDiVXhMP",
   "creator": "7FVfSdnR9VPGjMtmBP1Hz9C2DFTpoNX8gVVRmnimnGt9",
   "holders": null,
   "link": "https://fomo.family/coin?address=EHaaMUkR2aPqF59wcugzxyTcbtc88824oPY7mE18pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.018e-09,
+  "priceTs": "2026-11-13T07:39:03.929116Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794555480,
+      "o": 2.927e-09,
+      "h": 2.927e-09,
+      "l": 2.927e-09,
+      "c": 2.927e-09,
+      "v": 0.0
+    },
+    {
+      "t": 1794555540,
+      "o": 1.018e-09,
+      "h": 1.018e-09,
+      "l": 1.018e-09,
+      "c": 1.018e-09,
+      "v": 0.860000000000003
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 2.0,
+    "liquidity": 1.47,
+    "volume24h": 19.67,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T07:38:13.051130Z",
+      "liquidity_usd": 3.16,
+      "top10_pct": null,
+      "h1_change_pct": -77.74,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $3"
+    }
+  ]
 }
