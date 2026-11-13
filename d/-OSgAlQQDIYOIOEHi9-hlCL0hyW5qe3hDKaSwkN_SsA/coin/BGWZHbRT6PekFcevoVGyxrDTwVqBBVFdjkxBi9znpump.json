@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T19:58:53.030890Z",
+  "mint": "BGWZHbRT6PekFcevoVGyxrDTwVqBBVFdjkxBi9znpump",
+  "name": "Yuna",
+  "symbol": "YUNA",
+  "label": "Yuna",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-13T19:57:46.238788Z",
+  "pool": "C6fr3YgY8E6ysLZREr6GXD7Lw3WquFMBN8FRdzqmFctC",
+  "creator": "FDhAnCaxxzN8une9K1qjNBUvLcjbVd3J2SsvUZC3UiaM",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=BGWZHbRT6PekFcevoVGyxrDTwVqBBVFdjkxBi9znpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.513e-05,
+  "priceTs": "2026-11-13T19:58:52.749801Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794599880,
+      "o": 3.953e-05,
+      "h": 3.953e-05,
+      "l": 3.513e-05,
+      "c": 3.513e-05,
+      "v": 6717.01
+    }
+  ],
+  "stats": {
+    "marketCap": 35087.0,
+    "liquidity": 12751.32,
+    "volume24h": 10574.51,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T19:58:36.118204Z",
+      "liquidity_usd": 13658.47,
+      "top10_pct": null,
+      "h1_change_pct": 1.3,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $13.7K"
+    }
+  ]
+}

@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T19:57:41.150501Z",
+  "ts": "2026-11-13T19:58:53.031678Z",
   "mint": "2CUsXJdV5gPu9SujUjvsXEaaJhmEk6J5wFGkh59epump",
-  "name": null,
-  "symbol": null,
-  "label": "2CUsXJdV",
+  "name": "Daniela The Immigrant",
+  "symbol": "Daniela",
+  "label": "Daniela The Immigrant",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T19:57:13.338866Z",
-  "pool": null,
+  "pool": "ZP8etiHUuBjoFgvSXLv71Gfu3mQ7HsRefMhhNGNbxB2",
   "creator": "EBMr5HP7hD94zvS1YPqXkYgq3ENXcG9942t38TQ354KU",
   "holders": null,
   "link": "https://fomo.family/coin?address=2CUsXJdV5gPu9SujUjvsXEaaJhmEk6J5wFGkh59epump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.772e-05,
+  "priceTs": "2026-11-13T19:58:52.749801Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794599880,
+      "o": 2.716e-05,
+      "h": 2.772e-05,
+      "l": 2.716e-05,
+      "c": 2.772e-05,
+      "v": 10767.05
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 27685.0,
+    "liquidity": 11131.77,
+    "volume24h": 16157.68,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T19:58:04.300722Z",
+      "liquidity_usd": 10970.92,
+      "top10_pct": null,
+      "h1_change_pct": -18.28,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $11.0K"
+    }
+  ]
 }

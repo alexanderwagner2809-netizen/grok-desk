@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-13T19:57:42.906829Z",
+  "ts": "2026-11-13T19:58:54.779158Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T19:57:40.250817Z",
+  "heartbeat": "2026-11-13T19:58:52.428428Z",
   "paused": false,
   "status": "running",
-  "card": "557 pools",
-  "count": 557,
+  "card": "559 pools",
+  "count": 559,
   "passed": 0,
   "feed": [
+    {
+      "mint": "BGWZHbRT6PekFcevoVGyxrDTwVqBBVFdjkxBi9znpump",
+      "label": "Yuna",
+      "verdict": "kill",
+      "reason": "liq $13.7K",
+      "subtitle": "liq $13.7K",
+      "link": "https://fomo.family/coin?address=BGWZHbRT6PekFcevoVGyxrDTwVqBBVFdjkxBi9znpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "2CUsXJdV5gPu9SujUjvsXEaaJhmEk6J5wFGkh59epump",
+      "label": "Daniela The Immigrant",
+      "verdict": "kill",
+      "reason": "liq $11.0K",
+      "subtitle": "liq $11.0K",
+      "link": "https://fomo.family/coin?address=2CUsXJdV5gPu9SujUjvsXEaaJhmEk6J5wFGkh59epump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "GcgdY59EMCYm9ChQeAJmWChYGMLE7jF8YYYec89ypump",
       "label": "buckme",
@@ -58,27 +74,27 @@
       "reason": "never qualified",
       "subtitle": "never qualified",
       "link": "https://fomo.family/coin?address=TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "3vKbL9MU2u6x7KAma4o8utbZDm8hBZm1k9QojSxKpump",
-      "label": "The Stoic Elephant",
-      "verdict": "kill",
-      "reason": "liq $11.8K",
-      "subtitle": "liq $11.8K",
-      "link": "https://fomo.family/coin?address=3vKbL9MU2u6x7KAma4o8utbZDm8hBZm1k9QojSxKpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "Hidkn2P7CSt2nM28f585mUs6DQB7LvGjGB3PjvqTpump",
-      "label": "999",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=Hidkn2P7CSt2nM28f585mUs6DQB7LvGjGB3PjvqTpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T19:58:36.118204Z",
+      "mint": "BGWZHbRT6PekFcevoVGyxrDTwVqBBVFdjkxBi9znpump",
+      "label": "Yuna",
+      "verdict": "kill",
+      "reason": "liq $13.7K",
+      "link": "https://fomo.family/coin?address=BGWZHbRT6PekFcevoVGyxrDTwVqBBVFdjkxBi9znpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T19:58:04.300722Z",
+      "mint": "2CUsXJdV5gPu9SujUjvsXEaaJhmEk6J5wFGkh59epump",
+      "label": "Daniela The Immigrant",
+      "verdict": "kill",
+      "reason": "liq $11.0K",
+      "link": "https://fomo.family/coin?address=2CUsXJdV5gPu9SujUjvsXEaaJhmEk6J5wFGkh59epump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:57:13.622751Z",
       "mint": "GcgdY59EMCYm9ChQeAJmWChYGMLE7jF8YYYec89ypump",
       "label": "buckme",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $15.7K",
       "link": "https://fomo.family/coin?address=E5iF4P6SEZVcyntYYcynXjS6Yzmc3oz7Hvp7ontpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T19:39:24.468231Z",
-      "mint": "AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump",
-      "label": "Theranoses",
-      "verdict": "kill",
-      "reason": "liq $11.1K",
-      "link": "https://fomo.family/coin?address=AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T19:32:55.583710Z",
-      "mint": "BALLFiNPXRhugiUXxstiegkpPeE4oWZhzHVohAxWbG2v",
-      "label": "GTA 6 Lottery",
-      "verdict": "kill",
-      "reason": "liq $16.8K",
-      "link": "https://fomo.family/coin?address=BALLFiNPXRhugiUXxstiegkpPeE4oWZhzHVohAxWbG2v&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T19:58:36.118204Z",
+      "mint": "BGWZHbRT6PekFcevoVGyxrDTwVqBBVFdjkxBi9znpump",
+      "label": "Yuna",
+      "verdict": "kill",
+      "reason": "liq $13.7K",
+      "link": "https://fomo.family/coin?address=BGWZHbRT6PekFcevoVGyxrDTwVqBBVFdjkxBi9znpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T19:58:04.300722Z",
+      "mint": "2CUsXJdV5gPu9SujUjvsXEaaJhmEk6J5wFGkh59epump",
+      "label": "Daniela The Immigrant",
+      "verdict": "kill",
+      "reason": "liq $11.0K",
+      "link": "https://fomo.family/coin?address=2CUsXJdV5gPu9SujUjvsXEaaJhmEk6J5wFGkh59epump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:57:13.622751Z",
       "mint": "GcgdY59EMCYm9ChQeAJmWChYGMLE7jF8YYYec89ypump",
       "label": "buckme",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $15.7K",
       "link": "https://fomo.family/coin?address=E5iF4P6SEZVcyntYYcynXjS6Yzmc3oz7Hvp7ontpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T19:39:24.468231Z",
-      "mint": "AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump",
-      "label": "Theranoses",
-      "verdict": "kill",
-      "reason": "liq $11.1K",
-      "link": "https://fomo.family/coin?address=AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T19:32:55.583710Z",
-      "mint": "BALLFiNPXRhugiUXxstiegkpPeE4oWZhzHVohAxWbG2v",
-      "label": "GTA 6 Lottery",
-      "verdict": "kill",
-      "reason": "liq $16.8K",
-      "link": "https://fomo.family/coin?address=BALLFiNPXRhugiUXxstiegkpPeE4oWZhzHVohAxWbG2v&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
