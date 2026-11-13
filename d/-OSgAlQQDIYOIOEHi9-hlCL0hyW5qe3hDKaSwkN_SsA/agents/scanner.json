@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T11:11:40.129070Z",
+  "ts": "2026-11-13T11:12:51.487933Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T11:11:37.885965Z",
+  "heartbeat": "2026-11-13T11:12:49.188892Z",
   "paused": false,
   "status": "running",
-  "card": "515 pools",
-  "count": 515,
+  "card": "516 pools",
+  "count": 516,
   "passed": 0,
   "feed": [
+    {
+      "mint": "6zhQUjZU7ndW5RiQUwJcrnktsB7QS3rehTbaxVN5pump",
+      "label": "SENDER BITCHES KEEP PUSHING ",
+      "verdict": "kill",
+      "reason": "liq $701",
+      "subtitle": "liq $701",
+      "link": "https://fomo.family/coin?address=6zhQUjZU7ndW5RiQUwJcrnktsB7QS3rehTbaxVN5pump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "98nXyGXUX6T7364SBJ5vJAAixgF6Rxrc4StoHHTopump",
       "label": "ANGRY CAR",
@@ -66,19 +74,19 @@
       "reason": "liq $30",
       "subtitle": "liq $30",
       "link": "https://fomo.family/coin?address=CiA9618CbfvQrN4eX6JNwbYEP3r1iV4VaKxvNkdKpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5j8PvQTY31dcVSjm31P2XCALxUsiEkq22aqeZam4pump",
-      "label": "MoonChacha",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=5j8PvQTY31dcVSjm31P2XCALxUsiEkq22aqeZam4pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T11:12:08.034385Z",
+      "mint": "6zhQUjZU7ndW5RiQUwJcrnktsB7QS3rehTbaxVN5pump",
+      "label": "SENDER BITCHES KEEP PUSHING ",
+      "verdict": "kill",
+      "reason": "liq $701",
+      "link": "https://fomo.family/coin?address=6zhQUjZU7ndW5RiQUwJcrnktsB7QS3rehTbaxVN5pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T11:05:09.494954Z",
       "mint": "98nXyGXUX6T7364SBJ5vJAAixgF6Rxrc4StoHHTopump",
       "label": "ANGRY CAR",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $35",
       "link": "https://fomo.family/coin?address=5o8uhwxMZeRWHhcML5oy5jQ6EyyTRJ8beTBdVBKGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:33:16.470707Z",
-      "mint": "5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump",
-      "label": "BORK GOLD DOG",
-      "verdict": "kill",
-      "reason": "liq $46",
-      "link": "https://fomo.family/coin?address=5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T11:12:08.034385Z",
+      "mint": "6zhQUjZU7ndW5RiQUwJcrnktsB7QS3rehTbaxVN5pump",
+      "label": "SENDER BITCHES KEEP PUSHING ",
+      "verdict": "kill",
+      "reason": "liq $701",
+      "link": "https://fomo.family/coin?address=6zhQUjZU7ndW5RiQUwJcrnktsB7QS3rehTbaxVN5pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T11:05:09.494954Z",
       "mint": "98nXyGXUX6T7364SBJ5vJAAixgF6Rxrc4StoHHTopump",
       "label": "ANGRY CAR",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $35",
       "link": "https://fomo.family/coin?address=5o8uhwxMZeRWHhcML5oy5jQ6EyyTRJ8beTBdVBKGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:33:16.470707Z",
-      "mint": "5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump",
-      "label": "BORK GOLD DOG",
-      "verdict": "kill",
-      "reason": "liq $46",
-      "link": "https://fomo.family/coin?address=5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

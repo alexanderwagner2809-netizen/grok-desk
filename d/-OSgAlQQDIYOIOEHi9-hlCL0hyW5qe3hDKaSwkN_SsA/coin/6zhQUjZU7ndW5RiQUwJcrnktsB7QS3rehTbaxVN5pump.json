@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T11:11:39.094744Z",
+  "ts": "2026-11-13T11:12:50.011633Z",
   "mint": "6zhQUjZU7ndW5RiQUwJcrnktsB7QS3rehTbaxVN5pump",
-  "name": null,
-  "symbol": null,
-  "label": "6zhQUjZU",
+  "name": "SENDER BITCHES KEEP PUSHING ",
+  "symbol": "SEND ",
+  "label": "SENDER BITCHES KEEP PUSHING ",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T11:11:27.300593Z",
-  "pool": null,
+  "pool": "EgJQNker4btrPNoo6zppXt2Tz9F1UwyELw4gtktxmb4Y",
   "creator": "BTUTSZiiGRUHrLEkNxNt917P7MHSA2eZWgTpErinDjbH",
   "holders": null,
   "link": "https://fomo.family/coin?address=6zhQUjZU7ndW5RiQUwJcrnktsB7QS3rehTbaxVN5pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.22e-07,
+  "priceTs": "2026-11-13T11:12:49.741110Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794568320,
+      "o": 5.972e-07,
+      "h": 5.972e-07,
+      "l": 1.22e-07,
+      "c": 1.22e-07,
+      "v": 585.6700000000001
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 244.0,
+    "liquidity": 190.07,
+    "volume24h": 778.2,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T11:12:08.034385Z",
+      "liquidity_usd": 701.29,
+      "top10_pct": null,
+      "h1_change_pct": -64.13,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $701"
+    }
+  ]
 }

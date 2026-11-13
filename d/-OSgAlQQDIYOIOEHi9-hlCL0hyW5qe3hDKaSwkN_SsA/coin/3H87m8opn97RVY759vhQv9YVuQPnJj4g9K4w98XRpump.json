@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:11:38.576700Z",
+  "ts": "2026-11-13T11:12:50.071954Z",
   "mint": "3H87m8opn97RVY759vhQv9YVuQPnJj4g9K4w98XRpump",
   "name": "Global Oil Dividend Fund",
   "symbol": "GODF",
@@ -11,8 +11,8 @@
   "creator": "CP344NA7D2PufSP422ocLuxt5SiNWxYYdwyuXyxaASFp",
   "holders": null,
   "link": "https://fomo.family/coin?address=3H87m8opn97RVY759vhQv9YVuQPnJj4g9K4w98XRpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.001159,
-  "priceTs": "2026-11-13T11:11:38.340199Z",
+  "price": 0.00116,
+  "priceTs": "2026-11-13T11:12:49.895192Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -808,12 +808,20 @@
       "l": 0.001159,
       "c": 0.001159,
       "v": 0.40000000000000036
+    },
+    {
+      "t": 1794568320,
+      "o": 0.00116,
+      "h": 0.00116,
+      "l": 0.00116,
+      "c": 0.00116,
+      "v": 2.0699999999999994
     }
   ],
   "stats": {
-    "marketCap": 1158350.0,
-    "liquidity": 79652.47,
-    "volume24h": 32376.51,
+    "marketCap": 1158910.0,
+    "liquidity": 79686.65,
+    "volume24h": 32378.58,
     "holders": null
   },
   "position": null,
