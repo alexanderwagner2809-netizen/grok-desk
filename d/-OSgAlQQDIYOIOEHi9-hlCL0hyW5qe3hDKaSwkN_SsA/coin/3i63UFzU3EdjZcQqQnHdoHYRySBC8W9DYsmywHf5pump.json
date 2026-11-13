@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T06:52:49.431889Z",
+  "ts": "2026-11-13T06:54:50.181416Z",
   "mint": "3i63UFzU3EdjZcQqQnHdoHYRySBC8W9DYsmywHf5pump",
   "name": "Divorce Coin",
   "symbol": "DIV",
@@ -11,8 +11,8 @@
   "creator": "g4cGCbXTshA8VzkxJ8EN8FvixzJSMmQVjFfS5dnoabw",
   "holders": null,
   "link": "https://fomo.family/coin?address=3i63UFzU3EdjZcQqQnHdoHYRySBC8W9DYsmywHf5pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.159e-08,
-  "priceTs": "2026-11-13T06:52:49.196317Z",
+  "price": 1.058e-08,
+  "priceTs": "2026-11-13T06:54:49.983576Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -600,12 +600,20 @@
       "l": 1.159e-08,
       "c": 1.159e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794552840,
+      "o": 1.058e-08,
+      "h": 1.058e-08,
+      "l": 1.058e-08,
+      "c": 1.058e-08,
+      "v": 0.73
     }
   ],
   "stats": {
-    "marketCap": 23.0,
-    "liquidity": 18.21,
-    "volume24h": 81.56,
+    "marketCap": 21.0,
+    "liquidity": 17.57,
+    "volume24h": 82.3,
     "holders": null
   },
   "position": null,
