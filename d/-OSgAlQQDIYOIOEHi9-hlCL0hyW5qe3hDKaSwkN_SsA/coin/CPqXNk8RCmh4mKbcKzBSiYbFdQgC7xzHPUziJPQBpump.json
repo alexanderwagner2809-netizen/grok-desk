@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T07:29:38.913351Z",
+  "ts": "2026-11-13T07:30:50.158017Z",
   "mint": "CPqXNk8RCmh4mKbcKzBSiYbFdQgC7xzHPUziJPQBpump",
   "name": "grokbot",
   "symbol": "sol",
@@ -11,8 +11,8 @@
   "creator": "2F7uJ9gLz3gycdwo4JQ9UxgFXyPU5woRMq34T4om2RCj",
   "holders": null,
   "link": "https://fomo.family/coin?address=CPqXNk8RCmh4mKbcKzBSiYbFdQgC7xzHPUziJPQBpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.394e-09,
-  "priceTs": "2026-11-13T07:29:38.733514Z",
+  "price": 4.472e-09,
+  "priceTs": "2026-11-13T07:30:49.985917Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -440,12 +440,20 @@
       "l": 4.394e-09,
       "c": 4.394e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794555000,
+      "o": 4.472e-09,
+      "h": 4.472e-09,
+      "l": 4.472e-09,
+      "c": 4.472e-09,
+      "v": 0.19
     }
   ],
   "stats": {
     "marketCap": 9.0,
-    "liquidity": 10.18,
-    "volume24h": 867.35,
+    "liquidity": 10.28,
+    "volume24h": 867.55,
     "holders": null
   },
   "position": null,

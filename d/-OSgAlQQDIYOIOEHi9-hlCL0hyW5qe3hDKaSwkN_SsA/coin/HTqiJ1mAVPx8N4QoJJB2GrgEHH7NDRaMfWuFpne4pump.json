@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T07:29:38.914410Z",
+  "ts": "2026-11-13T07:30:50.159086Z",
   "mint": "HTqiJ1mAVPx8N4QoJJB2GrgEHH7NDRaMfWuFpne4pump",
   "name": "El Super Niño",
   "symbol": "niño",
@@ -11,8 +11,8 @@
   "creator": "4ZCzx326dVjBzpydpnLd8rrBJXdiMz8WvZyZYJ6xnV8E",
   "holders": null,
   "link": "https://fomo.family/coin?address=HTqiJ1mAVPx8N4QoJJB2GrgEHH7NDRaMfWuFpne4pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.168e-09,
-  "priceTs": "2026-11-13T07:29:38.733514Z",
+  "price": 2.723e-09,
+  "priceTs": "2026-11-13T07:30:49.985917Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -440,12 +440,20 @@
       "l": 2.168e-09,
       "c": 2.168e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794555000,
+      "o": 2.723e-09,
+      "h": 2.723e-09,
+      "l": 2.723e-09,
+      "c": 2.723e-09,
+      "v": 0.24
     }
   ],
   "stats": {
-    "marketCap": 4.0,
-    "liquidity": 4.27,
-    "volume24h": 2005.52,
+    "marketCap": 5.0,
+    "liquidity": 4.78,
+    "volume24h": 2005.76,
     "holders": null
   },
   "position": null,
