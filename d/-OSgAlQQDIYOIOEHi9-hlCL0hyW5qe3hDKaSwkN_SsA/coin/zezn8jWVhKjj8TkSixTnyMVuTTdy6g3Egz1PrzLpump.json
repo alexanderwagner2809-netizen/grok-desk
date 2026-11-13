@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T06:35:03.332789Z",
+  "ts": "2026-11-13T06:36:14.154997Z",
   "mint": "zezn8jWVhKjj8TkSixTnyMVuTTdy6g3Egz1PrzLpump",
   "name": "UDTF",
   "symbol": "UDTF",
   "label": "UDTF",
   "chain": "Solana",
-  "age": "44m old",
+  "age": "45m old",
   "migratedAt": "2026-11-13T05:50:39.553294Z",
   "pool": "27g52vAiuvnXXwHzyvLnEzpLMyt5oYizozhDtG3T5vLG",
   "creator": "FfwbXScAkKmNNM5yYqLWMVdQETibtzgNHEpso8ruWfSE",
   "holders": null,
   "link": "https://fomo.family/coin?address=zezn8jWVhKjj8TkSixTnyMVuTTdy6g3Egz1PrzLpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.009509,
-  "priceTs": "2026-11-13T06:35:03.073142Z",
+  "price": 0.009501,
+  "priceTs": "2026-11-13T06:36:13.899165Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -320,12 +320,20 @@
       "l": 0.009509,
       "c": 0.009509,
       "v": 0.0
+    },
+    {
+      "t": 1794551760,
+      "o": 0.009501,
+      "h": 0.009501,
+      "l": 0.009501,
+      "c": 0.009501,
+      "v": 165.32000000000016
     }
   ],
   "stats": {
-    "marketCap": 9505992.0,
-    "liquidity": 229845.57,
-    "volume24h": 122558.3,
+    "marketCap": 9498739.0,
+    "liquidity": 229758.8,
+    "volume24h": 123211.73,
     "holders": null
   },
   "position": null,

@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T06:35:03.314651Z",
+  "ts": "2026-11-13T06:36:14.135324Z",
   "mint": "DN6zk6AhAzmDrNyrLFnVt5xgsHksjEzYFA1uMyFZpump",
   "name": "APPLE",
   "symbol": "APPLE",
   "label": "APPLE",
   "chain": "Solana",
-  "age": "2m old",
+  "age": "3m old",
   "migratedAt": "2026-11-13T06:32:27.243153Z",
   "pool": "EntHrz612gVLKtrxxuHuHiW2F4iYvzf4njruWZNDQR6Q",
   "creator": "BPbabdkxDrweEgBMyG9Fx1UuBaL9A8jnNjUhtnn1juWX",
   "holders": null,
   "link": "https://fomo.family/coin?address=DN6zk6AhAzmDrNyrLFnVt5xgsHksjEzYFA1uMyFZpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.12e-09,
-  "priceTs": "2026-11-13T06:35:03.073142Z",
+  "price": 9.495e-10,
+  "priceTs": "2026-11-13T06:36:13.899165Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -32,12 +32,20 @@
       "l": 1.12e-09,
       "c": 1.12e-09,
       "v": 8.73999999999998
+    },
+    {
+      "t": 1794551760,
+      "o": 9.495e-10,
+      "h": 9.495e-10,
+      "l": 9.495e-10,
+      "c": 9.495e-10,
+      "v": 0.35000000000002274
     }
   ],
   "stats": {
     "marketCap": 2.0,
-    "liquidity": 3.47,
-    "volume24h": 187.17,
+    "liquidity": 3.2,
+    "volume24h": 187.52,
     "holders": null
   },
   "position": null,
