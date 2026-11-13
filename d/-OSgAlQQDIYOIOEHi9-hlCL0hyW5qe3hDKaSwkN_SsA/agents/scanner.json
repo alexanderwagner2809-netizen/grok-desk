@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T09:08:43.635790Z",
+  "ts": "2026-11-13T09:09:54.011302Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T09:08:41.734065Z",
+  "heartbeat": "2026-11-13T09:09:51.640931Z",
   "paused": false,
   "status": "running",
-  "card": "487 pools",
-  "count": 487,
+  "card": "488 pools",
+  "count": 488,
   "passed": 0,
   "feed": [
+    {
+      "mint": "5QqjsAcFLYDMt4KqR7Porea9KPV5w7dLcpcWh4popump",
+      "label": "NVIDIA",
+      "verdict": "kill",
+      "reason": "+241% in 1h",
+      "subtitle": "+241% in 1h",
+      "link": "https://fomo.family/coin?address=5QqjsAcFLYDMt4KqR7Porea9KPV5w7dLcpcWh4popump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "ALeg11QxutVmqTztdq2jywcy3z413sacUeUUJpapump",
       "label": "CLOCKED OUT",
@@ -66,19 +74,19 @@
       "reason": "liq $19",
       "subtitle": "liq $19",
       "link": "https://fomo.family/coin?address=EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "6fi1Mgvb2howncx8UaynK6CJuXWpLatjm2FLhxWwpump",
-      "label": "dizzy turd",
-      "verdict": "kill",
-      "reason": "liq $9",
-      "subtitle": "liq $9",
-      "link": "https://fomo.family/coin?address=6fi1Mgvb2howncx8UaynK6CJuXWpLatjm2FLhxWwpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T09:09:39.384243Z",
+      "mint": "5QqjsAcFLYDMt4KqR7Porea9KPV5w7dLcpcWh4popump",
+      "label": "NVIDIA",
+      "verdict": "kill",
+      "reason": "+241% in 1h",
+      "link": "https://fomo.family/coin?address=5QqjsAcFLYDMt4KqR7Porea9KPV5w7dLcpcWh4popump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T09:03:21.681712Z",
       "mint": "ALeg11QxutVmqTztdq2jywcy3z413sacUeUUJpapump",
       "label": "CLOCKED OUT",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "+13750% in 1h",
       "link": "https://fomo.family/coin?address=sqn6vx6nosdEjj3jBN3JDjvnmX157jY9pD9kUDEpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T08:14:53.619869Z",
-      "mint": "DskPMTCPtsioxuCAsYbszbKBAJy6EifApwQbNGbQpump",
-      "label": "PUMP SI",
-      "verdict": "kill",
-      "reason": "liq $137",
-      "link": "https://fomo.family/coin?address=DskPMTCPtsioxuCAsYbszbKBAJy6EifApwQbNGbQpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T09:09:39.384243Z",
+      "mint": "5QqjsAcFLYDMt4KqR7Porea9KPV5w7dLcpcWh4popump",
+      "label": "NVIDIA",
+      "verdict": "kill",
+      "reason": "+241% in 1h",
+      "link": "https://fomo.family/coin?address=5QqjsAcFLYDMt4KqR7Porea9KPV5w7dLcpcWh4popump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T09:03:21.681712Z",
       "mint": "ALeg11QxutVmqTztdq2jywcy3z413sacUeUUJpapump",
       "label": "CLOCKED OUT",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "+13750% in 1h",
       "link": "https://fomo.family/coin?address=sqn6vx6nosdEjj3jBN3JDjvnmX157jY9pD9kUDEpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T08:14:53.619869Z",
-      "mint": "DskPMTCPtsioxuCAsYbszbKBAJy6EifApwQbNGbQpump",
-      "label": "PUMP SI",
-      "verdict": "kill",
-      "reason": "liq $137",
-      "link": "https://fomo.family/coin?address=DskPMTCPtsioxuCAsYbszbKBAJy6EifApwQbNGbQpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
