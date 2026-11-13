@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T08:43:54.379774Z",
+  "ts": "2026-11-13T08:45:04.880861Z",
   "mint": "4TuNDgnTP1yrfdWD2A5aVMpiLaXEBSTLRN7aj94Hpump",
   "name": "Looksmax CATE",
   "symbol": "BPCATE",
@@ -11,8 +11,8 @@
   "creator": "GNgf6gtMyR8XFQTRE4ceWL89SMRi7Ksag7cHqW45odvP",
   "holders": null,
   "link": "https://fomo.family/coin?address=4TuNDgnTP1yrfdWD2A5aVMpiLaXEBSTLRN7aj94Hpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.355e-10,
-  "priceTs": "2026-11-13T08:43:54.204270Z",
+  "price": 1.02e-09,
+  "priceTs": "2026-11-13T08:45:04.700759Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -560,12 +560,20 @@
       "l": 8.355e-10,
       "c": 8.355e-10,
       "v": 0.0
+    },
+    {
+      "t": 1794559500,
+      "o": 1.02e-09,
+      "h": 1.02e-09,
+      "l": 1.02e-09,
+      "c": 1.02e-09,
+      "v": 0.27
     }
   ],
   "stats": {
     "marketCap": 2.0,
-    "liquidity": 3.03,
-    "volume24h": 73.97,
+    "liquidity": 3.21,
+    "volume24h": 74.24,
     "holders": null
   },
   "position": null,
