@@ -1,24 +1,40 @@
 {
-  "ts": "2026-11-13T00:02:55.001450Z",
+  "ts": "2026-11-13T00:04:05.480083Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
   "todayPct": 0.0,
   "multiplier": 1.0,
   "openCount": 0,
-  "running": 2,
+  "running": 5,
   "agents": [
     {
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-13T00:02:54.550717Z",
+      "heartbeat": "2026-11-13T00:04:04.579210Z",
       "paused": false,
       "status": "running",
-      "card": "386 pools",
-      "count": 386,
+      "card": "388 pools",
+      "count": 388,
       "passed": 0,
       "feed": [
+        {
+          "mint": "6Pn4yN4vYBfxSTzgv8ro97tTWHHTpUTE2JbjCjLtpump",
+          "label": "JUMP COIN",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=6Pn4yN4vYBfxSTzgv8ro97tTWHHTpUTE2JbjCjLtpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "AeG9jKBsFEdFaoshqTo5hnhppJC5935okDm9dDXGpump",
+          "label": "Tired Frog",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=AeG9jKBsFEdFaoshqTo5hnhppJC5935okDm9dDXGpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "GKJCDugL2YXbo67wNSCC4jqfAzpyZfRosBtdBjRBpump",
           "label": "rockstar",
@@ -66,22 +82,6 @@
           "reason": "+162% in 1h",
           "subtitle": "+162% in 1h",
           "link": "https://fomo.family/coin?address=AR9MqjNWerrkvr1X19jp8BPuewVGogxXdZ7Ux4JSpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "3uZCVKJWnuKrEnmwWHviwJXWNbS2TZdttjW4jNyVpump",
-          "label": "4",
-          "verdict": "kill",
-          "reason": "liq $1.8K",
-          "subtitle": "liq $1.8K",
-          "link": "https://fomo.family/coin?address=3uZCVKJWnuKrEnmwWHviwJXWNbS2TZdttjW4jNyVpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "9snJNL6pPp94GXHNG8MLcYAmkUrRyYHmqRoLWYRNpump",
-          "label": "9snJNL6p",
-          "verdict": "kill",
-          "reason": "never qualified",
-          "subtitle": "never qualified",
-          "link": "https://fomo.family/coin?address=9snJNL6pPp94GXHNG8MLcYAmkUrRyYHmqRoLWYRNpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -89,10 +89,10 @@
     {
       "name": "auditor",
       "color": "#ffffff",
-      "ok": false,
-      "heartbeat": "2026-11-12T23:15:10.562134Z",
+      "ok": true,
+      "heartbeat": "2026-11-13T00:04:04.636710Z",
       "paused": false,
-      "status": "idle",
+      "status": "running",
       "card": "0 taken apart",
       "count": 0,
       "rejected": 0,
@@ -103,10 +103,10 @@
     {
       "name": "analyst",
       "color": "#ffd60a",
-      "ok": false,
-      "heartbeat": "2026-11-12T23:15:10.563680Z",
+      "ok": true,
+      "heartbeat": "2026-11-13T00:04:04.637723Z",
       "paused": false,
-      "status": "idle",
+      "status": "running",
       "card": "Scoring",
       "count": 0,
       "score": null,
@@ -116,10 +116,10 @@
     {
       "name": "executor",
       "color": "#00d35a",
-      "ok": false,
-      "heartbeat": "2026-11-12T23:15:10.564151Z",
+      "ok": true,
+      "heartbeat": "2026-11-13T00:04:04.638073Z",
       "paused": false,
-      "status": "idle",
+      "status": "running",
       "card": "0 trades",
       "count": 0,
       "detail": null,
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-13T00:02:54.548079Z",
+      "heartbeat": "2026-11-13T00:03:54.558673Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
