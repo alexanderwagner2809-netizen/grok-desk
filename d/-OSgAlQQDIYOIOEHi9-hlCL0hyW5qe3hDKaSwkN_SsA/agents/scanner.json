@@ -1,16 +1,40 @@
 {
-  "ts": "2026-11-13T19:52:45.824223Z",
+  "ts": "2026-11-13T19:54:00.525883Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T19:52:43.412451Z",
+  "heartbeat": "2026-11-13T19:53:58.190039Z",
   "paused": false,
   "status": "running",
-  "card": "551 pools",
-  "count": 551,
+  "card": "553 pools",
+  "count": 553,
   "passed": 0,
   "feed": [
+    {
+      "mint": "23ta8hgrBRnHKHVaXoTtERGKV8ec8XFd4Ut2btSVpump",
+      "label": "ELONCAT",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=23ta8hgrBRnHKHVaXoTtERGKV8ec8XFd4Ut2btSVpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
+      "label": "TTWofwAg",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "3vKbL9MU2u6x7KAma4o8utbZDm8hBZm1k9QojSxKpump",
+      "label": "The Stoic Elephant",
+      "verdict": "kill",
+      "reason": "liq $11.8K",
+      "subtitle": "liq $11.8K",
+      "link": "https://fomo.family/coin?address=3vKbL9MU2u6x7KAma4o8utbZDm8hBZm1k9QojSxKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "Hidkn2P7CSt2nM28f585mUs6DQB7LvGjGB3PjvqTpump",
       "label": "999",
@@ -50,35 +74,35 @@
       "reason": "liq $27",
       "subtitle": "liq $27",
       "link": "https://fomo.family/coin?address=ARTnDggEybcNaWrxTfR9EDNCjkPPXZ1HT9THM5Hkpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump",
-      "label": "Dog Coin",
-      "verdict": "kill",
-      "reason": "liq $11.7K",
-      "subtitle": "liq $11.7K",
-      "link": "https://fomo.family/coin?address=3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5Aa7NLxGQMdNVSsGYdWrwfvbDWaYFrsWo3M4Wp52pump",
-      "label": "THIS IS GRINCH ",
-      "verdict": "kill",
-      "reason": "liq $4",
-      "subtitle": "liq $4",
-      "link": "https://fomo.family/coin?address=5Aa7NLxGQMdNVSsGYdWrwfvbDWaYFrsWo3M4Wp52pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "9CkadiL8YThA3shWv11Vrc5W8dTEP9LtTUQSVRjBpump",
-      "label": "9$",
-      "verdict": "kill",
-      "reason": "liq $5",
-      "subtitle": "liq $5",
-      "link": "https://fomo.family/coin?address=9CkadiL8YThA3shWv11Vrc5W8dTEP9LtTUQSVRjBpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T19:53:40.684421Z",
+      "mint": "23ta8hgrBRnHKHVaXoTtERGKV8ec8XFd4Ut2btSVpump",
+      "label": "ELONCAT",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=23ta8hgrBRnHKHVaXoTtERGKV8ec8XFd4Ut2btSVpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T19:53:15.564670Z",
+      "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
+      "label": "TTWofwAg",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T19:53:05.542847Z",
+      "mint": "3vKbL9MU2u6x7KAma4o8utbZDm8hBZm1k9QojSxKpump",
+      "label": "The Stoic Elephant",
+      "verdict": "kill",
+      "reason": "liq $11.8K",
+      "link": "https://fomo.family/coin?address=3vKbL9MU2u6x7KAma4o8utbZDm8hBZm1k9QojSxKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:51:07.093998Z",
       "mint": "Hidkn2P7CSt2nM28f585mUs6DQB7LvGjGB3PjvqTpump",
       "label": "999",
@@ -213,34 +237,34 @@
       "verdict": "kill",
       "reason": "liq $153",
       "link": "https://fomo.family/coin?address=BPJyB82FCVLwPb1u9AANVCtyNQdZxw9Qk1jGKGPspump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T12:01:52.790217Z",
-      "mint": "A1CbxM1oYsjpevJNwoHGTNqzo6sXykHhbmL9antqpump",
-      "label": "Vacant AI",
-      "verdict": "kill",
-      "reason": "liq $28",
-      "link": "https://fomo.family/coin?address=A1CbxM1oYsjpevJNwoHGTNqzo6sXykHhbmL9antqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:59:04.302954Z",
-      "mint": "3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump",
-      "label": "Alien Shiba Inux",
-      "verdict": "kill",
-      "reason": "liq $15",
-      "link": "https://fomo.family/coin?address=3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:59:04.300018Z",
-      "mint": "12B5GT5CzCJhZaA2ciTUrjw32xG7vYLmq8SFhPzrpump",
-      "label": "UNITED CRYPTO INTELLIGENCE",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=12B5GT5CzCJhZaA2ciTUrjw32xG7vYLmq8SFhPzrpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T19:53:40.684421Z",
+      "mint": "23ta8hgrBRnHKHVaXoTtERGKV8ec8XFd4Ut2btSVpump",
+      "label": "ELONCAT",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=23ta8hgrBRnHKHVaXoTtERGKV8ec8XFd4Ut2btSVpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T19:53:15.564670Z",
+      "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
+      "label": "TTWofwAg",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T19:53:05.542847Z",
+      "mint": "3vKbL9MU2u6x7KAma4o8utbZDm8hBZm1k9QojSxKpump",
+      "label": "The Stoic Elephant",
+      "verdict": "kill",
+      "reason": "liq $11.8K",
+      "link": "https://fomo.family/coin?address=3vKbL9MU2u6x7KAma4o8utbZDm8hBZm1k9QojSxKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:51:07.093998Z",
       "mint": "Hidkn2P7CSt2nM28f585mUs6DQB7LvGjGB3PjvqTpump",
       "label": "999",
@@ -375,30 +399,6 @@
       "verdict": "kill",
       "reason": "liq $153",
       "link": "https://fomo.family/coin?address=BPJyB82FCVLwPb1u9AANVCtyNQdZxw9Qk1jGKGPspump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T12:01:52.790217Z",
-      "mint": "A1CbxM1oYsjpevJNwoHGTNqzo6sXykHhbmL9antqpump",
-      "label": "Vacant AI",
-      "verdict": "kill",
-      "reason": "liq $28",
-      "link": "https://fomo.family/coin?address=A1CbxM1oYsjpevJNwoHGTNqzo6sXykHhbmL9antqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:59:04.302954Z",
-      "mint": "3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump",
-      "label": "Alien Shiba Inux",
-      "verdict": "kill",
-      "reason": "liq $15",
-      "link": "https://fomo.family/coin?address=3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:59:04.300018Z",
-      "mint": "12B5GT5CzCJhZaA2ciTUrjw32xG7vYLmq8SFhPzrpump",
-      "label": "UNITED CRYPTO INTELLIGENCE",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=12B5GT5CzCJhZaA2ciTUrjw32xG7vYLmq8SFhPzrpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T19:52:44.188313Z",
+  "ts": "2026-11-13T19:53:58.898201Z",
   "mint": "GXbhJB9Vx1n5JZ74ghk18UT59oNqKJKfLNPzKmhzpump",
   "name": "Zelda",
   "symbol": "ZELDA",
   "label": "Zelda",
   "chain": "Solana",
-  "age": "11m old",
+  "age": "12m old",
   "migratedAt": "2026-11-13T19:41:22.552007Z",
   "pool": "qMwfqLjZbY73qsjqQpxndngQgeGDpoqBBsYqSG9WBtM",
   "creator": "4rW1UfjGoHUd99PutThDNGH3aRTyzcXxm12Z5PNBdrLn",
   "holders": null,
   "link": "https://fomo.family/coin?address=GXbhJB9Vx1n5JZ74ghk18UT59oNqKJKfLNPzKmhzpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 9.249e-05,
-  "priceTs": "2026-11-13T19:52:43.922909Z",
+  "price": 0.0001094,
+  "priceTs": "2026-11-13T19:53:57.949889Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -96,12 +96,20 @@
       "l": 9.249e-05,
       "c": 9.249e-05,
       "v": 6632.889999999999
+    },
+    {
+      "t": 1794599580,
+      "o": 0.0001094,
+      "h": 0.0001094,
+      "l": 0.0001094,
+      "c": 0.0001094,
+      "v": 8719.940000000002
     }
   ],
   "stats": {
-    "marketCap": 92379.0,
-    "liquidity": 21737.93,
-    "volume24h": 108808.08,
+    "marketCap": 109288.0,
+    "liquidity": 23832.23,
+    "volume24h": 126672.39,
     "holders": null
   },
   "position": null,

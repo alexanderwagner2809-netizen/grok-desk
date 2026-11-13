@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T19:52:44.492314Z",
+  "ts": "2026-11-13T19:53:58.890732Z",
   "mint": "3vKbL9MU2u6x7KAma4o8utbZDm8hBZm1k9QojSxKpump",
-  "name": null,
-  "symbol": null,
-  "label": "3vKbL9MU",
+  "name": "The Stoic Elephant",
+  "symbol": "LONGURO",
+  "label": "The Stoic Elephant",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T19:52:02.179462Z",
-  "pool": null,
+  "pool": "DwkyQBcGrEitwuRJv7DdkdKgSNPs3LYLkDbNYXS3Y7NZ",
   "creator": "9t3zcr8PvviMP5kD33RgoJvfH4rSN1LjcmreSSdYgX8p",
   "holders": null,
   "link": "https://fomo.family/coin?address=3vKbL9MU2u6x7KAma4o8utbZDm8hBZm1k9QojSxKpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.834e-05,
+  "priceTs": "2026-11-13T19:53:57.949889Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794599580,
+      "o": 3.075e-05,
+      "h": 3.075e-05,
+      "l": 2.834e-05,
+      "c": 2.834e-05,
+      "v": 608.2800000000007
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 28292.0,
+    "liquidity": 11262.95,
+    "volume24h": 6406.02,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T19:53:05.542847Z",
+      "liquidity_usd": 11783.97,
+      "top10_pct": null,
+      "h1_change_pct": -6.6,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $11.8K"
+    }
+  ]
 }
