@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T05:50:13.725619Z",
+  "ts": "2026-11-13T05:51:23.786401Z",
   "mint": "GKJCDugL2YXbo67wNSCC4jqfAzpyZfRosBtdBjRBpump",
   "name": "rockstar",
   "symbol": "rockstar",
@@ -11,8 +11,8 @@
   "creator": "HY2MbAKzUaStdqndwn4PjuXBMXbXFPqGoBjfhRuiKudP",
   "holders": null,
   "link": "https://fomo.family/coin?address=GKJCDugL2YXbo67wNSCC4jqfAzpyZfRosBtdBjRBpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 7.023e-06,
-  "priceTs": "2026-11-13T05:50:13.467415Z",
+  "price": 6.974e-06,
+  "priceTs": "2026-11-13T05:51:23.509986Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -352,12 +352,20 @@
       "l": 7.023e-06,
       "c": 7.023e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794549060,
+      "o": 6.974e-06,
+      "h": 6.974e-06,
+      "l": 6.974e-06,
+      "c": 6.974e-06,
+      "v": 7.739999999999995
     }
   ],
   "stats": {
-    "marketCap": 6751.0,
-    "liquidity": 5586.84,
-    "volume24h": 146524.84,
+    "marketCap": 6704.0,
+    "liquidity": 5560.44,
+    "volume24h": 146532.58,
     "holders": null
   },
   "position": null,
