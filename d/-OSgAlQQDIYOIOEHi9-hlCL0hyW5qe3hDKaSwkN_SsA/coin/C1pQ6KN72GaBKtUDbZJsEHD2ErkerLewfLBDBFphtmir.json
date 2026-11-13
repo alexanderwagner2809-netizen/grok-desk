@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T03:03:10.357487Z",
+  "ts": "2026-11-13T03:04:20.995442Z",
   "mint": "C1pQ6KN72GaBKtUDbZJsEHD2ErkerLewfLBDBFphtmir",
   "name": "Marscoin",
   "symbol": "MARS",
@@ -11,8 +11,8 @@
   "creator": "7X6dBC8pxk1qn3Ax2hUZZ1Ybb8jFyvZubSCb6xfuyMha",
   "holders": null,
   "link": "https://fomo.family/coin?address=C1pQ6KN72GaBKtUDbZJsEHD2ErkerLewfLBDBFphtmir&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.199e-06,
-  "priceTs": "2026-11-13T03:03:10.246116Z",
+  "price": 2.031e-06,
+  "priceTs": "2026-11-13T03:04:20.884722Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -816,12 +816,20 @@
       "l": 2.199e-06,
       "c": 2.199e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794539040,
+      "o": 2.031e-06,
+      "h": 2.031e-06,
+      "l": 2.031e-06,
+      "c": 2.031e-06,
+      "v": 30.71
     }
   ],
   "stats": {
-    "marketCap": 1875.0,
-    "liquidity": 2124.49,
-    "volume24h": 67789.71,
+    "marketCap": 1732.0,
+    "liquidity": 1984.31,
+    "volume24h": 67820.42,
     "holders": null
   },
   "position": null,
