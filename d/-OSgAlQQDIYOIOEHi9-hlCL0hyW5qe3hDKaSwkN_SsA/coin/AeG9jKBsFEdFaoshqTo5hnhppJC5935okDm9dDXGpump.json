@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T01:02:40.031119Z",
+  "ts": "2026-11-13T01:03:50.406069Z",
   "mint": "AeG9jKBsFEdFaoshqTo5hnhppJC5935okDm9dDXGpump",
   "name": "Tired Frog",
   "symbol": "FROG",
   "label": "Tired Frog",
   "chain": "Solana",
-  "age": "59m old",
+  "age": "1h old",
   "migratedAt": "2026-11-13T00:03:09.533812Z",
   "pool": "Cx2obeuhXu4ExZFFZJS6ZJiUHC6ohmxBANZdC7UNb7Zc",
   "creator": "HfuLMEjeuA6Sj6VQHM81RDFW9eNGSRheo4dr4YqL9HH7",
   "holders": null,
   "link": "https://fomo.family/coin?address=AeG9jKBsFEdFaoshqTo5hnhppJC5935okDm9dDXGpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.643e-06,
-  "priceTs": "2026-11-13T01:02:39.715079Z",
+  "price": 3.589e-06,
+  "priceTs": "2026-11-13T01:03:50.130919Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -48,12 +48,20 @@
       "l": 3.643e-06,
       "c": 3.643e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794531780,
+      "o": 3.589e-06,
+      "h": 3.589e-06,
+      "l": 3.589e-06,
+      "c": 3.589e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 3349.0,
-    "liquidity": 3146.0,
-    "volume24h": 46638.9,
+    "marketCap": 3299.0,
+    "liquidity": 3107.48,
+    "volume24h": 46654.8,
     "holders": null
   },
   "position": null,

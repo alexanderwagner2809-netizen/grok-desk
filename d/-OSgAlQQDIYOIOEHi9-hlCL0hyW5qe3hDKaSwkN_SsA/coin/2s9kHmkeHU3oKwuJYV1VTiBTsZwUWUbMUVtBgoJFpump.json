@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T01:02:40.046057Z",
+  "ts": "2026-11-13T01:03:50.420576Z",
   "mint": "2s9kHmkeHU3oKwuJYV1VTiBTsZwUWUbMUVtBgoJFpump",
   "name": "Affair Inu",
   "symbol": "AI",
@@ -11,8 +11,8 @@
   "creator": "2RTqXthzRX2ZXTXiCZKBtTkD2gSEbtTacbrsYeKFbcm3",
   "holders": null,
   "link": "https://fomo.family/coin?address=2s9kHmkeHU3oKwuJYV1VTiBTsZwUWUbMUVtBgoJFpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001564,
-  "priceTs": "2026-11-13T01:02:39.715079Z",
+  "price": 0.0001524,
+  "priceTs": "2026-11-13T01:03:50.130919Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -272,12 +272,20 @@
       "l": 0.0001564,
       "c": 0.0001564,
       "v": 0.0
+    },
+    {
+      "t": 1794531780,
+      "o": 0.0001524,
+      "h": 0.0001524,
+      "l": 0.0001524,
+      "c": 0.0001524,
+      "v": 251.3800000000001
     }
   ],
   "stats": {
-    "marketCap": 154252.0,
-    "liquidity": 29518.38,
-    "volume24h": 455770.13,
+    "marketCap": 150267.0,
+    "liquidity": 29116.86,
+    "volume24h": 456324.47,
     "holders": null
   },
   "position": null,
