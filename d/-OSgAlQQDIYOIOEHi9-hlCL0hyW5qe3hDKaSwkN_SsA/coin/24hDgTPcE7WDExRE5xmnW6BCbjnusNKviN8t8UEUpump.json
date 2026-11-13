@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T06:48:07.507964Z",
+  "ts": "2026-11-13T06:49:17.794148Z",
   "mint": "24hDgTPcE7WDExRE5xmnW6BCbjnusNKviN8t8UEUpump",
-  "name": null,
-  "symbol": null,
-  "label": "24hDgTPc",
+  "name": "Puppy",
+  "symbol": "PUPPY",
+  "label": "Puppy",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T06:47:38.880067Z",
-  "pool": null,
+  "pool": "8XzRUmV2kchMkHSWtiURUZQgxCRi1HHhsLGdNvokom4x",
   "creator": "2gRpQD36WRyVvtJjLmZjmuwmFiL7DhoqBxWPXixwdRvk",
   "holders": null,
   "link": "https://fomo.family/coin?address=24hDgTPcE7WDExRE5xmnW6BCbjnusNKviN8t8UEUpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.054e-08,
+  "priceTs": "2026-11-13T06:49:17.500910Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794552480,
+      "o": 2.665e-08,
+      "h": 2.665e-08,
+      "l": 2.665e-08,
+      "c": 2.665e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794552540,
+      "o": 2.054e-08,
+      "h": 2.054e-08,
+      "l": 2.054e-08,
+      "c": 2.054e-08,
+      "v": 31.45999999999998
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 41.0,
+    "liquidity": 74.37,
+    "volume24h": 431.9,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T06:48:09.793533Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -98.28,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
