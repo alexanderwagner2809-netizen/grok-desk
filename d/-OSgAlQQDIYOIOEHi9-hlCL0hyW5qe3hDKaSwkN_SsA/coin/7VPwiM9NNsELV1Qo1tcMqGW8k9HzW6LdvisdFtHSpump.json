@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T09:25:13.203691Z",
+  "ts": "2026-11-13T09:26:24.060268Z",
   "mint": "7VPwiM9NNsELV1Qo1tcMqGW8k9HzW6LdvisdFtHSpump",
   "name": "RMN",
   "symbol": "RAMEN",
@@ -11,8 +11,8 @@
   "creator": "BYc9iXHAt1KAdYEmroYnPSrjHxFtmYWMHzkwXmCC83Qk",
   "holders": null,
   "link": "https://fomo.family/coin?address=7VPwiM9NNsELV1Qo1tcMqGW8k9HzW6LdvisdFtHSpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.897e-09,
-  "priceTs": "2026-11-13T09:25:12.852336Z",
+  "price": 1.733e-09,
+  "priceTs": "2026-11-13T09:26:23.728524Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -488,12 +488,20 @@
       "l": 1.897e-09,
       "c": 1.897e-09,
       "v": 7.709999999999999
+    },
+    {
+      "t": 1794561960,
+      "o": 1.733e-09,
+      "h": 1.733e-09,
+      "l": 1.733e-09,
+      "c": 1.733e-09,
+      "v": 0.46000000000000085
     }
   ],
   "stats": {
-    "marketCap": 4.0,
-    "liquidity": 6.73,
-    "volume24h": 429.08,
+    "marketCap": 3.0,
+    "liquidity": 6.44,
+    "volume24h": 429.54,
     "holders": null
   },
   "position": null,
