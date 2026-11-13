@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T08:34:27.670051Z",
+  "ts": "2026-11-13T08:35:38.001017Z",
   "mint": "EjxYwvbCv2uHHWP4y4UyysTFzhJr2FeHJbGndi9bpump",
   "name": "cig",
   "symbol": "cig",
@@ -11,8 +11,8 @@
   "creator": "5i2aqky3ZUDkkhriAyhPBLLxSR8bZKvwEXPS2mT4Wvse",
   "holders": null,
   "link": "https://fomo.family/coin?address=EjxYwvbCv2uHHWP4y4UyysTFzhJr2FeHJbGndi9bpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.748e-06,
-  "priceTs": "2026-11-13T08:34:27.526257Z",
+  "price": 8.544e-06,
+  "priceTs": "2026-11-13T08:35:37.906960Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -904,12 +904,20 @@
       "l": 8.748e-06,
       "c": 8.748e-06,
       "v": 1621.7100000000005
+    },
+    {
+      "t": 1794558900,
+      "o": 8.544e-06,
+      "h": 8.544e-06,
+      "l": 8.544e-06,
+      "c": 8.544e-06,
+      "v": 1180.5199999999995
     }
   ],
   "stats": {
-    "marketCap": 7986.0,
-    "liquidity": 5642.82,
-    "volume24h": 77870.79,
+    "marketCap": 7799.0,
+    "liquidity": 5567.45,
+    "volume24h": 79656.74,
     "holders": null
   },
   "position": null,
