@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T08:35:38.017304Z",
+  "ts": "2026-11-13T08:36:48.432493Z",
   "mint": "4hTUQ3KTBt513RygyUSGGA9qdXiX8rd38yk6fYsRpump",
   "name": "ni hao cat",
   "symbol": "mihao",
@@ -11,8 +11,8 @@
   "creator": "4hTp1o6QaB4jGb1wzBm3gMDozyGQfBQESKeDdm3xrM7f",
   "holders": null,
   "link": "https://fomo.family/coin?address=4hTUQ3KTBt513RygyUSGGA9qdXiX8rd38yk6fYsRpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.522e-06,
-  "priceTs": "2026-11-13T08:35:37.906960Z",
+  "price": 1.496e-06,
+  "priceTs": "2026-11-13T08:36:48.321229Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1072,12 +1072,20 @@
       "l": 1.522e-06,
       "c": 1.522e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794558960,
+      "o": 1.496e-06,
+      "h": 1.496e-06,
+      "l": 1.496e-06,
+      "c": 1.496e-06,
+      "v": 0.38
     }
   ],
   "stats": {
-    "marketCap": 1472.0,
-    "liquidity": 1527.55,
-    "volume24h": 24794.93,
+    "marketCap": 1447.0,
+    "liquidity": 1502.58,
+    "volume24h": 24795.31,
     "holders": null
   },
   "position": null,
