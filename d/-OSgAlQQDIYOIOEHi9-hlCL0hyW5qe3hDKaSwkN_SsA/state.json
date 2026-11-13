@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T08:09:41.194678Z",
+  "ts": "2026-11-13T08:10:51.947018Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,21 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-13T08:09:40.673060Z",
+      "heartbeat": "2026-11-13T08:10:51.128180Z",
       "paused": false,
       "status": "running",
-      "card": "465 pools",
-      "count": 465,
+      "card": "466 pools",
+      "count": 466,
       "passed": 0,
       "feed": [
+        {
+          "mint": "7VQrzR5aKWqVwJsRNFHEBvLNKZR7Z5cv8m16ktxLpump",
+          "label": "squishy",
+          "verdict": "kill",
+          "reason": "liq $13.1K",
+          "subtitle": "liq $13.1K",
+          "link": "https://fomo.family/coin?address=7VQrzR5aKWqVwJsRNFHEBvLNKZR7Z5cv8m16ktxLpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "CmsVQy7fDFAEn9GnXWGUfUwQeZHbVs9JPP6WcaBDpump",
           "label": "Tree Coin",
@@ -74,14 +82,6 @@
           "reason": "+191% in 1h",
           "subtitle": "+191% in 1h",
           "link": "https://fomo.family/coin?address=GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "AVpc1fAyCvREiNG6BBvZueAG6YmAtqroyfWPRavKpump",
-          "label": "United Oil Dividend Fund",
-          "verdict": "kill",
-          "reason": "+226445% in 1h",
-          "subtitle": "+226445% in 1h",
-          "link": "https://fomo.family/coin?address=AVpc1fAyCvREiNG6BBvZueAG6YmAtqroyfWPRavKpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-13T08:09:40.288811Z",
+      "heartbeat": "2026-11-13T08:10:50.673010Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-13T08:09:40.290752Z",
+      "heartbeat": "2026-11-13T08:10:50.673722Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-13T08:09:40.290991Z",
+      "heartbeat": "2026-11-13T08:10:50.673828Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-13T08:09:38.498889Z",
+      "heartbeat": "2026-11-13T08:10:38.510341Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
