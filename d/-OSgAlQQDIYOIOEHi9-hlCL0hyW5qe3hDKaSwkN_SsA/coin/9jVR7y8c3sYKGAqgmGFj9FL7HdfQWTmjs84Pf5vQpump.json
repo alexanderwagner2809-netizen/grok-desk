@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:25:54.050743Z",
+  "ts": "2026-11-13T11:27:05.002147Z",
   "mint": "9jVR7y8c3sYKGAqgmGFj9FL7HdfQWTmjs84Pf5vQpump",
   "name": "JENOVA",
   "symbol": "JENOVA",
@@ -11,8 +11,8 @@
   "creator": "6KQsw5qRzqibArB3n39VhJUCMCKj7d6WiH5pjxRjHYay",
   "holders": null,
   "link": "https://fomo.family/coin?address=9jVR7y8c3sYKGAqgmGFj9FL7HdfQWTmjs84Pf5vQpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.531e-06,
-  "priceTs": "2026-11-13T11:25:53.847496Z",
+  "price": 1.547e-06,
+  "priceTs": "2026-11-13T11:27:04.797864Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -632,12 +632,20 @@
       "l": 1.531e-06,
       "c": 1.531e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794569220,
+      "o": 1.547e-06,
+      "h": 1.547e-06,
+      "l": 1.547e-06,
+      "c": 1.547e-06,
+      "v": 0.98
     }
   ],
   "stats": {
-    "marketCap": 1473.0,
-    "liquidity": 1539.72,
-    "volume24h": 19249.18,
+    "marketCap": 1488.0,
+    "liquidity": 1555.15,
+    "volume24h": 19250.17,
     "holders": null
   },
   "position": null,
