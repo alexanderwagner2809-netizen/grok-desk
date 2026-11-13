@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T11:18:46.338438Z",
+  "ts": "2026-11-13T11:19:57.406018Z",
   "mint": "8AXXxqQaYLZB4XwdhgGR71Hxt9AT2ivSTRMwHqNqpump",
-  "name": null,
-  "symbol": null,
-  "label": "8AXXxqQa",
+  "name": "The Big Sheep",
+  "symbol": "TBS",
+  "label": "The Big Sheep",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-13T11:17:37.299286Z",
-  "pool": null,
+  "pool": "2kuGkyb5biqFkG8nJ6xn6Qgi5qrQmarMW7D2HAkyan2q",
   "creator": "3WPwewWTCj3JVfAaJqEkXLCW1PAXmUMXBHTg1PXr6MPj",
   "holders": null,
   "link": "https://fomo.family/coin?address=8AXXxqQaYLZB4XwdhgGR71Hxt9AT2ivSTRMwHqNqpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 5.564e-09,
+  "priceTs": "2026-11-13T11:19:57.126852Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794568680,
+      "o": 8.075e-09,
+      "h": 8.075e-09,
+      "l": 8.075e-09,
+      "c": 8.075e-09,
+      "v": 0.0
+    },
+    {
+      "t": 1794568740,
+      "o": 5.564e-09,
+      "h": 5.564e-09,
+      "l": 5.564e-09,
+      "c": 5.564e-09,
+      "v": 1.0400000000000205
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 11.0,
+    "liquidity": 12.11,
+    "volume24h": 218.58,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T11:18:48.338602Z",
+      "liquidity_usd": 14.46,
+      "top10_pct": null,
+      "h1_change_pct": -94.2,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $14"
+    }
+  ]
 }
