@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T06:17:14.139375Z",
+  "ts": "2026-11-13T06:18:22.964518Z",
   "mint": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
   "name": null,
   "symbol": null,
   "label": "he1iusmf",
   "chain": "Solana",
-  "age": "19m old",
+  "age": "20m old",
   "migratedAt": "2026-11-13T05:57:43.812061Z",
   "pool": null,
   "creator": null,
   "holders": null,
   "link": "https://fomo.family/coin?address=he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 93.89,
+  "priceTs": "2026-11-13T06:18:22.715643Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794550680,
+      "o": 93.89,
+      "h": 93.89,
+      "l": 93.89,
+      "c": 93.89,
+      "v": 0.0
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 46258308.0,
+    "liquidity": 94.76,
+    "volume24h": 5.86,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T06:17:43.817657Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 20,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }

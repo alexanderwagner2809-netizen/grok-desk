@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T06:17:14.069333Z",
+  "ts": "2026-11-13T06:18:22.963744Z",
   "mint": "HMeUhWCSjvbP5jiZJWXMiHAavvaG5i36UmRdcCftpump",
-  "name": null,
-  "symbol": null,
-  "label": "HMeUhWCS",
+  "name": "banana bread",
+  "symbol": "ISABELLA",
+  "label": "banana bread",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T06:16:46.563836Z",
-  "pool": null,
+  "pool": "4VCxYYcpZXQnjVGKWDtDdcTSjdymEVaaYND4LYVd43iZ",
   "creator": "6Rszt2k8zJGXtGs17H4ZRQ1QkPjWmP8dGgEinKveMDub",
   "holders": null,
   "link": "https://fomo.family/coin?address=HMeUhWCSjvbP5jiZJWXMiHAavvaG5i36UmRdcCftpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 5.917e-09,
+  "priceTs": "2026-11-13T06:18:22.715643Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794550620,
+      "o": 8.239e-09,
+      "h": 8.239e-09,
+      "l": 8.239e-09,
+      "c": 8.239e-09,
+      "v": 0.0
+    },
+    {
+      "t": 1794550680,
+      "o": 5.917e-09,
+      "h": 5.917e-09,
+      "l": 5.917e-09,
+      "c": 5.917e-09,
+      "v": 2.3600000000000136
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 12.0,
+    "liquidity": 21.7,
+    "volume24h": 118.93,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T06:17:44.858120Z",
+      "liquidity_usd": 25.58,
+      "top10_pct": null,
+      "h1_change_pct": -98.22,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $26"
+    }
+  ]
 }
