@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T20:04:52.544315Z",
+  "ts": "2026-11-13T20:06:03.310981Z",
   "mint": "9jh6f2mEsoPMwrQ1XJA17Rzy3Y9VWmH4FvGXXhZJpump",
-  "name": null,
-  "symbol": null,
-  "label": "9jh6f2mE",
+  "name": "GTA 6  Ballfin",
+  "symbol": "Ballfin",
+  "label": "GTA 6  Ballfin",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T20:04:30.309791Z",
-  "pool": null,
+  "pool": "EignCPKyjhEvJzC5KBihkVtcEXBHagBX4dPcy47Tcp87",
   "creator": "HmBL5p59HrDeANZURVqNUFVH7HgBaSufo9vN9vSryFZx",
   "holders": null,
   "link": "https://fomo.family/coin?address=9jh6f2mEsoPMwrQ1XJA17Rzy3Y9VWmH4FvGXXhZJpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 7.941e-05,
+  "priceTs": "2026-11-13T20:06:03.019330Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794600300,
+      "o": 8.084e-05,
+      "h": 8.084e-05,
+      "l": 8.084e-05,
+      "c": 8.084e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794600360,
+      "o": 7.941e-05,
+      "h": 7.941e-05,
+      "l": 7.941e-05,
+      "c": 7.941e-05,
+      "v": 50180.67
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 79383.0,
+    "liquidity": 20431.85,
+    "volume24h": 57111.6,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T20:05:24.150360Z",
+      "liquidity_usd": 20071.56,
+      "top10_pct": null,
+      "h1_change_pct": 56.86,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "copycat of b"
+    }
+  ]
 }

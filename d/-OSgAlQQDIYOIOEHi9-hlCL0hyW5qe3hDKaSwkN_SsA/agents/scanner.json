@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T20:04:53.425368Z",
+  "ts": "2026-11-13T20:06:05.043584Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T20:04:51.173695Z",
+  "heartbeat": "2026-11-13T20:06:03.143912Z",
   "paused": false,
   "status": "running",
-  "card": "563 pools",
-  "count": 563,
+  "card": "564 pools",
+  "count": 564,
   "passed": 0,
   "feed": [
+    {
+      "mint": "9jh6f2mEsoPMwrQ1XJA17Rzy3Y9VWmH4FvGXXhZJpump",
+      "label": "GTA 6  Ballfin",
+      "verdict": "kill",
+      "reason": "copycat of b",
+      "subtitle": "copycat of b",
+      "link": "https://fomo.family/coin?address=9jh6f2mEsoPMwrQ1XJA17Rzy3Y9VWmH4FvGXXhZJpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump",
       "label": "GR00T 2",
@@ -66,19 +74,19 @@
       "reason": "liq $16.7K",
       "subtitle": "liq $16.7K",
       "link": "https://fomo.family/coin?address=GcgdY59EMCYm9ChQeAJmWChYGMLE7jF8YYYec89ypump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GFmc7F26gdvBsDYWkjNNFatqfRcJDkGe8c2dDAXgpump",
-      "label": "upside down dog",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=GFmc7F26gdvBsDYWkjNNFatqfRcJDkGe8c2dDAXgpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T20:05:24.150360Z",
+      "mint": "9jh6f2mEsoPMwrQ1XJA17Rzy3Y9VWmH4FvGXXhZJpump",
+      "label": "GTA 6  Ballfin",
+      "verdict": "kill",
+      "reason": "copycat of b",
+      "link": "https://fomo.family/coin?address=9jh6f2mEsoPMwrQ1XJA17Rzy3Y9VWmH4FvGXXhZJpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T20:03:42.118019Z",
       "mint": "EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump",
       "label": "GR00T 2",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $11.7K",
       "link": "https://fomo.family/coin?address=3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T19:43:41.739518Z",
-      "mint": "5Aa7NLxGQMdNVSsGYdWrwfvbDWaYFrsWo3M4Wp52pump",
-      "label": "THIS IS GRINCH ",
-      "verdict": "kill",
-      "reason": "liq $4",
-      "link": "https://fomo.family/coin?address=5Aa7NLxGQMdNVSsGYdWrwfvbDWaYFrsWo3M4Wp52pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T20:05:24.150360Z",
+      "mint": "9jh6f2mEsoPMwrQ1XJA17Rzy3Y9VWmH4FvGXXhZJpump",
+      "label": "GTA 6  Ballfin",
+      "verdict": "kill",
+      "reason": "copycat of b",
+      "link": "https://fomo.family/coin?address=9jh6f2mEsoPMwrQ1XJA17Rzy3Y9VWmH4FvGXXhZJpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T20:03:42.118019Z",
       "mint": "EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump",
       "label": "GR00T 2",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $11.7K",
       "link": "https://fomo.family/coin?address=3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T19:43:41.739518Z",
-      "mint": "5Aa7NLxGQMdNVSsGYdWrwfvbDWaYFrsWo3M4Wp52pump",
-      "label": "THIS IS GRINCH ",
-      "verdict": "kill",
-      "reason": "liq $4",
-      "link": "https://fomo.family/coin?address=5Aa7NLxGQMdNVSsGYdWrwfvbDWaYFrsWo3M4Wp52pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
