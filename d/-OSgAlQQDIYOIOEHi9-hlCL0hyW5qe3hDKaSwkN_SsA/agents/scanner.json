@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T08:21:31.381488Z",
+  "ts": "2026-11-13T08:22:41.955725Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T08:21:29.482133Z",
+  "heartbeat": "2026-11-13T08:22:40.216541Z",
   "paused": false,
   "status": "running",
-  "card": "474 pools",
-  "count": 474,
+  "card": "475 pools",
+  "count": 475,
   "passed": 0,
   "feed": [
+    {
+      "mint": "3YtneRez2igbaS2bD8CdVF36Y822tUaMs4d842dhpump",
+      "label": "UDTF",
+      "verdict": "kill",
+      "reason": "+224185% in 1h",
+      "subtitle": "+224185% in 1h",
+      "link": "https://fomo.family/coin?address=3YtneRez2igbaS2bD8CdVF36Y822tUaMs4d842dhpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "CYsW26mXPq62Q5e5obKExXH5zhdRcGbo6rQ818a1pump",
       "label": "who loves Palestine",
@@ -66,19 +74,19 @@
       "reason": "liq $137",
       "subtitle": "liq $137",
       "link": "https://fomo.family/coin?address=DskPMTCPtsioxuCAsYbszbKBAJy6EifApwQbNGbQpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "9sFGCTjEsBk78uC2bCdxtwuUM1aartbBhe8WQXwRpump",
-      "label": "サクラ",
-      "verdict": "kill",
-      "reason": "liq $11.8K",
-      "subtitle": "liq $11.8K",
-      "link": "https://fomo.family/coin?address=9sFGCTjEsBk78uC2bCdxtwuUM1aartbBhe8WQXwRpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T08:22:39.199749Z",
+      "mint": "3YtneRez2igbaS2bD8CdVF36Y822tUaMs4d842dhpump",
+      "label": "UDTF",
+      "verdict": "kill",
+      "reason": "+224185% in 1h",
+      "link": "https://fomo.family/coin?address=3YtneRez2igbaS2bD8CdVF36Y822tUaMs4d842dhpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T08:17:28.667876Z",
       "mint": "CYsW26mXPq62Q5e5obKExXH5zhdRcGbo6rQ818a1pump",
       "label": "who loves Palestine",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $10.9K",
       "link": "https://fomo.family/coin?address=D5Mvk9PiehtdWDVrhB8d9wr8Q73csDJ3Akovuwfqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T07:38:13.051130Z",
-      "mint": "EHaaMUkR2aPqF59wcugzxyTcbtc88824oPY7mE18pump",
-      "label": "Win Coin",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "link": "https://fomo.family/coin?address=EHaaMUkR2aPqF59wcugzxyTcbtc88824oPY7mE18pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T08:22:39.199749Z",
+      "mint": "3YtneRez2igbaS2bD8CdVF36Y822tUaMs4d842dhpump",
+      "label": "UDTF",
+      "verdict": "kill",
+      "reason": "+224185% in 1h",
+      "link": "https://fomo.family/coin?address=3YtneRez2igbaS2bD8CdVF36Y822tUaMs4d842dhpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T08:17:28.667876Z",
       "mint": "CYsW26mXPq62Q5e5obKExXH5zhdRcGbo6rQ818a1pump",
       "label": "who loves Palestine",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $10.9K",
       "link": "https://fomo.family/coin?address=D5Mvk9PiehtdWDVrhB8d9wr8Q73csDJ3Akovuwfqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T07:38:13.051130Z",
-      "mint": "EHaaMUkR2aPqF59wcugzxyTcbtc88824oPY7mE18pump",
-      "label": "Win Coin",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "link": "https://fomo.family/coin?address=EHaaMUkR2aPqF59wcugzxyTcbtc88824oPY7mE18pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
