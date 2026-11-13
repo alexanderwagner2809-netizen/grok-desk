@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T11:21:09.210037Z",
+  "ts": "2026-11-13T11:22:20.202379Z",
   "mint": "2QCcwbZL7YgovUqvXmxoKJR8AZoHeGMtt4vj2YGSpump",
-  "name": null,
-  "symbol": null,
-  "label": "2QCcwbZL",
+  "name": "FASTMOON",
+  "symbol": "FASTMOON",
+  "label": "FASTMOON",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T11:20:52.280633Z",
-  "pool": null,
+  "pool": "91J8WtxYDWAVc6iJNFQu9igg4JBY49wPP8S2XZ3UfPXy",
   "creator": "59S6GjdKBm453DBs5p3G2ZKrksBPmZCGvD2zvdVLdRv2",
   "holders": null,
   "link": "https://fomo.family/coin?address=2QCcwbZL7YgovUqvXmxoKJR8AZoHeGMtt4vj2YGSpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 0.0001333,
+  "priceTs": "2026-11-13T11:22:19.882013Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794568860,
+      "o": 0.0001578,
+      "h": 0.0001578,
+      "l": 0.0001578,
+      "c": 0.0001578,
+      "v": 0.0
+    },
+    {
+      "t": 1794568920,
+      "o": 0.0001333,
+      "h": 0.0001333,
+      "l": 0.0001333,
+      "c": 0.0001333,
+      "v": 15705.539999999999
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 133353.0,
+    "liquidity": 26315.94,
+    "volume24h": 25525.53,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T11:21:21.937651Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 340.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
