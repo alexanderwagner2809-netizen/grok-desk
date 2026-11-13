@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-13T05:51:24.992462Z",
+  "ts": "2026-11-13T05:52:35.317722Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T05:51:23.361505Z",
+  "heartbeat": "2026-11-13T05:52:33.817589Z",
   "paused": false,
   "status": "running",
-  "card": "412 pools",
-  "count": 412,
+  "card": "414 pools",
+  "count": 414,
   "passed": 0,
   "feed": [
+    {
+      "mint": "H4XL2XHmJV7CFiA8HKncGmwBNBJAXrsfqVwiAiEKpump",
+      "label": "APPLE",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "subtitle": "liq $3",
+      "link": "https://fomo.family/coin?address=H4XL2XHmJV7CFiA8HKncGmwBNBJAXrsfqVwiAiEKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "zezn8jWVhKjj8TkSixTnyMVuTTdy6g3Egz1PrzLpump",
+      "label": "UDTF",
+      "verdict": "kill",
+      "reason": "+10119% in 1h",
+      "subtitle": "+10119% in 1h",
+      "link": "https://fomo.family/coin?address=zezn8jWVhKjj8TkSixTnyMVuTTdy6g3Egz1PrzLpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "2ooUNQcFZPBFTaGWNCcZRcWY72TbSaAJ1ZTdUSWjpump",
       "label": "ALL IN",
@@ -58,27 +74,27 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=BiMP9FjC3d16mYNHnpAXVY7jfDzM8gsKUdYuzSMmpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "HgEMhsLbc1aHVf5cxYo9EEsN2nEnCsZiH4LSEqKTpump",
-      "label": "🐈‍⬛ Fomo Cat 🐈‍⬛",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=HgEMhsLbc1aHVf5cxYo9EEsN2nEnCsZiH4LSEqKTpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5EhNcXWBGoCM2Buw7FXwAtUUE4kpTR8TpkFxP2Dapump",
-      "label": "UODF",
-      "verdict": "kill",
-      "reason": "+240501% in 1h",
-      "subtitle": "+240501% in 1h",
-      "link": "https://fomo.family/coin?address=5EhNcXWBGoCM2Buw7FXwAtUUE4kpTR8TpkFxP2Dapump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T05:51:54.684683Z",
+      "mint": "H4XL2XHmJV7CFiA8HKncGmwBNBJAXrsfqVwiAiEKpump",
+      "label": "APPLE",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "link": "https://fomo.family/coin?address=H4XL2XHmJV7CFiA8HKncGmwBNBJAXrsfqVwiAiEKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T05:51:32.176875Z",
+      "mint": "zezn8jWVhKjj8TkSixTnyMVuTTdy6g3Egz1PrzLpump",
+      "label": "UDTF",
+      "verdict": "kill",
+      "reason": "+10119% in 1h",
+      "link": "https://fomo.family/coin?address=zezn8jWVhKjj8TkSixTnyMVuTTdy6g3Egz1PrzLpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T05:49:44.933832Z",
       "mint": "2ooUNQcFZPBFTaGWNCcZRcWY72TbSaAJ1ZTdUSWjpump",
       "label": "ALL IN",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "+128920% in 1h",
       "link": "https://fomo.family/coin?address=HVDkBDPQDPukBVCkiCBb2rgajjY7GS6V6mNwZtr4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T03:01:24.272918Z",
-      "mint": "C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump",
-      "label": "FOTF",
-      "verdict": "kill",
-      "reason": "+375282% in 1h",
-      "link": "https://fomo.family/coin?address=C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T02:59:24.438452Z",
-      "mint": "BE3LZxrrYSmwKdrPttBGD9RXY5UNWzFLep8r2Ycipump",
-      "label": "Blueface Official Coin",
-      "verdict": "kill",
-      "reason": "liq $1.9K",
-      "link": "https://fomo.family/coin?address=BE3LZxrrYSmwKdrPttBGD9RXY5UNWzFLep8r2Ycipump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T05:51:54.684683Z",
+      "mint": "H4XL2XHmJV7CFiA8HKncGmwBNBJAXrsfqVwiAiEKpump",
+      "label": "APPLE",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "link": "https://fomo.family/coin?address=H4XL2XHmJV7CFiA8HKncGmwBNBJAXrsfqVwiAiEKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T05:51:32.176875Z",
+      "mint": "zezn8jWVhKjj8TkSixTnyMVuTTdy6g3Egz1PrzLpump",
+      "label": "UDTF",
+      "verdict": "kill",
+      "reason": "+10119% in 1h",
+      "link": "https://fomo.family/coin?address=zezn8jWVhKjj8TkSixTnyMVuTTdy6g3Egz1PrzLpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T05:49:44.933832Z",
       "mint": "2ooUNQcFZPBFTaGWNCcZRcWY72TbSaAJ1ZTdUSWjpump",
       "label": "ALL IN",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "+128920% in 1h",
       "link": "https://fomo.family/coin?address=HVDkBDPQDPukBVCkiCBb2rgajjY7GS6V6mNwZtr4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T03:01:24.272918Z",
-      "mint": "C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump",
-      "label": "FOTF",
-      "verdict": "kill",
-      "reason": "+375282% in 1h",
-      "link": "https://fomo.family/coin?address=C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T02:59:24.438452Z",
-      "mint": "BE3LZxrrYSmwKdrPttBGD9RXY5UNWzFLep8r2Ycipump",
-      "label": "Blueface Official Coin",
-      "verdict": "kill",
-      "reason": "liq $1.9K",
-      "link": "https://fomo.family/coin?address=BE3LZxrrYSmwKdrPttBGD9RXY5UNWzFLep8r2Ycipump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
