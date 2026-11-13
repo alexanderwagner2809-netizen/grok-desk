@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T09:16:57.445334Z",
+  "ts": "2026-11-13T09:18:08.771023Z",
   "mint": "7VtWtKQsV6cJRuhfc8xcSG59JFuE35z492scaiokpump",
   "name": "banana bread",
   "symbol": "ISABELLA",
@@ -11,8 +11,8 @@
   "creator": "6Rszt2k8zJGXtGs17H4ZRQ1QkPjWmP8dGgEinKveMDub",
   "holders": null,
   "link": "https://fomo.family/coin?address=7VtWtKQsV6cJRuhfc8xcSG59JFuE35z492scaiokpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.35e-09,
-  "priceTs": "2026-11-13T09:16:57.207005Z",
+  "price": 8.245e-09,
+  "priceTs": "2026-11-13T09:18:08.576874Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -800,12 +800,20 @@
       "l": 8.35e-09,
       "c": 8.35e-09,
       "v": 2.87
+    },
+    {
+      "t": 1794561480,
+      "o": 8.245e-09,
+      "h": 8.245e-09,
+      "l": 8.245e-09,
+      "c": 8.245e-09,
+      "v": 0.23999999999999977
     }
   ],
   "stats": {
-    "marketCap": 17.0,
-    "liquidity": 4.77,
-    "volume24h": 40.39,
+    "marketCap": 16.0,
+    "liquidity": 4.74,
+    "volume24h": 40.64,
     "holders": null
   },
   "position": null,

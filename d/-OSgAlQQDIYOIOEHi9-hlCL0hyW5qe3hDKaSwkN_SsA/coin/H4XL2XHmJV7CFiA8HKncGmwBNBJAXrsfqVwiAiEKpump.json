@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T09:16:57.512347Z",
+  "ts": "2026-11-13T09:18:08.835879Z",
   "mint": "H4XL2XHmJV7CFiA8HKncGmwBNBJAXrsfqVwiAiEKpump",
   "name": "APPLE",
   "symbol": "APPLE",
@@ -12,7 +12,7 @@
   "holders": null,
   "link": "https://fomo.family/coin?address=H4XL2XHmJV7CFiA8HKncGmwBNBJAXrsfqVwiAiEKpump&chainId=1399811149&r=savipww&source=share_link",
   "price": 2.971e-10,
-  "priceTs": "2026-11-13T09:16:57.345199Z",
+  "priceTs": "2026-11-13T09:18:08.702586Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1336,11 +1336,19 @@
       "l": 2.971e-10,
       "c": 2.971e-10,
       "v": 0.01
+    },
+    {
+      "t": 1794561480,
+      "o": 2.971e-10,
+      "h": 2.971e-10,
+      "l": 2.971e-10,
+      "c": 2.971e-10,
+      "v": 0.0
     }
   ],
   "stats": {
     "marketCap": 1.0,
-    "liquidity": 1.16,
+    "liquidity": 1.14,
     "volume24h": 19.82,
     "holders": null
   },
