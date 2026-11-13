@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T08:10:52.685706Z",
+  "ts": "2026-11-13T08:12:03.144948Z",
   "mint": "9sFGCTjEsBk78uC2bCdxtwuUM1aartbBhe8WQXwRpump",
-  "name": null,
-  "symbol": null,
-  "label": "9sFGCTjE",
+  "name": "サクラ",
+  "symbol": "Sakura",
+  "label": "サクラ",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T08:10:37.613317Z",
-  "pool": null,
+  "pool": "FbR7WmU8WAAzSLsgwthiqAivzifdsW381FW3p4Vkmiru",
   "creator": "6QchwPfuTMry2YftFodZQSP1GWfN8dh4GscBSNCN62Ty",
   "holders": null,
   "link": "https://fomo.family/coin?address=9sFGCTjEsBk78uC2bCdxtwuUM1aartbBhe8WQXwRpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.138e-05,
+  "priceTs": "2026-11-13T08:12:02.865753Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794557460,
+      "o": 3.061e-05,
+      "h": 3.061e-05,
+      "l": 3.061e-05,
+      "c": 3.061e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794557520,
+      "o": 3.138e-05,
+      "h": 3.138e-05,
+      "l": 3.138e-05,
+      "c": 3.138e-05,
+      "v": 19812.370000000003
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 31345.0,
+    "liquidity": 12056.73,
+    "volume24h": 21808.65,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T08:11:21.889351Z",
+      "liquidity_usd": 11767.03,
+      "top10_pct": null,
+      "h1_change_pct": -7.4,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $11.8K"
+    }
+  ]
 }
