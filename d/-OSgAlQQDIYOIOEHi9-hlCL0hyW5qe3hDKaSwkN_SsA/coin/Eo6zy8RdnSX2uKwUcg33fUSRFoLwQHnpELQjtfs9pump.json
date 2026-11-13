@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T09:28:46.782125Z",
+  "ts": "2026-11-13T09:29:56.343824Z",
   "mint": "Eo6zy8RdnSX2uKwUcg33fUSRFoLwQHnpELQjtfs9pump",
-  "name": null,
-  "symbol": null,
-  "label": "Eo6zy8Rd",
+  "name": "Solana OS",
+  "symbol": "SolanaOS",
+  "label": "Solana OS",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T09:28:08.503653Z",
-  "pool": null,
+  "pool": "G1yUh9ntsk1yDgdKgiNrZm1Q8oEdBaks2MC9ub78Rr3Z",
   "creator": "4cV1NPf5gVA9V5DeKVM9pcTX8opsoA3ncQqJJrKc3YRj",
   "holders": null,
   "link": "https://fomo.family/coin?address=Eo6zy8RdnSX2uKwUcg33fUSRFoLwQHnpELQjtfs9pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.187e-05,
+  "priceTs": "2026-11-13T09:29:56.045450Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794562140,
+      "o": 3.068e-05,
+      "h": 3.187e-05,
+      "l": 3.068e-05,
+      "c": 3.187e-05,
+      "v": 9085.57
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 31827.0,
+    "liquidity": 12088.3,
+    "volume24h": 12937.97,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T09:29:09.814352Z",
+      "liquidity_usd": 11774.86,
+      "top10_pct": null,
+      "h1_change_pct": -5.27,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $11.8K"
+    }
+  ]
 }
