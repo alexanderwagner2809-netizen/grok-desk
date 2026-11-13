@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-13T07:26:06.986848Z",
+  "mint": "4TuNDgnTP1yrfdWD2A5aVMpiLaXEBSTLRN7aj94Hpump",
+  "name": "Looksmax CATE",
+  "symbol": "BPCATE",
+  "label": "Looksmax CATE",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-13T07:25:01.112581Z",
+  "pool": "EMAxGFariRicE2vNSA7aT5SwVfAQXmfdb2g7jRFHyeko",
+  "creator": "GNgf6gtMyR8XFQTRE4ceWL89SMRi7Ksag7cHqW45odvP",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=4TuNDgnTP1yrfdWD2A5aVMpiLaXEBSTLRN7aj94Hpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.216e-09,
+  "priceTs": "2026-11-13T07:26:06.697253Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794554700,
+      "o": 1.269e-08,
+      "h": 1.269e-08,
+      "l": 1.269e-08,
+      "c": 1.269e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794554760,
+      "o": 3.216e-09,
+      "h": 3.216e-09,
+      "l": 3.216e-09,
+      "c": 3.216e-09,
+      "v": 15.879999999999995
+    }
+  ],
+  "stats": {
+    "marketCap": 6.0,
+    "liquidity": 5.84,
+    "volume24h": 72.82,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T07:25:49.433427Z",
+      "liquidity_usd": 13.22,
+      "top10_pct": null,
+      "h1_change_pct": -78.4,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $13"
+    }
+  ]
+}
