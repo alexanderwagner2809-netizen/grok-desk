@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-13T07:52:03.303303Z",
+  "ts": "2026-11-13T07:53:13.898215Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T07:52:01.470848Z",
+  "heartbeat": "2026-11-13T07:53:11.614549Z",
   "paused": false,
   "status": "running",
-  "card": "457 pools",
-  "count": 457,
+  "card": "459 pools",
+  "count": 459,
   "passed": 0,
   "feed": [
+    {
+      "mint": "GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump",
+      "label": "Rockstar Games",
+      "verdict": "kill",
+      "reason": "+191% in 1h",
+      "subtitle": "+191% in 1h",
+      "link": "https://fomo.family/coin?address=GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "AVpc1fAyCvREiNG6BBvZueAG6YmAtqroyfWPRavKpump",
+      "label": "United Oil Dividend Fund",
+      "verdict": "kill",
+      "reason": "+226445% in 1h",
+      "subtitle": "+226445% in 1h",
+      "link": "https://fomo.family/coin?address=AVpc1fAyCvREiNG6BBvZueAG6YmAtqroyfWPRavKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "9W5XqdWFejXFgES4NKTtYuhPajZkTi8uv4fci9pUpump",
       "label": "GTA",
@@ -58,27 +74,27 @@
       "reason": "liq $12.5K",
       "subtitle": "liq $12.5K",
       "link": "https://fomo.family/coin?address=EQVHqWcxMQ66s6Cm6Cj6Q8AKYixZiBxEPC5m3qm6pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "7By4nMjyfbFHsWMqQikpcd4P1MZQMaRFo2Z3L6jZpump",
-      "label": "The Drunk Raccoon",
-      "verdict": "kill",
-      "reason": "liq $10.9K",
-      "subtitle": "liq $10.9K",
-      "link": "https://fomo.family/coin?address=7By4nMjyfbFHsWMqQikpcd4P1MZQMaRFo2Z3L6jZpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "Aatkj7qDHaat1fs2gMmFQDLdfUzJmVKBjJJEzAK1pump",
-      "label": "AURACOIN",
-      "verdict": "kill",
-      "reason": "liq $9",
-      "subtitle": "liq $9",
-      "link": "https://fomo.family/coin?address=Aatkj7qDHaat1fs2gMmFQDLdfUzJmVKBjJJEzAK1pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T07:52:52.473887Z",
+      "mint": "GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump",
+      "label": "Rockstar Games",
+      "verdict": "kill",
+      "reason": "+191% in 1h",
+      "link": "https://fomo.family/coin?address=GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T07:52:52.471772Z",
+      "mint": "AVpc1fAyCvREiNG6BBvZueAG6YmAtqroyfWPRavKpump",
+      "label": "United Oil Dividend Fund",
+      "verdict": "kill",
+      "reason": "+226445% in 1h",
+      "link": "https://fomo.family/coin?address=AVpc1fAyCvREiNG6BBvZueAG6YmAtqroyfWPRavKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:44:40.332059Z",
       "mint": "9W5XqdWFejXFgES4NKTtYuhPajZkTi8uv4fci9pUpump",
       "label": "GTA",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:50:45.203735Z",
-      "mint": "Bhs6xkJBPapWfiJ9r2HMd1eVEGyv351nrnB1Z1LGpump",
-      "label": "Real World Asses",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=Bhs6xkJBPapWfiJ9r2HMd1eVEGyv351nrnB1Z1LGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:49:45.801705Z",
-      "mint": "HpYp9zrsmDPz3gJCrSHucGGoZ14Qbe7rj7wMeGGrpump",
-      "label": "JUMP COIN",
-      "verdict": "kill",
-      "reason": "liq $8",
-      "link": "https://fomo.family/coin?address=HpYp9zrsmDPz3gJCrSHucGGoZ14Qbe7rj7wMeGGrpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T07:52:52.473887Z",
+      "mint": "GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump",
+      "label": "Rockstar Games",
+      "verdict": "kill",
+      "reason": "+191% in 1h",
+      "link": "https://fomo.family/coin?address=GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T07:52:52.471772Z",
+      "mint": "AVpc1fAyCvREiNG6BBvZueAG6YmAtqroyfWPRavKpump",
+      "label": "United Oil Dividend Fund",
+      "verdict": "kill",
+      "reason": "+226445% in 1h",
+      "link": "https://fomo.family/coin?address=AVpc1fAyCvREiNG6BBvZueAG6YmAtqroyfWPRavKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:44:40.332059Z",
       "mint": "9W5XqdWFejXFgES4NKTtYuhPajZkTi8uv4fci9pUpump",
       "label": "GTA",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:50:45.203735Z",
-      "mint": "Bhs6xkJBPapWfiJ9r2HMd1eVEGyv351nrnB1Z1LGpump",
-      "label": "Real World Asses",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=Bhs6xkJBPapWfiJ9r2HMd1eVEGyv351nrnB1Z1LGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:49:45.801705Z",
-      "mint": "HpYp9zrsmDPz3gJCrSHucGGoZ14Qbe7rj7wMeGGrpump",
-      "label": "JUMP COIN",
-      "verdict": "kill",
-      "reason": "liq $8",
-      "link": "https://fomo.family/coin?address=HpYp9zrsmDPz3gJCrSHucGGoZ14Qbe7rj7wMeGGrpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

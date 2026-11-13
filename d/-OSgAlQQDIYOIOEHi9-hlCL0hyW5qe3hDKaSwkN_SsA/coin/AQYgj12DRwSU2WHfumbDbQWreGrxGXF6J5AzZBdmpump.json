@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T07:52:02.040258Z",
+  "ts": "2026-11-13T07:53:12.608363Z",
   "mint": "AQYgj12DRwSU2WHfumbDbQWreGrxGXF6J5AzZBdmpump",
   "name": "buy and forget",
   "symbol": "Goldfish",
   "label": "buy and forget",
   "chain": "Solana",
-  "age": "25m old",
+  "age": "26m old",
   "migratedAt": "2026-11-13T07:26:46.486887Z",
   "pool": "EmD5eDRwGNigmVBe9YziWAG8ii1Uc1kj1cELU1edtEmL",
   "creator": "DaTnUtrhnj3rcrfhqsaEqs6WUVpbh17LvMnfdRni2e1D",
   "holders": null,
   "link": "https://fomo.family/coin?address=AQYgj12DRwSU2WHfumbDbQWreGrxGXF6J5AzZBdmpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.522e-06,
-  "priceTs": "2026-11-13T07:52:01.785041Z",
+  "price": 2.368e-06,
+  "priceTs": "2026-11-13T07:53:12.310876Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -192,12 +192,20 @@
       "l": 2.522e-06,
       "c": 2.522e-06,
       "v": 7.890000000000001
+    },
+    {
+      "t": 1794556380,
+      "o": 2.368e-06,
+      "h": 2.368e-06,
+      "l": 2.368e-06,
+      "c": 2.368e-06,
+      "v": 66.19
     }
   ],
   "stats": {
-    "marketCap": 2523.0,
-    "liquidity": 2371.56,
-    "volume24h": 63069.87,
+    "marketCap": 2369.0,
+    "liquidity": 2253.58,
+    "volume24h": 63147.83,
     "holders": null
   },
   "position": null,
