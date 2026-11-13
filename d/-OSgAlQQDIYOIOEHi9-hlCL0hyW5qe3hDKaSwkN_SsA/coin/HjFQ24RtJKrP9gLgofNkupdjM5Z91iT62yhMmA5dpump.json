@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-13T09:37:01.515058Z",
+  "mint": "HjFQ24RtJKrP9gLgofNkupdjM5Z91iT62yhMmA5dpump",
+  "name": "Rexton Coin",
+  "symbol": "$REXTON",
+  "label": "Rexton Coin",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-13T09:36:10.064665Z",
+  "pool": "FU9uCfqyH3sdk4pWTu2563HVSmFzYLrS15ebAAaHKhkz",
+  "creator": "13XfHNQTeQ4yMkk7SX5rWTdfW8PDkYCB7hgkGCxJrZ8N",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=HjFQ24RtJKrP9gLgofNkupdjM5Z91iT62yhMmA5dpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.354e-08,
+  "priceTs": "2026-11-13T09:37:01.197715Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794562560,
+      "o": 4.515e-07,
+      "h": 4.515e-07,
+      "l": 4.515e-07,
+      "c": 4.515e-07,
+      "v": 0.0
+    },
+    {
+      "t": 1794562620,
+      "o": 2.354e-08,
+      "h": 2.354e-08,
+      "l": 2.354e-08,
+      "c": 2.354e-08,
+      "v": 1357.46
+    }
+  ],
+  "stats": {
+    "marketCap": 47.0,
+    "liquidity": 95.38,
+    "volume24h": 1533.24,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T09:36:39.874675Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -47.84,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
