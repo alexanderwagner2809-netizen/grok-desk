@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T07:54:23.388013Z",
+  "ts": "2026-11-13T07:55:33.877407Z",
   "mint": "GdPu5KPUeka8RJje6wjZ3o45wNDpHaSivoe6ydYhpump",
   "name": "Yetzer Hara Trap ",
   "symbol": "YHT",
@@ -11,8 +11,8 @@
   "creator": "8wBA6NTtZHvu2jBCJQSTzRzEFh9KQgWC7btN4LrgpqP1",
   "holders": null,
   "link": "https://fomo.family/coin?address=GdPu5KPUeka8RJje6wjZ3o45wNDpHaSivoe6ydYhpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.484e-05,
-  "priceTs": "2026-11-13T07:54:23.249369Z",
+  "price": 2.516e-05,
+  "priceTs": "2026-11-13T07:55:33.749667Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1144,12 +1144,20 @@
       "l": 2.484e-05,
       "c": 2.484e-05,
       "v": 77.53
+    },
+    {
+      "t": 1794556500,
+      "o": 2.516e-05,
+      "h": 2.516e-05,
+      "l": 2.516e-05,
+      "c": 2.516e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 23856.0,
-    "liquidity": 10472.07,
-    "volume24h": 69452.86,
+    "marketCap": 24170.0,
+    "liquidity": 10550.1,
+    "volume24h": 69485.64,
     "holders": null
   },
   "position": null,
