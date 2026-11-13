@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T11:04:31.397815Z",
+  "ts": "2026-11-13T11:05:41.934552Z",
   "mint": "98nXyGXUX6T7364SBJ5vJAAixgF6Rxrc4StoHHTopump",
-  "name": null,
-  "symbol": null,
-  "label": "98nXyGXU",
+  "name": "ANGRY CAR",
+  "symbol": "ANGRYCAR",
+  "label": "ANGRY CAR",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T11:04:08.458341Z",
-  "pool": null,
+  "pool": "7JrzHb6mbm5pqnksHqY16CaKfQqy7swqyE8U9PDTrsSC",
   "creator": "FLF5njoRhNyEnJ87Xb1rEZntRGjv226SafZeZ4KdfGhU",
   "holders": null,
   "link": "https://fomo.family/coin?address=98nXyGXUX6T7364SBJ5vJAAixgF6Rxrc4StoHHTopump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 9.989e-10,
+  "priceTs": "2026-11-13T11:05:41.661466Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794567900,
+      "o": 7.559e-09,
+      "h": 7.559e-09,
+      "l": 9.989e-10,
+      "c": 9.989e-10,
+      "v": 21.929999999999993
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 2.0,
+    "liquidity": 2.89,
+    "volume24h": 85.96,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T11:05:09.494954Z",
+      "liquidity_usd": 8.57,
+      "top10_pct": null,
+      "h1_change_pct": -81.33,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $9"
+    }
+  ]
 }

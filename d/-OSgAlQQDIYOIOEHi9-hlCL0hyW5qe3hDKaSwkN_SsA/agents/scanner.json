@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T11:04:32.397900Z",
+  "ts": "2026-11-13T11:05:43.440115Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T11:04:29.432460Z",
+  "heartbeat": "2026-11-13T11:05:41.619415Z",
   "paused": false,
   "status": "running",
-  "card": "514 pools",
-  "count": 514,
+  "card": "515 pools",
+  "count": 515,
   "passed": 0,
   "feed": [
+    {
+      "mint": "98nXyGXUX6T7364SBJ5vJAAixgF6Rxrc4StoHHTopump",
+      "label": "ANGRY CAR",
+      "verdict": "kill",
+      "reason": "liq $9",
+      "subtitle": "liq $9",
+      "link": "https://fomo.family/coin?address=98nXyGXUX6T7364SBJ5vJAAixgF6Rxrc4StoHHTopump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "5M1yNWHeAxjWkFCkgPy9Scgayan24mumH7vx1TPDpump",
       "label": "Doomed Rocket",
@@ -66,19 +74,19 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=5j8PvQTY31dcVSjm31P2XCALxUsiEkq22aqeZam4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "7NcKYrsu1J4f137HR3mRXd4LqumBvjBknLvsdHZtjLP2",
-      "label": "if shes down im down",
-      "verdict": "kill",
-      "reason": "liq $11.7K",
-      "subtitle": "liq $11.7K",
-      "link": "https://fomo.family/coin?address=7NcKYrsu1J4f137HR3mRXd4LqumBvjBknLvsdHZtjLP2&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T11:05:09.494954Z",
+      "mint": "98nXyGXUX6T7364SBJ5vJAAixgF6Rxrc4StoHHTopump",
+      "label": "ANGRY CAR",
+      "verdict": "kill",
+      "reason": "liq $9",
+      "link": "https://fomo.family/coin?address=98nXyGXUX6T7364SBJ5vJAAixgF6Rxrc4StoHHTopump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T11:03:47.664950Z",
       "mint": "5M1yNWHeAxjWkFCkgPy9Scgayan24mumH7vx1TPDpump",
       "label": "Doomed Rocket",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $46",
       "link": "https://fomo.family/coin?address=5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:32:45.112600Z",
-      "mint": "22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump",
-      "label": "MEMBUY",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T11:05:09.494954Z",
+      "mint": "98nXyGXUX6T7364SBJ5vJAAixgF6Rxrc4StoHHTopump",
+      "label": "ANGRY CAR",
+      "verdict": "kill",
+      "reason": "liq $9",
+      "link": "https://fomo.family/coin?address=98nXyGXUX6T7364SBJ5vJAAixgF6Rxrc4StoHHTopump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T11:03:47.664950Z",
       "mint": "5M1yNWHeAxjWkFCkgPy9Scgayan24mumH7vx1TPDpump",
       "label": "Doomed Rocket",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $46",
       "link": "https://fomo.family/coin?address=5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:32:45.112600Z",
-      "mint": "22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump",
-      "label": "MEMBUY",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:04:30.614652Z",
+  "ts": "2026-11-13T11:05:41.985846Z",
   "mint": "GZUHiXsT6aKNdjgDEY25pzKusrcqyVyvwTWieEGepump",
   "name": "USOE",
   "symbol": "USOE",
@@ -11,8 +11,8 @@
   "creator": "9TiKR9Togyrc9a26cPjDkeTLT2qz4Vjkm6VSSzrqrnGC",
   "holders": null,
   "link": "https://fomo.family/coin?address=GZUHiXsT6aKNdjgDEY25pzKusrcqyVyvwTWieEGepump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.1169,
-  "priceTs": "2026-11-13T11:04:30.294032Z",
+  "price": 0.117,
+  "priceTs": "2026-11-13T11:05:41.792302Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -720,12 +720,20 @@
       "l": 0.1169,
       "c": 0.1169,
       "v": 1195.12
+    },
+    {
+      "t": 1794567900,
+      "o": 0.117,
+      "h": 0.117,
+      "l": 0.117,
+      "c": 0.117,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 116992957.0,
-    "liquidity": 812801.83,
-    "volume24h": 398505.71,
+    "marketCap": 117041074.0,
+    "liquidity": 812969.7,
+    "volume24h": 398732.44,
     "holders": null
   },
   "position": null,
