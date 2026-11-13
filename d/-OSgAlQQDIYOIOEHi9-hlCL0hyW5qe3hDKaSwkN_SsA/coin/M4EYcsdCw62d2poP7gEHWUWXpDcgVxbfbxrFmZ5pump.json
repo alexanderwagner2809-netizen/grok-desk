@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T06:31:32.265719Z",
+  "ts": "2026-11-13T06:32:42.901382Z",
   "mint": "M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump",
   "name": "NATF",
   "symbol": "NATF",
   "label": "NATF",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T06:31:01.221646Z",
   "pool": "GfDkSKnXksJedDbc1hzWbZ2q5kQUr6XDV5Q9W5LTJDXm",
   "creator": "3TuquBKoEC4FCeRVCJerb39FmBPrREGn9ngph8VyBpNx",
   "holders": null,
   "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.62e-06,
-  "priceTs": "2026-11-13T06:31:31.983356Z",
+  "price": 1.463e-06,
+  "priceTs": "2026-11-13T06:32:42.630685Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1280,12 +1280,20 @@
       "l": 1.62e-06,
       "c": 1.62e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794551520,
+      "o": 1.463e-06,
+      "h": 1.463e-06,
+      "l": 1.463e-06,
+      "c": 1.463e-06,
+      "v": 4.2
     }
   ],
   "stats": {
-    "marketCap": 1620.0,
-    "liquidity": 1641.39,
-    "volume24h": 490699.4,
+    "marketCap": 1463.0,
+    "liquidity": 1483.93,
+    "volume24h": 490703.6,
     "holders": null
   },
   "position": null,
