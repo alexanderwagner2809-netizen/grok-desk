@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T01:03:50.487427Z",
+  "ts": "2026-11-13T01:05:00.219932Z",
   "mint": "91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump",
   "name": "Father",
   "symbol": "Hero",
@@ -11,8 +11,8 @@
   "creator": "9dTijLRe5KZvTyetfWmZnvE7SoGUUHVpXt27CaaMJX78",
   "holders": null,
   "link": "https://fomo.family/coin?address=91wjaiPv4uhsDUA1qo8NwNAkYNgqnjV7TvSCPeA7pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.146e-05,
-  "priceTs": "2026-11-13T01:03:50.392519Z",
+  "price": 2.17e-05,
+  "priceTs": "2026-11-13T01:05:00.125388Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -744,12 +744,20 @@
       "l": 2.146e-05,
       "c": 2.146e-05,
       "v": 7.310000000000059
+    },
+    {
+      "t": 1794531900,
+      "o": 2.17e-05,
+      "h": 2.17e-05,
+      "l": 2.17e-05,
+      "c": 2.17e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 21125.0,
-    "liquidity": 12032.7,
-    "volume24h": 1250062.82,
+    "marketCap": 21359.0,
+    "liquidity": 12109.92,
+    "volume24h": 1250118.21,
     "holders": null
   },
   "position": null,
