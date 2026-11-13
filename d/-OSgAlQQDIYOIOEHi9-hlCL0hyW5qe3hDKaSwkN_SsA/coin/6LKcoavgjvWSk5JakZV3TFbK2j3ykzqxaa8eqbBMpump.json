@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T07:34:21.551233Z",
+  "ts": "2026-11-13T07:35:32.441969Z",
   "mint": "6LKcoavgjvWSk5JakZV3TFbK2j3ykzqxaa8eqbBMpump",
   "name": "$Ansbull",
   "symbol": "$Ansbull",
   "label": "$Ansbull",
   "chain": "Solana",
-  "age": "32m old",
+  "age": "33m old",
   "migratedAt": "2026-11-13T07:01:45.138246Z",
   "pool": "GNYehViW3UMkEyDdnZbn21HKkRetkKaFauEQw3FdP9vG",
   "creator": "FoxX51V7HVdKj3phPX4xoHBPE5HKgrM5kYc9BAwxnCJ2",
   "holders": null,
   "link": "https://fomo.family/coin?address=6LKcoavgjvWSk5JakZV3TFbK2j3ykzqxaa8eqbBMpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.94e-09,
-  "priceTs": "2026-11-13T07:34:21.288196Z",
+  "price": 1.871e-09,
+  "priceTs": "2026-11-13T07:35:32.158872Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -192,12 +192,20 @@
       "l": 1.94e-09,
       "c": 1.94e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794555300,
+      "o": 1.871e-09,
+      "h": 1.871e-09,
+      "l": 1.871e-09,
+      "c": 1.871e-09,
+      "v": 0.01
     }
   ],
   "stats": {
     "marketCap": 2.0,
-    "liquidity": 2.89,
-    "volume24h": 73.02,
+    "liquidity": 2.84,
+    "volume24h": 73.03,
     "holders": null
   },
   "position": null,
