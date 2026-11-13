@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T06:38:35.710688Z",
+  "ts": "2026-11-13T06:39:45.434645Z",
   "mint": "7L1hABSHh6GofDqVhFtMPFhW5K2sHQ9UQrp6SC8pump",
-  "name": null,
-  "symbol": null,
-  "label": "7L1hABSH",
+  "name": "Alien Shiba Inux",
+  "symbol": "INUX",
+  "label": "Alien Shiba Inux",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T06:38:27.129586Z",
-  "pool": null,
+  "pool": "5qFEkY85CUTpwQ9YeaojwPfUwhbvW1qjwU5iq2Bvp3jj",
   "creator": "3Mg9WFwRLJA4uyoBCKYJEfoq14y3z4t9uo4tW6kZ2M3P",
   "holders": null,
   "link": "https://fomo.family/coin?address=7L1hABSHh6GofDqVhFtMPFhW5K2sHQ9UQrp6SC8pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.609e-09,
+  "priceTs": "2026-11-13T06:39:45.192150Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794551940,
+      "o": 1.609e-09,
+      "h": 1.609e-09,
+      "l": 1.609e-09,
+      "c": 1.609e-09,
+      "v": 0.0
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 3.0,
+    "liquidity": 4.24,
+    "volume24h": 95.38,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T06:39:31.865469Z",
+      "liquidity_usd": 4.04,
+      "top10_pct": null,
+      "h1_change_pct": -97.16,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $4"
+    }
+  ]
 }

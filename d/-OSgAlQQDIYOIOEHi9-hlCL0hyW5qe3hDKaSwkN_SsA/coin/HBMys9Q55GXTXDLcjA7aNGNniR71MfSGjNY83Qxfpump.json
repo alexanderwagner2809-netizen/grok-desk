@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T06:38:35.248445Z",
+  "ts": "2026-11-13T06:39:45.472145Z",
   "mint": "HBMys9Q55GXTXDLcjA7aNGNniR71MfSGjNY83Qxfpump",
   "name": "Usefulcoin",
   "symbol": "USEFUL",
   "label": "Usefulcoin",
   "chain": "Solana",
-  "age": "51m old",
+  "age": "52m old",
   "migratedAt": "2026-11-13T05:47:09.590611Z",
   "pool": "3vCAeQiY3rfM4xwdNpqrCnUMHxoazfp6rfCeKusetjME",
   "creator": "CKLYVyTg1rHiJGX2Dbx1Vd6jn9a9ycBHsNBXj2QwbQfE",
   "holders": null,
   "link": "https://fomo.family/coin?address=HBMys9Q55GXTXDLcjA7aNGNniR71MfSGjNY83Qxfpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.284e-05,
-  "priceTs": "2026-11-13T06:38:34.930005Z",
+  "price": 1.124e-05,
+  "priceTs": "2026-11-13T06:39:45.192150Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -368,12 +368,20 @@
       "l": 1.284e-05,
       "c": 1.284e-05,
       "v": 143.82999999999993
+    },
+    {
+      "t": 1794551940,
+      "o": 1.124e-05,
+      "h": 1.124e-05,
+      "l": 1.124e-05,
+      "c": 1.124e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 12152.0,
-    "liquidity": 7251.83,
-    "volume24h": 219228.75,
+    "marketCap": 10641.0,
+    "liquidity": 6700.21,
+    "volume24h": 219774.79,
     "holders": null
   },
   "position": null,
