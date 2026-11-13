@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T07:40:14.625198Z",
+  "ts": "2026-11-13T07:41:25.356852Z",
   "mint": "6p4ZRmb36ggUCox9R8eJ9Jva22doySgk6QVNrTFnpump",
   "name": "Microsoft 364",
   "symbol": "364",
@@ -11,8 +11,8 @@
   "creator": "9eojqVtvw8T1W8feBTT3XLjCx5DtMtgieFFDub15ZkpV",
   "holders": null,
   "link": "https://fomo.family/coin?address=6p4ZRmb36ggUCox9R8eJ9Jva22doySgk6QVNrTFnpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.745e-05,
-  "priceTs": "2026-11-13T07:40:14.434305Z",
+  "price": 4.455e-05,
+  "priceTs": "2026-11-13T07:41:25.164821Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -704,12 +704,20 @@
       "l": 4.745e-05,
       "c": 4.745e-05,
       "v": 346.73
+    },
+    {
+      "t": 1794555660,
+      "o": 4.455e-05,
+      "h": 4.455e-05,
+      "l": 4.455e-05,
+      "c": 4.455e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 46044.0,
-    "liquidity": 18051.27,
-    "volume24h": 650437.61,
+    "marketCap": 43231.0,
+    "liquidity": 17438.59,
+    "volume24h": 651111.54,
     "holders": null
   },
   "position": null,
