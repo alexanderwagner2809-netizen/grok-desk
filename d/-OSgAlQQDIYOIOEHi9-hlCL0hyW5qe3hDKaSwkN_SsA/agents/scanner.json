@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T08:54:33.033759Z",
+  "ts": "2026-11-13T08:55:43.765638Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T08:54:31.101766Z",
+  "heartbeat": "2026-11-13T08:55:41.922187Z",
   "paused": false,
   "status": "running",
-  "card": "481 pools",
-  "count": 481,
+  "card": "482 pools",
+  "count": 482,
   "passed": 0,
   "feed": [
+    {
+      "mint": "At7ARBL5yskfNgYJVtcC36QUHgJ3TuqQkZVMpeyipump",
+      "label": "Screaming Vandal",
+      "verdict": "kill",
+      "reason": "liq $6",
+      "subtitle": "liq $6",
+      "link": "https://fomo.family/coin?address=At7ARBL5yskfNgYJVtcC36QUHgJ3TuqQkZVMpeyipump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump",
       "label": "Chewbarka",
@@ -66,19 +74,19 @@
       "reason": "+224185% in 1h",
       "subtitle": "+224185% in 1h",
       "link": "https://fomo.family/coin?address=3YtneRez2igbaS2bD8CdVF36Y822tUaMs4d842dhpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "CYsW26mXPq62Q5e5obKExXH5zhdRcGbo6rQ818a1pump",
-      "label": "who loves Palestine",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=CYsW26mXPq62Q5e5obKExXH5zhdRcGbo6rQ818a1pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T08:55:11.827399Z",
+      "mint": "At7ARBL5yskfNgYJVtcC36QUHgJ3TuqQkZVMpeyipump",
+      "label": "Screaming Vandal",
+      "verdict": "kill",
+      "reason": "liq $6",
+      "link": "https://fomo.family/coin?address=At7ARBL5yskfNgYJVtcC36QUHgJ3TuqQkZVMpeyipump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T08:38:15.722177Z",
       "mint": "EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump",
       "label": "Chewbarka",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $9",
       "link": "https://fomo.family/coin?address=4CbHDFfz3jc2BsVSrtQJHav6twH8TFWwc5CeaCRspump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T07:58:12.743705Z",
-      "mint": "BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump",
-      "label": "Hugh Janus",
-      "verdict": "kill",
-      "reason": "liq $11.9K",
-      "link": "https://fomo.family/coin?address=BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T08:55:11.827399Z",
+      "mint": "At7ARBL5yskfNgYJVtcC36QUHgJ3TuqQkZVMpeyipump",
+      "label": "Screaming Vandal",
+      "verdict": "kill",
+      "reason": "liq $6",
+      "link": "https://fomo.family/coin?address=At7ARBL5yskfNgYJVtcC36QUHgJ3TuqQkZVMpeyipump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T08:38:15.722177Z",
       "mint": "EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump",
       "label": "Chewbarka",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $9",
       "link": "https://fomo.family/coin?address=4CbHDFfz3jc2BsVSrtQJHav6twH8TFWwc5CeaCRspump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T07:58:12.743705Z",
-      "mint": "BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump",
-      "label": "Hugh Janus",
-      "verdict": "kill",
-      "reason": "liq $11.9K",
-      "link": "https://fomo.family/coin?address=BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

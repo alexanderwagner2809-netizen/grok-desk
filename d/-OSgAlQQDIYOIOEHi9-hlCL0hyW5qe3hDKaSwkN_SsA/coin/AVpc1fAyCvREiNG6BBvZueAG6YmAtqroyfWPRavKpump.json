@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T08:54:31.539751Z",
+  "ts": "2026-11-13T08:55:42.393068Z",
   "mint": "AVpc1fAyCvREiNG6BBvZueAG6YmAtqroyfWPRavKpump",
   "name": "United Oil Dividend Fund",
   "symbol": "UODF",
@@ -11,8 +11,8 @@
   "creator": "BwAdL7ZKkq6oQfQYZ3QDVz3Cy5TwKLxpLWhr3oaZe5Pq",
   "holders": null,
   "link": "https://fomo.family/coin?address=AVpc1fAyCvREiNG6BBvZueAG6YmAtqroyfWPRavKpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.04702,
-  "priceTs": "2026-11-13T08:54:31.264101Z",
+  "price": 0.05,
+  "priceTs": "2026-11-13T08:55:42.095220Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -448,12 +448,20 @@
       "l": 0.04702,
       "c": 0.04702,
       "v": 0.0
+    },
+    {
+      "t": 1794560100,
+      "o": 0.05,
+      "h": 0.05,
+      "l": 0.05,
+      "c": 0.05,
+      "v": 8019.32
     }
   ],
   "stats": {
-    "marketCap": 47022364.0,
-    "liquidity": 515452.65,
-    "volume24h": 682795.13,
+    "marketCap": 50001001.0,
+    "liquidity": 531587.68,
+    "volume24h": 690855.06,
     "holders": null
   },
   "position": null,
