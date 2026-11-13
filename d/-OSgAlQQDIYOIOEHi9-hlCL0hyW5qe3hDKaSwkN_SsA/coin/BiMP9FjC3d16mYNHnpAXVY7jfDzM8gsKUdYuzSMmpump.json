@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-13T05:11:29.914176Z",
+  "ts": "2026-11-13T05:12:40.358606Z",
   "mint": "BiMP9FjC3d16mYNHnpAXVY7jfDzM8gsKUdYuzSMmpump",
-  "name": null,
-  "symbol": null,
-  "label": "BiMP9FjC",
+  "name": "funny piks",
+  "symbol": "ACT:G",
+  "label": "funny piks",
   "chain": "Solana",
-  "age": "4m old",
+  "age": "5m old",
   "migratedAt": "2026-11-13T05:07:19.419363Z",
-  "pool": null,
+  "pool": "9Rz2JYBzMisBxBZQ3pb7A677zjLL2eVTVUR1FZoqVFqK",
   "creator": "9wUSg7fzMK8dNzFZYiQCfxEcEPZ66sMYgKCKktj5rw2V",
   "holders": null,
   "link": "https://fomo.family/coin?address=BiMP9FjC3d16mYNHnpAXVY7jfDzM8gsKUdYuzSMmpump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T05:12:10.466057Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 0.0,
+      "age_min": 4,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
