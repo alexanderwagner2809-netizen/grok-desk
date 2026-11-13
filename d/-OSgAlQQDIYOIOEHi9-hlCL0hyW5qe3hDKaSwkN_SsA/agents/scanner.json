@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T07:28:29.494663Z",
+  "ts": "2026-11-13T07:29:40.127586Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T07:28:27.692060Z",
+  "heartbeat": "2026-11-13T07:29:38.352323Z",
   "paused": false,
   "status": "running",
-  "card": "450 pools",
-  "count": 450,
+  "card": "451 pools",
+  "count": 451,
   "passed": 0,
   "feed": [
+    {
+      "mint": "7By4nMjyfbFHsWMqQikpcd4P1MZQMaRFo2Z3L6jZpump",
+      "label": "The Drunk Raccoon",
+      "verdict": "kill",
+      "reason": "liq $10.9K",
+      "subtitle": "liq $10.9K",
+      "link": "https://fomo.family/coin?address=7By4nMjyfbFHsWMqQikpcd4P1MZQMaRFo2Z3L6jZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "Aatkj7qDHaat1fs2gMmFQDLdfUzJmVKBjJJEzAK1pump",
       "label": "AURACOIN",
@@ -66,19 +74,19 @@
       "reason": "liq $2",
       "subtitle": "liq $2",
       "link": "https://fomo.family/coin?address=7VtWtKQsV6cJRuhfc8xcSG59JFuE35z492scaiokpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump",
-      "label": "Cult of the Party Parrot",
-      "verdict": "kill",
-      "reason": "liq $11.8K",
-      "subtitle": "liq $11.8K",
-      "link": "https://fomo.family/coin?address=GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T07:29:00.195593Z",
+      "mint": "7By4nMjyfbFHsWMqQikpcd4P1MZQMaRFo2Z3L6jZpump",
+      "label": "The Drunk Raccoon",
+      "verdict": "kill",
+      "reason": "liq $10.9K",
+      "link": "https://fomo.family/coin?address=7By4nMjyfbFHsWMqQikpcd4P1MZQMaRFo2Z3L6jZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:28:22.595504Z",
       "mint": "Aatkj7qDHaat1fs2gMmFQDLdfUzJmVKBjJJEzAK1pump",
       "label": "AURACOIN",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $5",
       "link": "https://fomo.family/coin?address=DN6zk6AhAzmDrNyrLFnVt5xgsHksjEzYFA1uMyFZpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:31:01.515970Z",
-      "mint": "M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump",
-      "label": "NATF",
-      "verdict": "kill",
-      "reason": "liq $1.6K",
-      "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T07:29:00.195593Z",
+      "mint": "7By4nMjyfbFHsWMqQikpcd4P1MZQMaRFo2Z3L6jZpump",
+      "label": "The Drunk Raccoon",
+      "verdict": "kill",
+      "reason": "liq $10.9K",
+      "link": "https://fomo.family/coin?address=7By4nMjyfbFHsWMqQikpcd4P1MZQMaRFo2Z3L6jZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:28:22.595504Z",
       "mint": "Aatkj7qDHaat1fs2gMmFQDLdfUzJmVKBjJJEzAK1pump",
       "label": "AURACOIN",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $5",
       "link": "https://fomo.family/coin?address=DN6zk6AhAzmDrNyrLFnVt5xgsHksjEzYFA1uMyFZpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:31:01.515970Z",
-      "mint": "M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump",
-      "label": "NATF",
-      "verdict": "kill",
-      "reason": "liq $1.6K",
-      "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
