@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T20:13:12.960193Z",
+  "ts": "2026-11-13T20:14:24.308159Z",
   "mint": "BPoGXKyvgtVFW5UBwUDE97nyUEefYDbMScHPfzhZpump",
   "name": "credibility coin",
   "symbol": "CRED",
   "label": "credibility coin",
   "chain": "Solana",
-  "age": "12m old",
+  "age": "13m old",
   "migratedAt": "2026-11-13T20:00:47.120106Z",
   "pool": "26kUg3pTzSuZ8PHr2iyiFLuVM9QG7dbBxKyEbUtPbfjZ",
   "creator": "ADFD97E3EEuPAMyMj4mN6ys4f7oy69dCfznmKYK8P7wA",
   "holders": null,
   "link": "https://fomo.family/coin?address=BPoGXKyvgtVFW5UBwUDE97nyUEefYDbMScHPfzhZpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.000111,
-  "priceTs": "2026-11-13T20:13:12.665117Z",
+  "price": 0.0001325,
+  "priceTs": "2026-11-13T20:14:24.016353Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -104,12 +104,20 @@
       "l": 0.000111,
       "c": 0.000111,
       "v": 0.0
+    },
+    {
+      "t": 1794600840,
+      "o": 0.0001325,
+      "h": 0.0001325,
+      "l": 0.0001325,
+      "c": 0.0001325,
+      "v": 13486.859999999993
     }
   ],
   "stats": {
-    "marketCap": 111035.0,
-    "liquidity": 24254.57,
-    "volume24h": 170990.48,
+    "marketCap": 132555.0,
+    "liquidity": 26744.87,
+    "volume24h": 203371.48,
     "holders": null
   },
   "position": null,
