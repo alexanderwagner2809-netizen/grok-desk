@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T09:12:14.262310Z",
+  "ts": "2026-11-13T09:13:24.840753Z",
   "mint": "5QqjsAcFLYDMt4KqR7Porea9KPV5w7dLcpcWh4popump",
   "name": "NVIDIA",
   "symbol": "NVIDIA",
   "label": "NVIDIA",
   "chain": "Solana",
-  "age": "3m old",
+  "age": "4m old",
   "migratedAt": "2026-11-13T09:08:56.786243Z",
   "pool": "CxJqkATmGgP7RuuKsNVvqVszyuSaBPCgu5nbabC6WjFt",
   "creator": "JBTY3a5z84LhbXoPwAhkQTZ25mKucv3A6NoVmUUZiQWg",
   "holders": null,
   "link": "https://fomo.family/coin?address=5QqjsAcFLYDMt4KqR7Porea9KPV5w7dLcpcWh4popump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001202,
-  "priceTs": "2026-11-13T09:12:14.014379Z",
+  "price": 6.553e-05,
+  "priceTs": "2026-11-13T09:13:24.593228Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -40,12 +40,20 @@
       "l": 0.0001202,
       "c": 0.0001202,
       "v": 2241.09
+    },
+    {
+      "t": 1794561180,
+      "o": 6.553e-05,
+      "h": 6.553e-05,
+      "l": 6.553e-05,
+      "c": 6.553e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 120142.0,
-    "liquidity": 25538.94,
-    "volume24h": 10592.59,
+    "marketCap": 65494.0,
+    "liquidity": 17856.55,
+    "volume24h": 15406.57,
     "holders": null
   },
   "position": null,
