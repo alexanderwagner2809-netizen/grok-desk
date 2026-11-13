@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T07:07:53.070663Z",
+  "ts": "2026-11-13T07:09:04.799551Z",
   "mint": "AoQxeqd6nfAKdxLU7sURAPymtGk7cuwStioys1q3pump",
   "name": "rugproof dog",
   "symbol": "RUGPROOF",
@@ -11,8 +11,8 @@
   "creator": "HWUnfRdrzFfyPpVcmZHr9FdenUP1hjP1C7jUSyzYP1FH",
   "holders": null,
   "link": "https://fomo.family/coin?address=AoQxeqd6nfAKdxLU7sURAPymtGk7cuwStioys1q3pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.219e-09,
-  "priceTs": "2026-11-13T07:07:52.877695Z",
+  "price": 2.078e-09,
+  "priceTs": "2026-11-13T07:09:04.542025Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -488,12 +488,20 @@
       "l": 2.219e-09,
       "c": 2.219e-09,
       "v": 0.11
+    },
+    {
+      "t": 1794553740,
+      "o": 2.078e-09,
+      "h": 2.078e-09,
+      "l": 2.078e-09,
+      "c": 2.078e-09,
+      "v": 0.05
     }
   ],
   "stats": {
     "marketCap": 4.0,
-    "liquidity": 5.03,
-    "volume24h": 4374.52,
+    "liquidity": 4.87,
+    "volume24h": 4374.57,
     "holders": null
   },
   "position": null,
