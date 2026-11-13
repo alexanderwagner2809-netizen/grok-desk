@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T05:49:04.301508Z",
+  "ts": "2026-11-13T05:50:13.705375Z",
   "mint": "8u5Ro6K2JEazDxv9AeZx6qnxgi2BvaTroDuwKvMMpump",
-  "name": null,
-  "symbol": null,
-  "label": "8u5Ro6K2",
+  "name": "Do Only Good Everyday",
+  "symbol": "DOGE",
+  "label": "Do Only Good Everyday",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T05:48:14.154738Z",
-  "pool": null,
+  "pool": "DBWfMCxZvAHdD3ibL9MMpuG2JgNkH9njQMD8AZdrFzkV",
   "creator": "HRDsejKq2P1sFBjqXfTeLLxxm2hiK3ztcZ8ncGFjcJSu",
   "holders": null,
   "link": "https://fomo.family/coin?address=8u5Ro6K2JEazDxv9AeZx6qnxgi2BvaTroDuwKvMMpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 4.016e-05,
+  "priceTs": "2026-11-13T05:50:13.467415Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794548940,
+      "o": 2.875e-05,
+      "h": 2.875e-05,
+      "l": 2.875e-05,
+      "c": 2.875e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794549000,
+      "o": 4.016e-05,
+      "h": 4.016e-05,
+      "l": 4.016e-05,
+      "c": 4.016e-05,
+      "v": 27615.04
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 40077.0,
+    "liquidity": 13821.32,
+    "volume24h": 35637.18,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T05:49:18.286218Z",
+      "liquidity_usd": 11280.08,
+      "top10_pct": null,
+      "h1_change_pct": -8.84,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $11.3K"
+    }
+  ]
 }
