@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T07:43:46.942955Z",
+  "mint": "D5Mvk9PiehtdWDVrhB8d9wr8Q73csDJ3Akovuwfqpump",
+  "name": "Trashed Panda",
+  "symbol": "Cole",
+  "label": "Trashed Panda",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-13T07:42:52.505077Z",
+  "pool": "5irExN7z2NP2Cz6YNiqDWBzaPKUtu3SB3WvJrzBHXgdg",
+  "creator": "2agtAvvAAqpsPPpNfqbkLUgHEZ4bps5X2ShpYkDRNcyH",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=D5Mvk9PiehtdWDVrhB8d9wr8Q73csDJ3Akovuwfqpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.762e-05,
+  "priceTs": "2026-11-13T07:43:46.710604Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794555780,
+      "o": 2.672e-05,
+      "h": 2.762e-05,
+      "l": 2.672e-05,
+      "c": 2.762e-05,
+      "v": 11295.150000000001
+    }
+  ],
+  "stats": {
+    "marketCap": 27567.0,
+    "liquidity": 11131.74,
+    "volume24h": 17551.9,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T07:43:41.936965Z",
+      "liquidity_usd": 10935.5,
+      "top10_pct": null,
+      "h1_change_pct": -17.68,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $10.9K"
+    }
+  ]
+}
