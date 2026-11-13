@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T11:41:18.630288Z",
+  "ts": "2026-11-13T11:42:29.958237Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T11:41:16.262286Z",
+  "heartbeat": "2026-11-13T11:42:27.977636Z",
   "paused": false,
   "status": "running",
-  "card": "524 pools",
-  "count": 524,
+  "card": "525 pools",
+  "count": 525,
   "passed": 0,
   "feed": [
+    {
+      "mint": "6GUeMAARASwY4kC8tXUA3PGY8s2jTZEZPks178idpump",
+      "label": "HANS",
+      "verdict": "kill",
+      "reason": "liq $2.2K",
+      "subtitle": "liq $2.2K",
+      "link": "https://fomo.family/coin?address=6GUeMAARASwY4kC8tXUA3PGY8s2jTZEZPks178idpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "xbZK8o3v3KXVsRWxdaWMRHnzR4ix71mdvwJnhLZpump",
       "label": "OLONGJOHNSON",
@@ -66,19 +74,19 @@
       "reason": "liq $14",
       "subtitle": "liq $14",
       "link": "https://fomo.family/coin?address=8AXXxqQaYLZB4XwdhgGR71Hxt9AT2ivSTRMwHqNqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GEvZU1zuHZmTE6xXuTW2enMVF3dxP8Gkmbt4bYZHpump",
-      "label": "trench life",
-      "verdict": "kill",
-      "reason": "liq $294",
-      "subtitle": "liq $294",
-      "link": "https://fomo.family/coin?address=GEvZU1zuHZmTE6xXuTW2enMVF3dxP8Gkmbt4bYZHpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T11:41:49.899873Z",
+      "mint": "6GUeMAARASwY4kC8tXUA3PGY8s2jTZEZPks178idpump",
+      "label": "HANS",
+      "verdict": "kill",
+      "reason": "liq $2.2K",
+      "link": "https://fomo.family/coin?address=6GUeMAARASwY4kC8tXUA3PGY8s2jTZEZPks178idpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T11:41:08.038525Z",
       "mint": "xbZK8o3v3KXVsRWxdaWMRHnzR4ix71mdvwJnhLZpump",
       "label": "OLONGJOHNSON",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $327",
       "link": "https://fomo.family/coin?address=BBiZJESpnRxAnDD2axZ2XKp4tQHkkKEtaF7RZmMXpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:45:46.995841Z",
-      "mint": "8xzJdNto4KoAsYVrozzc18UrqnwCF414nnpQYcXpump",
-      "label": "ConConAI",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=8xzJdNto4KoAsYVrozzc18UrqnwCF414nnpQYcXpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T11:41:49.899873Z",
+      "mint": "6GUeMAARASwY4kC8tXUA3PGY8s2jTZEZPks178idpump",
+      "label": "HANS",
+      "verdict": "kill",
+      "reason": "liq $2.2K",
+      "link": "https://fomo.family/coin?address=6GUeMAARASwY4kC8tXUA3PGY8s2jTZEZPks178idpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T11:41:08.038525Z",
       "mint": "xbZK8o3v3KXVsRWxdaWMRHnzR4ix71mdvwJnhLZpump",
       "label": "OLONGJOHNSON",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $327",
       "link": "https://fomo.family/coin?address=BBiZJESpnRxAnDD2axZ2XKp4tQHkkKEtaF7RZmMXpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:45:46.995841Z",
-      "mint": "8xzJdNto4KoAsYVrozzc18UrqnwCF414nnpQYcXpump",
-      "label": "ConConAI",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=8xzJdNto4KoAsYVrozzc18UrqnwCF414nnpQYcXpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

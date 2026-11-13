@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-13T11:42:28.397773Z",
+  "mint": "6GUeMAARASwY4kC8tXUA3PGY8s2jTZEZPks178idpump",
+  "name": "HANS",
+  "symbol": "HANS",
+  "label": "HANS",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-13T11:41:19.751684Z",
+  "pool": "2ZQABj6QhwW9bBBpWYvMsAUuUSPqfomMHTFP3i5pZqzi",
+  "creator": "K6Eh9fwKkrhVNq6SpRtJn7F4Myi3HUst5QP8x5BKHnR",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=6GUeMAARASwY4kC8tXUA3PGY8s2jTZEZPks178idpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.17e-08,
+  "priceTs": "2026-11-13T11:42:28.092243Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794570060,
+      "o": 2.643e-06,
+      "h": 2.643e-06,
+      "l": 2.643e-06,
+      "c": 2.643e-06,
+      "v": 0.0
+    },
+    {
+      "t": 1794570120,
+      "o": 3.17e-08,
+      "h": 3.17e-08,
+      "l": 3.17e-08,
+      "c": 3.17e-08,
+      "v": 2962.49
+    }
+  ],
+  "stats": {
+    "marketCap": 63.0,
+    "liquidity": 126.45,
+    "volume24h": 2962.49,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T11:41:49.899873Z",
+      "liquidity_usd": 2184.14,
+      "top10_pct": null,
+      "h1_change_pct": -1.21,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $2.2K"
+    }
+  ]
+}
