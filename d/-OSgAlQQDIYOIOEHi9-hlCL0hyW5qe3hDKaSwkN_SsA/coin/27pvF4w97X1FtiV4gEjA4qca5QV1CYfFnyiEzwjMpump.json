@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T19:47:54.744267Z",
+  "ts": "2026-11-13T19:49:06.432601Z",
   "mint": "27pvF4w97X1FtiV4gEjA4qca5QV1CYfFnyiEzwjMpump",
-  "name": null,
-  "symbol": null,
-  "label": "27pvF4w9",
+  "name": "Speed",
+  "symbol": "SPEED",
+  "label": "Speed",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T19:47:46.019751Z",
-  "pool": null,
+  "pool": "5PU5PGpmYH6uuEvrvhc3DHZqmZxd1zX9hzQzMbB5iHrs",
   "creator": "F2TYbuMZARdJUw398orMJHdpFskSX6vPynrgKFmfjgEq",
   "holders": null,
   "link": "https://fomo.family/coin?address=27pvF4w97X1FtiV4gEjA4qca5QV1CYfFnyiEzwjMpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.72e-07,
+  "priceTs": "2026-11-13T19:49:06.109970Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794599280,
+      "o": 7.79e-07,
+      "h": 7.79e-07,
+      "l": 7.79e-07,
+      "c": 7.79e-07,
+      "v": 0.0
+    },
+    {
+      "t": 1794599340,
+      "o": 2.72e-07,
+      "h": 2.72e-07,
+      "l": 2.72e-07,
+      "c": 2.72e-07,
+      "v": 779.34
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 544.0,
+    "liquidity": 57.93,
+    "volume24h": 1418.94,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T19:48:16.928651Z",
+      "liquidity_usd": 94.83,
+      "top10_pct": null,
+      "h1_change_pct": 1213.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $95"
+    }
+  ]
 }

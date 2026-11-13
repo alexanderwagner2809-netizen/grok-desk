@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-13T19:47:56.413845Z",
+  "ts": "2026-11-13T19:49:08.209384Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T19:47:53.537246Z",
+  "heartbeat": "2026-11-13T19:49:06.117138Z",
   "paused": false,
   "status": "running",
-  "card": "546 pools",
-  "count": 546,
+  "card": "548 pools",
+  "count": 548,
   "passed": 0,
   "feed": [
+    {
+      "mint": "27pvF4w97X1FtiV4gEjA4qca5QV1CYfFnyiEzwjMpump",
+      "label": "Speed",
+      "verdict": "kill",
+      "reason": "liq $95",
+      "subtitle": "liq $95",
+      "link": "https://fomo.family/coin?address=27pvF4w97X1FtiV4gEjA4qca5QV1CYfFnyiEzwjMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "ARTnDggEybcNaWrxTfR9EDNCjkPPXZ1HT9THM5Hkpump",
+      "label": "attention",
+      "verdict": "kill",
+      "reason": "liq $27",
+      "subtitle": "liq $27",
+      "link": "https://fomo.family/coin?address=ARTnDggEybcNaWrxTfR9EDNCjkPPXZ1HT9THM5Hkpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump",
       "label": "Dog Coin",
@@ -58,27 +74,27 @@
       "reason": "liq $15.7K",
       "subtitle": "liq $15.7K",
       "link": "https://fomo.family/coin?address=E5iF4P6SEZVcyntYYcynXjS6Yzmc3oz7Hvp7ontpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump",
-      "label": "Theranoses",
-      "verdict": "kill",
-      "reason": "liq $11.1K",
-      "subtitle": "liq $11.1K",
-      "link": "https://fomo.family/coin?address=AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "BALLFiNPXRhugiUXxstiegkpPeE4oWZhzHVohAxWbG2v",
-      "label": "GTA 6 Lottery",
-      "verdict": "kill",
-      "reason": "liq $16.8K",
-      "subtitle": "liq $16.8K",
-      "link": "https://fomo.family/coin?address=BALLFiNPXRhugiUXxstiegkpPeE4oWZhzHVohAxWbG2v&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T19:48:16.928651Z",
+      "mint": "27pvF4w97X1FtiV4gEjA4qca5QV1CYfFnyiEzwjMpump",
+      "label": "Speed",
+      "verdict": "kill",
+      "reason": "liq $95",
+      "link": "https://fomo.family/coin?address=27pvF4w97X1FtiV4gEjA4qca5QV1CYfFnyiEzwjMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T19:48:16.927644Z",
+      "mint": "ARTnDggEybcNaWrxTfR9EDNCjkPPXZ1HT9THM5Hkpump",
+      "label": "attention",
+      "verdict": "kill",
+      "reason": "liq $27",
+      "link": "https://fomo.family/coin?address=ARTnDggEybcNaWrxTfR9EDNCjkPPXZ1HT9THM5Hkpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:47:12.505055Z",
       "mint": "3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump",
       "label": "Dog Coin",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $12.2K",
       "link": "https://fomo.family/coin?address=5u7GRYRQ4jnDRF1k287Er6zb1777ZQVrr94zkmS6pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:48:33.792114Z",
-      "mint": "6i4K5fx7X3xkcg6nrHQtHFKBhwAzpY1VgN5fS37Zpump",
-      "label": "Alcapone",
-      "verdict": "kill",
-      "reason": "liq $71",
-      "link": "https://fomo.family/coin?address=6i4K5fx7X3xkcg6nrHQtHFKBhwAzpY1VgN5fS37Zpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:45:07.178975Z",
-      "mint": "DuBQpu1EGFFXX66RFeMeFsHFhev5o85vo7A6WJoipump",
-      "label": "UODF",
-      "verdict": "kill",
-      "reason": "+344110% in 1h",
-      "link": "https://fomo.family/coin?address=DuBQpu1EGFFXX66RFeMeFsHFhev5o85vo7A6WJoipump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T19:48:16.928651Z",
+      "mint": "27pvF4w97X1FtiV4gEjA4qca5QV1CYfFnyiEzwjMpump",
+      "label": "Speed",
+      "verdict": "kill",
+      "reason": "liq $95",
+      "link": "https://fomo.family/coin?address=27pvF4w97X1FtiV4gEjA4qca5QV1CYfFnyiEzwjMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T19:48:16.927644Z",
+      "mint": "ARTnDggEybcNaWrxTfR9EDNCjkPPXZ1HT9THM5Hkpump",
+      "label": "attention",
+      "verdict": "kill",
+      "reason": "liq $27",
+      "link": "https://fomo.family/coin?address=ARTnDggEybcNaWrxTfR9EDNCjkPPXZ1HT9THM5Hkpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:47:12.505055Z",
       "mint": "3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump",
       "label": "Dog Coin",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $12.2K",
       "link": "https://fomo.family/coin?address=5u7GRYRQ4jnDRF1k287Er6zb1777ZQVrr94zkmS6pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:48:33.792114Z",
-      "mint": "6i4K5fx7X3xkcg6nrHQtHFKBhwAzpY1VgN5fS37Zpump",
-      "label": "Alcapone",
-      "verdict": "kill",
-      "reason": "liq $71",
-      "link": "https://fomo.family/coin?address=6i4K5fx7X3xkcg6nrHQtHFKBhwAzpY1VgN5fS37Zpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:45:07.178975Z",
-      "mint": "DuBQpu1EGFFXX66RFeMeFsHFhev5o85vo7A6WJoipump",
-      "label": "UODF",
-      "verdict": "kill",
-      "reason": "+344110% in 1h",
-      "link": "https://fomo.family/coin?address=DuBQpu1EGFFXX66RFeMeFsHFhev5o85vo7A6WJoipump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
