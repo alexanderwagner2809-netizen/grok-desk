@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T11:35:21.619161Z",
+  "ts": "2026-11-13T11:36:33.065291Z",
   "mint": "GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump",
   "name": "DERPCAT",
   "symbol": "DERP",
   "label": "DERPCAT",
   "chain": "Solana",
-  "age": "3m old",
+  "age": "5m old",
   "migratedAt": "2026-11-13T11:31:22.982667Z",
   "pool": "3dM2aAsVRM5zJcEoerWcvQpQcxYNqmDASmdsc86zfiK1",
   "creator": "DNsHNtg8RrVyyXrthmHzuoi1czhAbYMNs7NCvFt8GEu3",
   "holders": null,
   "link": "https://fomo.family/coin?address=GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.256e-08,
-  "priceTs": "2026-11-13T11:35:21.382200Z",
+  "price": 3.269e-08,
+  "priceTs": "2026-11-13T11:36:32.826763Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -48,12 +48,20 @@
       "l": 3.256e-08,
       "c": 3.256e-08,
       "v": 51.56999999999971
+    },
+    {
+      "t": 1794569760,
+      "o": 3.269e-08,
+      "h": 3.269e-08,
+      "l": 3.269e-08,
+      "c": 3.269e-08,
+      "v": 0.0
     }
   ],
   "stats": {
     "marketCap": 65.0,
-    "liquidity": 138.18,
-    "volume24h": 9542.98,
+    "liquidity": 139.0,
+    "volume24h": 9593.45,
     "holders": null
   },
   "position": null,
