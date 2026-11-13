@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T11:53:12.988849Z",
+  "ts": "2026-11-13T11:54:24.114252Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T11:53:10.857403Z",
+  "heartbeat": "2026-11-13T11:54:22.353966Z",
   "paused": false,
   "status": "running",
-  "card": "530 pools",
-  "count": 530,
+  "card": "531 pools",
+  "count": 531,
   "passed": 0,
   "feed": [
+    {
+      "mint": "DoxK6AycGY4dsTiMqrVuVtNehis2RuAJddXpxP3Lpump",
+      "label": "FreakHouse",
+      "verdict": "kill",
+      "reason": "liq $17",
+      "subtitle": "liq $17",
+      "link": "https://fomo.family/coin?address=DoxK6AycGY4dsTiMqrVuVtNehis2RuAJddXpxP3Lpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "ATeAQrSpDMH9Yyns4oXMC4g4V6u87hUSE7nFuY1xpump",
       "label": "The Black Bear",
@@ -66,19 +74,19 @@
       "reason": "liq $16",
       "subtitle": "liq $16",
       "link": "https://fomo.family/coin?address=xbZK8o3v3KXVsRWxdaWMRHnzR4ix71mdvwJnhLZpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "AtFG76LDeX52EGzDLqFpBGkVcXfbaktr8mUtUgNfpump",
-      "label": "Viceification",
-      "verdict": "kill",
-      "reason": "liq $17.7K",
-      "subtitle": "liq $17.7K",
-      "link": "https://fomo.family/coin?address=AtFG76LDeX52EGzDLqFpBGkVcXfbaktr8mUtUgNfpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T11:53:57.258736Z",
+      "mint": "DoxK6AycGY4dsTiMqrVuVtNehis2RuAJddXpxP3Lpump",
+      "label": "FreakHouse",
+      "verdict": "kill",
+      "reason": "liq $17",
+      "link": "https://fomo.family/coin?address=DoxK6AycGY4dsTiMqrVuVtNehis2RuAJddXpxP3Lpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T11:52:45.873085Z",
       "mint": "ATeAQrSpDMH9Yyns4oXMC4g4V6u87hUSE7nFuY1xpump",
       "label": "The Black Bear",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $402",
       "link": "https://fomo.family/coin?address=DH3DaqxYisSHX9nV91vwUB8T3o55WLxtf84h6uhapump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:58:37.581851Z",
-      "mint": "GDchwwHfadnrW73QCwVQCLjk4e4Uh7KRQTvY1m5apump",
-      "label": "GPU GUN",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "link": "https://fomo.family/coin?address=GDchwwHfadnrW73QCwVQCLjk4e4Uh7KRQTvY1m5apump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T11:53:57.258736Z",
+      "mint": "DoxK6AycGY4dsTiMqrVuVtNehis2RuAJddXpxP3Lpump",
+      "label": "FreakHouse",
+      "verdict": "kill",
+      "reason": "liq $17",
+      "link": "https://fomo.family/coin?address=DoxK6AycGY4dsTiMqrVuVtNehis2RuAJddXpxP3Lpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T11:52:45.873085Z",
       "mint": "ATeAQrSpDMH9Yyns4oXMC4g4V6u87hUSE7nFuY1xpump",
       "label": "The Black Bear",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $402",
       "link": "https://fomo.family/coin?address=DH3DaqxYisSHX9nV91vwUB8T3o55WLxtf84h6uhapump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:58:37.581851Z",
-      "mint": "GDchwwHfadnrW73QCwVQCLjk4e4Uh7KRQTvY1m5apump",
-      "label": "GPU GUN",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "link": "https://fomo.family/coin?address=GDchwwHfadnrW73QCwVQCLjk4e4Uh7KRQTvY1m5apump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T11:53:12.524690Z",
+  "ts": "2026-11-13T11:54:22.598313Z",
   "mint": "DoxK6AycGY4dsTiMqrVuVtNehis2RuAJddXpxP3Lpump",
-  "name": null,
-  "symbol": null,
-  "label": "DoxK6Ayc",
+  "name": "FreakHouse",
+  "symbol": "FHC",
+  "label": "FreakHouse",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T11:53:05.433666Z",
-  "pool": null,
+  "pool": "AH9946VJLHfCK9KEfmGLajY2Tt2aCbNZ65SqgVeKe5NH",
   "creator": "AKsxkvFe8FXcpev4Zna2uDzemYJ6hiB6sNEqEYMV5Y3T",
   "holders": null,
   "link": "https://fomo.family/coin?address=DoxK6AycGY4dsTiMqrVuVtNehis2RuAJddXpxP3Lpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.902e-09,
+  "priceTs": "2026-11-13T11:54:22.329332Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794570780,
+      "o": 1.542e-08,
+      "h": 1.542e-08,
+      "l": 1.542e-08,
+      "c": 1.542e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794570840,
+      "o": 1.902e-09,
+      "h": 1.902e-09,
+      "l": 1.902e-09,
+      "c": 1.902e-09,
+      "v": 35.579999999999984
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 4.0,
+    "liquidity": 5.94,
+    "volume24h": 183.76,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T11:53:57.258736Z",
+      "liquidity_usd": 16.62,
+      "top10_pct": null,
+      "h1_change_pct": -82.77,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $17"
+    }
+  ]
 }
