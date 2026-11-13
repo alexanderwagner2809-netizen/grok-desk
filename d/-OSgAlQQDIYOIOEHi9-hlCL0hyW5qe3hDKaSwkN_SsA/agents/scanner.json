@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T09:48:52.539081Z",
+  "ts": "2026-11-13T09:50:03.364450Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T09:48:50.149124Z",
+  "heartbeat": "2026-11-13T09:50:01.035334Z",
   "paused": false,
   "status": "running",
-  "card": "506 pools",
-  "count": 506,
+  "card": "507 pools",
+  "count": 507,
   "passed": 0,
   "feed": [
+    {
+      "mint": "7NcKYrsu1J4f137HR3mRXd4LqumBvjBknLvsdHZtjLP2",
+      "label": "if shes down im down",
+      "verdict": "kill",
+      "reason": "liq $11.7K",
+      "subtitle": "liq $11.7K",
+      "link": "https://fomo.family/coin?address=7NcKYrsu1J4f137HR3mRXd4LqumBvjBknLvsdHZtjLP2&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "BBiZJESpnRxAnDD2axZ2XKp4tQHkkKEtaF7RZmMXpump",
       "label": "CrotchGoose",
@@ -66,19 +74,19 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=bdccr5Q5MNSi5hvjCEsJDajhi5dzdQ9rVXfRTAxpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "ANYq8tELPCSTvEjWVpxzgvtHu2K5vXFZZEmnNJfQpump",
-      "label": "サクラ",
-      "verdict": "kill",
-      "reason": "liq $12.9K",
-      "subtitle": "liq $12.9K",
-      "link": "https://fomo.family/coin?address=ANYq8tELPCSTvEjWVpxzgvtHu2K5vXFZZEmnNJfQpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T09:49:56.007100Z",
+      "mint": "7NcKYrsu1J4f137HR3mRXd4LqumBvjBknLvsdHZtjLP2",
+      "label": "if shes down im down",
+      "verdict": "kill",
+      "reason": "liq $11.7K",
+      "link": "https://fomo.family/coin?address=7NcKYrsu1J4f137HR3mRXd4LqumBvjBknLvsdHZtjLP2&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T09:47:15.111119Z",
       "mint": "BBiZJESpnRxAnDD2axZ2XKp4tQHkkKEtaF7RZmMXpump",
       "label": "CrotchGoose",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "+344281% in 1h",
       "link": "https://fomo.family/coin?address=TQpxQD7TWjzfSMdifTNwUhPjCCifwVsSfgHs9wFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:10:08.419117Z",
-      "mint": "SrhswCywLnUnusiezsYWDn6bceCZrdAJC6oQ12Jpump",
-      "label": "XTO",
-      "verdict": "kill",
-      "reason": "+16515% in 1h",
-      "link": "https://fomo.family/coin?address=SrhswCywLnUnusiezsYWDn6bceCZrdAJC6oQ12Jpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T09:49:56.007100Z",
+      "mint": "7NcKYrsu1J4f137HR3mRXd4LqumBvjBknLvsdHZtjLP2",
+      "label": "if shes down im down",
+      "verdict": "kill",
+      "reason": "liq $11.7K",
+      "link": "https://fomo.family/coin?address=7NcKYrsu1J4f137HR3mRXd4LqumBvjBknLvsdHZtjLP2&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T09:47:15.111119Z",
       "mint": "BBiZJESpnRxAnDD2axZ2XKp4tQHkkKEtaF7RZmMXpump",
       "label": "CrotchGoose",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "+344281% in 1h",
       "link": "https://fomo.family/coin?address=TQpxQD7TWjzfSMdifTNwUhPjCCifwVsSfgHs9wFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:10:08.419117Z",
-      "mint": "SrhswCywLnUnusiezsYWDn6bceCZrdAJC6oQ12Jpump",
-      "label": "XTO",
-      "verdict": "kill",
-      "reason": "+16515% in 1h",
-      "link": "https://fomo.family/coin?address=SrhswCywLnUnusiezsYWDn6bceCZrdAJC6oQ12Jpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
