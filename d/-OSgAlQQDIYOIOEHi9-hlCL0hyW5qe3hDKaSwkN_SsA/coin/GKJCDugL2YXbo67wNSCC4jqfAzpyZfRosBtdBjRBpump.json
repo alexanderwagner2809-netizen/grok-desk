@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-13T00:02:55.010246Z",
+  "mint": "GKJCDugL2YXbo67wNSCC4jqfAzpyZfRosBtdBjRBpump",
+  "name": "rockstar",
+  "symbol": "rockstar",
+  "label": "rockstar",
+  "chain": "Solana",
+  "age": "48m old",
+  "migratedAt": "2026-11-12T23:14:39.073241Z",
+  "pool": "8rfuDmcVffkK26kcM5CtShpJV53PMzGa7p2LdxNjJgjQ",
+  "creator": "HY2MbAKzUaStdqndwn4PjuXBMXbXFPqGoBjfhRuiKudP",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=GKJCDugL2YXbo67wNSCC4jqfAzpyZfRosBtdBjRBpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 1.391e-05,
+  "priceTs": "2026-11-13T00:02:54.738057Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794525300,
+      "o": 4.714e-05,
+      "h": 4.714e-05,
+      "l": 4.714e-05,
+      "c": 4.714e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794528120,
+      "o": 1.391e-05,
+      "h": 1.391e-05,
+      "l": 1.391e-05,
+      "c": 1.391e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 13379.0,
+    "liquidity": 8721.52,
+    "volume24h": 124894.13,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-12T23:15:09.385345Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 6.08,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
