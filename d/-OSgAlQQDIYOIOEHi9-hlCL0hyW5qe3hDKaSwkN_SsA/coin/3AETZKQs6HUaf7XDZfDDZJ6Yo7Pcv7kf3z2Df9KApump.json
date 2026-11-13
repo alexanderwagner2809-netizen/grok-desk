@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T07:34:21.542257Z",
+  "mint": "3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump",
+  "name": "The Drunk Raccoon",
+  "symbol": "Cole",
+  "label": "The Drunk Raccoon",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-13T07:33:25.005710Z",
+  "pool": "6NkkuELu5bVYTjo1LCxH8XEvHUBAiXTcGMdFtMDa8zhB",
+  "creator": "8qFJgAWRCYFpkabDawsDem253a5Yb3GT5C6hWnCwUaV8",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.929e-05,
+  "priceTs": "2026-11-13T07:34:21.288196Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794555240,
+      "o": 2.929e-05,
+      "h": 2.929e-05,
+      "l": 2.929e-05,
+      "c": 2.929e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 29292.0,
+    "liquidity": 11532.31,
+    "volume24h": 15136.93,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T07:34:10.224629Z",
+      "liquidity_usd": 11532.31,
+      "top10_pct": null,
+      "h1_change_pct": -7.85,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $11.5K"
+    }
+  ]
+}

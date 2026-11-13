@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T07:33:12.496680Z",
+  "ts": "2026-11-13T07:34:22.802092Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T07:33:10.623206Z",
+  "heartbeat": "2026-11-13T07:34:21.255216Z",
   "paused": false,
   "status": "running",
-  "card": "452 pools",
-  "count": 452,
+  "card": "453 pools",
+  "count": 453,
   "passed": 0,
   "feed": [
+    {
+      "mint": "3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump",
+      "label": "The Drunk Raccoon",
+      "verdict": "kill",
+      "reason": "liq $11.5K",
+      "subtitle": "liq $11.5K",
+      "link": "https://fomo.family/coin?address=3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "EQVHqWcxMQ66s6Cm6Cj6Q8AKYixZiBxEPC5m3qm6pump",
       "label": "JENOVA",
@@ -66,19 +74,19 @@
       "reason": "liq $4",
       "subtitle": "liq $4",
       "link": "https://fomo.family/coin?address=7zuP5YyQ2DZgwKZY9xUK7Em4mFjBKhwQaR9BpRJFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EZCrFeHAJgiLY9hhpKJC7sR6Rtnq28p1aaQVYLc7pump",
-      "label": "MAYHEM CHEATER DOG",
-      "verdict": "kill",
-      "reason": "liq $14",
-      "subtitle": "liq $14",
-      "link": "https://fomo.family/coin?address=EZCrFeHAJgiLY9hhpKJC7sR6Rtnq28p1aaQVYLc7pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T07:34:10.224629Z",
+      "mint": "3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump",
+      "label": "The Drunk Raccoon",
+      "verdict": "kill",
+      "reason": "liq $11.5K",
+      "link": "https://fomo.family/coin?address=3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:32:22.487718Z",
       "mint": "EQVHqWcxMQ66s6Cm6Cj6Q8AKYixZiBxEPC5m3qm6pump",
       "label": "JENOVA",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $1.4K",
       "link": "https://fomo.family/coin?address=GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:33:55.481302Z",
-      "mint": "EEBvwskA5KHgkxUPyYUFzQVqSe7aY7Wcuh5DTnwspump",
-      "label": "Sell at 222k",
-      "verdict": "kill",
-      "reason": "liq $17",
-      "link": "https://fomo.family/coin?address=EEBvwskA5KHgkxUPyYUFzQVqSe7aY7Wcuh5DTnwspump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T07:34:10.224629Z",
+      "mint": "3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump",
+      "label": "The Drunk Raccoon",
+      "verdict": "kill",
+      "reason": "liq $11.5K",
+      "link": "https://fomo.family/coin?address=3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:32:22.487718Z",
       "mint": "EQVHqWcxMQ66s6Cm6Cj6Q8AKYixZiBxEPC5m3qm6pump",
       "label": "JENOVA",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $1.4K",
       "link": "https://fomo.family/coin?address=GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:33:55.481302Z",
-      "mint": "EEBvwskA5KHgkxUPyYUFzQVqSe7aY7Wcuh5DTnwspump",
-      "label": "Sell at 222k",
-      "verdict": "kill",
-      "reason": "liq $17",
-      "link": "https://fomo.family/coin?address=EEBvwskA5KHgkxUPyYUFzQVqSe7aY7Wcuh5DTnwspump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
