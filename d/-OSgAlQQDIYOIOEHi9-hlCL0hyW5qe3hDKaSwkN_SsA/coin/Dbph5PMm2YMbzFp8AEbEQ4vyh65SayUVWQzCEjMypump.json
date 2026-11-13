@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T03:06:41.729508Z",
+  "mint": "Dbph5PMm2YMbzFp8AEbEQ4vyh65SayUVWQzCEjMypump",
+  "name": "SPACE X",
+  "symbol": "Space X",
+  "label": "SPACE X",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-13T03:05:48.715470Z",
+  "pool": "CZTsCegsLHYHf4qtCVzZQgju2ZsgW7DCpLGMKESKMMEs",
+  "creator": "BPbabdkxDrweEgBMyG9Fx1UuBaL9A8jnNjUhtnn1juWX",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=Dbph5PMm2YMbzFp8AEbEQ4vyh65SayUVWQzCEjMypump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.731e-08,
+  "priceTs": "2026-11-13T03:06:41.446891Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794539160,
+      "o": 2.731e-08,
+      "h": 2.731e-08,
+      "l": 2.731e-08,
+      "c": 2.731e-08,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 55.0,
+    "liquidity": 20.87,
+    "volume24h": 17.8,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T03:06:23.044138Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 19.79,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
