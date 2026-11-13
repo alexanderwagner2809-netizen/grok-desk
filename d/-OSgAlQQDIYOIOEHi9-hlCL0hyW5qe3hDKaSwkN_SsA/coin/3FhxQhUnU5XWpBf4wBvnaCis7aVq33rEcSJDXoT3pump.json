@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T11:30:38.294452Z",
+  "ts": "2026-11-13T11:31:49.143961Z",
   "mint": "3FhxQhUnU5XWpBf4wBvnaCis7aVq33rEcSJDXoT3pump",
-  "name": null,
-  "symbol": null,
-  "label": "3FhxQhUn",
+  "name": "PUMP FARM",
+  "symbol": "PUMP FARM",
+  "label": "PUMP FARM",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T11:30:07.426280Z",
-  "pool": null,
+  "pool": "4d5GKiZrX5G4TeX8ZkdPVSEq4KwxhV8LBBCHAtrLaeYG",
   "creator": "AqW7LvUzUcHmdy4uZ7mCH3oHb5iJPdzGkfMVZG9x7YP5",
   "holders": null,
   "link": "https://fomo.family/coin?address=3FhxQhUnU5XWpBf4wBvnaCis7aVq33rEcSJDXoT3pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.69e-09,
+  "priceTs": "2026-11-13T11:31:48.796512Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794569460,
+      "o": 2.689e-09,
+      "h": 2.69e-09,
+      "l": 2.689e-09,
+      "c": 2.69e-09,
+      "v": 3.230000000000004
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 5.0,
+    "liquidity": 3.36,
+    "volume24h": 43.88,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T11:31:08.035948Z",
+      "liquidity_usd": 3.48,
+      "top10_pct": null,
+      "h1_change_pct": -89.11,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $3"
+    }
+  ]
 }

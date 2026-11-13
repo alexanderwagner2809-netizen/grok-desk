@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:30:38.056017Z",
+  "ts": "2026-11-13T11:31:49.157811Z",
   "mint": "BBiZJESpnRxAnDD2axZ2XKp4tQHkkKEtaF7RZmMXpump",
   "name": "CrotchGoose",
   "symbol": "CROGO",
@@ -11,8 +11,8 @@
   "creator": "BgXk4k2VkrVvDzHu24QUaV5LL2E1TJ37scjSf3oYCWX4",
   "holders": null,
   "link": "https://fomo.family/coin?address=BBiZJESpnRxAnDD2axZ2XKp4tQHkkKEtaF7RZmMXpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.519e-08,
-  "priceTs": "2026-11-13T11:30:37.599764Z",
+  "price": 4.512e-08,
+  "priceTs": "2026-11-13T11:31:48.796512Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -328,12 +328,20 @@
       "l": 4.519e-08,
       "c": 4.519e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794569460,
+      "o": 4.512e-08,
+      "h": 4.512e-08,
+      "l": 4.512e-08,
+      "c": 4.512e-08,
+      "v": 0.48
     }
   ],
   "stats": {
     "marketCap": 90.0,
-    "liquidity": 63.01,
-    "volume24h": 2353.07,
+    "liquidity": 63.0,
+    "volume24h": 2353.55,
     "holders": null
   },
   "position": null,
