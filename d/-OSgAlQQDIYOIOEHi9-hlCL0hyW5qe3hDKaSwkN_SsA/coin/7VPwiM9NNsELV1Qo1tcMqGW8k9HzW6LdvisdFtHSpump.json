@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T09:15:46.742774Z",
+  "ts": "2026-11-13T09:16:57.383127Z",
   "mint": "7VPwiM9NNsELV1Qo1tcMqGW8k9HzW6LdvisdFtHSpump",
   "name": "RMN",
   "symbol": "RAMEN",
   "label": "RMN",
   "chain": "Solana",
-  "age": "59m old",
+  "age": "1h old",
   "migratedAt": "2026-11-13T08:16:11.874685Z",
   "pool": "DCuR8o4tuyKYNAQo43b9nELiARjKPVySiQML9MJ9SKcC",
   "creator": "BYc9iXHAt1KAdYEmroYnPSrjHxFtmYWMHzkwXmCC83Qk",
   "holders": null,
   "link": "https://fomo.family/coin?address=7VPwiM9NNsELV1Qo1tcMqGW8k9HzW6LdvisdFtHSpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.565e-09,
-  "priceTs": "2026-11-13T09:15:46.457179Z",
+  "price": 1.51e-09,
+  "priceTs": "2026-11-13T09:16:57.047559Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -424,12 +424,20 @@
       "l": 1.565e-09,
       "c": 1.565e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794561360,
+      "o": 1.51e-09,
+      "h": 1.51e-09,
+      "l": 1.51e-09,
+      "c": 1.51e-09,
+      "v": 0.08
     }
   ],
   "stats": {
     "marketCap": 3.0,
-    "liquidity": 5.97,
-    "volume24h": 413.79,
+    "liquidity": 5.86,
+    "volume24h": 413.87,
     "holders": null
   },
   "position": null,

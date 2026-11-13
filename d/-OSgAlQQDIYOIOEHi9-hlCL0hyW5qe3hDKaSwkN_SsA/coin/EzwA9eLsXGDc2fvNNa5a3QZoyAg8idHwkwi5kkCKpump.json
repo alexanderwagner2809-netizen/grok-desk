@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T09:15:46.745032Z",
+  "ts": "2026-11-13T09:16:57.385341Z",
   "mint": "EzwA9eLsXGDc2fvNNa5a3QZoyAg8idHwkwi5kkCKpump",
   "name": "MONALISA",
   "symbol": "DOGE/XRP",
@@ -11,8 +11,8 @@
   "creator": "C6a3rKktoBgQMFLA6JT3AAthYkZaUfr2NxaciqbXMoEe",
   "holders": null,
   "link": "https://fomo.family/coin?address=EzwA9eLsXGDc2fvNNa5a3QZoyAg8idHwkwi5kkCKpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.869e-10,
-  "priceTs": "2026-11-13T09:15:46.457179Z",
+  "price": 2.514e-10,
+  "priceTs": "2026-11-13T09:16:57.047559Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -424,12 +424,20 @@
       "l": 2.869e-10,
       "c": 2.869e-10,
       "v": 0.0
+    },
+    {
+      "t": 1794561360,
+      "o": 2.514e-10,
+      "h": 2.514e-10,
+      "l": 2.514e-10,
+      "c": 2.514e-10,
+      "v": 0.01
     }
   ],
   "stats": {
     "marketCap": 1.0,
-    "liquidity": 1.17,
-    "volume24h": 40.35,
+    "liquidity": 1.1,
+    "volume24h": 40.36,
     "holders": null
   },
   "position": null,

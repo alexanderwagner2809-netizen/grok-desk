@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T09:15:46.921242Z",
+  "ts": "2026-11-13T09:16:57.364652Z",
   "mint": "2iN5dW335agxuq8xHZ7WnsfYyH5dTyjiy52NCSEEpump",
-  "name": null,
-  "symbol": null,
-  "label": "2iN5dW33",
+  "name": "Watched",
+  "symbol": "Watched",
+  "label": "Watched",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-13T09:14:44.789822Z",
-  "pool": null,
+  "pool": "49eoZytsrr2XSjJWfHNtA5br5G6DHJyXTJ5KZFWVaBJS",
   "creator": "ASuGMUAQwxEN256fUfmJQ3WLCjs6gZpieKh3CorTUG9U",
   "holders": null,
   "link": "https://fomo.family/coin?address=2iN5dW335agxuq8xHZ7WnsfYyH5dTyjiy52NCSEEpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.187e-05,
+  "priceTs": "2026-11-13T09:16:57.047559Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794561300,
+      "o": 2.836e-05,
+      "h": 2.836e-05,
+      "l": 2.836e-05,
+      "c": 2.836e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794561360,
+      "o": 3.187e-05,
+      "h": 3.187e-05,
+      "l": 3.187e-05,
+      "c": 3.187e-05,
+      "v": 2238.1500000000005
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 31877.0,
+    "liquidity": 12014.61,
+    "volume24h": 6356.77,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T09:15:50.167802Z",
+      "liquidity_usd": 11237.39,
+      "top10_pct": null,
+      "h1_change_pct": -17.24,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $11.2K"
+    }
+  ]
 }

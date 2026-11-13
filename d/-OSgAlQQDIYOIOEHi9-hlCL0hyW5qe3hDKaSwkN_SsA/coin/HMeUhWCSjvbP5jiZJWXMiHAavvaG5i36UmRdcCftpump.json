@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T09:15:46.828616Z",
+  "ts": "2026-11-13T09:16:57.491538Z",
   "mint": "HMeUhWCSjvbP5jiZJWXMiHAavvaG5i36UmRdcCftpump",
   "name": "banana bread",
   "symbol": "ISABELLA",
   "label": "banana bread",
   "chain": "Solana",
-  "age": "2h old",
+  "age": "3h old",
   "migratedAt": "2026-11-13T06:16:46.563836Z",
   "pool": "4VCxYYcpZXQnjVGKWDtDdcTSjdymEVaaYND4LYVd43iZ",
   "creator": "6Rszt2k8zJGXtGs17H4ZRQ1QkPjWmP8dGgEinKveMDub",
   "holders": null,
   "link": "https://fomo.family/coin?address=HMeUhWCSjvbP5jiZJWXMiHAavvaG5i36UmRdcCftpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.683e-09,
-  "priceTs": "2026-11-13T09:15:46.714525Z",
+  "price": 5.49e-09,
+  "priceTs": "2026-11-13T09:16:57.345199Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1152,12 +1152,20 @@
       "l": 5.683e-09,
       "c": 5.683e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794561360,
+      "o": 5.49e-09,
+      "h": 5.49e-09,
+      "l": 5.49e-09,
+      "c": 5.49e-09,
+      "v": 0.81
     }
   ],
   "stats": {
     "marketCap": 11.0,
-    "liquidity": 21.27,
-    "volume24h": 119.2,
+    "liquidity": 20.86,
+    "volume24h": 120.02,
     "holders": null
   },
   "position": null,

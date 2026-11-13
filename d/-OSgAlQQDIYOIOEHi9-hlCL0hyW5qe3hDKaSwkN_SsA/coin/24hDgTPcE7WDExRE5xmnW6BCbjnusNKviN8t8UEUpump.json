@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T09:15:46.795595Z",
+  "ts": "2026-11-13T09:16:57.457748Z",
   "mint": "24hDgTPcE7WDExRE5xmnW6BCbjnusNKviN8t8UEUpump",
   "name": "Puppy",
   "symbol": "PUPPY",
@@ -11,8 +11,8 @@
   "creator": "2gRpQD36WRyVvtJjLmZjmuwmFiL7DhoqBxWPXixwdRvk",
   "holders": null,
   "link": "https://fomo.family/coin?address=24hDgTPcE7WDExRE5xmnW6BCbjnusNKviN8t8UEUpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.768e-08,
-  "priceTs": "2026-11-13T09:15:46.587265Z",
+  "price": 1.747e-08,
+  "priceTs": "2026-11-13T09:16:57.207005Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -944,12 +944,20 @@
       "l": 1.768e-08,
       "c": 1.768e-08,
       "v": 0.0
+    },
+    {
+      "t": 1794561360,
+      "o": 1.747e-08,
+      "h": 1.747e-08,
+      "l": 1.747e-08,
+      "c": 1.747e-08,
+      "v": 0.23
     }
   ],
   "stats": {
     "marketCap": 35.0,
-    "liquidity": 68.91,
-    "volume24h": 434.26,
+    "liquidity": 67.64,
+    "volume24h": 434.5,
     "holders": null
   },
   "position": null,
