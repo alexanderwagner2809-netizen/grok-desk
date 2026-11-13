@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T08:16:46.503496Z",
+  "mint": "7VPwiM9NNsELV1Qo1tcMqGW8k9HzW6LdvisdFtHSpump",
+  "name": "RMN",
+  "symbol": "RAMEN",
+  "label": "RMN",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-13T08:16:11.874685Z",
+  "pool": "DCuR8o4tuyKYNAQo43b9nELiARjKPVySiQML9MJ9SKcC",
+  "creator": "BYc9iXHAt1KAdYEmroYnPSrjHxFtmYWMHzkwXmCC83Qk",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=7VPwiM9NNsELV1Qo1tcMqGW8k9HzW6LdvisdFtHSpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.072e-07,
+  "priceTs": "2026-11-13T08:16:46.252244Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794557760,
+      "o": 2.072e-07,
+      "h": 2.072e-07,
+      "l": 2.072e-07,
+      "c": 2.072e-07,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 415.0,
+    "liquidity": 0.0,
+    "volume24h": 32.58,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T08:16:36.227737Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 54.79,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
