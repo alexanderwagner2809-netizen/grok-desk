@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T07:35:33.707423Z",
+  "ts": "2026-11-13T07:36:44.000066Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T07:35:32.025342Z",
+  "heartbeat": "2026-11-13T07:36:41.987646Z",
   "paused": false,
   "status": "running",
-  "card": "453 pools",
-  "count": 453,
+  "card": "454 pools",
+  "count": 454,
   "passed": 0,
   "feed": [
+    {
+      "mint": "85SVu9JSmXBER6WP3SEVh4wBq6DtPgGHCZqzngeWpump",
+      "label": "Chad On Puter",
+      "verdict": "kill",
+      "reason": "liq $9.9K",
+      "subtitle": "liq $9.9K",
+      "link": "https://fomo.family/coin?address=85SVu9JSmXBER6WP3SEVh4wBq6DtPgGHCZqzngeWpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump",
       "label": "The Drunk Raccoon",
@@ -66,19 +74,19 @@
       "reason": "liq $13",
       "subtitle": "liq $13",
       "link": "https://fomo.family/coin?address=4TuNDgnTP1yrfdWD2A5aVMpiLaXEBSTLRN7aj94Hpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "7zuP5YyQ2DZgwKZY9xUK7Em4mFjBKhwQaR9BpRJFpump",
-      "label": "FreakHouse",
-      "verdict": "kill",
-      "reason": "liq $4",
-      "subtitle": "liq $4",
-      "link": "https://fomo.family/coin?address=7zuP5YyQ2DZgwKZY9xUK7Em4mFjBKhwQaR9BpRJFpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T07:36:41.987151Z",
+      "mint": "85SVu9JSmXBER6WP3SEVh4wBq6DtPgGHCZqzngeWpump",
+      "label": "Chad On Puter",
+      "verdict": "kill",
+      "reason": "liq $9.9K",
+      "link": "https://fomo.family/coin?address=85SVu9JSmXBER6WP3SEVh4wBq6DtPgGHCZqzngeWpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:34:10.224629Z",
       "mint": "3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump",
       "label": "The Drunk Raccoon",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $4",
       "link": "https://fomo.family/coin?address=7L1hABSHh6GofDqVhFtMPFhW5K2sHQ9UQrp6SC8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:36:16.494270Z",
-      "mint": "GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump",
-      "label": "Max coin",
-      "verdict": "kill",
-      "reason": "liq $1.4K",
-      "link": "https://fomo.family/coin?address=GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T07:36:41.987151Z",
+      "mint": "85SVu9JSmXBER6WP3SEVh4wBq6DtPgGHCZqzngeWpump",
+      "label": "Chad On Puter",
+      "verdict": "kill",
+      "reason": "liq $9.9K",
+      "link": "https://fomo.family/coin?address=85SVu9JSmXBER6WP3SEVh4wBq6DtPgGHCZqzngeWpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:34:10.224629Z",
       "mint": "3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump",
       "label": "The Drunk Raccoon",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $4",
       "link": "https://fomo.family/coin?address=7L1hABSHh6GofDqVhFtMPFhW5K2sHQ9UQrp6SC8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:36:16.494270Z",
-      "mint": "GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump",
-      "label": "Max coin",
-      "verdict": "kill",
-      "reason": "liq $1.4K",
-      "link": "https://fomo.family/coin?address=GCBzWGdK7dNJ7ZhAS6zKMMB132WGWWecB4vEHXvtpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

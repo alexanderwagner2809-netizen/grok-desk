@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T07:36:42.730809Z",
+  "mint": "85SVu9JSmXBER6WP3SEVh4wBq6DtPgGHCZqzngeWpump",
+  "name": "Chad On Puter",
+  "symbol": "CHAD",
+  "label": "Chad On Puter",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-13T07:35:44.375666Z",
+  "pool": "2QZr9aZzFU4r2Uhhts6on9FX5pudSesJnhiewTtWo4XL",
+  "creator": "7ts9Ey7cAUuHpgzqFzH1ZBkGa5XoEnBJWqPFo22CGh79",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=85SVu9JSmXBER6WP3SEVh4wBq6DtPgGHCZqzngeWpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.23e-05,
+  "priceTs": "2026-11-13T07:36:42.478437Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794555360,
+      "o": 2.23e-05,
+      "h": 2.23e-05,
+      "l": 2.23e-05,
+      "c": 2.23e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 22256.0,
+    "liquidity": 9940.58,
+    "volume24h": 7553.44,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T07:36:41.987151Z",
+      "liquidity_usd": 9940.58,
+      "top10_pct": null,
+      "h1_change_pct": -35.28,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $9.9K"
+    }
+  ]
+}
