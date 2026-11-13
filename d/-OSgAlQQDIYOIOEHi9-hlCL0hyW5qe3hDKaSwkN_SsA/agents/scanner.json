@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T09:58:20.114608Z",
+  "ts": "2026-11-13T09:59:31.135853Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T09:58:18.671143Z",
+  "heartbeat": "2026-11-13T09:59:28.723835Z",
   "paused": false,
   "status": "running",
-  "card": "510 pools",
-  "count": 510,
+  "card": "511 pools",
+  "count": 511,
   "passed": 0,
   "feed": [
+    {
+      "mint": "GDchwwHfadnrW73QCwVQCLjk4e4Uh7KRQTvY1m5apump",
+      "label": "GPU GUN",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "subtitle": "liq $3",
+      "link": "https://fomo.family/coin?address=GDchwwHfadnrW73QCwVQCLjk4e4Uh7KRQTvY1m5apump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "Fk8uavaf8k4NBimTXYHYFJReqs9uV8owB9DhBJyFpump",
       "label": "TOYCOIN",
@@ -66,19 +74,19 @@
       "reason": "liq $214",
       "subtitle": "liq $214",
       "link": "https://fomo.family/coin?address=Dp2NqsV7KCwnbcVAbuEJiuhJs7kGsT5KwD8PbT5Upump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE",
-      "label": "Solana OS",
-      "verdict": "kill",
-      "reason": "liq $11.7K",
-      "subtitle": "liq $11.7K",
-      "link": "https://fomo.family/coin?address=6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T09:58:37.581851Z",
+      "mint": "GDchwwHfadnrW73QCwVQCLjk4e4Uh7KRQTvY1m5apump",
+      "label": "GPU GUN",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "link": "https://fomo.family/coin?address=GDchwwHfadnrW73QCwVQCLjk4e4Uh7KRQTvY1m5apump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T09:57:09.216726Z",
       "mint": "Fk8uavaf8k4NBimTXYHYFJReqs9uV8owB9DhBJyFpump",
       "label": "TOYCOIN",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $24",
       "link": "https://fomo.family/coin?address=6RuUkt56K8CkGCjbnD6B3vrDz13pGFnYFZtbKft8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:24:26.235160Z",
-      "mint": "6rhQjSgoCka3s5dTYCmu5GCeY4GyUywxBSC2z9xSpump",
-      "label": "NOTHING",
-      "verdict": "kill",
-      "reason": "liq $2",
-      "link": "https://fomo.family/coin?address=6rhQjSgoCka3s5dTYCmu5GCeY4GyUywxBSC2z9xSpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T09:58:37.581851Z",
+      "mint": "GDchwwHfadnrW73QCwVQCLjk4e4Uh7KRQTvY1m5apump",
+      "label": "GPU GUN",
+      "verdict": "kill",
+      "reason": "liq $3",
+      "link": "https://fomo.family/coin?address=GDchwwHfadnrW73QCwVQCLjk4e4Uh7KRQTvY1m5apump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T09:57:09.216726Z",
       "mint": "Fk8uavaf8k4NBimTXYHYFJReqs9uV8owB9DhBJyFpump",
       "label": "TOYCOIN",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $24",
       "link": "https://fomo.family/coin?address=6RuUkt56K8CkGCjbnD6B3vrDz13pGFnYFZtbKft8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:24:26.235160Z",
-      "mint": "6rhQjSgoCka3s5dTYCmu5GCeY4GyUywxBSC2z9xSpump",
-      "label": "NOTHING",
-      "verdict": "kill",
-      "reason": "liq $2",
-      "link": "https://fomo.family/coin?address=6rhQjSgoCka3s5dTYCmu5GCeY4GyUywxBSC2z9xSpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

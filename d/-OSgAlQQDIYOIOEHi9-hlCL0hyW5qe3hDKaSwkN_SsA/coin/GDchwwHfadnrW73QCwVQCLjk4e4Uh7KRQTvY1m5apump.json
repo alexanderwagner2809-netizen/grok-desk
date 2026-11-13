@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T09:58:19.895866Z",
+  "ts": "2026-11-13T09:59:29.678237Z",
   "mint": "GDchwwHfadnrW73QCwVQCLjk4e4Uh7KRQTvY1m5apump",
-  "name": null,
-  "symbol": null,
-  "label": "GDchwwHf",
+  "name": "GPU GUN",
+  "symbol": "GPU",
+  "label": "GPU GUN",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T09:57:43.334486Z",
-  "pool": null,
+  "pool": "3Dpih6MP1a5McGs8DbaBJWN2qMa3YX6NEfEYYxQgGmPE",
   "creator": "3cvFL7rDzrBpWaAj3x1R5PfpMibVegGBSgQVJvKGQLgx",
   "holders": null,
   "link": "https://fomo.family/coin?address=GDchwwHfadnrW73QCwVQCLjk4e4Uh7KRQTvY1m5apump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.853e-09,
+  "priceTs": "2026-11-13T09:59:29.425141Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794563880,
+      "o": 2.363e-09,
+      "h": 2.363e-09,
+      "l": 2.363e-09,
+      "c": 2.363e-09,
+      "v": 0.0
+    },
+    {
+      "t": 1794563940,
+      "o": 1.853e-09,
+      "h": 1.853e-09,
+      "l": 1.853e-09,
+      "c": 1.853e-09,
+      "v": 1.019999999999996
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 4.0,
+    "liquidity": 2.88,
+    "volume24h": 78.66,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T09:58:37.581851Z",
+      "liquidity_usd": 3.19,
+      "top10_pct": null,
+      "h1_change_pct": -90.45,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $3"
+    }
+  ]
 }
