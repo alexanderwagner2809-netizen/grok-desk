@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:19:57.447943Z",
+  "ts": "2026-11-13T11:21:09.045400Z",
   "mint": "ALeg11QxutVmqTztdq2jywcy3z413sacUeUUJpapump",
   "name": "CLOCKED OUT",
   "symbol": "CLOCKED",
@@ -11,8 +11,8 @@
   "creator": "2g6WuviWaNsT6xqANvoJdjtBgR6Zheh6DE2dXWhog5UL",
   "holders": null,
   "link": "https://fomo.family/coin?address=ALeg11QxutVmqTztdq2jywcy3z413sacUeUUJpapump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.000117,
-  "priceTs": "2026-11-13T11:19:57.264053Z",
+  "price": 9.136e-05,
+  "priceTs": "2026-11-13T11:21:08.835429Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -552,12 +552,20 @@
       "l": 0.000117,
       "c": 0.000117,
       "v": 0.0
+    },
+    {
+      "t": 1794568860,
+      "o": 9.136e-05,
+      "h": 9.136e-05,
+      "l": 9.136e-05,
+      "c": 9.136e-05,
+      "v": 1447.6600000000003
     }
   ],
   "stats": {
-    "marketCap": 114317.0,
-    "liquidity": 24821.24,
-    "volume24h": 140483.98,
+    "marketCap": 89221.0,
+    "liquidity": 21608.48,
+    "volume24h": 142712.06,
     "holders": null
   },
   "position": null,

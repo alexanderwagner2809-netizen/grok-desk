@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:19:57.449250Z",
+  "ts": "2026-11-13T11:21:09.046842Z",
   "mint": "HTtZPBfAzLA1Xo2Z7kMGxFpk3heMCktQDCY9Wqenpump",
   "name": "TRUFFLES",
   "symbol": "XFFX",
@@ -11,8 +11,8 @@
   "creator": "EqAhwsnN9RSFhsHA5GHyErQvaUYoVFrBv88SpiCgUjki",
   "holders": null,
   "link": "https://fomo.family/coin?address=HTtZPBfAzLA1Xo2Z7kMGxFpk3heMCktQDCY9Wqenpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.575e-07,
-  "priceTs": "2026-11-13T11:19:57.264053Z",
+  "price": 2.545e-07,
+  "priceTs": "2026-11-13T11:21:08.835429Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -552,12 +552,20 @@
       "l": 2.575e-07,
       "c": 2.575e-07,
       "v": 0.0
+    },
+    {
+      "t": 1794568860,
+      "o": 2.545e-07,
+      "h": 2.545e-07,
+      "l": 2.545e-07,
+      "c": 2.545e-07,
+      "v": 1.55
     }
   ],
   "stats": {
-    "marketCap": 219.0,
-    "liquidity": 150.59,
-    "volume24h": 210.18,
+    "marketCap": 216.0,
+    "liquidity": 149.77,
+    "volume24h": 211.73,
     "holders": null
   },
   "position": null,
