@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T07:57:56.444548Z",
+  "ts": "2026-11-13T07:59:06.631104Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T07:57:54.951884Z",
+  "heartbeat": "2026-11-13T07:59:04.904953Z",
   "paused": false,
   "status": "running",
-  "card": "461 pools",
-  "count": 461,
+  "card": "462 pools",
+  "count": 462,
   "passed": 0,
   "feed": [
+    {
+      "mint": "BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump",
+      "label": "Hugh Janus",
+      "verdict": "kill",
+      "reason": "liq $11.9K",
+      "subtitle": "liq $11.9K",
+      "link": "https://fomo.family/coin?address=BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "4bV59bUWHCqBgerEQYzHPbX4SPCL2douS2SpHPz4pump",
       "label": "DEGEN KING",
@@ -66,19 +74,19 @@
       "reason": "liq $3",
       "subtitle": "liq $3",
       "link": "https://fomo.family/coin?address=EHaaMUkR2aPqF59wcugzxyTcbtc88824oPY7mE18pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "85SVu9JSmXBER6WP3SEVh4wBq6DtPgGHCZqzngeWpump",
-      "label": "Chad On Puter",
-      "verdict": "kill",
-      "reason": "liq $9.9K",
-      "subtitle": "liq $9.9K",
-      "link": "https://fomo.family/coin?address=85SVu9JSmXBER6WP3SEVh4wBq6DtPgGHCZqzngeWpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T07:58:12.743705Z",
+      "mint": "BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump",
+      "label": "Hugh Janus",
+      "verdict": "kill",
+      "reason": "liq $11.9K",
+      "link": "https://fomo.family/coin?address=BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:54:10.920808Z",
       "mint": "4bV59bUWHCqBgerEQYzHPbX4SPCL2douS2SpHPz4pump",
       "label": "DEGEN KING",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $11.8K",
       "link": "https://fomo.family/coin?address=GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T07:03:06.605005Z",
-      "mint": "EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump",
-      "label": "APPLE",
-      "verdict": "kill",
-      "reason": "liq $24",
-      "link": "https://fomo.family/coin?address=EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T07:58:12.743705Z",
+      "mint": "BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump",
+      "label": "Hugh Janus",
+      "verdict": "kill",
+      "reason": "liq $11.9K",
+      "link": "https://fomo.family/coin?address=BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:54:10.920808Z",
       "mint": "4bV59bUWHCqBgerEQYzHPbX4SPCL2douS2SpHPz4pump",
       "label": "DEGEN KING",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $11.8K",
       "link": "https://fomo.family/coin?address=GMJnorSZPC48dBTxo1T8Uy2KDVmHQeHm7BvSogJQpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T07:03:06.605005Z",
-      "mint": "EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump",
-      "label": "APPLE",
-      "verdict": "kill",
-      "reason": "liq $24",
-      "link": "https://fomo.family/coin?address=EkL5KgHCQVkQUeFiBf5TxavocucNsmqo44uvvZoSpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

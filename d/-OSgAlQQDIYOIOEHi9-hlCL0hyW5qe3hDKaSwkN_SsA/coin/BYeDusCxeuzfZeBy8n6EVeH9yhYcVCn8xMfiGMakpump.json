@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T07:57:55.922616Z",
+  "ts": "2026-11-13T07:59:05.262521Z",
   "mint": "BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump",
-  "name": null,
-  "symbol": null,
-  "label": "BYeDusCx",
+  "name": "Hugh Janus",
+  "symbol": "Hugh",
+  "label": "Hugh Janus",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T07:57:33.189848Z",
-  "pool": null,
+  "pool": "ESo43bvaH5JJcFh2RhvCB1MaRhVotcRFNzoyTmZwrWGy",
   "creator": "4HDbnhs9w4PLP8KfGMEaXgWEcxWRAuLhzdQAMihhyMft",
   "holders": null,
   "link": "https://fomo.family/coin?address=BYeDusCxeuzfZeBy8n6EVeH9yhYcVCn8xMfiGMakpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.287e-05,
+  "priceTs": "2026-11-13T07:59:05.020040Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794556680,
+      "o": 3.105e-05,
+      "h": 3.105e-05,
+      "l": 3.105e-05,
+      "c": 3.105e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794556740,
+      "o": 3.287e-05,
+      "h": 3.287e-05,
+      "l": 3.287e-05,
+      "c": 3.287e-05,
+      "v": 14097.92
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 32874.0,
+    "liquidity": 12345.15,
+    "volume24h": 19225.43,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T07:58:12.743705Z",
+      "liquidity_usd": 11853.03,
+      "top10_pct": null,
+      "h1_change_pct": -3.48,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $11.9K"
+    }
+  ]
 }
