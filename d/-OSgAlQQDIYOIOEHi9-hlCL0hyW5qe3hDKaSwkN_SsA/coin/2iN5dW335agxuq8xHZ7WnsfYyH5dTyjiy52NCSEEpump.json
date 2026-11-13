@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:34:11.187193Z",
+  "ts": "2026-11-13T11:35:21.667728Z",
   "mint": "2iN5dW335agxuq8xHZ7WnsfYyH5dTyjiy52NCSEEpump",
   "name": "Watched",
   "symbol": "Watched",
@@ -11,8 +11,8 @@
   "creator": "ASuGMUAQwxEN256fUfmJQ3WLCjs6gZpieKh3CorTUG9U",
   "holders": null,
   "link": "https://fomo.family/coin?address=2iN5dW335agxuq8xHZ7WnsfYyH5dTyjiy52NCSEEpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.095e-06,
-  "priceTs": "2026-11-13T11:34:10.984309Z",
+  "price": 6.039e-06,
+  "priceTs": "2026-11-13T11:35:21.503236Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -568,12 +568,20 @@
       "l": 6.095e-06,
       "c": 6.095e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794569700,
+      "o": 6.039e-06,
+      "h": 6.039e-06,
+      "l": 6.039e-06,
+      "c": 6.039e-06,
+      "v": 66.78999999999996
     }
   ],
   "stats": {
-    "marketCap": 5870.0,
-    "liquidity": 4506.61,
-    "volume24h": 114010.32,
+    "marketCap": 5816.0,
+    "liquidity": 4479.77,
+    "volume24h": 114101.33,
     "holders": null
   },
   "position": null,
