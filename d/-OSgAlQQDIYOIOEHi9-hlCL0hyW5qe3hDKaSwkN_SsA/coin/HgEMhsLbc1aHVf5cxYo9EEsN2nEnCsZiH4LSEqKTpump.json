@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T05:58:25.353894Z",
+  "ts": "2026-11-13T05:59:35.967387Z",
   "mint": "HgEMhsLbc1aHVf5cxYo9EEsN2nEnCsZiH4LSEqKTpump",
   "name": "🐈‍⬛ Fomo Cat 🐈‍⬛",
   "symbol": "FOMOCAT",
   "label": "🐈‍⬛ Fomo Cat 🐈‍⬛",
   "chain": "Solana",
-  "age": "48m old",
+  "age": "49m old",
   "migratedAt": "2026-11-13T05:09:37.082938Z",
   "pool": "Bp6LjEN4QsTEXRat4NVQb65JMPeUencfNgY6RJmNEE5u",
   "creator": "4A1npYL3rJQZXVmEjVdSFpx99TwY7bhm9VqFB5ACA2o3",
   "holders": null,
   "link": "https://fomo.family/coin?address=HgEMhsLbc1aHVf5cxYo9EEsN2nEnCsZiH4LSEqKTpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.801e-09,
-  "priceTs": "2026-11-13T05:58:25.131437Z",
+  "price": 2.351e-09,
+  "priceTs": "2026-11-13T05:59:35.751738Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -136,12 +136,20 @@
       "l": 2.801e-09,
       "c": 2.801e-09,
       "v": 0.19
+    },
+    {
+      "t": 1794549540,
+      "o": 2.351e-09,
+      "h": 2.351e-09,
+      "l": 2.351e-09,
+      "c": 2.351e-09,
+      "v": 0.8099999999999999
     }
   ],
   "stats": {
-    "marketCap": 6.0,
-    "liquidity": 5.52,
-    "volume24h": 80.88,
+    "marketCap": 5.0,
+    "liquidity": 5.06,
+    "volume24h": 81.69,
     "holders": null
   },
   "position": null,
