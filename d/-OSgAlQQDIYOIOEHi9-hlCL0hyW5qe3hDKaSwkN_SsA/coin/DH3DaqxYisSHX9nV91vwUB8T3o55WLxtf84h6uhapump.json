@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:33:00.154435Z",
+  "ts": "2026-11-13T11:34:11.142156Z",
   "mint": "DH3DaqxYisSHX9nV91vwUB8T3o55WLxtf84h6uhapump",
   "name": "PUMP SI",
   "symbol": "PSI",
@@ -11,8 +11,8 @@
   "creator": "93JtxYeaLkgdWYPVGgfJ8oSsMMMFZuBryrYi6zqQxUfa",
   "holders": null,
   "link": "https://fomo.family/coin?address=DH3DaqxYisSHX9nV91vwUB8T3o55WLxtf84h6uhapump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.299e-09,
-  "priceTs": "2026-11-13T11:32:59.892534Z",
+  "price": 3.055e-09,
+  "priceTs": "2026-11-13T11:34:10.870090Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -232,12 +232,20 @@
       "l": 3.299e-09,
       "c": 3.299e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794569640,
+      "o": 3.055e-09,
+      "h": 3.055e-09,
+      "l": 3.055e-09,
+      "c": 3.055e-09,
+      "v": 0.34
     }
   ],
   "stats": {
-    "marketCap": 7.0,
-    "liquidity": 11.49,
-    "volume24h": 2246.55,
+    "marketCap": 6.0,
+    "liquidity": 9.72,
+    "volume24h": 2246.89,
     "holders": null
   },
   "position": null,
