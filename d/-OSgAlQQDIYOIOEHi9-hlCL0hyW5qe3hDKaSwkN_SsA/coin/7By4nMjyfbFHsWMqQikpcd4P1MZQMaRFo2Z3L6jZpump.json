@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T11:44:50.868826Z",
+  "ts": "2026-11-13T11:46:03.234964Z",
   "mint": "7By4nMjyfbFHsWMqQikpcd4P1MZQMaRFo2Z3L6jZpump",
   "name": "The Drunk Raccoon",
   "symbol": "ROCKY",
@@ -11,8 +11,8 @@
   "creator": "CwEiwE9AMncac1i3UpAzUis5ZE3tCtRySDk1csSL8Qrg",
   "holders": null,
   "link": "https://fomo.family/coin?address=7By4nMjyfbFHsWMqQikpcd4P1MZQMaRFo2Z3L6jZpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.16e-06,
-  "priceTs": "2026-11-13T11:44:50.723343Z",
+  "price": 2.138e-06,
+  "priceTs": "2026-11-13T11:46:03.075396Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1360,12 +1360,20 @@
       "l": 2.16e-06,
       "c": 2.16e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794570360,
+      "o": 2.138e-06,
+      "h": 2.138e-06,
+      "l": 2.138e-06,
+      "c": 2.138e-06,
+      "v": 0.97
     }
   ],
   "stats": {
-    "marketCap": 2065.0,
-    "liquidity": 2104.93,
-    "volume24h": 112908.31,
+    "marketCap": 2044.0,
+    "liquidity": 2087.77,
+    "volume24h": 112909.28,
     "holders": null
   },
   "position": null,
