@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T09:41:45.946370Z",
+  "ts": "2026-11-13T09:42:56.453879Z",
   "mint": "EEBvwskA5KHgkxUPyYUFzQVqSe7aY7Wcuh5DTnwspump",
   "name": "Sell at 222k",
   "symbol": "222k",
@@ -11,8 +11,8 @@
   "creator": "EEgjKTPZHNgPA8KNtKkjh2LvfRM3yjXM13w6C8bba6Q9",
   "holders": null,
   "link": "https://fomo.family/coin?address=EEBvwskA5KHgkxUPyYUFzQVqSe7aY7Wcuh5DTnwspump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.822e-09,
-  "priceTs": "2026-11-13T09:41:45.829752Z",
+  "price": 1.797e-09,
+  "priceTs": "2026-11-13T09:42:56.330047Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1216,12 +1216,20 @@
       "l": 1.822e-09,
       "c": 1.822e-09,
       "v": 0.15
+    },
+    {
+      "t": 1794562920,
+      "o": 1.797e-09,
+      "h": 1.797e-09,
+      "l": 1.797e-09,
+      "c": 1.797e-09,
+      "v": 0.24000000000000002
     }
   ],
   "stats": {
     "marketCap": 4.0,
-    "liquidity": 6.51,
-    "volume24h": 100.35,
+    "liquidity": 6.46,
+    "volume24h": 100.59,
     "holders": null
   },
   "position": null,
