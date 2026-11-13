@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T20:14:24.303863Z",
+  "ts": "2026-11-13T20:15:35.668049Z",
   "mint": "HQP4wa5BiUjwQBZqEuxeHEB4EHhFoUneMm9c1PRqpump",
   "name": "wrappedape",
   "symbol": "wApe",
   "label": "wrappedape",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "2m old",
   "migratedAt": "2026-11-13T20:13:33.663440Z",
   "pool": "5VmBzX4tKVkjqfChahK753w8dpZukK3bmhbZ8Awg8Tmw",
   "creator": "EtCGvz6KhRZ9s2ogACqiWWqwytz2LS5aWD1GdPx29WJx",
   "holders": null,
   "link": "https://fomo.family/coin?address=HQP4wa5BiUjwQBZqEuxeHEB4EHhFoUneMm9c1PRqpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.696e-07,
-  "priceTs": "2026-11-13T20:14:24.016353Z",
+  "price": 1.393e-07,
+  "priceTs": "2026-11-13T20:15:35.359238Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,12 +24,20 @@
       "l": 1.696e-07,
       "c": 1.696e-07,
       "v": 0.0
+    },
+    {
+      "t": 1794600900,
+      "o": 1.393e-07,
+      "h": 1.393e-07,
+      "l": 1.393e-07,
+      "c": 1.393e-07,
+      "v": 23.93
     }
   ],
   "stats": {
-    "marketCap": 339.0,
-    "liquidity": 38.85,
-    "volume24h": 8.81,
+    "marketCap": 279.0,
+    "liquidity": 35.55,
+    "volume24h": 32.74,
     "holders": null
   },
   "position": null,

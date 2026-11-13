@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T20:14:24.725535Z",
+  "ts": "2026-11-13T20:15:35.666984Z",
   "mint": "5E6UjGDbuvquFnkvuuyaxFXwKKe4BaLzgxLEiHnTpump",
-  "name": null,
-  "symbol": null,
-  "label": "5E6UjGDb",
+  "name": "DISCO",
+  "symbol": "D",
+  "label": "DISCO",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T20:14:12.241082Z",
-  "pool": null,
+  "pool": "9hJsw8NqH2LsUKa2iG72XRqUZd17oEW5Dme7nyjoixWJ",
   "creator": "HNPdv6tr1zFQm7DpWD8AmD7MhzRMCpRidKnCPx3MPZmU",
   "holders": null,
   "link": "https://fomo.family/coin?address=5E6UjGDbuvquFnkvuuyaxFXwKKe4BaLzgxLEiHnTpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.92e-09,
+  "priceTs": "2026-11-13T20:15:35.359238Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794600840,
+      "o": 1.698e-08,
+      "h": 1.698e-08,
+      "l": 1.698e-08,
+      "c": 1.698e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794600900,
+      "o": 2.92e-09,
+      "h": 2.92e-09,
+      "l": 2.92e-09,
+      "c": 2.92e-09,
+      "v": 112.72
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 6.0,
+    "liquidity": 5.63,
+    "volume24h": 168.22,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T20:14:50.488343Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -67.22,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }
