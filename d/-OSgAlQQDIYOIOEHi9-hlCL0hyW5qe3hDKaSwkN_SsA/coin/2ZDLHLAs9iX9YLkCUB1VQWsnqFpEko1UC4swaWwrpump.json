@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T06:50:28.516989Z",
+  "ts": "2026-11-13T06:51:39.057197Z",
   "mint": "2ZDLHLAs9iX9YLkCUB1VQWsnqFpEko1UC4swaWwrpump",
   "name": "Frozen Cat",
   "symbol": "BRR",
   "label": "Frozen Cat",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-13T06:48:54.016398Z",
   "pool": "2Nx2JwViHj6ZwtMjP2mCZamPFhXXv2MjXcQ5Qf1n4Cex",
   "creator": "DHvDE4oWxWFbEWyCSZ9BkYbjCmoL5dF71BuVyJqkBeL5",
   "holders": null,
   "link": "https://fomo.family/coin?address=2ZDLHLAs9iX9YLkCUB1VQWsnqFpEko1UC4swaWwrpump&chainId=1399811149&r=savipww&source=share_link",
   "price": 2.134e-10,
-  "priceTs": "2026-11-13T06:50:28.283257Z",
+  "priceTs": "2026-11-13T06:51:38.642372Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -32,11 +32,19 @@
       "l": 2.134e-10,
       "c": 2.134e-10,
       "v": 1.240000000000002
+    },
+    {
+      "t": 1794552660,
+      "o": 2.134e-10,
+      "h": 2.134e-10,
+      "l": 2.134e-10,
+      "c": 2.134e-10,
+      "v": 0.0
     }
   ],
   "stats": {
     "marketCap": 0.0,
-    "liquidity": 0.89,
+    "liquidity": 0.88,
     "volume24h": 50.02,
     "holders": null
   },

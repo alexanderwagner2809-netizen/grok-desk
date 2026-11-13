@@ -1,13 +1,13 @@
 {
-  "ts": "2026-11-13T06:50:29.269422Z",
+  "ts": "2026-11-13T06:51:39.056009Z",
   "mint": "Bhs6xkJBPapWfiJ9r2HMd1eVEGyv351nrnB1Z1LGpump",
-  "name": null,
-  "symbol": null,
-  "label": "Bhs6xkJB",
+  "name": "Real World Asses",
+  "symbol": "RWA",
+  "label": "Real World Asses",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T06:49:54.751337Z",
-  "pool": null,
+  "pool": "EjetVYtWYxfFBvguek8YFgVVujcnAaCPdUXo9kv6gtQ1",
   "creator": "GRsNfDCxhbMd7UwjFuozuXdm8fWzRuqpgPpEDwubqFAY",
   "holders": null,
   "link": "https://fomo.family/coin?address=Bhs6xkJBPapWfiJ9r2HMd1eVEGyv351nrnB1Z1LGpump&chainId=1399811149&r=savipww&source=share_link",
@@ -19,11 +19,21 @@
   "candles": [],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 0.0,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T06:50:45.203735Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 53.83,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }

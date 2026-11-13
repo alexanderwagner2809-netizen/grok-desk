@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-13T06:50:29.771715Z",
+  "ts": "2026-11-13T06:51:40.267283Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T06:50:28.094159Z",
+  "heartbeat": "2026-11-13T06:51:38.612006Z",
   "paused": false,
   "status": "running",
-  "card": "438 pools",
-  "count": 438,
+  "card": "440 pools",
+  "count": 440,
   "passed": 0,
   "feed": [
+    {
+      "mint": "Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump",
+      "label": "4chanpad",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "Bhs6xkJBPapWfiJ9r2HMd1eVEGyv351nrnB1Z1LGpump",
+      "label": "Real World Asses",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=Bhs6xkJBPapWfiJ9r2HMd1eVEGyv351nrnB1Z1LGpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "HpYp9zrsmDPz3gJCrSHucGGoZ14Qbe7rj7wMeGGrpump",
       "label": "JUMP COIN",
@@ -58,27 +74,27 @@
       "reason": "liq $17",
       "subtitle": "liq $17",
       "link": "https://fomo.family/coin?address=EEBvwskA5KHgkxUPyYUFzQVqSe7aY7Wcuh5DTnwspump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "DN6zk6AhAzmDrNyrLFnVt5xgsHksjEzYFA1uMyFZpump",
-      "label": "APPLE",
-      "verdict": "kill",
-      "reason": "liq $5",
-      "subtitle": "liq $5",
-      "link": "https://fomo.family/coin?address=DN6zk6AhAzmDrNyrLFnVt5xgsHksjEzYFA1uMyFZpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump",
-      "label": "NATF",
-      "verdict": "kill",
-      "reason": "liq $1.6K",
-      "subtitle": "liq $1.6K",
-      "link": "https://fomo.family/coin?address=M4EYcsdCw62d2poP7gEHWUWXpDcgVxbfbxrFmZ5pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T06:50:45.206880Z",
+      "mint": "Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump",
+      "label": "4chanpad",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T06:50:45.203735Z",
+      "mint": "Bhs6xkJBPapWfiJ9r2HMd1eVEGyv351nrnB1Z1LGpump",
+      "label": "Real World Asses",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=Bhs6xkJBPapWfiJ9r2HMd1eVEGyv351nrnB1Z1LGpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T06:49:45.801705Z",
       "mint": "HpYp9zrsmDPz3gJCrSHucGGoZ14Qbe7rj7wMeGGrpump",
       "label": "JUMP COIN",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:16:40.798191Z",
-      "mint": "CPqXNk8RCmh4mKbcKzBSiYbFdQgC7xzHPUziJPQBpump",
-      "label": "grokbot",
-      "verdict": "kill",
-      "reason": "liq $63",
-      "link": "https://fomo.family/coin?address=CPqXNk8RCmh4mKbcKzBSiYbFdQgC7xzHPUziJPQBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:16:40.797412Z",
-      "mint": "HTqiJ1mAVPx8N4QoJJB2GrgEHH7NDRaMfWuFpne4pump",
-      "label": "El Super Niño",
-      "verdict": "kill",
-      "reason": "liq $58",
-      "link": "https://fomo.family/coin?address=HTqiJ1mAVPx8N4QoJJB2GrgEHH7NDRaMfWuFpne4pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T06:50:45.206880Z",
+      "mint": "Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump",
+      "label": "4chanpad",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T06:50:45.203735Z",
+      "mint": "Bhs6xkJBPapWfiJ9r2HMd1eVEGyv351nrnB1Z1LGpump",
+      "label": "Real World Asses",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=Bhs6xkJBPapWfiJ9r2HMd1eVEGyv351nrnB1Z1LGpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T06:49:45.801705Z",
       "mint": "HpYp9zrsmDPz3gJCrSHucGGoZ14Qbe7rj7wMeGGrpump",
       "label": "JUMP COIN",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:16:40.798191Z",
-      "mint": "CPqXNk8RCmh4mKbcKzBSiYbFdQgC7xzHPUziJPQBpump",
-      "label": "grokbot",
-      "verdict": "kill",
-      "reason": "liq $63",
-      "link": "https://fomo.family/coin?address=CPqXNk8RCmh4mKbcKzBSiYbFdQgC7xzHPUziJPQBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:16:40.797412Z",
-      "mint": "HTqiJ1mAVPx8N4QoJJB2GrgEHH7NDRaMfWuFpne4pump",
-      "label": "El Super Niño",
-      "verdict": "kill",
-      "reason": "liq $58",
-      "link": "https://fomo.family/coin?address=HTqiJ1mAVPx8N4QoJJB2GrgEHH7NDRaMfWuFpne4pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

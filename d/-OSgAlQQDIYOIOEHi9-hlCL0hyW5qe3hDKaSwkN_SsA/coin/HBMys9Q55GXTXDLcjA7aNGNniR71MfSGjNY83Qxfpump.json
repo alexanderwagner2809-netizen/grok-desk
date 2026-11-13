@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T06:50:28.553127Z",
+  "ts": "2026-11-13T06:51:39.092832Z",
   "mint": "HBMys9Q55GXTXDLcjA7aNGNniR71MfSGjNY83Qxfpump",
   "name": "Usefulcoin",
   "symbol": "USEFUL",
@@ -11,8 +11,8 @@
   "creator": "CKLYVyTg1rHiJGX2Dbx1Vd6jn9a9ycBHsNBXj2QwbQfE",
   "holders": null,
   "link": "https://fomo.family/coin?address=HBMys9Q55GXTXDLcjA7aNGNniR71MfSGjNY83Qxfpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.03e-05,
-  "priceTs": "2026-11-13T06:50:28.397561Z",
+  "price": 7.213e-06,
+  "priceTs": "2026-11-13T06:51:38.783123Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -448,12 +448,20 @@
       "l": 1.03e-05,
       "c": 1.03e-05,
       "v": 91.49000000000001
+    },
+    {
+      "t": 1794552660,
+      "o": 7.213e-06,
+      "h": 7.213e-06,
+      "l": 7.213e-06,
+      "c": 7.213e-06,
+      "v": 573.53
     }
   ],
   "stats": {
-    "marketCap": 9745.0,
-    "liquidity": 6346.11,
-    "volume24h": 221671.02,
+    "marketCap": 6824.0,
+    "liquidity": 5085.72,
+    "volume24h": 222661.78,
     "holders": null
   },
   "position": null,
