@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T19:56:30.494764Z",
+  "ts": "2026-11-13T19:57:40.997253Z",
   "mint": "GcgdY59EMCYm9ChQeAJmWChYGMLE7jF8YYYec89ypump",
-  "name": null,
-  "symbol": null,
-  "label": "GcgdY59E",
+  "name": "buckme",
+  "symbol": "b",
+  "label": "buckme",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T19:56:15.232399Z",
-  "pool": null,
+  "pool": "DqibqE5zo45Xyp7vJjHi9eGSHp2tvSwisXkBv9BvGBWW",
   "creator": "F55uSK8dQZ4vRX2YSP2mxyjMk4fE14q2xtmgZT2taPNE",
   "holders": null,
   "link": "https://fomo.family/coin?address=GcgdY59EMCYm9ChQeAJmWChYGMLE7jF8YYYec89ypump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 4.001e-05,
+  "priceTs": "2026-11-13T19:57:40.711054Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794599820,
+      "o": 4.414e-05,
+      "h": 4.414e-05,
+      "l": 4.001e-05,
+      "c": 4.001e-05,
+      "v": 8543.31
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 39953.0,
+    "liquidity": 15790.07,
+    "volume24h": 13438.13,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T19:57:13.622751Z",
+      "liquidity_usd": 16723.31,
+      "top10_pct": null,
+      "h1_change_pct": 1.06,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $16.7K"
+    }
+  ]
 }
