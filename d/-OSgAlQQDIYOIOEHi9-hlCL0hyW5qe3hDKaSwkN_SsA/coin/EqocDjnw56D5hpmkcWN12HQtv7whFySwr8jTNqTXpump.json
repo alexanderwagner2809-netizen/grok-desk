@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T03:05:31.121923Z",
+  "mint": "EqocDjnw56D5hpmkcWN12HQtv7whFySwr8jTNqTXpump",
+  "name": "binance hacker",
+  "symbol": "$hacker",
+  "label": "binance hacker",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-13T03:04:22.094244Z",
+  "pool": "E3PHLegvU68J8SNiHR7sDzetB1QbeaYBETxpXwz7JeUh",
+  "creator": "7PnR2Cw44G12onMBTMMp1KUndoHEoh8qn6mQWjAKHbBQ",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=EqocDjnw56D5hpmkcWN12HQtv7whFySwr8jTNqTXpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.487e-08,
+  "priceTs": "2026-11-13T03:05:30.851383Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794539100,
+      "o": 4.236e-08,
+      "h": 4.236e-08,
+      "l": 3.487e-08,
+      "c": 3.487e-08,
+      "v": 456.83000000000015
+    }
+  ],
+  "stats": {
+    "marketCap": 70.0,
+    "liquidity": 69.25,
+    "volume24h": 1621.69,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T03:05:21.941547Z",
+      "liquidity_usd": 59.34,
+      "top10_pct": null,
+      "h1_change_pct": -89.9,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $59"
+    }
+  ]
+}
