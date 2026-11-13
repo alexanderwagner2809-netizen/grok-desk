@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T09:18:08.741731Z",
+  "ts": "2026-11-13T09:19:19.467904Z",
   "mint": "CmsVQy7fDFAEn9GnXWGUfUwQeZHbVs9JPP6WcaBDpump",
   "name": "Tree Coin",
   "symbol": "TREECOIN",
@@ -11,8 +11,8 @@
   "creator": "8NtTjq1ATgK8tAqejQsTPz8gKVrHWdRRdFgj7aG7bZg9",
   "holders": null,
   "link": "https://fomo.family/coin?address=CmsVQy7fDFAEn9GnXWGUfUwQeZHbVs9JPP6WcaBDpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.331e-06,
-  "priceTs": "2026-11-13T09:18:08.441047Z",
+  "price": 3.318e-06,
+  "priceTs": "2026-11-13T09:19:19.149196Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -496,12 +496,20 @@
       "l": 3.331e-06,
       "c": 3.331e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794561540,
+      "o": 3.318e-06,
+      "h": 3.318e-06,
+      "l": 3.318e-06,
+      "c": 3.318e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 3160.0,
-    "liquidity": 2944.12,
-    "volume24h": 76964.64,
+    "marketCap": 3147.0,
+    "liquidity": 2933.9,
+    "volume24h": 76965.57,
     "holders": null
   },
   "position": null,
