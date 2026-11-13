@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T05:53:45.405714Z",
+  "ts": "2026-11-13T05:54:54.584684Z",
   "mint": "AoQxeqd6nfAKdxLU7sURAPymtGk7cuwStioys1q3pump",
-  "name": null,
-  "symbol": null,
-  "label": "AoQxeqd6",
+  "name": "rugproof dog",
+  "symbol": "RUGPROOF",
+  "label": "rugproof dog",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T05:53:17.006563Z",
-  "pool": null,
+  "pool": "3hTGkzYTBjwXs4n9UqBD9h3onzGzekq28JZYdvxrxLwC",
   "creator": "HWUnfRdrzFfyPpVcmZHr9FdenUP1hjP1C7jUSyzYP1FH",
   "holders": null,
   "link": "https://fomo.family/coin?address=AoQxeqd6nfAKdxLU7sURAPymtGk7cuwStioys1q3pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.905e-07,
+  "priceTs": "2026-11-13T05:54:54.296655Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794549180,
+      "o": 7.358e-07,
+      "h": 7.358e-07,
+      "l": 7.358e-07,
+      "c": 7.358e-07,
+      "v": 0.0
+    },
+    {
+      "t": 1794549240,
+      "o": 1.905e-07,
+      "h": 1.905e-07,
+      "l": 1.905e-07,
+      "c": 1.905e-07,
+      "v": 2255.92
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 381.0,
+    "liquidity": 58.98,
+    "volume24h": 2292.79,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T05:53:56.212799Z",
+      "liquidity_usd": 90.57,
+      "top10_pct": null,
+      "h1_change_pct": 1034.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $91"
+    }
+  ]
 }
