@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T08:26:13.796996Z",
+  "ts": "2026-11-13T08:27:25.122368Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T08:26:11.822884Z",
+  "heartbeat": "2026-11-13T08:27:23.427965Z",
   "paused": false,
   "status": "running",
-  "card": "478 pools",
-  "count": 478,
+  "card": "479 pools",
+  "count": 479,
   "passed": 0,
   "feed": [
+    {
+      "mint": "BigjvNL6Ngaff9WZD1EA24FmZiHGtzTYvfCq5PwLpump",
+      "label": "dizzy turd",
+      "verdict": "kill",
+      "reason": "liq $17",
+      "subtitle": "liq $17",
+      "link": "https://fomo.family/coin?address=BigjvNL6Ngaff9WZD1EA24FmZiHGtzTYvfCq5PwLpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "wT2xR5NZnzKm1CTW9qrGf6RTAvq7GXZAQ1VVckSpump",
       "label": "CLOCKED OUT",
@@ -66,19 +74,19 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=7VPwiM9NNsELV1Qo1tcMqGW8k9HzW6LdvisdFtHSpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5FuohN9xfk2gusTkb49zfDXLSJJ9tvWvUsUpFHWbpump",
-      "label": "Auda city",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=5FuohN9xfk2gusTkb49zfDXLSJJ9tvWvUsUpFHWbpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T08:26:40.296144Z",
+      "mint": "BigjvNL6Ngaff9WZD1EA24FmZiHGtzTYvfCq5PwLpump",
+      "label": "dizzy turd",
+      "verdict": "kill",
+      "reason": "liq $17",
+      "link": "https://fomo.family/coin?address=BigjvNL6Ngaff9WZD1EA24FmZiHGtzTYvfCq5PwLpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T08:25:44.375478Z",
       "mint": "wT2xR5NZnzKm1CTW9qrGf6RTAvq7GXZAQ1VVckSpump",
       "label": "CLOCKED OUT",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $2",
       "link": "https://fomo.family/coin?address=cuQhcWLpVL1t4Kjn5G5TGokVnZxdLEmSotLN5EEpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T07:52:52.473887Z",
-      "mint": "GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump",
-      "label": "Rockstar Games",
-      "verdict": "kill",
-      "reason": "+191% in 1h",
-      "link": "https://fomo.family/coin?address=GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T08:26:40.296144Z",
+      "mint": "BigjvNL6Ngaff9WZD1EA24FmZiHGtzTYvfCq5PwLpump",
+      "label": "dizzy turd",
+      "verdict": "kill",
+      "reason": "liq $17",
+      "link": "https://fomo.family/coin?address=BigjvNL6Ngaff9WZD1EA24FmZiHGtzTYvfCq5PwLpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T08:25:44.375478Z",
       "mint": "wT2xR5NZnzKm1CTW9qrGf6RTAvq7GXZAQ1VVckSpump",
       "label": "CLOCKED OUT",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $2",
       "link": "https://fomo.family/coin?address=cuQhcWLpVL1t4Kjn5G5TGokVnZxdLEmSotLN5EEpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T07:52:52.473887Z",
-      "mint": "GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump",
-      "label": "Rockstar Games",
-      "verdict": "kill",
-      "reason": "+191% in 1h",
-      "link": "https://fomo.family/coin?address=GRT6MXWNoU3ZnVyJRbDnBbdHJQk8ftHPn6X7aAT9pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

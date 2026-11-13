@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T08:26:13.240475Z",
+  "ts": "2026-11-13T08:27:23.733759Z",
   "mint": "BigjvNL6Ngaff9WZD1EA24FmZiHGtzTYvfCq5PwLpump",
-  "name": null,
-  "symbol": null,
-  "label": "BigjvNL6",
+  "name": "dizzy turd",
+  "symbol": "bitoshit",
+  "label": "dizzy turd",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T08:25:51.065116Z",
-  "pool": null,
+  "pool": "As9kC4rXLSxpVFodjtkswgvDudhwDBevUHRYgzSJTPYt",
   "creator": "CFNrdE752b7iVQtJdYxHee2Gfm6Mfpy8AXgi5ekmdZox",
   "holders": null,
   "link": "https://fomo.family/coin?address=BigjvNL6Ngaff9WZD1EA24FmZiHGtzTYvfCq5PwLpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.254e-08,
+  "priceTs": "2026-11-13T08:27:23.498127Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794558360,
+      "o": 1.254e-08,
+      "h": 1.254e-08,
+      "l": 1.254e-08,
+      "c": 1.254e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794558420,
+      "o": 1.254e-08,
+      "h": 1.254e-08,
+      "l": 1.254e-08,
+      "c": 1.254e-08,
+      "v": 0.0
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 25.0,
+    "liquidity": 17.47,
+    "volume24h": 37.41,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T08:26:40.296144Z",
+      "liquidity_usd": 17.47,
+      "top10_pct": null,
+      "h1_change_pct": -91.1,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $17"
+    }
+  ]
 }
