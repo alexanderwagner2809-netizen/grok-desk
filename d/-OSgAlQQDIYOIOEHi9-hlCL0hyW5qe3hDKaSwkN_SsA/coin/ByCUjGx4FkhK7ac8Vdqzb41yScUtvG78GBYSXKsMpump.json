@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T05:06:48.631003Z",
+  "ts": "2026-11-13T05:07:58.398700Z",
   "mint": "ByCUjGx4FkhK7ac8Vdqzb41yScUtvG78GBYSXKsMpump",
-  "name": null,
-  "symbol": null,
-  "label": "ByCUjGx4",
+  "name": "don't care anymore",
+  "symbol": "dca",
+  "label": "don't care anymore",
   "chain": "Solana",
-  "age": "55m old",
+  "age": "57m old",
   "migratedAt": "2026-11-13T04:10:55.698398Z",
-  "pool": null,
+  "pool": "G2ons54ohMwR1Pw7UkutHJh4es8bm6dFkNDtuwEZpHPX",
   "creator": "GjbmxmVohwxUAWu43zbGGfTSxMjeaGba7SUHnkcPhjgw",
   "holders": null,
   "link": "https://fomo.family/coin?address=ByCUjGx4FkhK7ac8Vdqzb41yScUtvG78GBYSXKsMpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 0.0001025,
+  "priceTs": "2026-11-13T05:07:58.147411Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794546360,
+      "o": 0.0001243,
+      "h": 0.0001243,
+      "l": 0.0001243,
+      "c": 0.0001243,
+      "v": 0.0
+    },
+    {
+      "t": 1794546420,
+      "o": 0.0001025,
+      "h": 0.0001025,
+      "l": 0.0001025,
+      "c": 0.0001025,
+      "v": 17475.1
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 94422.0,
+    "liquidity": 23444.99,
+    "volume24h": 372372.58,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T05:06:49.174206Z",
+      "liquidity_usd": 25772.43,
+      "top10_pct": null,
+      "h1_change_pct": 302.0,
+      "age_min": 55,
+      "verdict": "kill",
+      "reason": "+302% in 1h"
+    }
+  ]
 }

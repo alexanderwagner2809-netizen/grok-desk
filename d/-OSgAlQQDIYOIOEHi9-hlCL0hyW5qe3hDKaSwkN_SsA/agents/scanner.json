@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T05:06:49.144752Z",
+  "ts": "2026-11-13T05:07:59.639384Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
-  "ok": false,
-  "heartbeat": "2026-11-13T04:10:59.058953Z",
+  "ok": true,
+  "heartbeat": "2026-11-13T05:07:57.518240Z",
   "paused": false,
-  "status": "idle",
-  "card": "402 pools",
-  "count": 402,
+  "status": "running",
+  "card": "403 pools",
+  "count": 403,
   "passed": 0,
   "feed": [
+    {
+      "mint": "ByCUjGx4FkhK7ac8Vdqzb41yScUtvG78GBYSXKsMpump",
+      "label": "don't care anymore",
+      "verdict": "kill",
+      "reason": "+302% in 1h",
+      "subtitle": "+302% in 1h",
+      "link": "https://fomo.family/coin?address=ByCUjGx4FkhK7ac8Vdqzb41yScUtvG78GBYSXKsMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "JAWtSUV7eLqiw9YD2V1zggW7D9DD15gjw4fMARfWpump",
       "label": "SPACE X",
@@ -66,19 +74,19 @@
       "reason": "liq $59",
       "subtitle": "liq $59",
       "link": "https://fomo.family/coin?address=EqocDjnw56D5hpmkcWN12HQtv7whFySwr8jTNqTXpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "HVDkBDPQDPukBVCkiCBb2rgajjY7GS6V6mNwZtr4pump",
-      "label": "UODF",
-      "verdict": "kill",
-      "reason": "+128920% in 1h",
-      "subtitle": "+128920% in 1h",
-      "link": "https://fomo.family/coin?address=HVDkBDPQDPukBVCkiCBb2rgajjY7GS6V6mNwZtr4pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T05:06:49.174206Z",
+      "mint": "ByCUjGx4FkhK7ac8Vdqzb41yScUtvG78GBYSXKsMpump",
+      "label": "don't care anymore",
+      "verdict": "kill",
+      "reason": "+302% in 1h",
+      "link": "https://fomo.family/coin?address=ByCUjGx4FkhK7ac8Vdqzb41yScUtvG78GBYSXKsMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T04:09:11.022446Z",
       "mint": "JAWtSUV7eLqiw9YD2V1zggW7D9DD15gjw4fMARfWpump",
       "label": "SPACE X",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=GdPu5KPUeka8RJje6wjZ3o45wNDpHaSivoe6ydYhpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T23:07:55.155359Z",
-      "mint": "ee36ZxYeezxfCFywPuVankrxGUtg46jso361QGNpump",
-      "label": "ee36ZxYe",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=ee36ZxYeezxfCFywPuVankrxGUtg46jso361QGNpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T05:06:49.174206Z",
+      "mint": "ByCUjGx4FkhK7ac8Vdqzb41yScUtvG78GBYSXKsMpump",
+      "label": "don't care anymore",
+      "verdict": "kill",
+      "reason": "+302% in 1h",
+      "link": "https://fomo.family/coin?address=ByCUjGx4FkhK7ac8Vdqzb41yScUtvG78GBYSXKsMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T04:09:11.022446Z",
       "mint": "JAWtSUV7eLqiw9YD2V1zggW7D9DD15gjw4fMARfWpump",
       "label": "SPACE X",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=GdPu5KPUeka8RJje6wjZ3o45wNDpHaSivoe6ydYhpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T23:07:55.155359Z",
-      "mint": "ee36ZxYeezxfCFywPuVankrxGUtg46jso361QGNpump",
-      "label": "ee36ZxYe",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=ee36ZxYeezxfCFywPuVankrxGUtg46jso361QGNpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

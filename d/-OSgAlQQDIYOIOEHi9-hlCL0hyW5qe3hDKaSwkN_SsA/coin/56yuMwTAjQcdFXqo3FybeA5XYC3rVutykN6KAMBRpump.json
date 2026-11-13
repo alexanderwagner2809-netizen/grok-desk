@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T05:06:47.901398Z",
+  "ts": "2026-11-13T05:07:58.517422Z",
   "mint": "56yuMwTAjQcdFXqo3FybeA5XYC3rVutykN6KAMBRpump",
   "name": "You guys are getting paid?",
   "symbol": "GETPAID",
@@ -11,8 +11,8 @@
   "creator": "D6heFfJP6Lid7fsznsvbN3iNBt5RZjSMzmeVgQ8qi4WA",
   "holders": null,
   "link": "https://fomo.family/coin?address=56yuMwTAjQcdFXqo3FybeA5XYC3rVutykN6KAMBRpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.199e-09,
-  "priceTs": "2026-11-13T05:06:47.744351Z",
+  "price": 2.038e-09,
+  "priceTs": "2026-11-13T05:07:58.381963Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -928,12 +928,20 @@
       "l": 2.199e-09,
       "c": 2.199e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794546420,
+      "o": 2.038e-09,
+      "h": 2.038e-09,
+      "l": 2.038e-09,
+      "c": 2.038e-09,
+      "v": 0.12
     }
   ],
   "stats": {
     "marketCap": 4.0,
-    "liquidity": 4.24,
-    "volume24h": 222.25,
+    "liquidity": 4.09,
+    "volume24h": 222.38,
     "holders": null
   },
   "position": null,
