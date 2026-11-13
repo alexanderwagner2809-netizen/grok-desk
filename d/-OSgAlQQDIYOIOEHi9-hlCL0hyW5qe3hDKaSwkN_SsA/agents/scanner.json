@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T07:43:48.254635Z",
+  "ts": "2026-11-13T07:44:58.921130Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T07:43:45.947965Z",
+  "heartbeat": "2026-11-13T07:44:57.372323Z",
   "paused": false,
   "status": "running",
-  "card": "456 pools",
-  "count": 456,
+  "card": "457 pools",
+  "count": 457,
   "passed": 0,
   "feed": [
+    {
+      "mint": "9W5XqdWFejXFgES4NKTtYuhPajZkTi8uv4fci9pUpump",
+      "label": "GTA",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=9W5XqdWFejXFgES4NKTtYuhPajZkTi8uv4fci9pUpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "D5Mvk9PiehtdWDVrhB8d9wr8Q73csDJ3Akovuwfqpump",
       "label": "Trashed Panda",
@@ -66,19 +74,19 @@
       "reason": "liq $9",
       "subtitle": "liq $9",
       "link": "https://fomo.family/coin?address=Aatkj7qDHaat1fs2gMmFQDLdfUzJmVKBjJJEzAK1pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "ErqK5g2ES4VN86anNfpeAdkVouqPTW4haDDhgWWHpump",
-      "label": "Mecha Pepe 3000",
-      "verdict": "kill",
-      "reason": "liq $6",
-      "subtitle": "liq $6",
-      "link": "https://fomo.family/coin?address=ErqK5g2ES4VN86anNfpeAdkVouqPTW4haDDhgWWHpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T07:44:40.332059Z",
+      "mint": "9W5XqdWFejXFgES4NKTtYuhPajZkTi8uv4fci9pUpump",
+      "label": "GTA",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=9W5XqdWFejXFgES4NKTtYuhPajZkTi8uv4fci9pUpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:43:41.936965Z",
       "mint": "D5Mvk9PiehtdWDVrhB8d9wr8Q73csDJ3Akovuwfqpump",
       "label": "Trashed Panda",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $8",
       "link": "https://fomo.family/coin?address=HpYp9zrsmDPz3gJCrSHucGGoZ14Qbe7rj7wMeGGrpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:49:45.800940Z",
-      "mint": "2ZDLHLAs9iX9YLkCUB1VQWsnqFpEko1UC4swaWwrpump",
-      "label": "Frozen Cat",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "link": "https://fomo.family/coin?address=2ZDLHLAs9iX9YLkCUB1VQWsnqFpEko1UC4swaWwrpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T07:44:40.332059Z",
+      "mint": "9W5XqdWFejXFgES4NKTtYuhPajZkTi8uv4fci9pUpump",
+      "label": "GTA",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=9W5XqdWFejXFgES4NKTtYuhPajZkTi8uv4fci9pUpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T07:43:41.936965Z",
       "mint": "D5Mvk9PiehtdWDVrhB8d9wr8Q73csDJ3Akovuwfqpump",
       "label": "Trashed Panda",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $8",
       "link": "https://fomo.family/coin?address=HpYp9zrsmDPz3gJCrSHucGGoZ14Qbe7rj7wMeGGrpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T06:49:45.800940Z",
-      "mint": "2ZDLHLAs9iX9YLkCUB1VQWsnqFpEko1UC4swaWwrpump",
-      "label": "Frozen Cat",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "link": "https://fomo.family/coin?address=2ZDLHLAs9iX9YLkCUB1VQWsnqFpEko1UC4swaWwrpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
