@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T04:07:50.562163Z",
+  "ts": "2026-11-13T04:09:00.623873Z",
   "mint": "ESXV4xJMeEgPi5rkBEc5R4NhS1Jf83tprnNKg8ZXbtZJ",
   "name": "Su-bae",
   "symbol": "Su",
@@ -11,8 +11,8 @@
   "creator": "x4sVTb6ZTEh4MqivSXWiVjvbPKMWAo3mtop85HCNRPN",
   "holders": null,
   "link": "https://fomo.family/coin?address=ESXV4xJMeEgPi5rkBEc5R4NhS1Jf83tprnNKg8ZXbtZJ&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.15e-06,
-  "priceTs": "2026-11-13T04:07:50.244437Z",
+  "price": 3.14e-06,
+  "priceTs": "2026-11-13T04:09:00.323974Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -168,12 +168,20 @@
       "l": 3.15e-06,
       "c": 3.15e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794542940,
+      "o": 3.14e-06,
+      "h": 3.14e-06,
+      "l": 3.14e-06,
+      "c": 3.14e-06,
+      "v": 0.3
     }
   ],
   "stats": {
-    "marketCap": 2677.0,
-    "liquidity": 3048.65,
-    "volume24h": 58417.92,
+    "marketCap": 2669.0,
+    "liquidity": 3039.85,
+    "volume24h": 58418.23,
     "holders": null
   },
   "position": null,
