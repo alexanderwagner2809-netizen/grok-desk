@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T01:08:29.912912Z",
+  "ts": "2026-11-13T01:09:54.712565Z",
   "mint": "31V1aw3R4vG3jL41imUX13FEaW6U5LCV3UiL9P64pump",
-  "name": null,
-  "symbol": null,
-  "label": "31V1aw3R",
+  "name": "UCI",
+  "symbol": "UCI",
+  "label": "UCI",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "2m old",
   "migratedAt": "2026-11-13T01:07:49.784686Z",
-  "pool": null,
+  "pool": "8W3cyFtp1DLmfNE7R4XsDopdRu2ymeLCGb3F1DHqPqC5",
   "creator": "FHYMJAfKaQWYm1B8GG7bUD8GdCDZQaPHAPodoqS2FBSx",
   "holders": null,
   "link": "https://fomo.family/coin?address=31V1aw3R4vG3jL41imUX13FEaW6U5LCV3UiL9P64pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 0.1169,
+  "priceTs": "2026-11-13T01:09:54.374606Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794532140,
+      "o": 0.1169,
+      "h": 0.1169,
+      "l": 0.1169,
+      "c": 0.1169,
+      "v": 0.0
+    }
+  ],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 816770.91,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T01:09:54.376398Z",
+      "liquidity_usd": 816770.91,
+      "top10_pct": null,
+      "h1_change_pct": 346344.0,
+      "age_min": 2,
+      "verdict": "kill",
+      "reason": "+346344% in 1h"
+    }
+  ]
 }

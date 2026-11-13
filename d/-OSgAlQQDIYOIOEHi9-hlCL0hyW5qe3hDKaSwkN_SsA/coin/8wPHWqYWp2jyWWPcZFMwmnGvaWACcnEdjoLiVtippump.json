@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T01:08:30.281033Z",
+  "ts": "2026-11-13T01:09:54.713887Z",
   "mint": "8wPHWqYWp2jyWWPcZFMwmnGvaWACcnEdjoLiVtippump",
-  "name": null,
-  "symbol": null,
-  "label": "8wPHWqYW",
+  "name": "Green Bitcoin",
+  "symbol": "BITG",
+  "label": "Green Bitcoin",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "2m old",
   "migratedAt": "2026-11-13T01:07:45.753040Z",
-  "pool": null,
+  "pool": "FMaLBQzKfC41U75ovrQ8Z6C4ZT4WoEniBG81WomUkuRp",
   "creator": "7UGabbJ3gWGe5gyyM13iJawkgxy2bvsEFj27xx6fJ3WM",
   "holders": null,
   "link": "https://fomo.family/coin?address=8wPHWqYWp2jyWWPcZFMwmnGvaWACcnEdjoLiVtippump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 5.96e-07,
+  "priceTs": "2026-11-13T01:09:54.372328Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794532140,
+      "o": 5.96e-07,
+      "h": 5.96e-07,
+      "l": 5.96e-07,
+      "c": 5.96e-07,
+      "v": 0.0
+    }
+  ],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 253.56,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T01:09:54.373152Z",
+      "liquidity_usd": 253.56,
+      "top10_pct": null,
+      "h1_change_pct": -6.53,
+      "age_min": 2,
+      "verdict": "kill",
+      "reason": "liq $254"
+    }
+  ]
 }

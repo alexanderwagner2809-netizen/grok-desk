@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T01:08:29.720788Z",
+  "ts": "2026-11-13T01:09:54.707116Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,37 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-13T01:08:29.113060Z",
+      "heartbeat": "2026-11-13T01:09:54.376756Z",
       "paused": false,
       "status": "running",
-      "card": "388 pools",
-      "count": 388,
+      "card": "391 pools",
+      "count": 391,
       "passed": 0,
       "feed": [
+        {
+          "mint": "31V1aw3R4vG3jL41imUX13FEaW6U5LCV3UiL9P64pump",
+          "label": "UCI",
+          "verdict": "kill",
+          "reason": "+346344% in 1h",
+          "subtitle": "+346344% in 1h",
+          "link": "https://fomo.family/coin?address=31V1aw3R4vG3jL41imUX13FEaW6U5LCV3UiL9P64pump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "ESXV4xJMeEgPi5rkBEc5R4NhS1Jf83tprnNKg8ZXbtZJ",
+          "label": "Su-bae",
+          "verdict": "kill",
+          "reason": "liq $13.9K",
+          "subtitle": "liq $13.9K",
+          "link": "https://fomo.family/coin?address=ESXV4xJMeEgPi5rkBEc5R4NhS1Jf83tprnNKg8ZXbtZJ&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "8wPHWqYWp2jyWWPcZFMwmnGvaWACcnEdjoLiVtippump",
+          "label": "Green Bitcoin",
+          "verdict": "kill",
+          "reason": "liq $254",
+          "subtitle": "liq $254",
+          "link": "https://fomo.family/coin?address=8wPHWqYWp2jyWWPcZFMwmnGvaWACcnEdjoLiVtippump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "6Pn4yN4vYBfxSTzgv8ro97tTWHHTpUTE2JbjCjLtpump",
           "label": "JUMP COIN",
@@ -58,30 +82,6 @@
           "reason": "liq $0",
           "subtitle": "liq $0",
           "link": "https://fomo.family/coin?address=GdPu5KPUeka8RJje6wjZ3o45wNDpHaSivoe6ydYhpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "ee36ZxYeezxfCFywPuVankrxGUtg46jso361QGNpump",
-          "label": "ee36ZxYe",
-          "verdict": "kill",
-          "reason": "never qualified",
-          "subtitle": "never qualified",
-          "link": "https://fomo.family/coin?address=ee36ZxYeezxfCFywPuVankrxGUtg46jso361QGNpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "3A4G2XhivyN1SD7pQeF3ecJSBNQ6UWimtp8CqbpVpump",
-          "label": "3A4G2Xhi",
-          "verdict": "kill",
-          "reason": "never qualified",
-          "subtitle": "never qualified",
-          "link": "https://fomo.family/coin?address=3A4G2XhivyN1SD7pQeF3ecJSBNQ6UWimtp8CqbpVpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "AR9MqjNWerrkvr1X19jp8BPuewVGogxXdZ7Ux4JSpump",
-          "label": "MrBeast",
-          "verdict": "kill",
-          "reason": "+162% in 1h",
-          "subtitle": "+162% in 1h",
-          "link": "https://fomo.family/coin?address=AR9MqjNWerrkvr1X19jp8BPuewVGogxXdZ7Ux4JSpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-13T01:08:28.765509Z",
+      "heartbeat": "2026-11-13T01:09:54.172723Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-13T01:08:28.767417Z",
+      "heartbeat": "2026-11-13T01:09:54.174919Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-13T01:08:28.769114Z",
+      "heartbeat": "2026-11-13T01:09:54.176696Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-13T01:08:22.604445Z",
+      "heartbeat": "2026-11-13T01:09:54.179557Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

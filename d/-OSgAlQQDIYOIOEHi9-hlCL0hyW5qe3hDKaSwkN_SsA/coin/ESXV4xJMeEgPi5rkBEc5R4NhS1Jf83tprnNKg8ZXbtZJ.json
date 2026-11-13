@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-13T01:08:30.640997Z",
+  "ts": "2026-11-13T01:09:54.713264Z",
   "mint": "ESXV4xJMeEgPi5rkBEc5R4NhS1Jf83tprnNKg8ZXbtZJ",
-  "name": null,
-  "symbol": null,
-  "label": "ESXV4xJM",
+  "name": "Su-bae",
+  "symbol": "Su",
+  "label": "Su-bae",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "2m old",
   "migratedAt": "2026-11-13T01:07:47.666632Z",
-  "pool": null,
+  "pool": "7CwTYmcb5pu14RHbzQdceUFpnFSwxLRJcMfyay8jpTpw",
   "creator": "x4sVTb6ZTEh4MqivSXWiVjvbPKMWAo3mtop85HCNRPN",
   "holders": null,
   "link": "https://fomo.family/coin?address=ESXV4xJMeEgPi5rkBEc5R4NhS1Jf83tprnNKg8ZXbtZJ&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.217e-05,
+  "priceTs": "2026-11-13T01:09:54.373984Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794532140,
+      "o": 3.217e-05,
+      "h": 3.217e-05,
+      "l": 3.217e-05,
+      "c": 3.217e-05,
+      "v": 0.0
+    }
+  ],
   "stats": {
     "marketCap": null,
-    "liquidity": null,
+    "liquidity": 13919.3,
     "volume24h": null,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T01:09:54.374237Z",
+      "liquidity_usd": 13919.3,
+      "top10_pct": null,
+      "h1_change_pct": -33.56,
+      "age_min": 2,
+      "verdict": "kill",
+      "reason": "liq $13.9K"
+    }
+  ]
 }
