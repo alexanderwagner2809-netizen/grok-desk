@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-13T19:28:32.150930Z",
+  "ts": "2026-11-13T19:29:43.681392Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T19:28:29.838853Z",
+  "heartbeat": "2026-11-13T19:29:41.898335Z",
   "paused": false,
   "status": "running",
-  "card": "535 pools",
-  "count": 535,
+  "card": "537 pools",
+  "count": 537,
   "passed": 0,
   "feed": [
+    {
+      "mint": "HSJdVLxpwYJXR7L7VMDn1Dmx5fwLJZA8Jz41hLahpump",
+      "label": "Mikol The Onboarder ",
+      "verdict": "kill",
+      "reason": "liq $11.8K",
+      "subtitle": "liq $11.8K",
+      "link": "https://fomo.family/coin?address=HSJdVLxpwYJXR7L7VMDn1Dmx5fwLJZA8Jz41hLahpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "4fHpMoS7Bc2jSMXvgnAffQrrGxq9BosKeiGVLBEypump",
+      "label": "ChatGPT Wallet",
+      "verdict": "kill",
+      "reason": "liq $12.0K",
+      "subtitle": "liq $12.0K",
+      "link": "https://fomo.family/coin?address=4fHpMoS7Bc2jSMXvgnAffQrrGxq9BosKeiGVLBEypump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "BPJyB82FCVLwPb1u9AANVCtyNQdZxw9Qk1jGKGPspump",
       "label": "ROARING BULL",
@@ -58,27 +74,27 @@
       "reason": "liq $15.7K",
       "subtitle": "liq $15.7K",
       "link": "https://fomo.family/coin?address=ATeAQrSpDMH9Yyns4oXMC4g4V6u87hUSE7nFuY1xpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5u7GRYRQ4jnDRF1k287Er6zb1777ZQVrr94zkmS6pump",
-      "label": "Wokerea",
-      "verdict": "kill",
-      "reason": "liq $12.2K",
-      "subtitle": "liq $12.2K",
-      "link": "https://fomo.family/coin?address=5u7GRYRQ4jnDRF1k287Er6zb1777ZQVrr94zkmS6pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "6i4K5fx7X3xkcg6nrHQtHFKBhwAzpY1VgN5fS37Zpump",
-      "label": "Alcapone",
-      "verdict": "kill",
-      "reason": "liq $71",
-      "subtitle": "liq $71",
-      "link": "https://fomo.family/coin?address=6i4K5fx7X3xkcg6nrHQtHFKBhwAzpY1VgN5fS37Zpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T19:29:04.750293Z",
+      "mint": "HSJdVLxpwYJXR7L7VMDn1Dmx5fwLJZA8Jz41hLahpump",
+      "label": "Mikol The Onboarder ",
+      "verdict": "kill",
+      "reason": "liq $11.8K",
+      "link": "https://fomo.family/coin?address=HSJdVLxpwYJXR7L7VMDn1Dmx5fwLJZA8Jz41hLahpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T19:29:04.749011Z",
+      "mint": "4fHpMoS7Bc2jSMXvgnAffQrrGxq9BosKeiGVLBEypump",
+      "label": "ChatGPT Wallet",
+      "verdict": "kill",
+      "reason": "liq $12.0K",
+      "link": "https://fomo.family/coin?address=4fHpMoS7Bc2jSMXvgnAffQrrGxq9BosKeiGVLBEypump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:27:23.715464Z",
       "mint": "BPJyB82FCVLwPb1u9AANVCtyNQdZxw9Qk1jGKGPspump",
       "label": "ROARING BULL",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $14",
       "link": "https://fomo.family/coin?address=8AXXxqQaYLZB4XwdhgGR71Hxt9AT2ivSTRMwHqNqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:16:38.962309Z",
-      "mint": "GEvZU1zuHZmTE6xXuTW2enMVF3dxP8Gkmbt4bYZHpump",
-      "label": "trench life",
-      "verdict": "kill",
-      "reason": "liq $294",
-      "link": "https://fomo.family/coin?address=GEvZU1zuHZmTE6xXuTW2enMVF3dxP8Gkmbt4bYZHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:12:08.034385Z",
-      "mint": "6zhQUjZU7ndW5RiQUwJcrnktsB7QS3rehTbaxVN5pump",
-      "label": "SENDER BITCHES KEEP PUSHING ",
-      "verdict": "kill",
-      "reason": "liq $701",
-      "link": "https://fomo.family/coin?address=6zhQUjZU7ndW5RiQUwJcrnktsB7QS3rehTbaxVN5pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T19:29:04.750293Z",
+      "mint": "HSJdVLxpwYJXR7L7VMDn1Dmx5fwLJZA8Jz41hLahpump",
+      "label": "Mikol The Onboarder ",
+      "verdict": "kill",
+      "reason": "liq $11.8K",
+      "link": "https://fomo.family/coin?address=HSJdVLxpwYJXR7L7VMDn1Dmx5fwLJZA8Jz41hLahpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T19:29:04.749011Z",
+      "mint": "4fHpMoS7Bc2jSMXvgnAffQrrGxq9BosKeiGVLBEypump",
+      "label": "ChatGPT Wallet",
+      "verdict": "kill",
+      "reason": "liq $12.0K",
+      "link": "https://fomo.family/coin?address=4fHpMoS7Bc2jSMXvgnAffQrrGxq9BosKeiGVLBEypump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:27:23.715464Z",
       "mint": "BPJyB82FCVLwPb1u9AANVCtyNQdZxw9Qk1jGKGPspump",
       "label": "ROARING BULL",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $14",
       "link": "https://fomo.family/coin?address=8AXXxqQaYLZB4XwdhgGR71Hxt9AT2ivSTRMwHqNqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:16:38.962309Z",
-      "mint": "GEvZU1zuHZmTE6xXuTW2enMVF3dxP8Gkmbt4bYZHpump",
-      "label": "trench life",
-      "verdict": "kill",
-      "reason": "liq $294",
-      "link": "https://fomo.family/coin?address=GEvZU1zuHZmTE6xXuTW2enMVF3dxP8Gkmbt4bYZHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:12:08.034385Z",
-      "mint": "6zhQUjZU7ndW5RiQUwJcrnktsB7QS3rehTbaxVN5pump",
-      "label": "SENDER BITCHES KEEP PUSHING ",
-      "verdict": "kill",
-      "reason": "liq $701",
-      "link": "https://fomo.family/coin?address=6zhQUjZU7ndW5RiQUwJcrnktsB7QS3rehTbaxVN5pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
