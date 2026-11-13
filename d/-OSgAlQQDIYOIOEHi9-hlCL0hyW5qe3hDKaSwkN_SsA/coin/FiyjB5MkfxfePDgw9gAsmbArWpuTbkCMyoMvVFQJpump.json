@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T09:03:58.820825Z",
+  "ts": "2026-11-13T09:05:09.552754Z",
   "mint": "FiyjB5MkfxfePDgw9gAsmbArWpuTbkCMyoMvVFQJpump",
   "name": "Friendsgiving",
   "symbol": "FRIEND",
   "label": "Friendsgiving",
   "chain": "Solana",
-  "age": "59m old",
+  "age": "1h old",
   "migratedAt": "2026-11-13T08:04:46.655891Z",
   "pool": "AnkBE4wdptneUNLFQQK7sYzQBQtYbemCMRW5nTVtjBqZ",
   "creator": "2FZ8uexMUxzC3weMS78CsF1hvUiZdeJjU1KaEtgUUBcr",
   "holders": null,
   "link": "https://fomo.family/coin?address=FiyjB5MkfxfePDgw9gAsmbArWpuTbkCMyoMvVFQJpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 9.498e-06,
-  "priceTs": "2026-11-13T09:03:58.526670Z",
+  "price": 9.385e-06,
+  "priceTs": "2026-11-13T09:05:09.236793Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -424,12 +424,20 @@
       "l": 9.498e-06,
       "c": 9.498e-06,
       "v": 8.110000000000001
+    },
+    {
+      "t": 1794560700,
+      "o": 9.385e-06,
+      "h": 9.385e-06,
+      "l": 9.385e-06,
+      "c": 9.385e-06,
+      "v": 3.7399999999999984
     }
   ],
   "stats": {
-    "marketCap": 10121.0,
-    "liquidity": 3330.67,
-    "volume24h": 1441.91,
+    "marketCap": 10001.0,
+    "liquidity": 3310.64,
+    "volume24h": 1445.66,
     "holders": null
   },
   "position": null,

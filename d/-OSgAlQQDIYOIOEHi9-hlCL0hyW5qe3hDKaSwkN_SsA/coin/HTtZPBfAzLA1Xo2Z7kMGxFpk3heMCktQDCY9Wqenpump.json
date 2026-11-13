@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T09:03:58.793932Z",
+  "ts": "2026-11-13T09:05:09.531331Z",
   "mint": "HTtZPBfAzLA1Xo2Z7kMGxFpk3heMCktQDCY9Wqenpump",
   "name": "TRUFFLES",
   "symbol": "XFFX",
   "label": "TRUFFLES",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "2m old",
   "migratedAt": "2026-11-13T09:02:31.410343Z",
   "pool": "ACDBmwvu2ViCQg7GGZfnh1MWUWRzUcSPy7FJ4czPjVqv",
   "creator": "EqAhwsnN9RSFhsHA5GHyErQvaUYoVFrBv88SpiCgUjki",
   "holders": null,
   "link": "https://fomo.family/coin?address=HTtZPBfAzLA1Xo2Z7kMGxFpk3heMCktQDCY9Wqenpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.035e-07,
-  "priceTs": "2026-11-13T09:03:58.526670Z",
+  "price": 5.629e-07,
+  "priceTs": "2026-11-13T09:05:09.236793Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -24,12 +24,20 @@
       "l": 5.938e-07,
       "c": 6.035e-07,
       "v": 1.8500000000000014
+    },
+    {
+      "t": 1794560700,
+      "o": 5.629e-07,
+      "h": 5.629e-07,
+      "l": 5.629e-07,
+      "c": 5.629e-07,
+      "v": 39.18
     }
   ],
   "stats": {
-    "marketCap": 512.0,
-    "liquidity": 229.63,
-    "volume24h": 10.38,
+    "marketCap": 478.0,
+    "liquidity": 222.06,
+    "volume24h": 49.56,
     "holders": null
   },
   "position": null,
