@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T07:09:04.838119Z",
+  "ts": "2026-11-13T07:12:17.111698Z",
   "mint": "8wPHWqYWp2jyWWPcZFMwmnGvaWACcnEdjoLiVtippump",
   "name": "Green Bitcoin",
   "symbol": "BITG",
@@ -11,8 +11,8 @@
   "creator": "7UGabbJ3gWGe5gyyM13iJawkgxy2bvsEFj27xx6fJ3WM",
   "holders": null,
   "link": "https://fomo.family/coin?address=8wPHWqYWp2jyWWPcZFMwmnGvaWACcnEdjoLiVtippump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.134e-06,
-  "priceTs": "2026-11-13T07:09:04.642557Z",
+  "price": 1.146e-06,
+  "priceTs": "2026-11-13T07:12:16.897835Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -768,12 +768,20 @@
       "l": 1.134e-06,
       "c": 1.134e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794553920,
+      "o": 1.146e-06,
+      "h": 1.146e-06,
+      "l": 1.146e-06,
+      "c": 1.146e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 2268.0,
-    "liquidity": 344.58,
-    "volume24h": 140.59,
+    "marketCap": 2294.0,
+    "liquidity": 349.65,
+    "volume24h": 140.6,
     "holders": null
   },
   "position": null,
