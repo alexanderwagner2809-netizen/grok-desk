@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T19:46:41.312136Z",
+  "ts": "2026-11-13T19:47:56.413845Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T19:46:38.579628Z",
+  "heartbeat": "2026-11-13T19:47:53.537246Z",
   "paused": false,
   "status": "running",
-  "card": "545 pools",
-  "count": 545,
+  "card": "546 pools",
+  "count": 546,
   "passed": 0,
   "feed": [
+    {
+      "mint": "3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump",
+      "label": "Dog Coin",
+      "verdict": "kill",
+      "reason": "liq $11.7K",
+      "subtitle": "liq $11.7K",
+      "link": "https://fomo.family/coin?address=3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "5Aa7NLxGQMdNVSsGYdWrwfvbDWaYFrsWo3M4Wp52pump",
       "label": "THIS IS GRINCH ",
@@ -66,19 +74,19 @@
       "reason": "liq $16.8K",
       "subtitle": "liq $16.8K",
       "link": "https://fomo.family/coin?address=BALLFiNPXRhugiUXxstiegkpPeE4oWZhzHVohAxWbG2v&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "9wt2hpKxy3rVAtpELTkVYgKRNYqdMgAEmd2S3EZipump",
-      "label": "GOOP HEAD",
-      "verdict": "kill",
-      "reason": "liq $38",
-      "subtitle": "liq $38",
-      "link": "https://fomo.family/coin?address=9wt2hpKxy3rVAtpELTkVYgKRNYqdMgAEmd2S3EZipump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T19:47:12.505055Z",
+      "mint": "3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump",
+      "label": "Dog Coin",
+      "verdict": "kill",
+      "reason": "liq $11.7K",
+      "link": "https://fomo.family/coin?address=3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:43:41.739518Z",
       "mint": "5Aa7NLxGQMdNVSsGYdWrwfvbDWaYFrsWo3M4Wp52pump",
       "label": "THIS IS GRINCH ",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "+344110% in 1h",
       "link": "https://fomo.family/coin?address=DuBQpu1EGFFXX66RFeMeFsHFhev5o85vo7A6WJoipump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:42:29.987873Z",
-      "mint": "3UA4zUQN66yeYvoHLSXrJq7CBHT7R8itp1iLt8papump",
-      "label": "3UA4zUQN",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=3UA4zUQN66yeYvoHLSXrJq7CBHT7R8itp1iLt8papump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T19:47:12.505055Z",
+      "mint": "3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump",
+      "label": "Dog Coin",
+      "verdict": "kill",
+      "reason": "liq $11.7K",
+      "link": "https://fomo.family/coin?address=3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:43:41.739518Z",
       "mint": "5Aa7NLxGQMdNVSsGYdWrwfvbDWaYFrsWo3M4Wp52pump",
       "label": "THIS IS GRINCH ",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "+344110% in 1h",
       "link": "https://fomo.family/coin?address=DuBQpu1EGFFXX66RFeMeFsHFhev5o85vo7A6WJoipump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:42:29.987873Z",
-      "mint": "3UA4zUQN66yeYvoHLSXrJq7CBHT7R8itp1iLt8papump",
-      "label": "3UA4zUQN",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=3UA4zUQN66yeYvoHLSXrJq7CBHT7R8itp1iLt8papump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

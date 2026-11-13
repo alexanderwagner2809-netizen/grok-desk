@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T19:47:54.524920Z",
+  "mint": "3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump",
+  "name": "Dog Coin",
+  "symbol": "DOG",
+  "label": "Dog Coin",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-13T19:46:41.315636Z",
+  "pool": "63nSSoEfR47Si1NTKuyrbscPPTYxqvfrLjAyfmww2WPp",
+  "creator": "GHVpB3WLdwLZfjKQJixP7uFDQvrHzDGihmtGdEEgkZXk",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=3PcAYGBrYUGYi6aL74RbiW2X4GRVjKSwHCZ2Mvb2pump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.938e-05,
+  "priceTs": "2026-11-13T19:47:52.160777Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794599220,
+      "o": 3.025e-05,
+      "h": 3.025e-05,
+      "l": 2.938e-05,
+      "c": 2.938e-05,
+      "v": 1423.5900000000001
+    }
+  ],
+  "stats": {
+    "marketCap": 29333.0,
+    "liquidity": 11475.29,
+    "volume24h": 4140.39,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T19:47:12.505055Z",
+      "liquidity_usd": 11653.0,
+      "top10_pct": null,
+      "h1_change_pct": -9.77,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $11.7K"
+    }
+  ]
+}
