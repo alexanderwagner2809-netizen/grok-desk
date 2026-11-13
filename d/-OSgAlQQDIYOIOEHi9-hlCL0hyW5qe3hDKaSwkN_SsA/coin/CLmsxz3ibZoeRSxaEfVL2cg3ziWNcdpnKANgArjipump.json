@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T06:54:50.144929Z",
+  "ts": "2026-11-13T07:00:26.304496Z",
   "mint": "CLmsxz3ibZoeRSxaEfVL2cg3ziWNcdpnKANgArjipump",
   "name": "goku coin",
   "symbol": "sol",
   "label": "goku coin",
   "chain": "Solana",
-  "age": "27m old",
+  "age": "33m old",
   "migratedAt": "2026-11-13T06:27:01.972054Z",
   "pool": "7wmH99QYMVWymXMfCyR9FTdnwGH4r7ue3XbeaHYQs3vV",
   "creator": "BVTetcq9FN7xdTGAVp8ByzxqEyT7fxSdzSNV4dkFv4Sg",
   "holders": null,
   "link": "https://fomo.family/coin?address=CLmsxz3ibZoeRSxaEfVL2cg3ziWNcdpnKANgArjipump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.88e-09,
-  "priceTs": "2026-11-13T06:54:49.860103Z",
+  "price": 3.69e-09,
+  "priceTs": "2026-11-13T07:00:25.966468Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -200,12 +200,20 @@
       "l": 3.88e-09,
       "c": 3.88e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794553200,
+      "o": 3.69e-09,
+      "h": 3.69e-09,
+      "l": 3.69e-09,
+      "c": 3.69e-09,
+      "v": 0.05
     }
   ],
   "stats": {
-    "marketCap": 8.0,
-    "liquidity": 13.81,
-    "volume24h": 162.28,
+    "marketCap": 7.0,
+    "liquidity": 13.47,
+    "volume24h": 162.34,
     "holders": null
   },
   "position": null,
