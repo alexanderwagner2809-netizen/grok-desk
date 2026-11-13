@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-13T03:00:50.435100Z",
+  "ts": "2026-11-13T03:02:01.192124Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T03:00:48.880654Z",
+  "heartbeat": "2026-11-13T03:01:58.966871Z",
   "paused": false,
   "status": "running",
-  "card": "393 pools",
-  "count": 393,
+  "card": "395 pools",
+  "count": 395,
   "passed": 0,
   "feed": [
+    {
+      "mint": "HVDkBDPQDPukBVCkiCBb2rgajjY7GS6V6mNwZtr4pump",
+      "label": "UODF",
+      "verdict": "kill",
+      "reason": "+128920% in 1h",
+      "subtitle": "+128920% in 1h",
+      "link": "https://fomo.family/coin?address=HVDkBDPQDPukBVCkiCBb2rgajjY7GS6V6mNwZtr4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump",
+      "label": "FOTF",
+      "verdict": "kill",
+      "reason": "+375282% in 1h",
+      "subtitle": "+375282% in 1h",
+      "link": "https://fomo.family/coin?address=C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "BE3LZxrrYSmwKdrPttBGD9RXY5UNWzFLep8r2Ycipump",
       "label": "Blueface Official Coin",
@@ -58,27 +74,27 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=6Pn4yN4vYBfxSTzgv8ro97tTWHHTpUTE2JbjCjLtpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "AeG9jKBsFEdFaoshqTo5hnhppJC5935okDm9dDXGpump",
-      "label": "Tired Frog",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=AeG9jKBsFEdFaoshqTo5hnhppJC5935okDm9dDXGpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "GKJCDugL2YXbo67wNSCC4jqfAzpyZfRosBtdBjRBpump",
-      "label": "rockstar",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=GKJCDugL2YXbo67wNSCC4jqfAzpyZfRosBtdBjRBpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T03:01:52.948833Z",
+      "mint": "HVDkBDPQDPukBVCkiCBb2rgajjY7GS6V6mNwZtr4pump",
+      "label": "UODF",
+      "verdict": "kill",
+      "reason": "+128920% in 1h",
+      "link": "https://fomo.family/coin?address=HVDkBDPQDPukBVCkiCBb2rgajjY7GS6V6mNwZtr4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T03:01:24.272918Z",
+      "mint": "C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump",
+      "label": "FOTF",
+      "verdict": "kill",
+      "reason": "+375282% in 1h",
+      "link": "https://fomo.family/coin?address=C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T02:59:24.438452Z",
       "mint": "BE3LZxrrYSmwKdrPttBGD9RXY5UNWzFLep8r2Ycipump",
       "label": "Blueface Official Coin",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=9FmMnabharFMFeBhuBLP89NQ9DMPsjQBnR5iGRaBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T21:31:06.773214Z",
-      "mint": "8296KBTcB7GDDpgJ8XquHoR6bGtfqdf5xfnqqzc2pump",
-      "label": "Rockstar Games",
-      "verdict": "kill",
-      "reason": "+171% in 1h",
-      "link": "https://fomo.family/coin?address=8296KBTcB7GDDpgJ8XquHoR6bGtfqdf5xfnqqzc2pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T21:29:19.062534Z",
-      "mint": "2GLTCLnfVbCdeRG56MBmzgKQS6CvL3LWrdFAt74Gpump",
-      "label": "2GLTCLnf",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=2GLTCLnfVbCdeRG56MBmzgKQS6CvL3LWrdFAt74Gpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T03:01:52.948833Z",
+      "mint": "HVDkBDPQDPukBVCkiCBb2rgajjY7GS6V6mNwZtr4pump",
+      "label": "UODF",
+      "verdict": "kill",
+      "reason": "+128920% in 1h",
+      "link": "https://fomo.family/coin?address=HVDkBDPQDPukBVCkiCBb2rgajjY7GS6V6mNwZtr4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T03:01:24.272918Z",
+      "mint": "C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump",
+      "label": "FOTF",
+      "verdict": "kill",
+      "reason": "+375282% in 1h",
+      "link": "https://fomo.family/coin?address=C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T02:59:24.438452Z",
       "mint": "BE3LZxrrYSmwKdrPttBGD9RXY5UNWzFLep8r2Ycipump",
       "label": "Blueface Official Coin",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "never qualified",
       "link": "https://fomo.family/coin?address=9FmMnabharFMFeBhuBLP89NQ9DMPsjQBnR5iGRaBpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T21:31:06.773214Z",
-      "mint": "8296KBTcB7GDDpgJ8XquHoR6bGtfqdf5xfnqqzc2pump",
-      "label": "Rockstar Games",
-      "verdict": "kill",
-      "reason": "+171% in 1h",
-      "link": "https://fomo.family/coin?address=8296KBTcB7GDDpgJ8XquHoR6bGtfqdf5xfnqqzc2pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-12T21:29:19.062534Z",
-      "mint": "2GLTCLnfVbCdeRG56MBmzgKQS6CvL3LWrdFAt74Gpump",
-      "label": "2GLTCLnf",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "link": "https://fomo.family/coin?address=2GLTCLnfVbCdeRG56MBmzgKQS6CvL3LWrdFAt74Gpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

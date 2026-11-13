@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T03:00:49.082376Z",
+  "ts": "2026-11-13T03:01:59.927932Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-13T03:00:48.880654Z",
+      "heartbeat": "2026-11-13T03:01:58.966871Z",
       "paused": false,
       "status": "running",
-      "card": "393 pools",
-      "count": 393,
+      "card": "395 pools",
+      "count": 395,
       "passed": 0,
       "feed": [
+        {
+          "mint": "HVDkBDPQDPukBVCkiCBb2rgajjY7GS6V6mNwZtr4pump",
+          "label": "UODF",
+          "verdict": "kill",
+          "reason": "+128920% in 1h",
+          "subtitle": "+128920% in 1h",
+          "link": "https://fomo.family/coin?address=HVDkBDPQDPukBVCkiCBb2rgajjY7GS6V6mNwZtr4pump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump",
+          "label": "FOTF",
+          "verdict": "kill",
+          "reason": "+375282% in 1h",
+          "subtitle": "+375282% in 1h",
+          "link": "https://fomo.family/coin?address=C6rxhmqEtmPs6SWQmoWEczH9jFx3YM724aTe6FNQpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "BE3LZxrrYSmwKdrPttBGD9RXY5UNWzFLep8r2Ycipump",
           "label": "Blueface Official Coin",
@@ -66,22 +82,6 @@
           "reason": "liq $0",
           "subtitle": "liq $0",
           "link": "https://fomo.family/coin?address=6Pn4yN4vYBfxSTzgv8ro97tTWHHTpUTE2JbjCjLtpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "AeG9jKBsFEdFaoshqTo5hnhppJC5935okDm9dDXGpump",
-          "label": "Tired Frog",
-          "verdict": "kill",
-          "reason": "liq $0",
-          "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=AeG9jKBsFEdFaoshqTo5hnhppJC5935okDm9dDXGpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "GKJCDugL2YXbo67wNSCC4jqfAzpyZfRosBtdBjRBpump",
-          "label": "rockstar",
-          "verdict": "kill",
-          "reason": "liq $0",
-          "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=GKJCDugL2YXbo67wNSCC4jqfAzpyZfRosBtdBjRBpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-13T03:00:48.293785Z",
+      "heartbeat": "2026-11-13T03:01:58.570670Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-13T03:00:48.295990Z",
+      "heartbeat": "2026-11-13T03:01:58.572104Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-13T03:00:48.297437Z",
+      "heartbeat": "2026-11-13T03:01:58.572376Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-13T03:00:39.909042Z",
+      "heartbeat": "2026-11-13T03:01:54.976696Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
