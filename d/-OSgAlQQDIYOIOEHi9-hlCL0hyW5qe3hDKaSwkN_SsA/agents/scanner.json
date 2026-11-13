@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T09:39:25.294569Z",
+  "ts": "2026-11-13T09:40:36.085678Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T09:39:23.733991Z",
+  "heartbeat": "2026-11-13T09:40:34.447546Z",
   "paused": false,
   "status": "running",
-  "card": "502 pools",
-  "count": 502,
+  "card": "503 pools",
+  "count": 503,
   "passed": 0,
   "feed": [
+    {
+      "mint": "6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE",
+      "label": "Solana OS",
+      "verdict": "kill",
+      "reason": "liq $11.7K",
+      "subtitle": "liq $11.7K",
+      "link": "https://fomo.family/coin?address=6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
       "label": "he1iusmf",
@@ -66,19 +74,19 @@
       "reason": "liq $46",
       "subtitle": "liq $46",
       "link": "https://fomo.family/coin?address=5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump",
-      "label": "MEMBUY",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T09:40:24.355274Z",
+      "mint": "6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE",
+      "label": "Solana OS",
+      "verdict": "kill",
+      "reason": "liq $11.7K",
+      "link": "https://fomo.family/coin?address=6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T09:39:00.771078Z",
       "mint": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
       "label": "he1iusmf",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $228",
       "link": "https://fomo.family/coin?address=HTtZPBfAzLA1Xo2Z7kMGxFpk3heMCktQDCY9Wqenpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:02:26.680325Z",
-      "mint": "BKn5Lbn8thpk4LKwBWFYfCQtDepGF1evjrro73oupump",
-      "label": "サクラ",
-      "verdict": "kill",
-      "reason": "liq $12.0K",
-      "link": "https://fomo.family/coin?address=BKn5Lbn8thpk4LKwBWFYfCQtDepGF1evjrro73oupump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T09:40:24.355274Z",
+      "mint": "6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE",
+      "label": "Solana OS",
+      "verdict": "kill",
+      "reason": "liq $11.7K",
+      "link": "https://fomo.family/coin?address=6TebEL7eLj7qzccQpHt1igrNYQPLywtR52eeLWUVVJWE&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T09:39:00.771078Z",
       "mint": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
       "label": "he1iusmf",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $228",
       "link": "https://fomo.family/coin?address=HTtZPBfAzLA1Xo2Z7kMGxFpk3heMCktQDCY9Wqenpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T09:02:26.680325Z",
-      "mint": "BKn5Lbn8thpk4LKwBWFYfCQtDepGF1evjrro73oupump",
-      "label": "サクラ",
-      "verdict": "kill",
-      "reason": "liq $12.0K",
-      "link": "https://fomo.family/coin?address=BKn5Lbn8thpk4LKwBWFYfCQtDepGF1evjrro73oupump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
