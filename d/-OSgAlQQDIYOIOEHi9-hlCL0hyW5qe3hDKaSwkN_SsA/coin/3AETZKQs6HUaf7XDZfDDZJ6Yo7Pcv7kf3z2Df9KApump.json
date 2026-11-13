@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T09:22:52.043872Z",
+  "ts": "2026-11-13T09:24:03.117594Z",
   "mint": "3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump",
   "name": "The Drunk Raccoon",
   "symbol": "Cole",
@@ -11,8 +11,8 @@
   "creator": "8qFJgAWRCYFpkabDawsDem253a5Yb3GT5C6hWnCwUaV8",
   "holders": null,
   "link": "https://fomo.family/coin?address=3AETZKQs6HUaf7XDZfDDZJ6Yo7Pcv7kf3z2Df9KApump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.057e-06,
-  "priceTs": "2026-11-13T09:22:51.839828Z",
+  "price": 2.016e-06,
+  "priceTs": "2026-11-13T09:24:02.877447Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -760,12 +760,20 @@
       "l": 2.057e-06,
       "c": 2.057e-06,
       "v": 1.96
+    },
+    {
+      "t": 1794561840,
+      "o": 2.016e-06,
+      "h": 2.016e-06,
+      "l": 2.016e-06,
+      "c": 2.016e-06,
+      "v": 32.3
     }
   ],
   "stats": {
-    "marketCap": 1968.0,
-    "liquidity": 2034.64,
-    "volume24h": 182535.19,
+    "marketCap": 1928.0,
+    "liquidity": 2000.22,
+    "volume24h": 182567.49,
     "holders": null
   },
   "position": null,

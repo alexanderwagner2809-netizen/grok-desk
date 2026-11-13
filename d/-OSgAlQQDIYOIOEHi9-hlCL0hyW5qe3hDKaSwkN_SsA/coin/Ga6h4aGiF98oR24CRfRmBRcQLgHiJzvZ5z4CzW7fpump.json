@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T09:22:52.066491Z",
+  "ts": "2026-11-13T09:24:03.146186Z",
   "mint": "Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump",
   "name": "4chanpad",
   "symbol": "4CHANPAD",
@@ -11,8 +11,8 @@
   "creator": "CQxPzD2VRgeBsb85f3SdnzzzmTBKgLJX1QNmVRR4T3Qx",
   "holders": null,
   "link": "https://fomo.family/coin?address=Ga6h4aGiF98oR24CRfRmBRcQLgHiJzvZ5z4CzW7fpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.333e-06,
-  "priceTs": "2026-11-13T09:22:51.839828Z",
+  "price": 5.215e-06,
+  "priceTs": "2026-11-13T09:24:02.877447Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -976,12 +976,20 @@
       "l": 5.333e-06,
       "c": 5.333e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794561840,
+      "o": 5.215e-06,
+      "h": 5.215e-06,
+      "l": 5.215e-06,
+      "c": 5.215e-06,
+      "v": 1.3400000000000034
     }
   ],
   "stats": {
-    "marketCap": 5061.0,
-    "liquidity": 4512.73,
-    "volume24h": 37408.1,
+    "marketCap": 4948.0,
+    "liquidity": 4439.72,
+    "volume24h": 37409.44,
     "holders": null
   },
   "position": null,
