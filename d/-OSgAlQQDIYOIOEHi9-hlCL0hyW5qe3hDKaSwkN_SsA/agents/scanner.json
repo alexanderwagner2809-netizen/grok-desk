@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-13T09:32:19.583259Z",
+  "ts": "2026-11-13T09:33:30.068105Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T09:32:18.087368Z",
+  "heartbeat": "2026-11-13T09:33:27.955194Z",
   "paused": false,
   "status": "running",
-  "card": "496 pools",
-  "count": 496,
+  "card": "498 pools",
+  "count": 498,
   "passed": 0,
   "feed": [
+    {
+      "mint": "5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump",
+      "label": "BORK GOLD DOG",
+      "verdict": "kill",
+      "reason": "liq $46",
+      "subtitle": "liq $46",
+      "link": "https://fomo.family/coin?address=5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump",
+      "label": "MEMBUY",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "8D3tFBENjTjtio9EpGyCeXg4AQ4YjRzeiyawXMHpump",
       "label": "UODF",
@@ -58,27 +74,27 @@
       "reason": "liq $11.2K",
       "subtitle": "liq $11.2K",
       "link": "https://fomo.family/coin?address=2iN5dW335agxuq8xHZ7WnsfYyH5dTyjiy52NCSEEpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "TQpxQD7TWjzfSMdifTNwUhPjCCifwVsSfgHs9wFpump",
-      "label": "UDTF",
-      "verdict": "kill",
-      "reason": "+344281% in 1h",
-      "subtitle": "+344281% in 1h",
-      "link": "https://fomo.family/coin?address=TQpxQD7TWjzfSMdifTNwUhPjCCifwVsSfgHs9wFpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "SrhswCywLnUnusiezsYWDn6bceCZrdAJC6oQ12Jpump",
-      "label": "XTO",
-      "verdict": "kill",
-      "reason": "+16515% in 1h",
-      "subtitle": "+16515% in 1h",
-      "link": "https://fomo.family/coin?address=SrhswCywLnUnusiezsYWDn6bceCZrdAJC6oQ12Jpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T09:33:16.470707Z",
+      "mint": "5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump",
+      "label": "BORK GOLD DOG",
+      "verdict": "kill",
+      "reason": "liq $46",
+      "link": "https://fomo.family/coin?address=5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T09:32:45.112600Z",
+      "mint": "22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump",
+      "label": "MEMBUY",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T09:31:17.225184Z",
       "mint": "8D3tFBENjTjtio9EpGyCeXg4AQ4YjRzeiyawXMHpump",
       "label": "UODF",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $17",
       "link": "https://fomo.family/coin?address=BigjvNL6Ngaff9WZD1EA24FmZiHGtzTYvfCq5PwLpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T08:25:44.375478Z",
-      "mint": "wT2xR5NZnzKm1CTW9qrGf6RTAvq7GXZAQ1VVckSpump",
-      "label": "CLOCKED OUT",
-      "verdict": "kill",
-      "reason": "liq $19.5K",
-      "link": "https://fomo.family/coin?address=wT2xR5NZnzKm1CTW9qrGf6RTAvq7GXZAQ1VVckSpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T08:25:14.779644Z",
-      "mint": "dfodvXbnGSQwZTdLUgXug6dXNL22nMabeuS23TBpump",
-      "label": "BRAINROT COIN",
-      "verdict": "kill",
-      "reason": "liq $431",
-      "link": "https://fomo.family/coin?address=dfodvXbnGSQwZTdLUgXug6dXNL22nMabeuS23TBpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T09:33:16.470707Z",
+      "mint": "5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump",
+      "label": "BORK GOLD DOG",
+      "verdict": "kill",
+      "reason": "liq $46",
+      "link": "https://fomo.family/coin?address=5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-13T09:32:45.112600Z",
+      "mint": "22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump",
+      "label": "MEMBUY",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=22UUECbEVkWJnDFveMZaiAth3EFbcPhFqHBeRV1ipump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T09:31:17.225184Z",
       "mint": "8D3tFBENjTjtio9EpGyCeXg4AQ4YjRzeiyawXMHpump",
       "label": "UODF",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $17",
       "link": "https://fomo.family/coin?address=BigjvNL6Ngaff9WZD1EA24FmZiHGtzTYvfCq5PwLpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T08:25:44.375478Z",
-      "mint": "wT2xR5NZnzKm1CTW9qrGf6RTAvq7GXZAQ1VVckSpump",
-      "label": "CLOCKED OUT",
-      "verdict": "kill",
-      "reason": "liq $19.5K",
-      "link": "https://fomo.family/coin?address=wT2xR5NZnzKm1CTW9qrGf6RTAvq7GXZAQ1VVckSpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T08:25:14.779644Z",
-      "mint": "dfodvXbnGSQwZTdLUgXug6dXNL22nMabeuS23TBpump",
-      "label": "BRAINROT COIN",
-      "verdict": "kill",
-      "reason": "liq $431",
-      "link": "https://fomo.family/coin?address=dfodvXbnGSQwZTdLUgXug6dXNL22nMabeuS23TBpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

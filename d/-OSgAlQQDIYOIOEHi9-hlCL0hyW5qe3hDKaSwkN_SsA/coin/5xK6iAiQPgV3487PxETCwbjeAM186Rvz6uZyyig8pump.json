@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T09:33:28.602294Z",
+  "mint": "5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump",
+  "name": "BORK GOLD DOG",
+  "symbol": "BORK",
+  "label": "BORK GOLD DOG",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-13T09:32:44.778689Z",
+  "pool": "E1S17yBbv7sVwhzbVk7SgdwEiHLCw4CXSjKxUZSkseEo",
+  "creator": "oztoR5Q9cgWQo57uaZ8Dx5yssQmjtUCXJAXS2MGVZSm",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=5xK6iAiQPgV3487PxETCwbjeAM186Rvz6uZyyig8pump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 7.404e-08,
+  "priceTs": "2026-11-13T09:33:28.252441Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794562380,
+      "o": 7.404e-08,
+      "h": 7.404e-08,
+      "l": 7.404e-08,
+      "c": 7.404e-08,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 148.0,
+    "liquidity": 45.64,
+    "volume24h": 41.3,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T09:33:16.470707Z",
+      "liquidity_usd": 45.64,
+      "top10_pct": null,
+      "h1_change_pct": -51.1,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $46"
+    }
+  ]
+}
