@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T08:16:46.497163Z",
+  "ts": "2026-11-13T08:17:57.313321Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-13T08:16:45.421575Z",
+      "heartbeat": "2026-11-13T08:17:56.751304Z",
       "paused": false,
       "status": "running",
-      "card": "472 pools",
-      "count": 472,
+      "card": "474 pools",
+      "count": 474,
       "passed": 0,
       "feed": [
+        {
+          "mint": "CYsW26mXPq62Q5e5obKExXH5zhdRcGbo6rQ818a1pump",
+          "label": "who loves Palestine",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=CYsW26mXPq62Q5e5obKExXH5zhdRcGbo6rQ818a1pump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "3H87m8opn97RVY759vhQv9YVuQPnJj4g9K4w98XRpump",
+          "label": "Global Oil Dividend Fund",
+          "verdict": "kill",
+          "reason": "+3101% in 1h",
+          "subtitle": "+3101% in 1h",
+          "link": "https://fomo.family/coin?address=3H87m8opn97RVY759vhQv9YVuQPnJj4g9K4w98XRpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "7VPwiM9NNsELV1Qo1tcMqGW8k9HzW6LdvisdFtHSpump",
           "label": "RMN",
@@ -66,22 +82,6 @@
           "reason": "liq $11.8K",
           "subtitle": "liq $11.8K",
           "link": "https://fomo.family/coin?address=9sFGCTjEsBk78uC2bCdxtwuUM1aartbBhe8WQXwRpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "7VQrzR5aKWqVwJsRNFHEBvLNKZR7Z5cv8m16ktxLpump",
-          "label": "squishy",
-          "verdict": "kill",
-          "reason": "liq $13.1K",
-          "subtitle": "liq $13.1K",
-          "link": "https://fomo.family/coin?address=7VQrzR5aKWqVwJsRNFHEBvLNKZR7Z5cv8m16ktxLpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "CmsVQy7fDFAEn9GnXWGUfUwQeZHbVs9JPP6WcaBDpump",
-          "label": "Tree Coin",
-          "verdict": "kill",
-          "reason": "liq $12.5K",
-          "subtitle": "liq $12.5K",
-          "link": "https://fomo.family/coin?address=CmsVQy7fDFAEn9GnXWGUfUwQeZHbVs9JPP6WcaBDpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-13T08:16:45.131191Z",
+      "heartbeat": "2026-11-13T08:17:55.967165Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-13T08:16:45.132467Z",
+      "heartbeat": "2026-11-13T08:17:55.968535Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-13T08:16:45.133497Z",
+      "heartbeat": "2026-11-13T08:17:55.969159Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-13T08:16:38.580525Z",
+      "heartbeat": "2026-11-13T08:17:53.595629Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",
