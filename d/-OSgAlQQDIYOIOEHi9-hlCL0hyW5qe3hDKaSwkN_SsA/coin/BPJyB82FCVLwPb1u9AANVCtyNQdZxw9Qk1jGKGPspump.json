@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-13T19:27:19.873004Z",
+  "ts": "2026-11-13T19:28:30.446020Z",
   "mint": "BPJyB82FCVLwPb1u9AANVCtyNQdZxw9Qk1jGKGPspump",
-  "name": null,
-  "symbol": null,
-  "label": "BPJyB82F",
+  "name": "ROARING BULL",
+  "symbol": "BULLINU",
+  "label": "ROARING BULL",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-13T19:26:30.912161Z",
-  "pool": null,
+  "pool": "GyntkTcDLazVxkPeCfhAu4UWqWXRdXBY82FnpnfF2iXW",
   "creator": "4UhEwyNzfHGtmGFjYfDKif1inTeEAx8nsdv4FkAU6FgW",
   "holders": null,
   "link": "https://fomo.family/coin?address=BPJyB82FCVLwPb1u9AANVCtyNQdZxw9Qk1jGKGPspump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.223e-07,
+  "priceTs": "2026-11-13T19:28:30.139393Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794598020,
+      "o": 3.192e-07,
+      "h": 3.192e-07,
+      "l": 3.192e-07,
+      "c": 3.192e-07,
+      "v": 0.0
+    },
+    {
+      "t": 1794598080,
+      "o": 1.223e-07,
+      "h": 1.223e-07,
+      "l": 1.223e-07,
+      "c": 1.223e-07,
+      "v": 104.13000000000001
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 245.0,
+    "liquidity": 100.36,
+    "volume24h": 131.74,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-13T19:27:23.715464Z",
+      "liquidity_usd": 153.1,
+      "top10_pct": null,
+      "h1_change_pct": -26.4,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $153"
+    }
+  ]
 }
