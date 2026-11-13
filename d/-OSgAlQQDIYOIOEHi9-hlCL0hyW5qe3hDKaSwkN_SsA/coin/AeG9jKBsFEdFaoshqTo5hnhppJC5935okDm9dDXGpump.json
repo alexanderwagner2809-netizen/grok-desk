@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T05:12:40.374120Z",
+  "ts": "2026-11-13T05:46:41.863786Z",
   "mint": "AeG9jKBsFEdFaoshqTo5hnhppJC5935okDm9dDXGpump",
   "name": "Tired Frog",
   "symbol": "FROG",
@@ -11,8 +11,8 @@
   "creator": "HfuLMEjeuA6Sj6VQHM81RDFW9eNGSRheo4dr4YqL9HH7",
   "holders": null,
   "link": "https://fomo.family/coin?address=AeG9jKBsFEdFaoshqTo5hnhppJC5935okDm9dDXGpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.679e-06,
-  "priceTs": "2026-11-13T05:12:40.082207Z",
+  "price": 5.418e-06,
+  "priceTs": "2026-11-13T05:46:41.314276Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -304,12 +304,28 @@
       "l": 4.679e-06,
       "c": 4.679e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794546780,
+      "o": 4.679e-06,
+      "h": 4.679e-06,
+      "l": 4.679e-06,
+      "c": 4.679e-06,
+      "v": 0.0
+    },
+    {
+      "t": 1794548760,
+      "o": 5.418e-06,
+      "h": 5.418e-06,
+      "l": 5.418e-06,
+      "c": 5.418e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 4301.0,
-    "liquidity": 3708.36,
-    "volume24h": 61234.66,
+    "marketCap": 4979.0,
+    "liquidity": 4098.48,
+    "volume24h": 61773.21,
     "holders": null
   },
   "position": null,

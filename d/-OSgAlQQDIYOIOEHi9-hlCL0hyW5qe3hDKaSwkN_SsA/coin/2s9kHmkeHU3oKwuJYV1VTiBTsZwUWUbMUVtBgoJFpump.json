@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T05:12:40.392288Z",
+  "ts": "2026-11-13T05:46:41.905308Z",
   "mint": "2s9kHmkeHU3oKwuJYV1VTiBTsZwUWUbMUVtBgoJFpump",
   "name": "Affair Inu",
   "symbol": "AI",
   "label": "Affair Inu",
   "chain": "Solana",
-  "age": "7h old",
+  "age": "8h old",
   "migratedAt": "2026-11-12T21:20:01.396673Z",
   "pool": "Bvm1huQybfg55vJsXjMmmHEcBG8TH3motyg3wfo8riaC",
   "creator": "2RTqXthzRX2ZXTXiCZKBtTkD2gSEbtTacbrsYeKFbcm3",
   "holders": null,
   "link": "https://fomo.family/coin?address=2s9kHmkeHU3oKwuJYV1VTiBTsZwUWUbMUVtBgoJFpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001581,
-  "priceTs": "2026-11-13T05:12:40.218377Z",
+  "price": 1.567e-06,
+  "priceTs": "2026-11-13T05:46:41.552248Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -528,12 +528,28 @@
       "l": 0.0001581,
       "c": 0.0001581,
       "v": 135.12000000000012
+    },
+    {
+      "t": 1794546780,
+      "o": 0.0001573,
+      "h": 0.0001573,
+      "l": 0.0001573,
+      "c": 0.0001573,
+      "v": 68.87999999999988
+    },
+    {
+      "t": 1794548760,
+      "o": 1.567e-06,
+      "h": 1.567e-06,
+      "l": 1.567e-06,
+      "c": 1.567e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 155915.0,
-    "liquidity": 29453.38,
-    "volume24h": 613749.86,
+    "marketCap": 1545.0,
+    "liquidity": 1699.12,
+    "volume24h": 632595.44,
     "holders": null
   },
   "position": null,
