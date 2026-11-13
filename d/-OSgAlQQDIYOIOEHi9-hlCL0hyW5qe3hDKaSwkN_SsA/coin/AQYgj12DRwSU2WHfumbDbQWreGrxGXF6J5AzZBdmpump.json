@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T08:27:23.761443Z",
+  "ts": "2026-11-13T08:28:34.230273Z",
   "mint": "AQYgj12DRwSU2WHfumbDbQWreGrxGXF6J5AzZBdmpump",
   "name": "buy and forget",
   "symbol": "Goldfish",
@@ -11,8 +11,8 @@
   "creator": "DaTnUtrhnj3rcrfhqsaEqs6WUVpbh17LvMnfdRni2e1D",
   "holders": null,
   "link": "https://fomo.family/coin?address=AQYgj12DRwSU2WHfumbDbQWreGrxGXF6J5AzZBdmpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.502e-06,
-  "priceTs": "2026-11-13T08:27:23.593919Z",
+  "price": 5.597e-06,
+  "priceTs": "2026-11-13T08:28:34.055584Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -432,12 +432,20 @@
       "l": 4.502e-06,
       "c": 4.502e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794558480,
+      "o": 5.597e-06,
+      "h": 5.597e-06,
+      "l": 5.597e-06,
+      "c": 5.597e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 4114.0,
-    "liquidity": 3643.83,
-    "volume24h": 64644.51,
+    "marketCap": 5115.0,
+    "liquidity": 4224.52,
+    "volume24h": 64942.84,
     "holders": null
   },
   "position": null,
