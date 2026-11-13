@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-13T19:41:49.545184Z",
+  "mint": "E5iF4P6SEZVcyntYYcynXjS6Yzmc3oz7Hvp7ontpump",
+  "name": "YouTube",
+  "symbol": "YouTube",
+  "label": "YouTube",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-13T19:41:01.355875Z",
+  "pool": "3cf86KGgYmLKpoZ8frFzuvzUXvnLRSvaVW14GnoreqHo",
+  "creator": "5BgaxftSXkLUFPKGQmKzf4qnp3atEb1hABHGKn8GUReR",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=E5iF4P6SEZVcyntYYcynXjS6Yzmc3oz7Hvp7ontpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 5.342e-05,
+  "priceTs": "2026-11-13T19:41:49.277384Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794598860,
+      "o": 5.199e-05,
+      "h": 5.342e-05,
+      "l": 5.199e-05,
+      "c": 5.342e-05,
+      "v": 63.940000000000055
+    }
+  ],
+  "stats": {
+    "marketCap": 53426.0,
+    "liquidity": 15943.84,
+    "volume24h": 1812.53,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-13T19:41:30.473451Z",
+      "liquidity_usd": 15703.68,
+      "top10_pct": null,
+      "h1_change_pct": 56.37,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $15.7K"
+    }
+  ]
+}

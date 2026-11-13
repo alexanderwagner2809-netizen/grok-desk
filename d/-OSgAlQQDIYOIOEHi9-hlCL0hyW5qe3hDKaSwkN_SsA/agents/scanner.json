@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-13T19:40:39.439324Z",
+  "ts": "2026-11-13T19:41:51.110142Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-13T19:40:37.526772Z",
+  "heartbeat": "2026-11-13T19:41:48.955498Z",
   "paused": false,
   "status": "running",
-  "card": "540 pools",
-  "count": 540,
+  "card": "541 pools",
+  "count": 541,
   "passed": 0,
   "feed": [
+    {
+      "mint": "E5iF4P6SEZVcyntYYcynXjS6Yzmc3oz7Hvp7ontpump",
+      "label": "YouTube",
+      "verdict": "kill",
+      "reason": "liq $15.7K",
+      "subtitle": "liq $15.7K",
+      "link": "https://fomo.family/coin?address=E5iF4P6SEZVcyntYYcynXjS6Yzmc3oz7Hvp7ontpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump",
       "label": "Theranoses",
@@ -66,19 +74,19 @@
       "reason": "liq $28",
       "subtitle": "liq $28",
       "link": "https://fomo.family/coin?address=A1CbxM1oYsjpevJNwoHGTNqzo6sXykHhbmL9antqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump",
-      "label": "Alien Shiba Inux",
-      "verdict": "kill",
-      "reason": "liq $15",
-      "subtitle": "liq $15",
-      "link": "https://fomo.family/coin?address=3RqQmokxKAuVebnyJvc5z6zNgJacduH3JmE15HLUpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-13T19:41:30.473451Z",
+      "mint": "E5iF4P6SEZVcyntYYcynXjS6Yzmc3oz7Hvp7ontpump",
+      "label": "YouTube",
+      "verdict": "kill",
+      "reason": "liq $15.7K",
+      "link": "https://fomo.family/coin?address=E5iF4P6SEZVcyntYYcynXjS6Yzmc3oz7Hvp7ontpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:39:24.468231Z",
       "mint": "AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump",
       "label": "Theranoses",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:31:08.035948Z",
-      "mint": "3FhxQhUnU5XWpBf4wBvnaCis7aVq33rEcSJDXoT3pump",
-      "label": "PUMP FARM",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "link": "https://fomo.family/coin?address=3FhxQhUnU5XWpBf4wBvnaCis7aVq33rEcSJDXoT3pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-13T19:41:30.473451Z",
+      "mint": "E5iF4P6SEZVcyntYYcynXjS6Yzmc3oz7Hvp7ontpump",
+      "label": "YouTube",
+      "verdict": "kill",
+      "reason": "liq $15.7K",
+      "link": "https://fomo.family/coin?address=E5iF4P6SEZVcyntYYcynXjS6Yzmc3oz7Hvp7ontpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-13T19:39:24.468231Z",
       "mint": "AgkptBdVa3VjQZMEdQC7HRegRYMtoBfYayqSXRPGpump",
       "label": "Theranoses",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=GFKUWxJeRkv394r7y3fXpb2kMV742dRXkGWFLgiApump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T11:31:08.035948Z",
-      "mint": "3FhxQhUnU5XWpBf4wBvnaCis7aVq33rEcSJDXoT3pump",
-      "label": "PUMP FARM",
-      "verdict": "kill",
-      "reason": "liq $3",
-      "link": "https://fomo.family/coin?address=3FhxQhUnU5XWpBf4wBvnaCis7aVq33rEcSJDXoT3pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
