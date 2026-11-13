@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T00:04:05.539314Z",
+  "ts": "2026-11-13T00:07:16.718154Z",
   "mint": "478PuXdVMyM8K23kPnprBguEHYER8G4LBjcXWbPTpump",
   "name": "Helmiz",
   "symbol": "Helmiz",
@@ -11,8 +11,8 @@
   "creator": "FnbZsCS74E7wPjxdNZaU2SmopdRU9CjUhsEMAaYN1tcN",
   "holders": null,
   "link": "https://fomo.family/coin?address=478PuXdVMyM8K23kPnprBguEHYER8G4LBjcXWbPTpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.11e-05,
-  "priceTs": "2026-11-13T00:04:05.301516Z",
+  "price": 1.854e-05,
+  "priceTs": "2026-11-13T00:07:16.513599Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -504,12 +504,20 @@
       "l": 2.11e-05,
       "c": 2.11e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794528420,
+      "o": 1.854e-05,
+      "h": 1.854e-05,
+      "l": 1.854e-05,
+      "c": 1.854e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 20458.0,
-    "liquidity": 9960.26,
-    "volume24h": 370537.01,
+    "marketCap": 17985.0,
+    "liquidity": 9254.52,
+    "volume24h": 370904.98,
     "holders": null
   },
   "position": null,
