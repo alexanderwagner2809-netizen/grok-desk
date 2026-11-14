@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-14T21:19:23.440107Z",
+  "ts": "2026-11-14T21:20:35.233962Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-14T21:19:23.073063Z",
+      "heartbeat": "2026-11-14T21:20:34.762548Z",
       "paused": false,
       "status": "running",
-      "card": "574 pools",
-      "count": 574,
+      "card": "576 pools",
+      "count": 576,
       "passed": 0,
       "feed": [
+        {
+          "mint": "G9E8zzhdqCGpGqrHSgL2CKW1MuAbCVTQPFUhFk72pump",
+          "label": "Charity",
+          "verdict": "kill",
+          "reason": "liq $3.0K",
+          "subtitle": "liq $3.0K",
+          "link": "https://fomo.family/coin?address=G9E8zzhdqCGpGqrHSgL2CKW1MuAbCVTQPFUhFk72pump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "Anu1DbrBDfKFDdxgNcZfieXgNjMu1WBh3HHxjLJppump",
+          "label": "moo-ve.site",
+          "verdict": "kill",
+          "reason": "liq $10.9K",
+          "subtitle": "liq $10.9K",
+          "link": "https://fomo.family/coin?address=Anu1DbrBDfKFDdxgNcZfieXgNjMu1WBh3HHxjLJppump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "AjPoaVhU5WdZhZzR6jbxjHD3CUZMqic51BDiVmXHpump",
           "label": "Mikol",
@@ -66,22 +82,6 @@
           "reason": "liq $3.3K",
           "subtitle": "liq $3.3K",
           "link": "https://fomo.family/coin?address=EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "2wt4B6hskQxSEPevuoxTwSoJPv3R7xqRYoCkXUkNpump",
-          "label": "Solana Inu",
-          "verdict": "kill",
-          "reason": "liq $15.3K",
-          "subtitle": "liq $15.3K",
-          "link": "https://fomo.family/coin?address=2wt4B6hskQxSEPevuoxTwSoJPv3R7xqRYoCkXUkNpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "5E6UjGDbuvquFnkvuuyaxFXwKKe4BaLzgxLEiHnTpump",
-          "label": "DISCO",
-          "verdict": "kill",
-          "reason": "liq $0",
-          "subtitle": "liq $0",
-          "link": "https://fomo.family/coin?address=5E6UjGDbuvquFnkvuuyaxFXwKKe4BaLzgxLEiHnTpump&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-14T21:19:21.475266Z",
+      "heartbeat": "2026-11-14T21:20:35.134300Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-14T21:19:21.478768Z",
+      "heartbeat": "2026-11-14T21:20:35.135747Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-14T21:19:21.479173Z",
+      "heartbeat": "2026-11-14T21:20:35.136085Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-14T21:19:17.431868Z",
+      "heartbeat": "2026-11-14T21:20:32.447950Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-14T21:20:35.242783Z",
+  "mint": "G9E8zzhdqCGpGqrHSgL2CKW1MuAbCVTQPFUhFk72pump",
+  "name": "Charity",
+  "symbol": "CHARITY",
+  "label": "Charity",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-14T21:20:06.383035Z",
+  "pool": "CW8CJreAf2iXMfkzsQy1FoRLrsnG4wwPk7e1j1M8KBSz",
+  "creator": "AmzPkcLo1YL3e1XyDLZbLEqLLBKGy7JtGnXs2ykJZN8b",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=G9E8zzhdqCGpGqrHSgL2CKW1MuAbCVTQPFUhFk72pump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.211e-06,
+  "priceTs": "2026-11-14T21:20:34.965206Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794691200,
+      "o": 3.211e-06,
+      "h": 3.211e-06,
+      "l": 3.211e-06,
+      "c": 3.211e-06,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 3086.0,
+    "liquidity": 3042.35,
+    "volume24h": 8810.63,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-14T21:20:06.677718Z",
+      "liquidity_usd": 3042.35,
+      "top10_pct": null,
+      "h1_change_pct": -1.81,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $3.0K"
+    }
+  ]
+}
