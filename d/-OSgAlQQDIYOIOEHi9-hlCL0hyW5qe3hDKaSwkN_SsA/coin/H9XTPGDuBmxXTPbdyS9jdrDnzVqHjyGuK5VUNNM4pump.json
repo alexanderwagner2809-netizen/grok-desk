@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-14T21:37:17.580752Z",
+  "mint": "H9XTPGDuBmxXTPbdyS9jdrDnzVqHjyGuK5VUNNM4pump",
+  "name": "Grokvoxus",
+  "symbol": "GROK",
+  "label": "Grokvoxus",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-14T21:36:24.186246Z",
+  "pool": "7QUYkr9GCekN6douZV7W96R9XKLcFdgoF8dqTFyo32dT",
+  "creator": "3dpq4hThC1mcJ8Fxs344dnizz28FEPm8GcjDD4jmaP44",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=H9XTPGDuBmxXTPbdyS9jdrDnzVqHjyGuK5VUNNM4pump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.058e-05,
+  "priceTs": "2026-11-14T21:37:17.344008Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794692160,
+      "o": 3.019e-05,
+      "h": 3.019e-05,
+      "l": 3.019e-05,
+      "c": 3.019e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794692220,
+      "o": 3.058e-05,
+      "h": 3.058e-05,
+      "l": 3.058e-05,
+      "c": 3.058e-05,
+      "v": 69.36000000000001
+    }
+  ],
+  "stats": {
+    "marketCap": 30494.0,
+    "liquidity": 11042.35,
+    "volume24h": 165.43,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-14T21:36:55.386478Z",
+      "liquidity_usd": 10962.91,
+      "top10_pct": null,
+      "h1_change_pct": 3.49,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $11.0K"
+    }
+  ]
+}

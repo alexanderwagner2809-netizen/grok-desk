@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-14T21:36:07.473445Z",
+  "ts": "2026-11-14T21:37:19.123445Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T21:36:04.815384Z",
+  "heartbeat": "2026-11-14T21:37:17.076188Z",
   "paused": false,
   "status": "running",
-  "card": "589 pools",
-  "count": 589,
+  "card": "590 pools",
+  "count": 590,
   "passed": 0,
   "feed": [
+    {
+      "mint": "H9XTPGDuBmxXTPbdyS9jdrDnzVqHjyGuK5VUNNM4pump",
+      "label": "Grokvoxus",
+      "verdict": "kill",
+      "reason": "liq $11.0K",
+      "subtitle": "liq $11.0K",
+      "link": "https://fomo.family/coin?address=H9XTPGDuBmxXTPbdyS9jdrDnzVqHjyGuK5VUNNM4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump",
       "label": "ad astra",
@@ -66,19 +74,19 @@
       "reason": "+127045% in 1h",
       "subtitle": "+127045% in 1h",
       "link": "https://fomo.family/coin?address=98R1AZxoJ7maU5y8RwRzSfS3zQPnW1qXDLQUcAS5pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump",
-      "label": "The White Bear",
-      "verdict": "kill",
-      "reason": "+206% in 1h",
-      "subtitle": "+206% in 1h",
-      "link": "https://fomo.family/coin?address=HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T21:36:55.386478Z",
+      "mint": "H9XTPGDuBmxXTPbdyS9jdrDnzVqHjyGuK5VUNNM4pump",
+      "label": "Grokvoxus",
+      "verdict": "kill",
+      "reason": "liq $11.0K",
+      "link": "https://fomo.family/coin?address=H9XTPGDuBmxXTPbdyS9jdrDnzVqHjyGuK5VUNNM4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:36:04.814950Z",
       "mint": "DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump",
       "label": "ad astra",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $12.2K",
       "link": "https://fomo.family/coin?address=6FiF7ggynovXnRFs2C3oDivqM8Pws3nTs3EVWRkepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:18:53.491339Z",
-      "mint": "6kRSNnusHuWtL218UDQCF6Jg6H4RZPgJE55QHoFZpump",
-      "label": "DONALD JEW TRUMP",
-      "verdict": "kill",
-      "reason": "liq $12.0K",
-      "link": "https://fomo.family/coin?address=6kRSNnusHuWtL218UDQCF6Jg6H4RZPgJE55QHoFZpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T21:36:55.386478Z",
+      "mint": "H9XTPGDuBmxXTPbdyS9jdrDnzVqHjyGuK5VUNNM4pump",
+      "label": "Grokvoxus",
+      "verdict": "kill",
+      "reason": "liq $11.0K",
+      "link": "https://fomo.family/coin?address=H9XTPGDuBmxXTPbdyS9jdrDnzVqHjyGuK5VUNNM4pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:36:04.814950Z",
       "mint": "DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump",
       "label": "ad astra",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $12.2K",
       "link": "https://fomo.family/coin?address=6FiF7ggynovXnRFs2C3oDivqM8Pws3nTs3EVWRkepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:18:53.491339Z",
-      "mint": "6kRSNnusHuWtL218UDQCF6Jg6H4RZPgJE55QHoFZpump",
-      "label": "DONALD JEW TRUMP",
-      "verdict": "kill",
-      "reason": "liq $12.0K",
-      "link": "https://fomo.family/coin?address=6kRSNnusHuWtL218UDQCF6Jg6H4RZPgJE55QHoFZpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
