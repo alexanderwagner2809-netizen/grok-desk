@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-14T22:09:30.538619Z",
+  "ts": "2026-11-14T22:10:42.076335Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T22:09:28.138755Z",
+  "heartbeat": "2026-11-14T22:10:39.930518Z",
   "paused": false,
   "status": "running",
-  "card": "615 pools",
-  "count": 615,
+  "card": "616 pools",
+  "count": 616,
   "passed": 0,
   "feed": [
+    {
+      "mint": "XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2",
+      "label": "XsqE9cRR",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "6DqxB4pbxjyTcdfpSa9VcftwTN2ZyYqLh71qQa8ppump",
       "label": "McPengu",
@@ -66,19 +74,19 @@
       "reason": "liq $10.9K",
       "subtitle": "liq $10.9K",
       "link": "https://fomo.family/coin?address=EGQ2w24MchzwFrzj9Q94PFGrDRv6HWzcV6JfzFpHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "2RiDuuuNrPgzhBhTPyFxTizxW5LdznZdjY7V6oMHpump",
-      "label": "meow",
-      "verdict": "kill",
-      "reason": "liq $92",
-      "subtitle": "liq $92",
-      "link": "https://fomo.family/coin?address=2RiDuuuNrPgzhBhTPyFxTizxW5LdznZdjY7V6oMHpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T22:10:16.520605Z",
+      "mint": "XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2",
+      "label": "XsqE9cRR",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T22:09:20.886841Z",
       "mint": "6DqxB4pbxjyTcdfpSa9VcftwTN2ZyYqLh71qQa8ppump",
       "label": "McPengu",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $6",
       "link": "https://fomo.family/coin?address=EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:45:00.203190Z",
-      "mint": "DnKe4dh1JcPrf9FMopDGs198ZhLNzwfWG459bdUpump",
-      "label": "Operation TorNado",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=DnKe4dh1JcPrf9FMopDGs198ZhLNzwfWG459bdUpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T22:10:16.520605Z",
+      "mint": "XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2",
+      "label": "XsqE9cRR",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T22:09:20.886841Z",
       "mint": "6DqxB4pbxjyTcdfpSa9VcftwTN2ZyYqLh71qQa8ppump",
       "label": "McPengu",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $6",
       "link": "https://fomo.family/coin?address=EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:45:00.203190Z",
-      "mint": "DnKe4dh1JcPrf9FMopDGs198ZhLNzwfWG459bdUpump",
-      "label": "Operation TorNado",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=DnKe4dh1JcPrf9FMopDGs198ZhLNzwfWG459bdUpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
