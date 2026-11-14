@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-14T21:33:44.646958Z",
+  "ts": "2026-11-14T21:34:55.990193Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T21:33:42.488349Z",
+  "heartbeat": "2026-11-14T21:34:53.540091Z",
   "paused": false,
   "status": "running",
-  "card": "585 pools",
-  "count": 585,
+  "card": "586 pools",
+  "count": 586,
   "passed": 0,
   "feed": [
+    {
+      "mint": "Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump",
+      "label": "Everybody Lies",
+      "verdict": "kill",
+      "reason": "liq $9.2K",
+      "subtitle": "liq $9.2K",
+      "link": "https://fomo.family/coin?address=Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "HxwYhPJto3bcH6gTw7tKzWxnxviidRZ9B4YamPotpump",
       "label": "RUG KILLA ZONE",
@@ -66,19 +74,19 @@
       "reason": "liq $11.5K",
       "subtitle": "liq $11.5K",
       "link": "https://fomo.family/coin?address=5ktihcNkA9uWjYwWrTnMA1yBHRFyozVFBzgzpbYwpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "6YAmtpT9ZCECvJyUDcujQQmLMB1DSuvk2Po9pKa8pump",
-      "label": "I Will Survive",
-      "verdict": "kill",
-      "reason": "liq $9.6K",
-      "subtitle": "liq $9.6K",
-      "link": "https://fomo.family/coin?address=6YAmtpT9ZCECvJyUDcujQQmLMB1DSuvk2Po9pKa8pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T21:33:49.811006Z",
+      "mint": "Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump",
+      "label": "Everybody Lies",
+      "verdict": "kill",
+      "reason": "liq $9.2K",
+      "link": "https://fomo.family/coin?address=Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:30:20.310127Z",
       "mint": "HxwYhPJto3bcH6gTw7tKzWxnxviidRZ9B4YamPotpump",
       "label": "RUG KILLA ZONE",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=5E6UjGDbuvquFnkvuuyaxFXwKKe4BaLzgxLEiHnTpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:14:12.564227Z",
-      "mint": "HQP4wa5BiUjwQBZqEuxeHEB4EHhFoUneMm9c1PRqpump",
-      "label": "wrappedape",
-      "verdict": "kill",
-      "reason": "liq $39",
-      "link": "https://fomo.family/coin?address=HQP4wa5BiUjwQBZqEuxeHEB4EHhFoUneMm9c1PRqpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T21:33:49.811006Z",
+      "mint": "Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump",
+      "label": "Everybody Lies",
+      "verdict": "kill",
+      "reason": "liq $9.2K",
+      "link": "https://fomo.family/coin?address=Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:30:20.310127Z",
       "mint": "HxwYhPJto3bcH6gTw7tKzWxnxviidRZ9B4YamPotpump",
       "label": "RUG KILLA ZONE",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=5E6UjGDbuvquFnkvuuyaxFXwKKe4BaLzgxLEiHnTpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:14:12.564227Z",
-      "mint": "HQP4wa5BiUjwQBZqEuxeHEB4EHhFoUneMm9c1PRqpump",
-      "label": "wrappedape",
-      "verdict": "kill",
-      "reason": "liq $39",
-      "link": "https://fomo.family/coin?address=HQP4wa5BiUjwQBZqEuxeHEB4EHhFoUneMm9c1PRqpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

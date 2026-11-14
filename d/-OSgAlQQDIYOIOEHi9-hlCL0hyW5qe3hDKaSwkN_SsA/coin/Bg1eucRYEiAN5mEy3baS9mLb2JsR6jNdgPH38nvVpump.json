@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-14T21:33:43.993045Z",
+  "ts": "2026-11-14T21:34:54.516002Z",
   "mint": "Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump",
-  "name": null,
-  "symbol": null,
-  "label": "Bg1eucRY",
+  "name": "Everybody Lies",
+  "symbol": "LIES",
+  "label": "Everybody Lies",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-14T21:33:04.326081Z",
-  "pool": null,
+  "pool": "C8cxGR8J9Cf88TaAC3CQVh4As2pHTji4F9mZCe7wMpeu",
   "creator": "GBmCZnUhAximJ1Q632VD2muNu9iiwLzzNQ1erupjhPVR",
   "holders": null,
   "link": "https://fomo.family/coin?address=Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.381e-05,
+  "priceTs": "2026-11-14T21:34:54.231672Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794691980,
+      "o": 2.185e-05,
+      "h": 2.185e-05,
+      "l": 2.185e-05,
+      "c": 2.185e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794692040,
+      "o": 2.381e-05,
+      "h": 2.381e-05,
+      "l": 2.381e-05,
+      "c": 2.381e-05,
+      "v": 54.460000000000036
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 23780.0,
+    "liquidity": 9613.16,
+    "volume24h": 1408.5,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-14T21:33:49.811006Z",
+      "liquidity_usd": 9155.29,
+      "top10_pct": null,
+      "h1_change_pct": -26.69,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $9.2K"
+    }
+  ]
 }
