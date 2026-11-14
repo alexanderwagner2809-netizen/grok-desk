@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-14T21:21:48.532266Z",
+  "ts": "2026-11-14T21:22:59.897513Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T21:21:46.515861Z",
+  "heartbeat": "2026-11-14T21:22:57.772051Z",
   "paused": false,
   "status": "running",
-  "card": "577 pools",
-  "count": 577,
+  "card": "578 pools",
+  "count": 578,
   "passed": 0,
   "feed": [
+    {
+      "mint": "6YAmtpT9ZCECvJyUDcujQQmLMB1DSuvk2Po9pKa8pump",
+      "label": "I Will Survive",
+      "verdict": "kill",
+      "reason": "liq $9.6K",
+      "subtitle": "liq $9.6K",
+      "link": "https://fomo.family/coin?address=6YAmtpT9ZCECvJyUDcujQQmLMB1DSuvk2Po9pKa8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "4Ap1RMAHkMNsjbvDKHHzBUe1jYDjj8nsVj4TpGcbpump",
       "label": "🐈‍⬛ Fomo Cat 🐈‍⬛",
@@ -66,19 +74,19 @@
       "reason": "liq $12.2K",
       "subtitle": "liq $12.2K",
       "link": "https://fomo.family/coin?address=6FiF7ggynovXnRFs2C3oDivqM8Pws3nTs3EVWRkepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "6kRSNnusHuWtL218UDQCF6Jg6H4RZPgJE55QHoFZpump",
-      "label": "DONALD JEW TRUMP",
-      "verdict": "kill",
-      "reason": "liq $12.0K",
-      "subtitle": "liq $12.0K",
-      "link": "https://fomo.family/coin?address=6kRSNnusHuWtL218UDQCF6Jg6H4RZPgJE55QHoFZpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T21:22:15.172970Z",
+      "mint": "6YAmtpT9ZCECvJyUDcujQQmLMB1DSuvk2Po9pKa8pump",
+      "label": "I Will Survive",
+      "verdict": "kill",
+      "reason": "liq $9.6K",
+      "link": "https://fomo.family/coin?address=6YAmtpT9ZCECvJyUDcujQQmLMB1DSuvk2Po9pKa8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:21:24.960952Z",
       "mint": "4Ap1RMAHkMNsjbvDKHHzBUe1jYDjj8nsVj4TpGcbpump",
       "label": "🐈‍⬛ Fomo Cat 🐈‍⬛",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $13.7K",
       "link": "https://fomo.family/coin?address=BGWZHbRT6PekFcevoVGyxrDTwVqBBVFdjkxBi9znpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T19:58:04.300722Z",
-      "mint": "2CUsXJdV5gPu9SujUjvsXEaaJhmEk6J5wFGkh59epump",
-      "label": "Daniela The Immigrant",
-      "verdict": "kill",
-      "reason": "liq $11.0K",
-      "link": "https://fomo.family/coin?address=2CUsXJdV5gPu9SujUjvsXEaaJhmEk6J5wFGkh59epump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T21:22:15.172970Z",
+      "mint": "6YAmtpT9ZCECvJyUDcujQQmLMB1DSuvk2Po9pKa8pump",
+      "label": "I Will Survive",
+      "verdict": "kill",
+      "reason": "liq $9.6K",
+      "link": "https://fomo.family/coin?address=6YAmtpT9ZCECvJyUDcujQQmLMB1DSuvk2Po9pKa8pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:21:24.960952Z",
       "mint": "4Ap1RMAHkMNsjbvDKHHzBUe1jYDjj8nsVj4TpGcbpump",
       "label": "🐈‍⬛ Fomo Cat 🐈‍⬛",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $13.7K",
       "link": "https://fomo.family/coin?address=BGWZHbRT6PekFcevoVGyxrDTwVqBBVFdjkxBi9znpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T19:58:04.300722Z",
-      "mint": "2CUsXJdV5gPu9SujUjvsXEaaJhmEk6J5wFGkh59epump",
-      "label": "Daniela The Immigrant",
-      "verdict": "kill",
-      "reason": "liq $11.0K",
-      "link": "https://fomo.family/coin?address=2CUsXJdV5gPu9SujUjvsXEaaJhmEk6J5wFGkh59epump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
