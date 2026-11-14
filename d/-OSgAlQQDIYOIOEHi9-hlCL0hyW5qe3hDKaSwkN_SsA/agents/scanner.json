@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-14T21:26:34.817462Z",
+  "ts": "2026-11-14T21:27:46.849372Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T21:26:32.426773Z",
+  "heartbeat": "2026-11-14T21:27:44.316478Z",
   "paused": false,
   "status": "running",
-  "card": "581 pools",
-  "count": 581,
+  "card": "582 pools",
+  "count": 582,
   "passed": 0,
   "feed": [
+    {
+      "mint": "HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump",
+      "label": "The White Bear",
+      "verdict": "kill",
+      "reason": "+206% in 1h",
+      "subtitle": "+206% in 1h",
+      "link": "https://fomo.family/coin?address=HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "6ga1cD1jUHiqBbpwuuCDXT9yu6iGr82JTZGSgBBzpump",
       "label": "The White Bear",
@@ -66,19 +74,19 @@
       "reason": "liq $10.9K",
       "subtitle": "liq $10.9K",
       "link": "https://fomo.family/coin?address=Anu1DbrBDfKFDdxgNcZfieXgNjMu1WBh3HHxjLJppump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "AjPoaVhU5WdZhZzR6jbxjHD3CUZMqic51BDiVmXHpump",
-      "label": "Mikol",
-      "verdict": "kill",
-      "reason": "liq $12.7K",
-      "subtitle": "liq $12.7K",
-      "link": "https://fomo.family/coin?address=AjPoaVhU5WdZhZzR6jbxjHD3CUZMqic51BDiVmXHpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T21:27:18.780564Z",
+      "mint": "HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump",
+      "label": "The White Bear",
+      "verdict": "kill",
+      "reason": "+206% in 1h",
+      "link": "https://fomo.family/coin?address=HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:26:12.158474Z",
       "mint": "6ga1cD1jUHiqBbpwuuCDXT9yu6iGr82JTZGSgBBzpump",
       "label": "The White Bear",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $18.0K",
       "link": "https://fomo.family/coin?address=EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:01:28.715642Z",
-      "mint": "BPoGXKyvgtVFW5UBwUDE97nyUEefYDbMScHPfzhZpump",
-      "label": "credibility coin",
-      "verdict": "kill",
-      "reason": "liq $12.4K",
-      "link": "https://fomo.family/coin?address=BPoGXKyvgtVFW5UBwUDE97nyUEefYDbMScHPfzhZpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T21:27:18.780564Z",
+      "mint": "HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump",
+      "label": "The White Bear",
+      "verdict": "kill",
+      "reason": "+206% in 1h",
+      "link": "https://fomo.family/coin?address=HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:26:12.158474Z",
       "mint": "6ga1cD1jUHiqBbpwuuCDXT9yu6iGr82JTZGSgBBzpump",
       "label": "The White Bear",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $18.0K",
       "link": "https://fomo.family/coin?address=EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:01:28.715642Z",
-      "mint": "BPoGXKyvgtVFW5UBwUDE97nyUEefYDbMScHPfzhZpump",
-      "label": "credibility coin",
-      "verdict": "kill",
-      "reason": "liq $12.4K",
-      "link": "https://fomo.family/coin?address=BPoGXKyvgtVFW5UBwUDE97nyUEefYDbMScHPfzhZpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

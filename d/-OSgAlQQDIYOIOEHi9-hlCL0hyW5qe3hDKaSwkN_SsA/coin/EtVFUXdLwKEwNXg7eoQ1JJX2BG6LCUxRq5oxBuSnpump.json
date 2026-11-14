@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-14T21:26:33.287790Z",
+  "ts": "2026-11-14T21:27:45.336940Z",
   "mint": "EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump",
   "name": "GR00T 2",
   "symbol": "GR00T2",
@@ -11,8 +11,8 @@
   "creator": "HJ4pyx9cbsVA88ia1pc5z2ovXneNV1vLzDP7T4LiDEvt",
   "holders": null,
   "link": "https://fomo.family/coin?address=EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.032e-05,
-  "priceTs": "2026-11-14T21:26:32.978743Z",
+  "price": 1.028e-05,
+  "priceTs": "2026-11-14T21:27:45.049722Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -248,12 +248,20 @@
       "l": 1.032e-05,
       "c": 1.032e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794691620,
+      "o": 1.028e-05,
+      "h": 1.028e-05,
+      "l": 1.028e-05,
+      "c": 1.028e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 10017.0,
-    "liquidity": 7435.77,
-    "volume24h": 229255.71,
+    "marketCap": 9972.0,
+    "liquidity": 7413.2,
+    "volume24h": 228937.7,
     "holders": null
   },
   "position": null,

@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-14T21:26:34.717552Z",
+  "ts": "2026-11-14T21:27:45.318878Z",
   "mint": "HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump",
-  "name": null,
-  "symbol": null,
-  "label": "HucpwRFi",
+  "name": "The White Bear",
+  "symbol": "DUVAL",
+  "label": "The White Bear",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-14T21:26:17.828111Z",
-  "pool": null,
+  "pool": "vVpLqfSzPJCkcveRdPf2fXKNxq5Asgzy4YS6qgRUDd1",
   "creator": null,
   "holders": null,
   "link": "https://fomo.family/coin?address=HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 5.486e-05,
+  "priceTs": "2026-11-14T21:27:45.049722Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794691620,
+      "o": 0.0001086,
+      "h": 0.0001086,
+      "l": 5.486e-05,
+      "c": 5.486e-05,
+      "v": 22668.34
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 54865.0,
+    "liquidity": 15750.73,
+    "volume24h": 52219.57,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-14T21:27:18.780564Z",
+      "liquidity_usd": 22837.68,
+      "top10_pct": null,
+      "h1_change_pct": 206.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "+206% in 1h"
+    }
+  ]
 }
