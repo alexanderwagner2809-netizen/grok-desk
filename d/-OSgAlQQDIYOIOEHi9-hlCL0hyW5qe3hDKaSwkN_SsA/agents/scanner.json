@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-14T21:56:22.374212Z",
+  "ts": "2026-11-14T21:57:33.954944Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T21:56:20.618300Z",
+  "heartbeat": "2026-11-14T21:57:31.707983Z",
   "paused": false,
   "status": "running",
-  "card": "605 pools",
-  "count": 605,
+  "card": "606 pools",
+  "count": 606,
   "passed": 0,
   "feed": [
+    {
+      "mint": "AJfKTj4gkMFWFaBdVrcHVrsNGauuGYo3Z2eJCnqZpump",
+      "label": "SeekEmploymentEducationTraining",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=AJfKTj4gkMFWFaBdVrcHVrsNGauuGYo3Z2eJCnqZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump",
       "label": "The Singularity",
@@ -66,19 +74,19 @@
       "reason": "+345452% in 1h",
       "subtitle": "+345452% in 1h",
       "link": "https://fomo.family/coin?address=DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "Erp8cPhVJvyxywWa5r2qdP2YrQcSZ5attV4phZPdpump",
-      "label": "Erp8cPhV",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "subtitle": "never qualified",
-      "link": "https://fomo.family/coin?address=Erp8cPhVJvyxywWa5r2qdP2YrQcSZ5attV4phZPdpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T21:57:26.565941Z",
+      "mint": "AJfKTj4gkMFWFaBdVrcHVrsNGauuGYo3Z2eJCnqZpump",
+      "label": "SeekEmploymentEducationTraining",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=AJfKTj4gkMFWFaBdVrcHVrsNGauuGYo3Z2eJCnqZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:54:17.150787Z",
       "mint": "B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump",
       "label": "The Singularity",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $10.0K",
       "link": "https://fomo.family/coin?address=5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:35:26.641773Z",
-      "mint": "43WniQB5x3wk93ZUJVYVybfTWiQB9d8uwjaqJTohpump",
-      "label": "ANTHROPIC IPO",
-      "verdict": "kill",
-      "reason": "liq $10.7K",
-      "link": "https://fomo.family/coin?address=43WniQB5x3wk93ZUJVYVybfTWiQB9d8uwjaqJTohpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T21:57:26.565941Z",
+      "mint": "AJfKTj4gkMFWFaBdVrcHVrsNGauuGYo3Z2eJCnqZpump",
+      "label": "SeekEmploymentEducationTraining",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=AJfKTj4gkMFWFaBdVrcHVrsNGauuGYo3Z2eJCnqZpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:54:17.150787Z",
       "mint": "B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump",
       "label": "The Singularity",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $10.0K",
       "link": "https://fomo.family/coin?address=5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:35:26.641773Z",
-      "mint": "43WniQB5x3wk93ZUJVYVybfTWiQB9d8uwjaqJTohpump",
-      "label": "ANTHROPIC IPO",
-      "verdict": "kill",
-      "reason": "liq $10.7K",
-      "link": "https://fomo.family/coin?address=43WniQB5x3wk93ZUJVYVybfTWiQB9d8uwjaqJTohpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
