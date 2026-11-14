@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-14T21:50:24.084705Z",
+  "mint": "BAVovVYUrjsfhaZPkcrkwp6uSXh18P31VrHEwzWbpump",
+  "name": "wolves coin",
+  "symbol": "wocoin",
+  "label": "wolves coin",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-14T21:49:22.998415Z",
+  "pool": "5QVaBrMQxevYpy3KGdQAfrxRP29wqUhQAuuvg9oYtPzh",
+  "creator": "8YcugJQeAzFuSsNqE8LsLLWmnKRDZm1b4VHDycehhgen",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=BAVovVYUrjsfhaZPkcrkwp6uSXh18P31VrHEwzWbpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.013e-09,
+  "priceTs": "2026-11-14T21:50:23.837765Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794692940,
+      "o": 4.501e-08,
+      "h": 4.501e-08,
+      "l": 4.501e-08,
+      "c": 4.501e-08,
+      "v": 0.0
+    },
+    {
+      "t": 1794693000,
+      "o": 2.013e-09,
+      "h": 2.013e-09,
+      "l": 2.013e-09,
+      "c": 2.013e-09,
+      "v": 45.15
+    }
+  ],
+  "stats": {
+    "marketCap": 4.0,
+    "liquidity": 3.8,
+    "volume24h": 45.5,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-14T21:49:53.957466Z",
+      "liquidity_usd": 32.73,
+      "top10_pct": null,
+      "h1_change_pct": 8.44,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $33"
+    }
+  ]
+}
