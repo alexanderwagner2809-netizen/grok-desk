@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-14T22:03:31.284265Z",
+  "ts": "2026-11-14T22:04:42.401583Z",
   "mint": "8xvdAmaW6ZB8zGqTMbchCBVnsrWq8fzkpLzNg1NBpump",
-  "name": null,
-  "symbol": null,
-  "label": "8xvdAmaW",
+  "name": "The Drunk Raccoon",
+  "symbol": "Raccoon",
+  "label": "The Drunk Raccoon",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-14T22:03:17.973697Z",
-  "pool": null,
+  "pool": "3PC7LkR4bUiiJYvqNZBjTF1SyJfuxkjpgroEV4QsFR8x",
   "creator": "3anTyJwdVc1QLb14Y7wsJtfxiypLwdJ5gX21JZBHjLbp",
   "holders": null,
   "link": "https://fomo.family/coin?address=8xvdAmaW6ZB8zGqTMbchCBVnsrWq8fzkpLzNg1NBpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.239e-05,
+  "priceTs": "2026-11-14T22:04:42.125895Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794693840,
+      "o": 2.63e-05,
+      "h": 2.63e-05,
+      "l": 2.239e-05,
+      "c": 2.239e-05,
+      "v": 3406.1299999999997
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 22367.0,
+    "liquidity": 9276.73,
+    "volume24h": 6864.66,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-14T22:04:03.161638Z",
+      "liquidity_usd": 10136.01,
+      "top10_pct": null,
+      "h1_change_pct": -8.98,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $10.1K"
+    }
+  ]
 }

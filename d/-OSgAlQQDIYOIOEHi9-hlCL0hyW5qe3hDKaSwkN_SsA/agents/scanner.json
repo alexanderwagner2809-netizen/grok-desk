@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-14T22:03:32.180579Z",
+  "ts": "2026-11-14T22:04:44.010543Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T22:03:30.528248Z",
+  "heartbeat": "2026-11-14T22:04:41.978068Z",
   "paused": false,
   "status": "running",
-  "card": "609 pools",
-  "count": 609,
+  "card": "611 pools",
+  "count": 611,
   "passed": 0,
   "feed": [
+    {
+      "mint": "BJmS21NiRkG8cNZyarYadZrqH1VxCqAs1T3iCpm6pump",
+      "label": "CATECOIN",
+      "verdict": "kill",
+      "reason": "liq $85",
+      "subtitle": "liq $85",
+      "link": "https://fomo.family/coin?address=BJmS21NiRkG8cNZyarYadZrqH1VxCqAs1T3iCpm6pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "8xvdAmaW6ZB8zGqTMbchCBVnsrWq8fzkpLzNg1NBpump",
+      "label": "The Drunk Raccoon",
+      "verdict": "kill",
+      "reason": "liq $10.1K",
+      "subtitle": "liq $10.1K",
+      "link": "https://fomo.family/coin?address=8xvdAmaW6ZB8zGqTMbchCBVnsrWq8fzkpLzNg1NBpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "EGQ2w24MchzwFrzj9Q94PFGrDRv6HWzcV6JfzFpHpump",
       "label": "Superjoe fun token",
@@ -58,27 +74,27 @@
       "reason": "never qualified",
       "subtitle": "never qualified",
       "link": "https://fomo.family/coin?address=CTQZnA76UPRd1TQUywN2Ympy2RU7BhZAvtahmsaTbonk&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EMRLYATM42BjKiyKvuRXzrbwJRwHBxjzrMaSM2ZYpump",
-      "label": "Upcat",
-      "verdict": "kill",
-      "reason": "liq $271",
-      "subtitle": "liq $271",
-      "link": "https://fomo.family/coin?address=EMRLYATM42BjKiyKvuRXzrbwJRwHBxjzrMaSM2ZYpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "8BXhoVho1Xui2Bu3MG1soj5DEP6jFzfLbcVnsm4jpump",
-      "label": "DOGE PAID",
-      "verdict": "kill",
-      "reason": "liq $348",
-      "subtitle": "liq $348",
-      "link": "https://fomo.family/coin?address=8BXhoVho1Xui2Bu3MG1soj5DEP6jFzfLbcVnsm4jpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T22:04:03.162713Z",
+      "mint": "BJmS21NiRkG8cNZyarYadZrqH1VxCqAs1T3iCpm6pump",
+      "label": "CATECOIN",
+      "verdict": "kill",
+      "reason": "liq $85",
+      "link": "https://fomo.family/coin?address=BJmS21NiRkG8cNZyarYadZrqH1VxCqAs1T3iCpm6pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T22:04:03.161638Z",
+      "mint": "8xvdAmaW6ZB8zGqTMbchCBVnsrWq8fzkpLzNg1NBpump",
+      "label": "The Drunk Raccoon",
+      "verdict": "kill",
+      "reason": "liq $10.1K",
+      "link": "https://fomo.family/coin?address=8xvdAmaW6ZB8zGqTMbchCBVnsrWq8fzkpLzNg1NBpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T22:01:56.748705Z",
       "mint": "EGQ2w24MchzwFrzj9Q94PFGrDRv6HWzcV6JfzFpHpump",
       "label": "Superjoe fun token",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=BAH4ahPBKB5GNWNNDCY77WhahoHZgzbioMjF9V4Dpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:40:07.930839Z",
-      "mint": "EDgDzjcEL3xpvJSQWeSnCYQ4CsCAFc4yUh8eHucYpump",
-      "label": "PUMPSIAH",
-      "verdict": "kill",
-      "reason": "liq $10.0K",
-      "link": "https://fomo.family/coin?address=EDgDzjcEL3xpvJSQWeSnCYQ4CsCAFc4yUh8eHucYpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:37:34.522505Z",
-      "mint": "HWA17ggpNtLaxCe5b9r3gzg9FcV5KAGk2A2Z9UMmpump",
-      "label": "ringOS",
-      "verdict": "kill",
-      "reason": "liq $10.6K",
-      "link": "https://fomo.family/coin?address=HWA17ggpNtLaxCe5b9r3gzg9FcV5KAGk2A2Z9UMmpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T22:04:03.162713Z",
+      "mint": "BJmS21NiRkG8cNZyarYadZrqH1VxCqAs1T3iCpm6pump",
+      "label": "CATECOIN",
+      "verdict": "kill",
+      "reason": "liq $85",
+      "link": "https://fomo.family/coin?address=BJmS21NiRkG8cNZyarYadZrqH1VxCqAs1T3iCpm6pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T22:04:03.161638Z",
+      "mint": "8xvdAmaW6ZB8zGqTMbchCBVnsrWq8fzkpLzNg1NBpump",
+      "label": "The Drunk Raccoon",
+      "verdict": "kill",
+      "reason": "liq $10.1K",
+      "link": "https://fomo.family/coin?address=8xvdAmaW6ZB8zGqTMbchCBVnsrWq8fzkpLzNg1NBpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T22:01:56.748705Z",
       "mint": "EGQ2w24MchzwFrzj9Q94PFGrDRv6HWzcV6JfzFpHpump",
       "label": "Superjoe fun token",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=BAH4ahPBKB5GNWNNDCY77WhahoHZgzbioMjF9V4Dpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:40:07.930839Z",
-      "mint": "EDgDzjcEL3xpvJSQWeSnCYQ4CsCAFc4yUh8eHucYpump",
-      "label": "PUMPSIAH",
-      "verdict": "kill",
-      "reason": "liq $10.0K",
-      "link": "https://fomo.family/coin?address=EDgDzjcEL3xpvJSQWeSnCYQ4CsCAFc4yUh8eHucYpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:37:34.522505Z",
-      "mint": "HWA17ggpNtLaxCe5b9r3gzg9FcV5KAGk2A2Z9UMmpump",
-      "label": "ringOS",
-      "verdict": "kill",
-      "reason": "liq $10.6K",
-      "link": "https://fomo.family/coin?address=HWA17ggpNtLaxCe5b9r3gzg9FcV5KAGk2A2Z9UMmpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
