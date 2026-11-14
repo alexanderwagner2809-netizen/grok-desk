@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-14T21:45:40.231855Z",
+  "ts": "2026-11-14T21:46:51.850083Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T21:45:38.111011Z",
+  "heartbeat": "2026-11-14T21:46:49.900012Z",
   "paused": false,
   "status": "running",
-  "card": "597 pools",
-  "count": 597,
+  "card": "598 pools",
+  "count": 598,
   "passed": 0,
   "feed": [
+    {
+      "mint": "Erp8cPhVJvyxywWa5r2qdP2YrQcSZ5attV4phZPdpump",
+      "label": "Erp8cPhV",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "subtitle": "never qualified",
+      "link": "https://fomo.family/coin?address=Erp8cPhVJvyxywWa5r2qdP2YrQcSZ5attV4phZPdpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump",
+      "label": "Chewbarka",
+      "verdict": "kill",
+      "reason": "liq $6",
+      "subtitle": "liq $6",
+      "link": "https://fomo.family/coin?address=EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "DnKe4dh1JcPrf9FMopDGs198ZhLNzwfWG459bdUpump",
       "label": "Operation TorNado",
@@ -58,27 +74,27 @@
       "reason": "liq $10.0K",
       "subtitle": "liq $10.0K",
       "link": "https://fomo.family/coin?address=EDgDzjcEL3xpvJSQWeSnCYQ4CsCAFc4yUh8eHucYpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "HWA17ggpNtLaxCe5b9r3gzg9FcV5KAGk2A2Z9UMmpump",
-      "label": "ringOS",
-      "verdict": "kill",
-      "reason": "liq $10.6K",
-      "subtitle": "liq $10.6K",
-      "link": "https://fomo.family/coin?address=HWA17ggpNtLaxCe5b9r3gzg9FcV5KAGk2A2Z9UMmpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "H9XTPGDuBmxXTPbdyS9jdrDnzVqHjyGuK5VUNNM4pump",
-      "label": "Grokvoxus",
-      "verdict": "kill",
-      "reason": "liq $11.0K",
-      "subtitle": "liq $11.0K",
-      "link": "https://fomo.family/coin?address=H9XTPGDuBmxXTPbdyS9jdrDnzVqHjyGuK5VUNNM4pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T21:46:13.144945Z",
+      "mint": "Erp8cPhVJvyxywWa5r2qdP2YrQcSZ5attV4phZPdpump",
+      "label": "Erp8cPhV",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=Erp8cPhVJvyxywWa5r2qdP2YrQcSZ5attV4phZPdpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T21:46:01.826865Z",
+      "mint": "EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump",
+      "label": "Chewbarka",
+      "verdict": "kill",
+      "reason": "liq $6",
+      "link": "https://fomo.family/coin?address=EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:45:00.203190Z",
       "mint": "DnKe4dh1JcPrf9FMopDGs198ZhLNzwfWG459bdUpump",
       "label": "Operation TorNado",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $714",
       "link": "https://fomo.family/coin?address=Do6coQ1qHKMgVSHQhgbWBGqET9AYgxva4ict95ncpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:23:15.254508Z",
-      "mint": "5ktihcNkA9uWjYwWrTnMA1yBHRFyozVFBzgzpbYwpump",
-      "label": "Mr Penis",
-      "verdict": "kill",
-      "reason": "liq $11.5K",
-      "link": "https://fomo.family/coin?address=5ktihcNkA9uWjYwWrTnMA1yBHRFyozVFBzgzpbYwpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:22:15.172970Z",
-      "mint": "6YAmtpT9ZCECvJyUDcujQQmLMB1DSuvk2Po9pKa8pump",
-      "label": "I Will Survive",
-      "verdict": "kill",
-      "reason": "liq $9.6K",
-      "link": "https://fomo.family/coin?address=6YAmtpT9ZCECvJyUDcujQQmLMB1DSuvk2Po9pKa8pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T21:46:13.144945Z",
+      "mint": "Erp8cPhVJvyxywWa5r2qdP2YrQcSZ5attV4phZPdpump",
+      "label": "Erp8cPhV",
+      "verdict": "kill",
+      "reason": "never qualified",
+      "link": "https://fomo.family/coin?address=Erp8cPhVJvyxywWa5r2qdP2YrQcSZ5attV4phZPdpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T21:46:01.826865Z",
+      "mint": "EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump",
+      "label": "Chewbarka",
+      "verdict": "kill",
+      "reason": "liq $6",
+      "link": "https://fomo.family/coin?address=EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:45:00.203190Z",
       "mint": "DnKe4dh1JcPrf9FMopDGs198ZhLNzwfWG459bdUpump",
       "label": "Operation TorNado",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $714",
       "link": "https://fomo.family/coin?address=Do6coQ1qHKMgVSHQhgbWBGqET9AYgxva4ict95ncpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:23:15.254508Z",
-      "mint": "5ktihcNkA9uWjYwWrTnMA1yBHRFyozVFBzgzpbYwpump",
-      "label": "Mr Penis",
-      "verdict": "kill",
-      "reason": "liq $11.5K",
-      "link": "https://fomo.family/coin?address=5ktihcNkA9uWjYwWrTnMA1yBHRFyozVFBzgzpbYwpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:22:15.172970Z",
-      "mint": "6YAmtpT9ZCECvJyUDcujQQmLMB1DSuvk2Po9pKa8pump",
-      "label": "I Will Survive",
-      "verdict": "kill",
-      "reason": "liq $9.6K",
-      "link": "https://fomo.family/coin?address=6YAmtpT9ZCECvJyUDcujQQmLMB1DSuvk2Po9pKa8pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

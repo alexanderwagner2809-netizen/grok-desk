@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-14T21:45:39.834813Z",
+  "ts": "2026-11-14T21:46:50.317646Z",
   "mint": "EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump",
   "name": "Chewbarka",
   "symbol": "CHEWBARKA",
   "label": "Chewbarka",
   "chain": "Solana",
-  "age": "37h old",
-  "migratedAt": "2026-11-13T08:37:51.436519Z",
+  "age": "0m old",
+  "migratedAt": "2026-11-14T21:46:01.494537Z",
   "pool": "2Z52His4GWgpWWSgix9C8QH5Qqw2K5c9xTjxCCsQGipM",
   "creator": "4e45UF1agjf4PY9Be13k9b1NPu1JYhNuMVKcnwSfTVLk",
   "holders": null,
   "link": "https://fomo.family/coin?address=EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 9.901e-09,
-  "priceTs": "2026-11-13T19:57:40.984420Z",
+  "price": 9.723e-09,
+  "priceTs": "2026-11-14T21:46:50.084515Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -1240,12 +1240,20 @@
       "l": 9.901e-09,
       "c": 9.901e-09,
       "v": 0.0
+    },
+    {
+      "t": 1794692760,
+      "o": 9.723e-09,
+      "h": 9.723e-09,
+      "l": 9.723e-09,
+      "c": 9.723e-09,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": null,
-    "liquidity": 18.52,
-    "volume24h": null,
+    "marketCap": 6.0,
+    "liquidity": 5.52,
+    "volume24h": 1.07,
     "holders": null
   },
   "position": null,
@@ -1259,6 +1267,15 @@
       "age_min": 0,
       "verdict": "kill",
       "reason": "liq $19"
+    },
+    {
+      "ts": "2026-11-14T21:46:01.826865Z",
+      "liquidity_usd": 5.52,
+      "top10_pct": null,
+      "h1_change_pct": 0.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $6"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "ts": "2026-11-14T21:45:39.885561Z",
+  "ts": "2026-11-14T21:46:50.316974Z",
   "mint": "Erp8cPhVJvyxywWa5r2qdP2YrQcSZ5attV4phZPdpump",
   "name": null,
   "symbol": null,
   "label": "Erp8cPhV",
   "chain": "Solana",
-  "age": "19m old",
+  "age": "20m old",
   "migratedAt": "2026-11-14T21:26:12.596205Z",
   "pool": null,
   "creator": "4e7xoHtDw85bNpmfB6ZfNMsS1FPKh9ZcJQY4SqaaoqcB",
@@ -25,5 +25,15 @@
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-14T21:46:13.144945Z",
+      "liquidity_usd": null,
+      "top10_pct": null,
+      "h1_change_pct": null,
+      "age_min": 20,
+      "verdict": "kill",
+      "reason": "never qualified"
+    }
+  ]
 }
