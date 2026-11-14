@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-14T21:22:58.823445Z",
+  "ts": "2026-11-14T21:24:10.063146Z",
   "mint": "5ktihcNkA9uWjYwWrTnMA1yBHRFyozVFBzgzpbYwpump",
-  "name": null,
-  "symbol": null,
-  "label": "5ktihcNk",
+  "name": "Mr Penis",
+  "symbol": "PENIS",
+  "label": "Mr Penis",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-14T21:22:26.614553Z",
-  "pool": null,
+  "pool": "9naA6catY77f9xxpWyJJd1UmUdp4FrSs9knrRsoS6sor",
   "creator": "DVCYiMXnvSZMSuoeoPH1rRrEmpSuCocioXHtwzqZE1mF",
   "holders": null,
   "link": "https://fomo.family/coin?address=5ktihcNkA9uWjYwWrTnMA1yBHRFyozVFBzgzpbYwpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.457e-05,
+  "priceTs": "2026-11-14T21:24:09.785049Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794691380,
+      "o": 3.282e-05,
+      "h": 3.282e-05,
+      "l": 3.282e-05,
+      "c": 3.282e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794691440,
+      "o": 3.457e-05,
+      "h": 3.457e-05,
+      "l": 3.457e-05,
+      "c": 3.457e-05,
+      "v": 11952.269999999999
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 34577.0,
+    "liquidity": 11905.61,
+    "volume24h": 14552.46,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-14T21:23:15.254508Z",
+      "liquidity_usd": 11514.05,
+      "top10_pct": null,
+      "h1_change_pct": 12.59,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $11.5K"
+    }
+  ]
 }
