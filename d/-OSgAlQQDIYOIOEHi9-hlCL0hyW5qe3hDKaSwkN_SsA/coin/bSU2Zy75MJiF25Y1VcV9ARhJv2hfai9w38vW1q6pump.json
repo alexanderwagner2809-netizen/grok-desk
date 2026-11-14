@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-14T22:13:04.074862Z",
+  "ts": "2026-11-14T22:14:15.835914Z",
   "mint": "bSU2Zy75MJiF25Y1VcV9ARhJv2hfai9w38vW1q6pump",
   "name": "Fede The Flamingo",
   "symbol": "Fede",
@@ -11,8 +11,8 @@
   "creator": "23xvGj6Y3tMaJLbx2XfCnAoakNvgntNaH9VvcuqQeNdG",
   "holders": null,
   "link": "https://fomo.family/coin?address=bSU2Zy75MJiF25Y1VcV9ARhJv2hfai9w38vW1q6pump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 8.458e-05,
-  "priceTs": "2026-11-14T22:13:03.877740Z",
+  "price": 8.305e-05,
+  "priceTs": "2026-11-14T22:14:15.638506Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -592,12 +592,20 @@
       "l": 8.458e-05,
       "c": 8.458e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794694440,
+      "o": 8.305e-05,
+      "h": 8.305e-05,
+      "l": 8.305e-05,
+      "c": 8.305e-05,
+      "v": 102.15
     }
   ],
   "stats": {
-    "marketCap": 80929.0,
-    "liquidity": 23929.27,
-    "volume24h": 110997.14,
+    "marketCap": 79460.0,
+    "liquidity": 23694.0,
+    "volume24h": 111054.24,
     "holders": null
   },
   "position": null,
