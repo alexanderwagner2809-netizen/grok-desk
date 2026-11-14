@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-14T21:45:38.664205Z",
+  "mint": "DnKe4dh1JcPrf9FMopDGs198ZhLNzwfWG459bdUpump",
+  "name": "Operation TorNado",
+  "symbol": "TorNado",
+  "label": "Operation TorNado",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-14T21:44:29.272766Z",
+  "pool": "HANtrpGTPPKbujpwoYT4vqTm2U1e3j85e7WtfAKxtBDK",
+  "creator": "6P2xVp79ErL2JBn9SzHRqwGmBusVw6aabH2wuWamLaww",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=DnKe4dh1JcPrf9FMopDGs198ZhLNzwfWG459bdUpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 1.791e-05,
+  "priceTs": "2026-11-14T21:45:38.324055Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794692700,
+      "o": 2.274e-05,
+      "h": 2.274e-05,
+      "l": 1.791e-05,
+      "c": 1.791e-05,
+      "v": 9786.48
+    }
+  ],
+  "stats": {
+    "marketCap": 17913.0,
+    "liquidity": 8255.63,
+    "volume24h": 12389.33,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-14T21:45:00.203190Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -21.6,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}
