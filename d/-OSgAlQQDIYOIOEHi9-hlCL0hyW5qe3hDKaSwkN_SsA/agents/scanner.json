@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-14T22:08:19.070141Z",
+  "ts": "2026-11-14T22:09:30.538619Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T22:08:17.099480Z",
+  "heartbeat": "2026-11-14T22:09:28.138755Z",
   "paused": false,
   "status": "running",
-  "card": "614 pools",
-  "count": 614,
+  "card": "615 pools",
+  "count": 615,
   "passed": 0,
   "feed": [
+    {
+      "mint": "6DqxB4pbxjyTcdfpSa9VcftwTN2ZyYqLh71qQa8ppump",
+      "label": "McPengu",
+      "verdict": "kill",
+      "reason": "liq $12.5K",
+      "subtitle": "liq $12.5K",
+      "link": "https://fomo.family/coin?address=6DqxB4pbxjyTcdfpSa9VcftwTN2ZyYqLh71qQa8ppump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "DHTdHT78Jq3Scy8bPCU3Gi7uWhuJvnRKYQnYsfZtpump",
       "label": "50th Anniversary of Peanuts",
@@ -66,19 +74,19 @@
       "reason": "liq $92",
       "subtitle": "liq $92",
       "link": "https://fomo.family/coin?address=2RiDuuuNrPgzhBhTPyFxTizxW5LdznZdjY7V6oMHpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump",
-      "label": "Unstable Solana Coin",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T22:09:20.886841Z",
+      "mint": "6DqxB4pbxjyTcdfpSa9VcftwTN2ZyYqLh71qQa8ppump",
+      "label": "McPengu",
+      "verdict": "kill",
+      "reason": "liq $12.5K",
+      "link": "https://fomo.family/coin?address=6DqxB4pbxjyTcdfpSa9VcftwTN2ZyYqLh71qQa8ppump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T22:06:08.504913Z",
       "mint": "DHTdHT78Jq3Scy8bPCU3Gi7uWhuJvnRKYQnYsfZtpump",
       "label": "50th Anniversary of Peanuts",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=DnKe4dh1JcPrf9FMopDGs198ZhLNzwfWG459bdUpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:44:05.517992Z",
-      "mint": "HP3NPg5dTRctvXRA6raKSzQ1fr5cpkorgQGacd6GpXw",
-      "label": "Prism",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=HP3NPg5dTRctvXRA6raKSzQ1fr5cpkorgQGacd6GpXw&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T22:09:20.886841Z",
+      "mint": "6DqxB4pbxjyTcdfpSa9VcftwTN2ZyYqLh71qQa8ppump",
+      "label": "McPengu",
+      "verdict": "kill",
+      "reason": "liq $12.5K",
+      "link": "https://fomo.family/coin?address=6DqxB4pbxjyTcdfpSa9VcftwTN2ZyYqLh71qQa8ppump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T22:06:08.504913Z",
       "mint": "DHTdHT78Jq3Scy8bPCU3Gi7uWhuJvnRKYQnYsfZtpump",
       "label": "50th Anniversary of Peanuts",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=DnKe4dh1JcPrf9FMopDGs198ZhLNzwfWG459bdUpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:44:05.517992Z",
-      "mint": "HP3NPg5dTRctvXRA6raKSzQ1fr5cpkorgQGacd6GpXw",
-      "label": "Prism",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=HP3NPg5dTRctvXRA6raKSzQ1fr5cpkorgQGacd6GpXw&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
