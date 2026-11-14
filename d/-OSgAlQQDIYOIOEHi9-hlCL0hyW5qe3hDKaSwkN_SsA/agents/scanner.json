@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-14T21:53:59.720745Z",
+  "ts": "2026-11-14T21:55:11.060061Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T21:53:58.091126Z",
+  "heartbeat": "2026-11-14T21:55:09.277811Z",
   "paused": false,
   "status": "running",
-  "card": "604 pools",
-  "count": 604,
+  "card": "605 pools",
+  "count": 605,
   "passed": 0,
   "feed": [
+    {
+      "mint": "B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump",
+      "label": "The Singularity",
+      "verdict": "kill",
+      "reason": "liq $11.3K",
+      "subtitle": "liq $11.3K",
+      "link": "https://fomo.family/coin?address=B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "CTQZnA76UPRd1TQUywN2Ympy2RU7BhZAvtahmsaTbonk",
       "label": "CTQZnA76",
@@ -66,19 +74,19 @@
       "reason": "never qualified",
       "subtitle": "never qualified",
       "link": "https://fomo.family/coin?address=Erp8cPhVJvyxywWa5r2qdP2YrQcSZ5attV4phZPdpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump",
-      "label": "Chewbarka",
-      "verdict": "kill",
-      "reason": "liq $6",
-      "subtitle": "liq $6",
-      "link": "https://fomo.family/coin?address=EYXDgsBfjjZaFPhPn76KP6nRtGqJqPV8f2MdML5qpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T21:54:17.150787Z",
+      "mint": "B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump",
+      "label": "The Singularity",
+      "verdict": "kill",
+      "reason": "liq $11.3K",
+      "link": "https://fomo.family/coin?address=B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:53:49.816064Z",
       "mint": "CTQZnA76UPRd1TQUywN2Ympy2RU7BhZAvtahmsaTbonk",
       "label": "CTQZnA76",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $10.7K",
       "link": "https://fomo.family/coin?address=43WniQB5x3wk93ZUJVYVybfTWiQB9d8uwjaqJTohpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:33:49.811006Z",
-      "mint": "Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump",
-      "label": "Everybody Lies",
-      "verdict": "kill",
-      "reason": "liq $9.2K",
-      "link": "https://fomo.family/coin?address=Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T21:54:17.150787Z",
+      "mint": "B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump",
+      "label": "The Singularity",
+      "verdict": "kill",
+      "reason": "liq $11.3K",
+      "link": "https://fomo.family/coin?address=B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:53:49.816064Z",
       "mint": "CTQZnA76UPRd1TQUywN2Ympy2RU7BhZAvtahmsaTbonk",
       "label": "CTQZnA76",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $10.7K",
       "link": "https://fomo.family/coin?address=43WniQB5x3wk93ZUJVYVybfTWiQB9d8uwjaqJTohpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:33:49.811006Z",
-      "mint": "Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump",
-      "label": "Everybody Lies",
-      "verdict": "kill",
-      "reason": "liq $9.2K",
-      "link": "https://fomo.family/coin?address=Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

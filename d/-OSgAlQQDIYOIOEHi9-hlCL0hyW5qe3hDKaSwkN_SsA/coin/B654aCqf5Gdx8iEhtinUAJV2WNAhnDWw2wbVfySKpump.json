@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-14T21:53:59.012115Z",
+  "ts": "2026-11-14T21:55:09.442283Z",
   "mint": "B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump",
-  "name": null,
-  "symbol": null,
-  "label": "B654aCqf",
+  "name": "The Singularity",
+  "symbol": "SINGULARITY",
+  "label": "The Singularity",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-14T21:53:14.650254Z",
-  "pool": null,
+  "pool": "6V2Zoo4Hw6VXeTBvAYzpNEFUKCvHHVdNTQtCk9bKBFzr",
   "creator": "H9gPw56cF1pLScaFzns2oNiwTW257HqaFqoNiQUHCgrw",
   "holders": null,
   "link": "https://fomo.family/coin?address=B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.097e-05,
+  "priceTs": "2026-11-14T21:55:09.209360Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794693240,
+      "o": 3.173e-05,
+      "h": 3.173e-05,
+      "l": 3.173e-05,
+      "c": 3.173e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794693300,
+      "o": 3.097e-05,
+      "h": 3.097e-05,
+      "l": 3.097e-05,
+      "c": 3.097e-05,
+      "v": 13949.82
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 30918.0,
+    "liquidity": 11194.64,
+    "volume24h": 18880.1,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-14T21:54:17.150787Z",
+      "liquidity_usd": 11267.45,
+      "top10_pct": null,
+      "h1_change_pct": 9.68,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $11.3K"
+    }
+  ]
 }
