@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-14T21:40:53.108689Z",
+  "ts": "2026-11-14T21:42:04.537632Z",
   "mint": "A3JUqWEvV93RfUMBYvj6vV181P5BAGqsBCQAZoEfpump",
-  "name": null,
-  "symbol": null,
-  "label": "A3JUqWEv",
+  "name": "TornadoCash",
+  "symbol": "TORN",
+  "label": "TornadoCash",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-14T21:40:45.942894Z",
-  "pool": null,
+  "pool": "231BjKhjbfKEw88rxHnzNb892EN5DJ8nmcYgtsiQDCJ6",
   "creator": "HjhsyMRdiBRKEHpSv7gM2BiC43jnmLUfdou2dgv4ira5",
   "holders": null,
   "link": "https://fomo.family/coin?address=A3JUqWEvV93RfUMBYvj6vV181P5BAGqsBCQAZoEfpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.401e-05,
+  "priceTs": "2026-11-14T21:42:04.274040Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794692460,
+      "o": 2.922e-05,
+      "h": 2.922e-05,
+      "l": 2.922e-05,
+      "c": 2.922e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794692520,
+      "o": 3.401e-05,
+      "h": 3.401e-05,
+      "l": 3.401e-05,
+      "c": 3.401e-05,
+      "v": 9999.720000000001
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 33970.0,
+    "liquidity": 11756.72,
+    "volume24h": 10027.53,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-14T21:41:18.495098Z",
+      "liquidity_usd": 10794.06,
+      "top10_pct": null,
+      "h1_change_pct": 0.71,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $10.8K"
+    }
+  ]
 }
