@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-14T21:55:09.453141Z",
+  "ts": "2026-11-14T21:56:20.839092Z",
   "mint": "A3JUqWEvV93RfUMBYvj6vV181P5BAGqsBCQAZoEfpump",
   "name": "TornadoCash",
   "symbol": "TORN",
   "label": "TornadoCash",
   "chain": "Solana",
-  "age": "14m old",
+  "age": "15m old",
   "migratedAt": "2026-11-14T21:40:45.942894Z",
   "pool": "231BjKhjbfKEw88rxHnzNb892EN5DJ8nmcYgtsiQDCJ6",
   "creator": "HjhsyMRdiBRKEHpSv7gM2BiC43jnmLUfdou2dgv4ira5",
   "holders": null,
   "link": "https://fomo.family/coin?address=A3JUqWEvV93RfUMBYvj6vV181P5BAGqsBCQAZoEfpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 6.379e-05,
-  "priceTs": "2026-11-14T21:55:09.209360Z",
+  "price": 6.039e-05,
+  "priceTs": "2026-11-14T21:56:20.607307Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -120,12 +120,20 @@
       "l": 6.379e-05,
       "c": 6.379e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794693360,
+      "o": 6.039e-05,
+      "h": 6.039e-05,
+      "l": 6.039e-05,
+      "c": 6.039e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 63705.0,
-    "liquidity": 16666.43,
-    "volume24h": 92065.92,
+    "marketCap": 60304.0,
+    "liquidity": 16197.43,
+    "volume24h": 100948.52,
     "holders": null
   },
   "position": null,
