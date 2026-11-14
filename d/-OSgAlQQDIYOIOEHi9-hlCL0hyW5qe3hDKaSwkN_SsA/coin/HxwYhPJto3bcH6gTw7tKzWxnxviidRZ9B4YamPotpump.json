@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-14T21:30:09.892572Z",
+  "ts": "2026-11-14T21:31:20.088526Z",
   "mint": "HxwYhPJto3bcH6gTw7tKzWxnxviidRZ9B4YamPotpump",
-  "name": null,
-  "symbol": null,
-  "label": "HxwYhPJt",
+  "name": "RUG KILLA ZONE",
+  "symbol": "RUGKZ",
+  "label": "RUG KILLA ZONE",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "2m old",
   "migratedAt": "2026-11-14T21:29:18.582271Z",
-  "pool": null,
+  "pool": "Fwe6aN5yePkyTTxu965ycvLmir5LfiFSK1SjTVFTqDJj",
   "creator": "BdgFbZVoaP9hjcfprVJTGtgoaN3zCZUHi9j9UqQ5unLj",
   "holders": null,
   "link": "https://fomo.family/coin?address=HxwYhPJto3bcH6gTw7tKzWxnxviidRZ9B4YamPotpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.84e-05,
+  "priceTs": "2026-11-14T21:31:19.835417Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794691800,
+      "o": 2.677e-05,
+      "h": 2.677e-05,
+      "l": 2.677e-05,
+      "c": 2.677e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794691860,
+      "o": 2.84e-05,
+      "h": 2.84e-05,
+      "l": 2.84e-05,
+      "c": 2.84e-05,
+      "v": 280.09000000000003
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 28320.0,
+    "liquidity": 10591.97,
+    "volume24h": 614.96,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-14T21:30:20.310127Z",
+      "liquidity_usd": 10244.37,
+      "top10_pct": null,
+      "h1_change_pct": -7.35,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $10.2K"
+    }
+  ]
 }
