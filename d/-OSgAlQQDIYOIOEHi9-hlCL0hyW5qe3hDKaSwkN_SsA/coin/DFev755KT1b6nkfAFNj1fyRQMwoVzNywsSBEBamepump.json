@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-14T21:48:02.234175Z",
+  "ts": "2026-11-14T21:49:12.678317Z",
   "mint": "DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump",
-  "name": null,
-  "symbol": null,
-  "label": "DFev755K",
+  "name": "USPR",
+  "symbol": "USPR",
+  "label": "USPR",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-14T21:47:14.872517Z",
-  "pool": null,
+  "pool": "8kgpaa3Nab4iNKGPMBtrAfwCNBNvmgmD2Hex7ZFdhPov",
   "creator": "4pBfhGnnaT4ySA56pPm6ZkBri52qjgtJYwkeVF8XCbVi",
   "holders": null,
   "link": "https://fomo.family/coin?address=DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 0.101,
+  "priceTs": "2026-11-14T21:49:12.381377Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794692880,
+      "o": 0.101,
+      "h": 0.101,
+      "l": 0.101,
+      "c": 0.101,
+      "v": 0.0
+    },
+    {
+      "t": 1794692940,
+      "o": 0.101,
+      "h": 0.101,
+      "l": 0.101,
+      "c": 0.101,
+      "v": 0.0
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 101097011.0,
+    "liquidity": 706947.61,
+    "volume24h": 347720.37,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-14T21:48:16.131404Z",
+      "liquidity_usd": 706947.61,
+      "top10_pct": null,
+      "h1_change_pct": 345452.0,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "+345452% in 1h"
+    }
+  ]
 }
