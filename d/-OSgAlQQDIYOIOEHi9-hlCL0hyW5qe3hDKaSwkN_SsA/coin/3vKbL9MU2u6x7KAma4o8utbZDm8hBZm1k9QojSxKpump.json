@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-14T21:17:00.136765Z",
+  "ts": "2026-11-14T21:18:11.802049Z",
   "mint": "3vKbL9MU2u6x7KAma4o8utbZDm8hBZm1k9QojSxKpump",
   "name": "The Stoic Elephant",
   "symbol": "LONGURO",
@@ -11,8 +11,8 @@
   "creator": "9t3zcr8PvviMP5kD33RgoJvfH4rSN1LjcmreSSdYgX8p",
   "holders": null,
   "link": "https://fomo.family/coin?address=3vKbL9MU2u6x7KAma4o8utbZDm8hBZm1k9QojSxKpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 4.464e-06,
-  "priceTs": "2026-11-14T21:16:59.812314Z",
+  "price": 4.452e-06,
+  "priceTs": "2026-11-14T21:18:11.502169Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -248,12 +248,20 @@
       "l": 4.464e-06,
       "c": 4.464e-06,
       "v": 0.0
+    },
+    {
+      "t": 1794691080,
+      "o": 4.452e-06,
+      "h": 4.452e-06,
+      "l": 4.452e-06,
+      "c": 4.452e-06,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 4241.0,
-    "liquidity": 3475.01,
-    "volume24h": 17360.27,
+    "marketCap": 4230.0,
+    "liquidity": 3468.59,
+    "volume24h": 17267.65,
     "holders": null
   },
   "position": null,
