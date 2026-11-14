@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-13T20:27:31.264214Z",
+  "ts": "2026-11-14T21:17:00.122013Z",
   "mint": "EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump",
   "name": "GR00T 2",
   "symbol": "GR00T2",
   "label": "GR00T 2",
   "chain": "Solana",
-  "age": "24m old",
+  "age": "25h old",
   "migratedAt": "2026-11-13T20:02:51.266625Z",
   "pool": "GGp2e6fcRv1yEkKsZw5j4kG1gdGrA1yomJmyzcTizDFn",
   "creator": "HJ4pyx9cbsVA88ia1pc5z2ovXneNV1vLzDP7T4LiDEvt",
   "holders": null,
   "link": "https://fomo.family/coin?address=EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.0001312,
-  "priceTs": "2026-11-13T20:27:30.960353Z",
+  "price": 1.12e-05,
+  "priceTs": "2026-11-14T21:16:59.812314Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -176,12 +176,20 @@
       "l": 0.0001312,
       "c": 0.0001312,
       "v": 28695.600000000002
+    },
+    {
+      "t": 1794690960,
+      "o": 1.12e-05,
+      "h": 1.12e-05,
+      "l": 1.12e-05,
+      "c": 1.12e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 131014.0,
-    "liquidity": 30498.05,
-    "volume24h": 104752.3,
+    "marketCap": 10864.0,
+    "liquidity": 7817.77,
+    "volume24h": 254901.94,
     "holders": null
   },
   "position": null,
