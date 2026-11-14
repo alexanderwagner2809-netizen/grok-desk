@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-14T21:28:58.285126Z",
+  "ts": "2026-11-14T21:30:09.989998Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T21:28:55.936169Z",
+  "heartbeat": "2026-11-14T21:30:07.868191Z",
   "paused": false,
   "status": "running",
-  "card": "582 pools",
-  "count": 582,
+  "card": "584 pools",
+  "count": 584,
   "passed": 0,
   "feed": [
+    {
+      "mint": "7Qazujp9rSB3WUejTrMcFsbewXCtTPFqjXpjg25Upump",
+      "label": "MechaZilla",
+      "verdict": "kill",
+      "reason": "liq $10.8K",
+      "subtitle": "liq $10.8K",
+      "link": "https://fomo.family/coin?address=7Qazujp9rSB3WUejTrMcFsbewXCtTPFqjXpjg25Upump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "98R1AZxoJ7maU5y8RwRzSfS3zQPnW1qXDLQUcAS5pump",
+      "label": "FOTF",
+      "verdict": "kill",
+      "reason": "+127045% in 1h",
+      "subtitle": "+127045% in 1h",
+      "link": "https://fomo.family/coin?address=98R1AZxoJ7maU5y8RwRzSfS3zQPnW1qXDLQUcAS5pump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump",
       "label": "The White Bear",
@@ -58,27 +74,27 @@
       "reason": "liq $59",
       "subtitle": "liq $59",
       "link": "https://fomo.family/coin?address=4Ap1RMAHkMNsjbvDKHHzBUe1jYDjj8nsVj4TpGcbpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "G9E8zzhdqCGpGqrHSgL2CKW1MuAbCVTQPFUhFk72pump",
-      "label": "Charity",
-      "verdict": "kill",
-      "reason": "liq $3.0K",
-      "subtitle": "liq $3.0K",
-      "link": "https://fomo.family/coin?address=G9E8zzhdqCGpGqrHSgL2CKW1MuAbCVTQPFUhFk72pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "Anu1DbrBDfKFDdxgNcZfieXgNjMu1WBh3HHxjLJppump",
-      "label": "moo-ve.site",
-      "verdict": "kill",
-      "reason": "liq $10.9K",
-      "subtitle": "liq $10.9K",
-      "link": "https://fomo.family/coin?address=Anu1DbrBDfKFDdxgNcZfieXgNjMu1WBh3HHxjLJppump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T21:29:02.493844Z",
+      "mint": "7Qazujp9rSB3WUejTrMcFsbewXCtTPFqjXpjg25Upump",
+      "label": "MechaZilla",
+      "verdict": "kill",
+      "reason": "liq $10.8K",
+      "link": "https://fomo.family/coin?address=7Qazujp9rSB3WUejTrMcFsbewXCtTPFqjXpjg25Upump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T21:29:02.492479Z",
+      "mint": "98R1AZxoJ7maU5y8RwRzSfS3zQPnW1qXDLQUcAS5pump",
+      "label": "FOTF",
+      "verdict": "kill",
+      "reason": "+127045% in 1h",
+      "link": "https://fomo.family/coin?address=98R1AZxoJ7maU5y8RwRzSfS3zQPnW1qXDLQUcAS5pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:27:18.780564Z",
       "mint": "HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump",
       "label": "The White Bear",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "+145% in 1h",
       "link": "https://fomo.family/coin?address=HcJGYDM5bS19fDSMUHNcH6wKP68kmHksNmXsTW2Wpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:05:24.150360Z",
-      "mint": "9jh6f2mEsoPMwrQ1XJA17Rzy3Y9VWmH4FvGXXhZJpump",
-      "label": "GTA 6  Ballfin",
-      "verdict": "kill",
-      "reason": "copycat of b",
-      "link": "https://fomo.family/coin?address=9jh6f2mEsoPMwrQ1XJA17Rzy3Y9VWmH4FvGXXhZJpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:03:42.118019Z",
-      "mint": "EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump",
-      "label": "GR00T 2",
-      "verdict": "kill",
-      "reason": "liq $18.0K",
-      "link": "https://fomo.family/coin?address=EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T21:29:02.493844Z",
+      "mint": "7Qazujp9rSB3WUejTrMcFsbewXCtTPFqjXpjg25Upump",
+      "label": "MechaZilla",
+      "verdict": "kill",
+      "reason": "liq $10.8K",
+      "link": "https://fomo.family/coin?address=7Qazujp9rSB3WUejTrMcFsbewXCtTPFqjXpjg25Upump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T21:29:02.492479Z",
+      "mint": "98R1AZxoJ7maU5y8RwRzSfS3zQPnW1qXDLQUcAS5pump",
+      "label": "FOTF",
+      "verdict": "kill",
+      "reason": "+127045% in 1h",
+      "link": "https://fomo.family/coin?address=98R1AZxoJ7maU5y8RwRzSfS3zQPnW1qXDLQUcAS5pump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:27:18.780564Z",
       "mint": "HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump",
       "label": "The White Bear",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "+145% in 1h",
       "link": "https://fomo.family/coin?address=HcJGYDM5bS19fDSMUHNcH6wKP68kmHksNmXsTW2Wpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:05:24.150360Z",
-      "mint": "9jh6f2mEsoPMwrQ1XJA17Rzy3Y9VWmH4FvGXXhZJpump",
-      "label": "GTA 6  Ballfin",
-      "verdict": "kill",
-      "reason": "copycat of b",
-      "link": "https://fomo.family/coin?address=9jh6f2mEsoPMwrQ1XJA17Rzy3Y9VWmH4FvGXXhZJpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:03:42.118019Z",
-      "mint": "EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump",
-      "label": "GR00T 2",
-      "verdict": "kill",
-      "reason": "liq $18.0K",
-      "link": "https://fomo.family/coin?address=EtVFUXdLwKEwNXg7eoQ1JJX2BG6LCUxRq5oxBuSnpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

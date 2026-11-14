@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-14T21:28:57.287996Z",
+  "ts": "2026-11-14T21:30:08.401119Z",
   "mint": "7Qazujp9rSB3WUejTrMcFsbewXCtTPFqjXpjg25Upump",
-  "name": null,
-  "symbol": null,
-  "label": "7Qazujp9",
+  "name": "MechaZilla",
+  "symbol": "MechaZilla",
+  "label": "MechaZilla",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-14T21:28:32.212211Z",
-  "pool": null,
+  "pool": "7pZUC2enTQATziSRVUnZMR3gL67DLWJ5ej8zqrJjrH7w",
   "creator": "9v6r4b3EfbPdj2R3GUxBreH8AmTjQd8dewHYoe2QTiSU",
   "holders": null,
   "link": "https://fomo.family/coin?address=7Qazujp9rSB3WUejTrMcFsbewXCtTPFqjXpjg25Upump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.721e-05,
+  "priceTs": "2026-11-14T21:30:08.160596Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794691740,
+      "o": 2.921e-05,
+      "h": 2.921e-05,
+      "l": 2.921e-05,
+      "c": 2.921e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794691800,
+      "o": 2.721e-05,
+      "h": 2.721e-05,
+      "l": 2.721e-05,
+      "c": 2.721e-05,
+      "v": 10151.08
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 27167.0,
+    "liquidity": 10367.84,
+    "volume24h": 14452.91,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-14T21:29:02.493844Z",
+      "liquidity_usd": 10757.83,
+      "top10_pct": null,
+      "h1_change_pct": 0.78,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $10.8K"
+    }
+  ]
 }
