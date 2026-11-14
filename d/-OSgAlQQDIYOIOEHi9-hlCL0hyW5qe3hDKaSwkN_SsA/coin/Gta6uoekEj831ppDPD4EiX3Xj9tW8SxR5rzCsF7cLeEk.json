@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-14T22:07:05.862566Z",
+  "ts": "2026-11-14T22:08:17.549920Z",
   "mint": "Gta6uoekEj831ppDPD4EiX3Xj9tW8SxR5rzCsF7cLeEk",
   "name": "Grand Theft Auto VI",
   "symbol": "GTA6",
@@ -11,8 +11,8 @@
   "creator": "7cvfSe1JYjUkfRiE7BDLrvf6BeXGghyH9TciEBYwAGvi",
   "holders": null,
   "link": "https://fomo.family/coin?address=Gta6uoekEj831ppDPD4EiX3Xj9tW8SxR5rzCsF7cLeEk&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.25e-05,
-  "priceTs": "2026-11-14T22:07:05.773677Z",
+  "price": 3.211e-05,
+  "priceTs": "2026-11-14T22:08:17.420361Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -664,12 +664,20 @@
       "l": 3.25e-05,
       "c": 3.25e-05,
       "v": 227.13
+    },
+    {
+      "t": 1794694080,
+      "o": 3.211e-05,
+      "h": 3.211e-05,
+      "l": 3.211e-05,
+      "c": 3.211e-05,
+      "v": 10.069999999999993
     }
   ],
   "stats": {
-    "marketCap": 31582.0,
-    "liquidity": 11988.46,
-    "volume24h": 217027.74,
+    "marketCap": 31204.0,
+    "liquidity": 11896.22,
+    "volume24h": 216968.46,
     "holders": null
   },
   "position": null,
