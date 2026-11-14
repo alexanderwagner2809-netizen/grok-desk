@@ -1,16 +1,40 @@
 {
-  "ts": "2026-11-14T21:34:55.990193Z",
+  "ts": "2026-11-14T21:36:07.473445Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T21:34:53.540091Z",
+  "heartbeat": "2026-11-14T21:36:04.815384Z",
   "paused": false,
   "status": "running",
-  "card": "586 pools",
-  "count": 586,
+  "card": "589 pools",
+  "count": 589,
   "passed": 0,
   "feed": [
+    {
+      "mint": "DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump",
+      "label": "ad astra",
+      "verdict": "kill",
+      "reason": "liq $10.9K",
+      "subtitle": "liq $10.9K",
+      "link": "https://fomo.family/coin?address=DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump",
+      "label": "Reaching Wiener Dog",
+      "verdict": "kill",
+      "reason": "liq $10.0K",
+      "subtitle": "liq $10.0K",
+      "link": "https://fomo.family/coin?address=5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "43WniQB5x3wk93ZUJVYVybfTWiQB9d8uwjaqJTohpump",
+      "label": "ANTHROPIC IPO",
+      "verdict": "kill",
+      "reason": "liq $10.7K",
+      "subtitle": "liq $10.7K",
+      "link": "https://fomo.family/coin?address=43WniQB5x3wk93ZUJVYVybfTWiQB9d8uwjaqJTohpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump",
       "label": "Everybody Lies",
@@ -50,35 +74,35 @@
       "reason": "+206% in 1h",
       "subtitle": "+206% in 1h",
       "link": "https://fomo.family/coin?address=HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "6ga1cD1jUHiqBbpwuuCDXT9yu6iGr82JTZGSgBBzpump",
-      "label": "The White Bear",
-      "verdict": "kill",
-      "reason": "liq $9.0K",
-      "subtitle": "liq $9.0K",
-      "link": "https://fomo.family/coin?address=6ga1cD1jUHiqBbpwuuCDXT9yu6iGr82JTZGSgBBzpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "Do6coQ1qHKMgVSHQhgbWBGqET9AYgxva4ict95ncpump",
-      "label": "DOOBIE",
-      "verdict": "kill",
-      "reason": "liq $714",
-      "subtitle": "liq $714",
-      "link": "https://fomo.family/coin?address=Do6coQ1qHKMgVSHQhgbWBGqET9AYgxva4ict95ncpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5ktihcNkA9uWjYwWrTnMA1yBHRFyozVFBzgzpbYwpump",
-      "label": "Mr Penis",
-      "verdict": "kill",
-      "reason": "liq $11.5K",
-      "subtitle": "liq $11.5K",
-      "link": "https://fomo.family/coin?address=5ktihcNkA9uWjYwWrTnMA1yBHRFyozVFBzgzpbYwpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T21:36:04.814950Z",
+      "mint": "DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump",
+      "label": "ad astra",
+      "verdict": "kill",
+      "reason": "liq $10.9K",
+      "link": "https://fomo.family/coin?address=DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T21:36:04.812936Z",
+      "mint": "5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump",
+      "label": "Reaching Wiener Dog",
+      "verdict": "kill",
+      "reason": "liq $10.0K",
+      "link": "https://fomo.family/coin?address=5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T21:35:26.641773Z",
+      "mint": "43WniQB5x3wk93ZUJVYVybfTWiQB9d8uwjaqJTohpump",
+      "label": "ANTHROPIC IPO",
+      "verdict": "kill",
+      "reason": "liq $10.7K",
+      "link": "https://fomo.family/coin?address=43WniQB5x3wk93ZUJVYVybfTWiQB9d8uwjaqJTohpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:33:49.811006Z",
       "mint": "Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump",
       "label": "Everybody Lies",
@@ -213,34 +237,34 @@
       "verdict": "kill",
       "reason": "liq $12.0K",
       "link": "https://fomo.family/coin?address=6kRSNnusHuWtL218UDQCF6Jg6H4RZPgJE55QHoFZpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:17:24.528899Z",
-      "mint": "EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt",
-      "label": "Cult",
-      "verdict": "kill",
-      "reason": "liq $3.3K",
-      "link": "https://fomo.family/coin?address=EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:17:11.389441Z",
-      "mint": "2wt4B6hskQxSEPevuoxTwSoJPv3R7xqRYoCkXUkNpump",
-      "label": "Solana Inu",
-      "verdict": "kill",
-      "reason": "liq $15.3K",
-      "link": "https://fomo.family/coin?address=2wt4B6hskQxSEPevuoxTwSoJPv3R7xqRYoCkXUkNpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:14:50.488343Z",
-      "mint": "5E6UjGDbuvquFnkvuuyaxFXwKKe4BaLzgxLEiHnTpump",
-      "label": "DISCO",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=5E6UjGDbuvquFnkvuuyaxFXwKKe4BaLzgxLEiHnTpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T21:36:04.814950Z",
+      "mint": "DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump",
+      "label": "ad astra",
+      "verdict": "kill",
+      "reason": "liq $10.9K",
+      "link": "https://fomo.family/coin?address=DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T21:36:04.812936Z",
+      "mint": "5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump",
+      "label": "Reaching Wiener Dog",
+      "verdict": "kill",
+      "reason": "liq $10.0K",
+      "link": "https://fomo.family/coin?address=5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T21:35:26.641773Z",
+      "mint": "43WniQB5x3wk93ZUJVYVybfTWiQB9d8uwjaqJTohpump",
+      "label": "ANTHROPIC IPO",
+      "verdict": "kill",
+      "reason": "liq $10.7K",
+      "link": "https://fomo.family/coin?address=43WniQB5x3wk93ZUJVYVybfTWiQB9d8uwjaqJTohpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:33:49.811006Z",
       "mint": "Bg1eucRYEiAN5mEy3baS9mLb2JsR6jNdgPH38nvVpump",
       "label": "Everybody Lies",
@@ -375,30 +399,6 @@
       "verdict": "kill",
       "reason": "liq $12.0K",
       "link": "https://fomo.family/coin?address=6kRSNnusHuWtL218UDQCF6Jg6H4RZPgJE55QHoFZpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:17:24.528899Z",
-      "mint": "EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt",
-      "label": "Cult",
-      "verdict": "kill",
-      "reason": "liq $3.3K",
-      "link": "https://fomo.family/coin?address=EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:17:11.389441Z",
-      "mint": "2wt4B6hskQxSEPevuoxTwSoJPv3R7xqRYoCkXUkNpump",
-      "label": "Solana Inu",
-      "verdict": "kill",
-      "reason": "liq $15.3K",
-      "link": "https://fomo.family/coin?address=2wt4B6hskQxSEPevuoxTwSoJPv3R7xqRYoCkXUkNpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-13T20:14:50.488343Z",
-      "mint": "5E6UjGDbuvquFnkvuuyaxFXwKKe4BaLzgxLEiHnTpump",
-      "label": "DISCO",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=5E6UjGDbuvquFnkvuuyaxFXwKKe4BaLzgxLEiHnTpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-14T21:34:54.781044Z",
+  "ts": "2026-11-14T21:36:05.923673Z",
   "mint": "43WniQB5x3wk93ZUJVYVybfTWiQB9d8uwjaqJTohpump",
-  "name": null,
-  "symbol": null,
-  "label": "43WniQB5",
+  "name": "ANTHROPIC IPO",
+  "symbol": "AI IPO",
+  "label": "ANTHROPIC IPO",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-14T21:34:26.729041Z",
-  "pool": null,
+  "pool": "GctPp5fRAivqhKnSw3okD915zQZE9hbAFWjLB3tERRtw",
   "creator": "3ccPtrCDXaDSPwMjUZ8M93f9jo66K6anYm48PDXPCSLL",
   "holders": null,
   "link": "https://fomo.family/coin?address=43WniQB5x3wk93ZUJVYVybfTWiQB9d8uwjaqJTohpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.007e-05,
+  "priceTs": "2026-11-14T21:36:05.607857Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794692100,
+      "o": 2.903e-05,
+      "h": 2.903e-05,
+      "l": 2.903e-05,
+      "c": 2.903e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794692160,
+      "o": 3.007e-05,
+      "h": 3.007e-05,
+      "l": 3.007e-05,
+      "c": 3.007e-05,
+      "v": 7.060000000000002
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 30028.0,
+    "liquidity": 10940.38,
+    "volume24h": 228.31,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-14T21:35:26.641773Z",
+      "liquidity_usd": 10728.59,
+      "top10_pct": null,
+      "h1_change_pct": 0.93,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $10.7K"
+    }
+  ]
 }
