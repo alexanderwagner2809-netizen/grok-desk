@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-14T21:51:35.307818Z",
+  "ts": "2026-11-14T21:52:46.779538Z",
   "mint": "DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump",
   "name": "USPR",
   "symbol": "USPR",
   "label": "USPR",
   "chain": "Solana",
-  "age": "4m old",
+  "age": "5m old",
   "migratedAt": "2026-11-14T21:47:14.872517Z",
   "pool": "8kgpaa3Nab4iNKGPMBtrAfwCNBNvmgmD2Hex7ZFdhPov",
   "creator": "4pBfhGnnaT4ySA56pPm6ZkBri52qjgtJYwkeVF8XCbVi",
   "holders": null,
   "link": "https://fomo.family/coin?address=DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 0.101,
-  "priceTs": "2026-11-14T21:51:35.047134Z",
+  "price": 0.1002,
+  "priceTs": "2026-11-14T21:52:46.532247Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -48,11 +48,19 @@
       "l": 0.101,
       "c": 0.101,
       "v": 0.0
+    },
+    {
+      "t": 1794693120,
+      "o": 0.1002,
+      "h": 0.1002,
+      "l": 0.1002,
+      "c": 0.1002,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 101097011.0,
-    "liquidity": 706947.61,
+    "marketCap": 100247801.0,
+    "liquidity": 700665.11,
     "volume24h": 347720.37,
     "holders": null
   },

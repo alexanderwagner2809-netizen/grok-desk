@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-14T21:52:46.777626Z",
+  "mint": "8BXhoVho1Xui2Bu3MG1soj5DEP6jFzfLbcVnsm4jpump",
+  "name": "DOGE PAID",
+  "symbol": "DOGE PAID",
+  "label": "DOGE PAID",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-14T21:51:57.024936Z",
+  "pool": "DDDQcUvegxZw6TLXHxeiLsf76myxAF5DxoqUAUcsy5Xz",
+  "creator": "88fUbBd5Apf7stjWeRbjwxCG3b7VXnur6ggmKqnay28U",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=8BXhoVho1Xui2Bu3MG1soj5DEP6jFzfLbcVnsm4jpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 1.136e-08,
+  "priceTs": "2026-11-14T21:52:46.532247Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794693120,
+      "o": 3.607e-07,
+      "h": 3.607e-07,
+      "l": 1.136e-08,
+      "c": 1.136e-08,
+      "v": 216.06
+    }
+  ],
+  "stats": {
+    "marketCap": 23.0,
+    "liquidity": 26.93,
+    "volume24h": 243.23,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-14T21:52:27.954539Z",
+      "liquidity_usd": 347.74,
+      "top10_pct": null,
+      "h1_change_pct": 5.36,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $348"
+    }
+  ]
+}

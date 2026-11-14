@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-14T21:51:36.848506Z",
+  "ts": "2026-11-14T21:52:48.322717Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T21:51:35.078472Z",
+  "heartbeat": "2026-11-14T21:52:46.354761Z",
   "paused": false,
   "status": "running",
-  "card": "600 pools",
-  "count": 600,
+  "card": "602 pools",
+  "count": 602,
   "passed": 0,
   "feed": [
+    {
+      "mint": "8BXhoVho1Xui2Bu3MG1soj5DEP6jFzfLbcVnsm4jpump",
+      "label": "DOGE PAID",
+      "verdict": "kill",
+      "reason": "liq $348",
+      "subtitle": "liq $348",
+      "link": "https://fomo.family/coin?address=8BXhoVho1Xui2Bu3MG1soj5DEP6jFzfLbcVnsm4jpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "VPX6Jju2J2v5mCsYKZ5nnAb3hKMLxpFVFcKpgXMpump",
+      "label": "BrokeAF",
+      "verdict": "kill",
+      "reason": "liq $11.0K",
+      "subtitle": "liq $11.0K",
+      "link": "https://fomo.family/coin?address=VPX6Jju2J2v5mCsYKZ5nnAb3hKMLxpFVFcKpgXMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "BAVovVYUrjsfhaZPkcrkwp6uSXh18P31VrHEwzWbpump",
       "label": "wolves coin",
@@ -58,27 +74,27 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=HP3NPg5dTRctvXRA6raKSzQ1fr5cpkorgQGacd6GpXw&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "DoxPhTrWWBLFecQNew1dqLNgzrbA1mLFg9cG7aMVpump",
-      "label": "Operation Tornado",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=DoxPhTrWWBLFecQNew1dqLNgzrbA1mLFg9cG7aMVpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "A3JUqWEvV93RfUMBYvj6vV181P5BAGqsBCQAZoEfpump",
-      "label": "TornadoCash",
-      "verdict": "kill",
-      "reason": "liq $10.8K",
-      "subtitle": "liq $10.8K",
-      "link": "https://fomo.family/coin?address=A3JUqWEvV93RfUMBYvj6vV181P5BAGqsBCQAZoEfpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T21:52:27.954539Z",
+      "mint": "8BXhoVho1Xui2Bu3MG1soj5DEP6jFzfLbcVnsm4jpump",
+      "label": "DOGE PAID",
+      "verdict": "kill",
+      "reason": "liq $348",
+      "link": "https://fomo.family/coin?address=8BXhoVho1Xui2Bu3MG1soj5DEP6jFzfLbcVnsm4jpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T21:52:27.951927Z",
+      "mint": "VPX6Jju2J2v5mCsYKZ5nnAb3hKMLxpFVFcKpgXMpump",
+      "label": "BrokeAF",
+      "verdict": "kill",
+      "reason": "liq $11.0K",
+      "link": "https://fomo.family/coin?address=VPX6Jju2J2v5mCsYKZ5nnAb3hKMLxpFVFcKpgXMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:49:53.957466Z",
       "mint": "BAVovVYUrjsfhaZPkcrkwp6uSXh18P31VrHEwzWbpump",
       "label": "wolves coin",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $10.8K",
       "link": "https://fomo.family/coin?address=7Qazujp9rSB3WUejTrMcFsbewXCtTPFqjXpjg25Upump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:29:02.492479Z",
-      "mint": "98R1AZxoJ7maU5y8RwRzSfS3zQPnW1qXDLQUcAS5pump",
-      "label": "FOTF",
-      "verdict": "kill",
-      "reason": "+127045% in 1h",
-      "link": "https://fomo.family/coin?address=98R1AZxoJ7maU5y8RwRzSfS3zQPnW1qXDLQUcAS5pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:27:18.780564Z",
-      "mint": "HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump",
-      "label": "The White Bear",
-      "verdict": "kill",
-      "reason": "+206% in 1h",
-      "link": "https://fomo.family/coin?address=HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T21:52:27.954539Z",
+      "mint": "8BXhoVho1Xui2Bu3MG1soj5DEP6jFzfLbcVnsm4jpump",
+      "label": "DOGE PAID",
+      "verdict": "kill",
+      "reason": "liq $348",
+      "link": "https://fomo.family/coin?address=8BXhoVho1Xui2Bu3MG1soj5DEP6jFzfLbcVnsm4jpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T21:52:27.951927Z",
+      "mint": "VPX6Jju2J2v5mCsYKZ5nnAb3hKMLxpFVFcKpgXMpump",
+      "label": "BrokeAF",
+      "verdict": "kill",
+      "reason": "liq $11.0K",
+      "link": "https://fomo.family/coin?address=VPX6Jju2J2v5mCsYKZ5nnAb3hKMLxpFVFcKpgXMpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:49:53.957466Z",
       "mint": "BAVovVYUrjsfhaZPkcrkwp6uSXh18P31VrHEwzWbpump",
       "label": "wolves coin",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $10.8K",
       "link": "https://fomo.family/coin?address=7Qazujp9rSB3WUejTrMcFsbewXCtTPFqjXpjg25Upump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:29:02.492479Z",
-      "mint": "98R1AZxoJ7maU5y8RwRzSfS3zQPnW1qXDLQUcAS5pump",
-      "label": "FOTF",
-      "verdict": "kill",
-      "reason": "+127045% in 1h",
-      "link": "https://fomo.family/coin?address=98R1AZxoJ7maU5y8RwRzSfS3zQPnW1qXDLQUcAS5pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:27:18.780564Z",
-      "mint": "HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump",
-      "label": "The White Bear",
-      "verdict": "kill",
-      "reason": "+206% in 1h",
-      "link": "https://fomo.family/coin?address=HucpwRFiJJm8kbSSerKyy3XmqdpTjm7gW1tugJv5pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
