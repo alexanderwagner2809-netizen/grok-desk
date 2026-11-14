@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-14T21:43:17.620277Z",
+  "ts": "2026-11-14T21:44:28.912288Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T21:43:15.860411Z",
+  "heartbeat": "2026-11-14T21:44:27.002119Z",
   "paused": false,
   "status": "running",
-  "card": "595 pools",
-  "count": 595,
+  "card": "596 pools",
+  "count": 596,
   "passed": 0,
   "feed": [
+    {
+      "mint": "HP3NPg5dTRctvXRA6raKSzQ1fr5cpkorgQGacd6GpXw",
+      "label": "Prism",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=HP3NPg5dTRctvXRA6raKSzQ1fr5cpkorgQGacd6GpXw&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "DoxPhTrWWBLFecQNew1dqLNgzrbA1mLFg9cG7aMVpump",
       "label": "Operation Tornado",
@@ -66,19 +74,19 @@
       "reason": "liq $10.9K",
       "subtitle": "liq $10.9K",
       "link": "https://fomo.family/coin?address=DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump",
-      "label": "Reaching Wiener Dog",
-      "verdict": "kill",
-      "reason": "liq $10.0K",
-      "subtitle": "liq $10.0K",
-      "link": "https://fomo.family/coin?address=5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T21:44:05.517992Z",
+      "mint": "HP3NPg5dTRctvXRA6raKSzQ1fr5cpkorgQGacd6GpXw",
+      "label": "Prism",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=HP3NPg5dTRctvXRA6raKSzQ1fr5cpkorgQGacd6GpXw&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:43:12.603100Z",
       "mint": "DoxPhTrWWBLFecQNew1dqLNgzrbA1mLFg9cG7aMVpump",
       "label": "Operation Tornado",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $59",
       "link": "https://fomo.family/coin?address=4Ap1RMAHkMNsjbvDKHHzBUe1jYDjj8nsVj4TpGcbpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:20:06.677718Z",
-      "mint": "G9E8zzhdqCGpGqrHSgL2CKW1MuAbCVTQPFUhFk72pump",
-      "label": "Charity",
-      "verdict": "kill",
-      "reason": "liq $3.0K",
-      "link": "https://fomo.family/coin?address=G9E8zzhdqCGpGqrHSgL2CKW1MuAbCVTQPFUhFk72pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T21:44:05.517992Z",
+      "mint": "HP3NPg5dTRctvXRA6raKSzQ1fr5cpkorgQGacd6GpXw",
+      "label": "Prism",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=HP3NPg5dTRctvXRA6raKSzQ1fr5cpkorgQGacd6GpXw&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:43:12.603100Z",
       "mint": "DoxPhTrWWBLFecQNew1dqLNgzrbA1mLFg9cG7aMVpump",
       "label": "Operation Tornado",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $59",
       "link": "https://fomo.family/coin?address=4Ap1RMAHkMNsjbvDKHHzBUe1jYDjj8nsVj4TpGcbpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:20:06.677718Z",
-      "mint": "G9E8zzhdqCGpGqrHSgL2CKW1MuAbCVTQPFUhFk72pump",
-      "label": "Charity",
-      "verdict": "kill",
-      "reason": "liq $3.0K",
-      "link": "https://fomo.family/coin?address=G9E8zzhdqCGpGqrHSgL2CKW1MuAbCVTQPFUhFk72pump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }

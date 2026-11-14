@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-14T21:43:16.112944Z",
+  "ts": "2026-11-14T21:44:27.433432Z",
   "mint": "BALLFiNPXRhugiUXxstiegkpPeE4oWZhzHVohAxWbG2v",
   "name": "GTA 6 Lottery",
   "symbol": "Ballfin",
@@ -11,8 +11,8 @@
   "creator": "H8xogsYChzkK1rVDsaKC5Cs4cGhaHWWvZq2bnfEdqTGD",
   "holders": null,
   "link": "https://fomo.family/coin?address=BALLFiNPXRhugiUXxstiegkpPeE4oWZhzHVohAxWbG2v&chainId=1399811149&r=savipww&source=share_link",
-  "price": 5.031e-05,
-  "priceTs": "2026-11-14T21:43:15.902663Z",
+  "price": 5.005e-05,
+  "priceTs": "2026-11-14T21:44:27.253491Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -568,12 +568,20 @@
       "l": 5.031e-05,
       "c": 5.031e-05,
       "v": 35.51
+    },
+    {
+      "t": 1794692640,
+      "o": 5.005e-05,
+      "h": 5.005e-05,
+      "l": 5.005e-05,
+      "c": 5.005e-05,
+      "v": 13.950000000000003
     }
   ],
   "stats": {
-    "marketCap": 49079.0,
-    "liquidity": 19832.26,
-    "volume24h": 73797.02,
+    "marketCap": 48829.0,
+    "liquidity": 19776.57,
+    "volume24h": 73303.72,
     "holders": null
   },
   "position": null,
