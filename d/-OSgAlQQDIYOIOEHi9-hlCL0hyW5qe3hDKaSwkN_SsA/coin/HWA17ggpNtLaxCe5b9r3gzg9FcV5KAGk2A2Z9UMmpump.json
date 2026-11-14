@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-14T21:37:18.989668Z",
+  "ts": "2026-11-14T21:38:29.025925Z",
   "mint": "HWA17ggpNtLaxCe5b9r3gzg9FcV5KAGk2A2Z9UMmpump",
-  "name": null,
-  "symbol": null,
-  "label": "HWA17ggp",
+  "name": "ringOS",
+  "symbol": "rOS",
+  "label": "ringOS",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-14T21:37:03.504956Z",
-  "pool": null,
+  "pool": "5GoesUwpBmf24ebJwRrHEooyYyBJZejyHD7T66JyDyN4",
   "creator": "Dbjo7CBkRepRAhcaKKxV1BjWyQUCVRdFdHWupyL5xoVu",
   "holders": null,
   "link": "https://fomo.family/coin?address=HWA17ggpNtLaxCe5b9r3gzg9FcV5KAGk2A2Z9UMmpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.626e-05,
+  "priceTs": "2026-11-14T21:38:28.785472Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794692220,
+      "o": 2.821e-05,
+      "h": 2.821e-05,
+      "l": 2.821e-05,
+      "c": 2.821e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794692280,
+      "o": 3.626e-05,
+      "h": 3.626e-05,
+      "l": 3.626e-05,
+      "c": 3.626e-05,
+      "v": 14372.769999999999
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 36192.0,
+    "liquidity": 12260.41,
+    "volume24h": 17229.44,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-14T21:37:34.522505Z",
+      "liquidity_usd": 10563.15,
+      "top10_pct": null,
+      "h1_change_pct": 1.77,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $10.6K"
+    }
+  ]
 }
