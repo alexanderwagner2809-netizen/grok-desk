@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-14T22:02:18.805408Z",
+  "mint": "2RiDuuuNrPgzhBhTPyFxTizxW5LdznZdjY7V6oMHpump",
+  "name": "meow",
+  "symbol": "wApe",
+  "label": "meow",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-14T22:01:20.201840Z",
+  "pool": "A1ym8LBH3cfhtks9wcQxRKykTZCbFNxe4p81jZPcFXeW",
+  "creator": "C3fd5tE1a42TC24ZyCY3HADV4jpAFaULg82o2c8TwTmE",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=2RiDuuuNrPgzhBhTPyFxTizxW5LdznZdjY7V6oMHpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.641e-08,
+  "priceTs": "2026-11-14T22:02:18.527879Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794693660,
+      "o": 1.321e-07,
+      "h": 1.321e-07,
+      "l": 1.321e-07,
+      "c": 1.321e-07,
+      "v": 0.0
+    },
+    {
+      "t": 1794693720,
+      "o": 3.641e-08,
+      "h": 3.641e-08,
+      "l": 3.641e-08,
+      "c": 3.641e-08,
+      "v": 700.95
+    }
+  ],
+  "stats": {
+    "marketCap": 73.0,
+    "liquidity": 40.71,
+    "volume24h": 910.82,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-14T22:01:56.747312Z",
+      "liquidity_usd": 91.98,
+      "top10_pct": null,
+      "h1_change_pct": -37.59,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $92"
+    }
+  ]
+}

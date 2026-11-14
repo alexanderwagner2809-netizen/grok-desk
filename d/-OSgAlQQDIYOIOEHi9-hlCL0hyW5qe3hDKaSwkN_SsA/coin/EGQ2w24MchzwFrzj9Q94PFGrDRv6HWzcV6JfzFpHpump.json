@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-14T22:02:18.804783Z",
+  "mint": "EGQ2w24MchzwFrzj9Q94PFGrDRv6HWzcV6JfzFpHpump",
+  "name": "Superjoe fun token",
+  "symbol": "Sfk",
+  "label": "Superjoe fun token",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-14T22:01:25.761331Z",
+  "pool": "2faFWJwQytjnkiQVkH6KH5ZsKuL5F9vREVeQeGmv7BQE",
+  "creator": "5Bd1zxmhMF6buoTdXFsuLXBzNMrTPSkjY2LmhvPkm3CT",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=EGQ2w24MchzwFrzj9Q94PFGrDRv6HWzcV6JfzFpHpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.038e-05,
+  "priceTs": "2026-11-14T22:02:18.527879Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794693660,
+      "o": 2.992e-05,
+      "h": 2.992e-05,
+      "l": 2.992e-05,
+      "c": 2.992e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794693720,
+      "o": 3.038e-05,
+      "h": 3.038e-05,
+      "l": 3.038e-05,
+      "c": 3.038e-05,
+      "v": 142.94
+    }
+  ],
+  "stats": {
+    "marketCap": 30385.0,
+    "liquidity": 11003.46,
+    "volume24h": 214.26,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-14T22:01:56.748705Z",
+      "liquidity_usd": 10906.27,
+      "top10_pct": null,
+      "h1_change_pct": 3.1,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $10.9K"
+    }
+  ]
+}

@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-14T22:01:08.644398Z",
+  "ts": "2026-11-14T22:02:20.336061Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T22:01:06.635370Z",
+  "heartbeat": "2026-11-14T22:02:18.270143Z",
   "paused": false,
   "status": "running",
-  "card": "607 pools",
-  "count": 607,
+  "card": "609 pools",
+  "count": 609,
   "passed": 0,
   "feed": [
+    {
+      "mint": "EGQ2w24MchzwFrzj9Q94PFGrDRv6HWzcV6JfzFpHpump",
+      "label": "Superjoe fun token",
+      "verdict": "kill",
+      "reason": "liq $10.9K",
+      "subtitle": "liq $10.9K",
+      "link": "https://fomo.family/coin?address=EGQ2w24MchzwFrzj9Q94PFGrDRv6HWzcV6JfzFpHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "2RiDuuuNrPgzhBhTPyFxTizxW5LdznZdjY7V6oMHpump",
+      "label": "meow",
+      "verdict": "kill",
+      "reason": "liq $92",
+      "subtitle": "liq $92",
+      "link": "https://fomo.family/coin?address=2RiDuuuNrPgzhBhTPyFxTizxW5LdznZdjY7V6oMHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump",
       "label": "Unstable Solana Coin",
@@ -58,27 +74,27 @@
       "reason": "liq $348",
       "subtitle": "liq $348",
       "link": "https://fomo.family/coin?address=8BXhoVho1Xui2Bu3MG1soj5DEP6jFzfLbcVnsm4jpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "VPX6Jju2J2v5mCsYKZ5nnAb3hKMLxpFVFcKpgXMpump",
-      "label": "BrokeAF",
-      "verdict": "kill",
-      "reason": "liq $11.0K",
-      "subtitle": "liq $11.0K",
-      "link": "https://fomo.family/coin?address=VPX6Jju2J2v5mCsYKZ5nnAb3hKMLxpFVFcKpgXMpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "BAVovVYUrjsfhaZPkcrkwp6uSXh18P31VrHEwzWbpump",
-      "label": "wolves coin",
-      "verdict": "kill",
-      "reason": "liq $33",
-      "subtitle": "liq $33",
-      "link": "https://fomo.family/coin?address=BAVovVYUrjsfhaZPkcrkwp6uSXh18P31VrHEwzWbpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T22:01:56.748705Z",
+      "mint": "EGQ2w24MchzwFrzj9Q94PFGrDRv6HWzcV6JfzFpHpump",
+      "label": "Superjoe fun token",
+      "verdict": "kill",
+      "reason": "liq $10.9K",
+      "link": "https://fomo.family/coin?address=EGQ2w24MchzwFrzj9Q94PFGrDRv6HWzcV6JfzFpHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T22:01:56.747312Z",
+      "mint": "2RiDuuuNrPgzhBhTPyFxTizxW5LdznZdjY7V6oMHpump",
+      "label": "meow",
+      "verdict": "kill",
+      "reason": "liq $92",
+      "link": "https://fomo.family/coin?address=2RiDuuuNrPgzhBhTPyFxTizxW5LdznZdjY7V6oMHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:57:58.482838Z",
       "mint": "2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump",
       "label": "Unstable Solana Coin",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $10.6K",
       "link": "https://fomo.family/coin?address=HWA17ggpNtLaxCe5b9r3gzg9FcV5KAGk2A2Z9UMmpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:36:55.386478Z",
-      "mint": "H9XTPGDuBmxXTPbdyS9jdrDnzVqHjyGuK5VUNNM4pump",
-      "label": "Grokvoxus",
-      "verdict": "kill",
-      "reason": "liq $11.0K",
-      "link": "https://fomo.family/coin?address=H9XTPGDuBmxXTPbdyS9jdrDnzVqHjyGuK5VUNNM4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:36:04.814950Z",
-      "mint": "DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump",
-      "label": "ad astra",
-      "verdict": "kill",
-      "reason": "liq $10.9K",
-      "link": "https://fomo.family/coin?address=DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T22:01:56.748705Z",
+      "mint": "EGQ2w24MchzwFrzj9Q94PFGrDRv6HWzcV6JfzFpHpump",
+      "label": "Superjoe fun token",
+      "verdict": "kill",
+      "reason": "liq $10.9K",
+      "link": "https://fomo.family/coin?address=EGQ2w24MchzwFrzj9Q94PFGrDRv6HWzcV6JfzFpHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T22:01:56.747312Z",
+      "mint": "2RiDuuuNrPgzhBhTPyFxTizxW5LdznZdjY7V6oMHpump",
+      "label": "meow",
+      "verdict": "kill",
+      "reason": "liq $92",
+      "link": "https://fomo.family/coin?address=2RiDuuuNrPgzhBhTPyFxTizxW5LdznZdjY7V6oMHpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:57:58.482838Z",
       "mint": "2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump",
       "label": "Unstable Solana Coin",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $10.6K",
       "link": "https://fomo.family/coin?address=HWA17ggpNtLaxCe5b9r3gzg9FcV5KAGk2A2Z9UMmpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:36:55.386478Z",
-      "mint": "H9XTPGDuBmxXTPbdyS9jdrDnzVqHjyGuK5VUNNM4pump",
-      "label": "Grokvoxus",
-      "verdict": "kill",
-      "reason": "liq $11.0K",
-      "link": "https://fomo.family/coin?address=H9XTPGDuBmxXTPbdyS9jdrDnzVqHjyGuK5VUNNM4pump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:36:04.814950Z",
-      "mint": "DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump",
-      "label": "ad astra",
-      "verdict": "kill",
-      "reason": "liq $10.9K",
-      "link": "https://fomo.family/coin?address=DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
