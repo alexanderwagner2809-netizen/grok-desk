@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-14T22:04:43.809554Z",
+  "ts": "2026-11-14T22:05:53.670540Z",
   "mint": "Gihv5NHU8iyN5Us1RqzDpjDCKxChrnAFHR32Sp9Mpump",
-  "name": null,
-  "symbol": null,
-  "label": "Gihv5NHU",
+  "name": "Super Inu Abundance",
+  "symbol": "SIA",
+  "label": "Super Inu Abundance",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-14T22:04:17.223857Z",
-  "pool": null,
+  "pool": "ooo6RBkQgd54GVZ2sRw19iDpnJ1Dd68FkvHgBRBjkbM",
   "creator": "ApxL4fWTjuaPxsWxoezKz5JBeRjki82PcwdDxQKVYpmv",
   "holders": null,
   "link": "https://fomo.family/coin?address=Gihv5NHU8iyN5Us1RqzDpjDCKxChrnAFHR32Sp9Mpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.951e-05,
+  "priceTs": "2026-11-14T22:05:53.397154Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794693840,
+      "o": 2.732e-05,
+      "h": 2.732e-05,
+      "l": 2.732e-05,
+      "c": 2.732e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794693900,
+      "o": 2.951e-05,
+      "h": 2.951e-05,
+      "l": 2.951e-05,
+      "c": 2.951e-05,
+      "v": 13252.019999999999
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 29471.0,
+    "liquidity": 10835.95,
+    "volume24h": 16754.51,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-14T22:04:48.246460Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -5.46,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
 }

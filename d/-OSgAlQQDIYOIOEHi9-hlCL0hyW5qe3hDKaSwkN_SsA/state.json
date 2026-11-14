@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-14T22:04:42.392234Z",
+  "ts": "2026-11-14T22:05:53.663579Z",
   "mode": "PAPER",
   "balance": 200.0,
   "startStack": 200.0,
@@ -12,13 +12,29 @@
       "name": "scanner",
       "color": "#64d2ff",
       "ok": true,
-      "heartbeat": "2026-11-14T22:04:41.978068Z",
+      "heartbeat": "2026-11-14T22:05:53.185616Z",
       "paused": false,
       "status": "running",
-      "card": "611 pools",
-      "count": 611,
+      "card": "613 pools",
+      "count": 613,
       "passed": 0,
       "feed": [
+        {
+          "mint": "yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump",
+          "label": "WildCatCoin",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump&chainId=1399811149&r=savipww&source=share_link"
+        },
+        {
+          "mint": "Gihv5NHU8iyN5Us1RqzDpjDCKxChrnAFHR32Sp9Mpump",
+          "label": "Super Inu Abundance",
+          "verdict": "kill",
+          "reason": "liq $0",
+          "subtitle": "liq $0",
+          "link": "https://fomo.family/coin?address=Gihv5NHU8iyN5Us1RqzDpjDCKxChrnAFHR32Sp9Mpump&chainId=1399811149&r=savipww&source=share_link"
+        },
         {
           "mint": "BJmS21NiRkG8cNZyarYadZrqH1VxCqAs1T3iCpm6pump",
           "label": "CATECOIN",
@@ -66,22 +82,6 @@
           "reason": "liq $0",
           "subtitle": "liq $0",
           "link": "https://fomo.family/coin?address=AJfKTj4gkMFWFaBdVrcHVrsNGauuGYo3Z2eJCnqZpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump",
-          "label": "The Singularity",
-          "verdict": "kill",
-          "reason": "liq $11.3K",
-          "subtitle": "liq $11.3K",
-          "link": "https://fomo.family/coin?address=B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump&chainId=1399811149&r=savipww&source=share_link"
-        },
-        {
-          "mint": "CTQZnA76UPRd1TQUywN2Ympy2RU7BhZAvtahmsaTbonk",
-          "label": "CTQZnA76",
-          "verdict": "kill",
-          "reason": "never qualified",
-          "subtitle": "never qualified",
-          "link": "https://fomo.family/coin?address=CTQZnA76UPRd1TQUywN2Ympy2RU7BhZAvtahmsaTbonk&chainId=1399811149&r=savipww&source=share_link"
         }
       ],
       "empty": null
@@ -90,7 +90,7 @@
       "name": "auditor",
       "color": "#ffffff",
       "ok": true,
-      "heartbeat": "2026-11-14T22:04:42.296637Z",
+      "heartbeat": "2026-11-14T22:05:52.394588Z",
       "paused": false,
       "status": "running",
       "card": "0 taken apart",
@@ -104,7 +104,7 @@
       "name": "analyst",
       "color": "#ffd60a",
       "ok": true,
-      "heartbeat": "2026-11-14T22:04:42.297551Z",
+      "heartbeat": "2026-11-14T22:05:52.396644Z",
       "paused": false,
       "status": "running",
       "card": "Scoring",
@@ -117,7 +117,7 @@
       "name": "executor",
       "color": "#00d35a",
       "ok": true,
-      "heartbeat": "2026-11-14T22:04:42.297875Z",
+      "heartbeat": "2026-11-14T22:05:52.397773Z",
       "paused": false,
       "status": "running",
       "card": "0 trades",
@@ -129,7 +129,7 @@
       "name": "risk",
       "color": "#ff6b9a",
       "ok": true,
-      "heartbeat": "2026-11-14T22:04:38.695783Z",
+      "heartbeat": "2026-11-14T22:05:38.708585Z",
       "paused": false,
       "status": "running",
       "card": "Guarding",

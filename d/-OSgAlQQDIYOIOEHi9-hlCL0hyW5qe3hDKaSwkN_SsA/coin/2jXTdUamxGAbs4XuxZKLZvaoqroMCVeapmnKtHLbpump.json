@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-14T22:04:42.404553Z",
+  "ts": "2026-11-14T22:05:53.673983Z",
   "mint": "2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump",
   "name": "Unstable Solana Coin",
   "symbol": "USSC",
   "label": "Unstable Solana Coin",
   "chain": "Solana",
-  "age": "7m old",
+  "age": "8m old",
   "migratedAt": "2026-11-14T21:57:26.238572Z",
   "pool": "FQpffS2oJ7ZR8i6G4fHgkM3fvmuWzAKAstWZw2j9BuFJ",
   "creator": "72saGZuvu3bpXLyjKSqjQtYD2HCMB4oif5dUaQjeSTg9",
   "holders": null,
   "link": "https://fomo.family/coin?address=2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 1.357e-05,
-  "priceTs": "2026-11-14T22:04:42.125895Z",
+  "price": 1.733e-05,
+  "priceTs": "2026-11-14T22:05:53.397154Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -72,12 +72,20 @@
       "l": 1.357e-05,
       "c": 1.357e-05,
       "v": 0.0
+    },
+    {
+      "t": 1794693900,
+      "o": 1.733e-05,
+      "h": 1.733e-05,
+      "l": 1.733e-05,
+      "c": 1.733e-05,
+      "v": 0.0
     }
   ],
   "stats": {
-    "marketCap": 13553.0,
-    "liquidity": 6978.51,
-    "volume24h": 24399.65,
+    "marketCap": 17306.0,
+    "liquidity": 8249.34,
+    "volume24h": 26035.78,
     "holders": null
   },
   "position": null,

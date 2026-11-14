@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-14T22:05:53.669570Z",
+  "mint": "yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump",
+  "name": "WildCatCoin",
+  "symbol": "WILDCAT",
+  "label": "WildCatCoin",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-14T22:05:07.879812Z",
+  "pool": "5C9tS42SbPkurtDAkgiS9GDz76ZuMcGJ4dux2o9nbGD3",
+  "creator": "71uWd2dcpgdwmc3VD4w15ppG8hkFPWjEeDwTEcGwWSW4",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 3.003e-05,
+  "priceTs": "2026-11-14T22:05:53.397154Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794693900,
+      "o": 3.003e-05,
+      "h": 3.003e-05,
+      "l": 3.003e-05,
+      "c": 3.003e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 29998.0,
+    "liquidity": 10905.32,
+    "volume24h": 145.31,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-14T22:05:38.827922Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": 4.17,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}

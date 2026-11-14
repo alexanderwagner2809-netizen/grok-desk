@@ -1,16 +1,32 @@
 {
-  "ts": "2026-11-14T22:04:44.010543Z",
+  "ts": "2026-11-14T22:05:55.395273Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T22:04:41.978068Z",
+  "heartbeat": "2026-11-14T22:05:53.185616Z",
   "paused": false,
   "status": "running",
-  "card": "611 pools",
-  "count": 611,
+  "card": "613 pools",
+  "count": 613,
   "passed": 0,
   "feed": [
+    {
+      "mint": "yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump",
+      "label": "WildCatCoin",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "mint": "Gihv5NHU8iyN5Us1RqzDpjDCKxChrnAFHR32Sp9Mpump",
+      "label": "Super Inu Abundance",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=Gihv5NHU8iyN5Us1RqzDpjDCKxChrnAFHR32Sp9Mpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "BJmS21NiRkG8cNZyarYadZrqH1VxCqAs1T3iCpm6pump",
       "label": "CATECOIN",
@@ -58,27 +74,27 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=AJfKTj4gkMFWFaBdVrcHVrsNGauuGYo3Z2eJCnqZpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump",
-      "label": "The Singularity",
-      "verdict": "kill",
-      "reason": "liq $11.3K",
-      "subtitle": "liq $11.3K",
-      "link": "https://fomo.family/coin?address=B654aCqf5Gdx8iEhtinUAJV2WNAhnDWw2wbVfySKpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "CTQZnA76UPRd1TQUywN2Ympy2RU7BhZAvtahmsaTbonk",
-      "label": "CTQZnA76",
-      "verdict": "kill",
-      "reason": "never qualified",
-      "subtitle": "never qualified",
-      "link": "https://fomo.family/coin?address=CTQZnA76UPRd1TQUywN2Ympy2RU7BhZAvtahmsaTbonk&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T22:05:38.827922Z",
+      "mint": "yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump",
+      "label": "WildCatCoin",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T22:04:48.246460Z",
+      "mint": "Gihv5NHU8iyN5Us1RqzDpjDCKxChrnAFHR32Sp9Mpump",
+      "label": "Super Inu Abundance",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=Gihv5NHU8iyN5Us1RqzDpjDCKxChrnAFHR32Sp9Mpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T22:04:03.162713Z",
       "mint": "BJmS21NiRkG8cNZyarYadZrqH1VxCqAs1T3iCpm6pump",
       "label": "CATECOIN",
@@ -221,26 +237,26 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=DoxPhTrWWBLFecQNew1dqLNgzrbA1mLFg9cG7aMVpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:41:18.495098Z",
-      "mint": "A3JUqWEvV93RfUMBYvj6vV181P5BAGqsBCQAZoEfpump",
-      "label": "TornadoCash",
-      "verdict": "kill",
-      "reason": "liq $10.8K",
-      "link": "https://fomo.family/coin?address=A3JUqWEvV93RfUMBYvj6vV181P5BAGqsBCQAZoEfpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:40:46.264842Z",
-      "mint": "BAH4ahPBKB5GNWNNDCY77WhahoHZgzbioMjF9V4Dpump",
-      "label": "CATECOIN",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=BAH4ahPBKB5GNWNNDCY77WhahoHZgzbioMjF9V4Dpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T22:05:38.827922Z",
+      "mint": "yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump",
+      "label": "WildCatCoin",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
+      "ts": "2026-11-14T22:04:48.246460Z",
+      "mint": "Gihv5NHU8iyN5Us1RqzDpjDCKxChrnAFHR32Sp9Mpump",
+      "label": "Super Inu Abundance",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=Gihv5NHU8iyN5Us1RqzDpjDCKxChrnAFHR32Sp9Mpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T22:04:03.162713Z",
       "mint": "BJmS21NiRkG8cNZyarYadZrqH1VxCqAs1T3iCpm6pump",
       "label": "CATECOIN",
@@ -383,22 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=DoxPhTrWWBLFecQNew1dqLNgzrbA1mLFg9cG7aMVpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:41:18.495098Z",
-      "mint": "A3JUqWEvV93RfUMBYvj6vV181P5BAGqsBCQAZoEfpump",
-      "label": "TornadoCash",
-      "verdict": "kill",
-      "reason": "liq $10.8K",
-      "link": "https://fomo.family/coin?address=A3JUqWEvV93RfUMBYvj6vV181P5BAGqsBCQAZoEfpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:40:46.264842Z",
-      "mint": "BAH4ahPBKB5GNWNNDCY77WhahoHZgzbioMjF9V4Dpump",
-      "label": "CATECOIN",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=BAH4ahPBKB5GNWNNDCY77WhahoHZgzbioMjF9V4Dpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
