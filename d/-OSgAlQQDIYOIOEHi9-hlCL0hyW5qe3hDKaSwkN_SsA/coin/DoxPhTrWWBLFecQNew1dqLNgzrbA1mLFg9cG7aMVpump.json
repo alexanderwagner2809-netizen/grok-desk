@@ -1,0 +1,48 @@
+{
+  "ts": "2026-11-14T21:43:16.057386Z",
+  "mint": "DoxPhTrWWBLFecQNew1dqLNgzrbA1mLFg9cG7aMVpump",
+  "name": "Operation Tornado",
+  "symbol": "TORNADO",
+  "label": "Operation Tornado",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-14T21:42:41.646480Z",
+  "pool": "BDoXHGDkNoPssY1WwnGH7boXignRaSU14dUA3Dc3hJ9i",
+  "creator": "EKDdb6QQDMj2xvRWA1KfdzV2zxJnraRx8jR34LoRPFhM",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=DoxPhTrWWBLFecQNew1dqLNgzrbA1mLFg9cG7aMVpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 2.59e-05,
+  "priceTs": "2026-11-14T21:43:15.754214Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794692580,
+      "o": 2.59e-05,
+      "h": 2.59e-05,
+      "l": 2.59e-05,
+      "c": 2.59e-05,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 25870.0,
+    "liquidity": 0.0,
+    "volume24h": 3432.19,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-14T21:43:12.603100Z",
+      "liquidity_usd": 0.0,
+      "top10_pct": null,
+      "h1_change_pct": -11.18,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $0"
+    }
+  ]
+}

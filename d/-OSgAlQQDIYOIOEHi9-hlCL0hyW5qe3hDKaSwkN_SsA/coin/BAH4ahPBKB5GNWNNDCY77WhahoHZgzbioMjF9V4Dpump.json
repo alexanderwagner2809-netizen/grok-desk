@@ -1,18 +1,18 @@
 {
-  "ts": "2026-11-14T21:42:04.538398Z",
+  "ts": "2026-11-14T21:43:16.058704Z",
   "mint": "BAH4ahPBKB5GNWNNDCY77WhahoHZgzbioMjF9V4Dpump",
   "name": "CATECOIN",
   "symbol": "$CAT",
   "label": "CATECOIN",
   "chain": "Solana",
-  "age": "1m old",
+  "age": "3m old",
   "migratedAt": "2026-11-14T21:40:07.636436Z",
   "pool": "5Ru16qnKEYGTRv6ozy2HnSmqFvaWuEgXxcucvXyGW4FK",
   "creator": "5GYwSSiBCiBx73bD1Nh9be4eMPZPTZSDuCtXFcHSpcKa",
   "holders": null,
   "link": "https://fomo.family/coin?address=BAH4ahPBKB5GNWNNDCY77WhahoHZgzbioMjF9V4Dpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": 3.81e-10,
-  "priceTs": "2026-11-14T21:42:04.274040Z",
+  "price": 4.447e-10,
+  "priceTs": "2026-11-14T21:43:15.754214Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -32,12 +32,20 @@
       "l": 3.81e-10,
       "c": 3.81e-10,
       "v": 22.489999999999995
+    },
+    {
+      "t": 1794692580,
+      "o": 4.447e-10,
+      "h": 4.447e-10,
+      "l": 4.447e-10,
+      "c": 4.447e-10,
+      "v": 0.14000000000000057
     }
   ],
   "stats": {
     "marketCap": 1.0,
-    "liquidity": 1.43,
-    "volume24h": 65.02,
+    "liquidity": 1.55,
+    "volume24h": 65.16,
     "holders": null
   },
   "position": null,
