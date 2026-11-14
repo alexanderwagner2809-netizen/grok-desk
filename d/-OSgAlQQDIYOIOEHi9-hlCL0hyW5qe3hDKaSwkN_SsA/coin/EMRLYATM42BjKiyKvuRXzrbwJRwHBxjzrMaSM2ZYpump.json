@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-14T21:53:58.116452Z",
+  "mint": "EMRLYATM42BjKiyKvuRXzrbwJRwHBxjzrMaSM2ZYpump",
+  "name": "Upcat",
+  "symbol": "Miko",
+  "label": "Upcat",
+  "chain": "Solana",
+  "age": "0m old",
+  "migratedAt": "2026-11-14T21:52:59.101382Z",
+  "pool": "CaZf192JKMUYgownngardqUM3WhJSRdnATLU12VVQtkN",
+  "creator": "8Q5FeHX6XWpjTKDDJT5728UumytrcdSmw5Dpvupjc6Fs",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=EMRLYATM42BjKiyKvuRXzrbwJRwHBxjzrMaSM2ZYpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 6.82e-07,
+  "priceTs": "2026-11-14T21:53:57.845201Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1794693120,
+      "o": 6.82e-07,
+      "h": 6.82e-07,
+      "l": 6.82e-07,
+      "c": 6.82e-07,
+      "v": 0.0
+    },
+    {
+      "t": 1794693180,
+      "o": 6.82e-07,
+      "h": 6.82e-07,
+      "l": 6.82e-07,
+      "c": 6.82e-07,
+      "v": 0.0
+    }
+  ],
+  "stats": {
+    "marketCap": 667.0,
+    "liquidity": 271.23,
+    "volume24h": 24589.36,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-14T21:52:59.394356Z",
+      "liquidity_usd": 271.23,
+      "top10_pct": null,
+      "h1_change_pct": 16.7,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $271"
+    }
+  ]
+}
