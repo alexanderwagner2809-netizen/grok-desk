@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-14T22:05:55.395273Z",
+  "ts": "2026-11-14T22:07:07.383669Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T22:05:53.185616Z",
+  "heartbeat": "2026-11-14T22:07:04.734732Z",
   "paused": false,
   "status": "running",
-  "card": "613 pools",
-  "count": 613,
+  "card": "614 pools",
+  "count": 614,
   "passed": 0,
   "feed": [
+    {
+      "mint": "DHTdHT78Jq3Scy8bPCU3Gi7uWhuJvnRKYQnYsfZtpump",
+      "label": "50th Anniversary of Peanuts",
+      "verdict": "kill",
+      "reason": "liq $1.6K",
+      "subtitle": "liq $1.6K",
+      "link": "https://fomo.family/coin?address=DHTdHT78Jq3Scy8bPCU3Gi7uWhuJvnRKYQnYsfZtpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump",
       "label": "WildCatCoin",
@@ -66,19 +74,19 @@
       "reason": "liq $0",
       "subtitle": "liq $0",
       "link": "https://fomo.family/coin?address=2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "AJfKTj4gkMFWFaBdVrcHVrsNGauuGYo3Z2eJCnqZpump",
-      "label": "SeekEmploymentEducationTraining",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "subtitle": "liq $0",
-      "link": "https://fomo.family/coin?address=AJfKTj4gkMFWFaBdVrcHVrsNGauuGYo3Z2eJCnqZpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T22:06:08.504913Z",
+      "mint": "DHTdHT78Jq3Scy8bPCU3Gi7uWhuJvnRKYQnYsfZtpump",
+      "label": "50th Anniversary of Peanuts",
+      "verdict": "kill",
+      "reason": "liq $1.6K",
+      "link": "https://fomo.family/coin?address=DHTdHT78Jq3Scy8bPCU3Gi7uWhuJvnRKYQnYsfZtpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T22:05:38.827922Z",
       "mint": "yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump",
       "label": "WildCatCoin",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=HP3NPg5dTRctvXRA6raKSzQ1fr5cpkorgQGacd6GpXw&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:43:12.603100Z",
-      "mint": "DoxPhTrWWBLFecQNew1dqLNgzrbA1mLFg9cG7aMVpump",
-      "label": "Operation Tornado",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=DoxPhTrWWBLFecQNew1dqLNgzrbA1mLFg9cG7aMVpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T22:06:08.504913Z",
+      "mint": "DHTdHT78Jq3Scy8bPCU3Gi7uWhuJvnRKYQnYsfZtpump",
+      "label": "50th Anniversary of Peanuts",
+      "verdict": "kill",
+      "reason": "liq $1.6K",
+      "link": "https://fomo.family/coin?address=DHTdHT78Jq3Scy8bPCU3Gi7uWhuJvnRKYQnYsfZtpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T22:05:38.827922Z",
       "mint": "yciFtCqpMKiWdmpUkmyXzEU9WmiMk5zRz1QTzPcpump",
       "label": "WildCatCoin",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $0",
       "link": "https://fomo.family/coin?address=HP3NPg5dTRctvXRA6raKSzQ1fr5cpkorgQGacd6GpXw&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:43:12.603100Z",
-      "mint": "DoxPhTrWWBLFecQNew1dqLNgzrbA1mLFg9cG7aMVpump",
-      "label": "Operation Tornado",
-      "verdict": "kill",
-      "reason": "liq $0",
-      "link": "https://fomo.family/coin?address=DoxPhTrWWBLFecQNew1dqLNgzrbA1mLFg9cG7aMVpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
