@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-14T21:18:12.626181Z",
+  "ts": "2026-11-14T21:19:23.449280Z",
   "mint": "AjPoaVhU5WdZhZzR6jbxjHD3CUZMqic51BDiVmXHpump",
-  "name": null,
-  "symbol": null,
-  "label": "AjPoaVhU",
+  "name": "Mikol",
+  "symbol": "Mikol",
+  "label": "Mikol",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-14T21:18:00.850950Z",
-  "pool": null,
+  "pool": "8z4u4LeTFwutGPwoVRmoAhcNsyP2nqGimLpnTkT94eDv",
   "creator": "3wGnhVooZB3QVCJ9BEVtgo3ToPpMeJtmcMXN8wZjtqQF",
   "holders": null,
   "link": "https://fomo.family/coin?address=AjPoaVhU5WdZhZzR6jbxjHD3CUZMqic51BDiVmXHpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 3.894e-05,
+  "priceTs": "2026-11-14T21:19:23.186142Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1794691080,
+      "o": 3.945e-05,
+      "h": 3.945e-05,
+      "l": 3.945e-05,
+      "c": 3.945e-05,
+      "v": 0.0
+    },
+    {
+      "t": 1794691140,
+      "o": 3.894e-05,
+      "h": 3.894e-05,
+      "l": 3.894e-05,
+      "c": 3.894e-05,
+      "v": 3716.82
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 38893.0,
+    "liquidity": 12670.13,
+    "volume24h": 5794.92,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-14T21:18:58.557124Z",
+      "liquidity_usd": 12718.6,
+      "top10_pct": null,
+      "h1_change_pct": 36.02,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $12.7K"
+    }
+  ]
 }
