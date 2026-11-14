@@ -1,16 +1,24 @@
 {
-  "ts": "2026-11-14T21:57:33.954944Z",
+  "ts": "2026-11-14T21:58:45.493136Z",
   "agent": "scanner",
   "name": "scanner",
   "color": "#64d2ff",
   "ok": true,
-  "heartbeat": "2026-11-14T21:57:31.707983Z",
+  "heartbeat": "2026-11-14T21:58:43.650224Z",
   "paused": false,
   "status": "running",
-  "card": "606 pools",
-  "count": 606,
+  "card": "607 pools",
+  "count": 607,
   "passed": 0,
   "feed": [
+    {
+      "mint": "2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump",
+      "label": "Unstable Solana Coin",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "subtitle": "liq $0",
+      "link": "https://fomo.family/coin?address=2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump&chainId=1399811149&r=savipww&source=share_link"
+    },
     {
       "mint": "AJfKTj4gkMFWFaBdVrcHVrsNGauuGYo3Z2eJCnqZpump",
       "label": "SeekEmploymentEducationTraining",
@@ -66,19 +74,19 @@
       "reason": "liq $33",
       "subtitle": "liq $33",
       "link": "https://fomo.family/coin?address=BAVovVYUrjsfhaZPkcrkwp6uSXh18P31VrHEwzWbpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "mint": "DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump",
-      "label": "USPR",
-      "verdict": "kill",
-      "reason": "+345452% in 1h",
-      "subtitle": "+345452% in 1h",
-      "link": "https://fomo.family/coin?address=DFev755KT1b6nkfAFNj1fyRQMwoVzNywsSBEBamepump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "empty": null,
   "recent": [
     {
+      "ts": "2026-11-14T21:57:58.482838Z",
+      "mint": "2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump",
+      "label": "Unstable Solana Coin",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:57:26.565941Z",
       "mint": "AJfKTj4gkMFWFaBdVrcHVrsNGauuGYo3Z2eJCnqZpump",
       "label": "SeekEmploymentEducationTraining",
@@ -229,18 +237,18 @@
       "verdict": "kill",
       "reason": "liq $10.9K",
       "link": "https://fomo.family/coin?address=DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:36:04.812936Z",
-      "mint": "5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump",
-      "label": "Reaching Wiener Dog",
-      "verdict": "kill",
-      "reason": "liq $10.0K",
-      "link": "https://fomo.family/coin?address=5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ],
   "decisions": [
     {
+      "ts": "2026-11-14T21:57:58.482838Z",
+      "mint": "2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump",
+      "label": "Unstable Solana Coin",
+      "verdict": "kill",
+      "reason": "liq $0",
+      "link": "https://fomo.family/coin?address=2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump&chainId=1399811149&r=savipww&source=share_link"
+    },
+    {
       "ts": "2026-11-14T21:57:26.565941Z",
       "mint": "AJfKTj4gkMFWFaBdVrcHVrsNGauuGYo3Z2eJCnqZpump",
       "label": "SeekEmploymentEducationTraining",
@@ -391,14 +399,6 @@
       "verdict": "kill",
       "reason": "liq $10.9K",
       "link": "https://fomo.family/coin?address=DhxDvtBdzaZKG7xQP46xkcSU37zS6qCo5KucCncqpump&chainId=1399811149&r=savipww&source=share_link"
-    },
-    {
-      "ts": "2026-11-14T21:36:04.812936Z",
-      "mint": "5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump",
-      "label": "Reaching Wiener Dog",
-      "verdict": "kill",
-      "reason": "liq $10.0K",
-      "link": "https://fomo.family/coin?address=5HZvoq6WxD9W1HZsssjYpm3bdDbHHQUdgcyokN1kpump&chainId=1399811149&r=savipww&source=share_link"
     }
   ]
 }
