@@ -1,0 +1,56 @@
+{
+  "ts": "2026-11-19T18:56:07.865855Z",
+  "mint": "EPNy2zvT8hs4yaYZVmtFEtcBkiZf1WGJFYE6K6AMpump",
+  "name": "DacityCat",
+  "symbol": "DCTYCAT",
+  "label": "DacityCat",
+  "chain": "Solana",
+  "age": "1m old",
+  "migratedAt": "2026-11-19T18:55:04.090601Z",
+  "pool": "FMs6iHei8osfXaCqEk5Z5TzS6Q8TEJrsJSjXdSc2CbEC",
+  "creator": "5tk19Rav9kaksnwPXv3nZTwinheQFNq2NMtkXHnjNrzr",
+  "holders": null,
+  "link": "https://fomo.family/coin?address=EPNy2zvT8hs4yaYZVmtFEtcBkiZf1WGJFYE6K6AMpump&chainId=1399811149&r=savipww&source=share_link",
+  "price": 0.00013,
+  "priceTs": "2026-11-19T18:56:07.585359Z",
+  "sinceEntryPct": null,
+  "shield": null,
+  "hasAudit": false,
+  "candles": [
+    {
+      "t": 1795114500,
+      "o": 0.0001307,
+      "h": 0.0001307,
+      "l": 0.0001307,
+      "c": 0.0001307,
+      "v": 0.0
+    },
+    {
+      "t": 1795114560,
+      "o": 0.00013,
+      "h": 0.00013,
+      "l": 0.00013,
+      "c": 0.00013,
+      "v": 43.789999999999964
+    }
+  ],
+  "stats": {
+    "marketCap": 129987.0,
+    "liquidity": 24813.08,
+    "volume24h": 6746.01,
+    "holders": null
+  },
+  "position": null,
+  "exitLines": null,
+  "scans": [
+    {
+      "ts": "2026-11-19T18:55:35.165518Z",
+      "liquidity_usd": 24882.99,
+      "top10_pct": null,
+      "h1_change_pct": 256.0,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "+256% in 1h"
+    }
+  ]
+}

@@ -1,29 +1,56 @@
 {
-  "ts": "2026-11-19T18:54:58.112698Z",
+  "ts": "2026-11-19T18:56:07.866670Z",
   "mint": "EydgzKjzHPugQBwV76Xwtvsh6YKgAic57vCvLNgvpump",
-  "name": null,
-  "symbol": null,
-  "label": "EydgzKjz",
+  "name": "Suits",
+  "symbol": "SOOTS",
+  "label": "Suits",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-19T18:54:45.302400Z",
-  "pool": null,
+  "pool": "2xEuCM8UDx3omfmd7g5w9Xi4gRvVx5ysioXvno97VPxo",
   "creator": "BwzbrUAaZywYRsCYdZLb6SB2mkRpm1MniSeaXwt11J8i",
   "holders": null,
   "link": "https://fomo.family/coin?address=EydgzKjzHPugQBwV76Xwtvsh6YKgAic57vCvLNgvpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.817e-08,
+  "priceTs": "2026-11-19T18:56:07.585359Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1795114500,
+      "o": 3.816e-07,
+      "h": 3.816e-07,
+      "l": 3.816e-07,
+      "c": 3.816e-07,
+      "v": 0.0
+    },
+    {
+      "t": 1795114560,
+      "o": 1.817e-08,
+      "h": 1.817e-08,
+      "l": 1.817e-08,
+      "c": 1.817e-08,
+      "v": 726.7
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 36.0,
+    "liquidity": 37.36,
+    "volume24h": 2000.42,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-19T18:55:35.163226Z",
+      "liquidity_usd": 134.82,
+      "top10_pct": null,
+      "h1_change_pct": 47.58,
+      "age_min": 0,
+      "verdict": "kill",
+      "reason": "liq $135"
+    }
+  ]
 }
