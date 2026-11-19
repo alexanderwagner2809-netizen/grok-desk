@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-19T18:53:46.823691Z",
+  "ts": "2026-11-19T18:54:57.039259Z",
   "mint": "Me6fgDznuoLVURFQrmYqtjD91M45yt2m3kNWvZxpump",
-  "name": null,
-  "symbol": null,
-  "label": "Me6fgDzn",
+  "name": "ufo",
+  "symbol": "ufo",
+  "label": "ufo",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-19T18:53:15.626104Z",
-  "pool": null,
+  "pool": "E5M7zK9ML5RSNZU2Cvm5LuGXb7EcjqeJkJ9Jb2DYJAL1",
   "creator": "DYLACrF6Sa25XeGbzjsKvDkPixyyvjFb23ibF92EfAz7",
   "holders": null,
   "link": "https://fomo.family/coin?address=Me6fgDznuoLVURFQrmYqtjD91M45yt2m3kNWvZxpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 2.807e-05,
+  "priceTs": "2026-11-19T18:54:56.696838Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1795114440,
+      "o": 3.318e-05,
+      "h": 3.318e-05,
+      "l": 2.807e-05,
+      "c": 2.807e-05,
+      "v": 4861.84
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 28027.0,
+    "liquidity": 10819.05,
+    "volume24h": 10682.0,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-19T18:54:16.755611Z",
+      "liquidity_usd": 11863.33,
+      "top10_pct": null,
+      "h1_change_pct": 7.71,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $11.9K"
+    }
+  ]
 }

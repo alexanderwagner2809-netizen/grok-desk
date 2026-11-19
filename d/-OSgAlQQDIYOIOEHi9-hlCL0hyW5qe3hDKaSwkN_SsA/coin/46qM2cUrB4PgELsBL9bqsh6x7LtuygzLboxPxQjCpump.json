@@ -1,29 +1,48 @@
 {
-  "ts": "2026-11-19T18:53:45.899713Z",
+  "ts": "2026-11-19T18:54:57.040054Z",
   "mint": "46qM2cUrB4PgELsBL9bqsh6x7LtuygzLboxPxQjCpump",
-  "name": null,
-  "symbol": null,
-  "label": "46qM2cUr",
+  "name": "MONEYY",
+  "symbol": "MONY",
+  "label": "MONEYY",
   "chain": "Solana",
-  "age": "0m old",
+  "age": "1m old",
   "migratedAt": "2026-11-19T18:53:09.868604Z",
-  "pool": null,
+  "pool": "4mxdW9cFr2PXnuTtgzGUCxNCy1q8rCJ11WSAiLEeeKdS",
   "creator": "8AQQnFNdHjd3K1Dq8n7dJLeG9wvVnk8z9pKhJ4ZqNrgQ",
   "holders": null,
   "link": "https://fomo.family/coin?address=46qM2cUrB4PgELsBL9bqsh6x7LtuygzLboxPxQjCpump&chainId=1399811149&r=savipww&source=share_link",
-  "price": null,
-  "priceTs": null,
+  "price": 1.95e-09,
+  "priceTs": "2026-11-19T18:54:56.696838Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
-  "candles": [],
+  "candles": [
+    {
+      "t": 1795114440,
+      "o": 1.95e-09,
+      "h": 1.95e-09,
+      "l": 1.95e-09,
+      "c": 1.95e-09,
+      "v": 0.0
+    }
+  ],
   "stats": {
-    "marketCap": null,
-    "liquidity": null,
-    "volume24h": null,
+    "marketCap": 4.0,
+    "liquidity": 5.26,
+    "volume24h": 39.73,
     "holders": null
   },
   "position": null,
   "exitLines": null,
-  "scans": []
+  "scans": [
+    {
+      "ts": "2026-11-19T18:54:16.752119Z",
+      "liquidity_usd": 5.26,
+      "top10_pct": null,
+      "h1_change_pct": -97.58,
+      "age_min": 1,
+      "verdict": "kill",
+      "reason": "liq $5"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-19T18:53:45.697554Z",
+  "ts": "2026-11-19T18:54:57.085973Z",
   "mint": "EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt",
   "name": "Cult",
   "symbol": "CULT",
@@ -11,8 +11,8 @@
   "creator": "HpcU9jgwvRsTDTmbEYa1ZUUYWvN68HAqM3NENjm3fJXY",
   "holders": null,
   "link": "https://fomo.family/coin?address=EDNud65UFwMxP3TWGWvq1GTL8Qnd2aX3aU5aJtdsCuLt&chainId=1399811149&r=savipww&source=share_link",
-  "price": 2.306e-06,
-  "priceTs": "2026-11-19T18:53:45.476066Z",
+  "price": 2.26e-06,
+  "priceTs": "2026-11-19T18:54:56.863953Z",
   "sinceEntryPct": null,
   "shield": null,
   "hasAudit": false,
@@ -504,12 +504,20 @@
       "l": 2.306e-06,
       "c": 2.306e-06,
       "v": 0.28
+    },
+    {
+      "t": 1795114440,
+      "o": 2.26e-06,
+      "h": 2.26e-06,
+      "l": 2.26e-06,
+      "c": 2.26e-06,
+      "v": 0.16999999999999998
     }
   ],
   "stats": {
-    "marketCap": 2213.0,
-    "liquidity": 2435.55,
-    "volume24h": 9.01,
+    "marketCap": 2168.0,
+    "liquidity": 2397.74,
+    "volume24h": 9.17,
     "holders": null
   },
   "position": null,
